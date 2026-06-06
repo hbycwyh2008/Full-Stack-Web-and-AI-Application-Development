@@ -1,0 +1,10 @@
+# Secrets — never commit real keys
+.env
+
+# Node / Next.js
+node_modules
+.next
+
+# Python
+__pycache__
+.pytest_cache

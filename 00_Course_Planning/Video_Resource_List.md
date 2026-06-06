@@ -150,18 +150,20 @@ These are **optional** math and machine learning foundation resources. They help
 - **Portfolio Reflection:** Describe what "rate of change" means using a real-life example.
 
 **Linear Algebra Is Not Hard**
-- **Link:** _Placeholder: add the specific course/playlist link your school uses._
+- **Link:** _Teacher to add verified link._
 - **Purpose:** A friendly, step-by-step introduction to linear algebra concepts.
 - **Recommended Level:** Students who want a slower, clearer path through linear algebra.
 - **How It Connects:** Reinforces the same vector and matrix ideas used in AI data representation.
 - **Portfolio Reflection:** Note one concept that finally "clicked" for you and how.
 
 **Bilibili Companion Videos for "Linear Algebra Is Not Hard"**
-- **Link:** _Placeholder: add the Bilibili playlist link._
+- **Link:** _Teacher to add verified link._
 - **Purpose:** Chinese-language companion videos for the same linear algebra topics.
 - **Recommended Level:** Students who learn better with Chinese-language explanations.
 - **How It Connects:** Same as above — supports vector/matrix intuition for AI.
 - **Portfolio Reflection:** Summarize one video in 3 sentences in your own words.
+
+> Teacher note: Add the exact book link and Bilibili playlist link after verifying the official or most reliable source. Do not give students unverified links.
 
 ### Machine Learning Foundation
 

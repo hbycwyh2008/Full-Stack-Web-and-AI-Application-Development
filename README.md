@@ -6,6 +6,18 @@ A portfolio-first course where students learn to build full-stack web applicatio
 
 ---
 
+## Start Here
+
+1. Read `00_Course_Planning/Course_Overview.md`
+2. Check `00_Course_Planning/Course_Pacing_Guide.md`
+3. Start Phase 0 with `00_AI_Literacy/AI_Literacy_Overview.md`
+4. Use `01_Student_Templates/` for portfolio, GitHub, README, project submission, and reflection templates
+5. Use `04_Lesson_Materials/` to teach the course phase by phase
+6. Use `03_Final_Project/Teacher_Demo_Cursor_Prompt.md` to understand the teacher demo design
+7. Use `06_Starter_Code/teacher-demo-ai-school-assistant/` after the teacher demo starter code is created
+
+---
+
 ## Course Focus
 
 This course teaches students to move from **AI literacy** to real full-stack AI application development. Students learn to:

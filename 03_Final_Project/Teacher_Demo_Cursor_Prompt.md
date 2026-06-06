@@ -90,3 +90,11 @@ Review this checklist before using it in class:
 - Show the placeholder `generate_answer()` and ask: "Where would the real AI call go?"
 - Connect back to Phase 0: the assistant uses a document and names its source — responsible, honest AI.
 - Use this demo as the model for the Phase 8 Cursor Capstone.
+
+## Generated Demo Location
+
+After running this prompt, the starter demo should live in:
+
+`06_Starter_Code/teacher-demo-ai-school-assistant/`
+
+Teachers should review the code before using it in class.

@@ -124,3 +124,52 @@ Next.js Server Actions  →  FastAPI endpoints
 PostgreSQL / Drizzle    →  MongoDB / PostgreSQL (via FastAPI)
 Kanban demo project     →  Smaller Phase 3 mini app or simplified feature
 ```
+
+---
+
+## Optional Foundation Resources
+
+These are **optional** math and machine learning foundation resources. They help students understand AI, ML, RAG, and future deep learning concepts, but they are **not required** before starting the course, and they do **not** change the main learning flow. Pick based on interest and time — you do not need all of them.
+
+### Math Visualization Foundation
+
+> These help you *see* the math behind AI. You do not need them to build the app, but they make later deep learning ideas much easier.
+
+**3Blue1Brown — Essence of Linear Algebra**
+- **Link:** https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+- **Purpose:** Build visual intuition for vectors, matrices, and transformations.
+- **Recommended Level:** Curious students, or anyone interested in how AI represents data.
+- **How It Connects:** Vectors and embeddings power how AI compares text in RAG systems.
+- **Portfolio Reflection:** Explain in your own words what a vector is and why AI uses them.
+
+**3Blue1Brown — Essence of Calculus**
+- **Link:** https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+- **Purpose:** Build visual intuition for derivatives, rates of change, and integrals.
+- **Recommended Level:** Students with strong math interest.
+- **How It Connects:** Calculus is the math behind how AI models learn (training and optimization).
+- **Portfolio Reflection:** Describe what "rate of change" means using a real-life example.
+
+**Linear Algebra Is Not Hard**
+- **Link:** _Placeholder: add the specific course/playlist link your school uses._
+- **Purpose:** A friendly, step-by-step introduction to linear algebra concepts.
+- **Recommended Level:** Students who want a slower, clearer path through linear algebra.
+- **How It Connects:** Reinforces the same vector and matrix ideas used in AI data representation.
+- **Portfolio Reflection:** Note one concept that finally "clicked" for you and how.
+
+**Bilibili Companion Videos for "Linear Algebra Is Not Hard"**
+- **Link:** _Placeholder: add the Bilibili playlist link._
+- **Purpose:** Chinese-language companion videos for the same linear algebra topics.
+- **Recommended Level:** Students who learn better with Chinese-language explanations.
+- **How It Connects:** Same as above — supports vector/matrix intuition for AI.
+- **Portfolio Reflection:** Summarize one video in 3 sentences in your own words.
+
+### Machine Learning Foundation
+
+**StatQuest — A Gentle Introduction to Machine Learning**
+- **Link:** https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+- **Purpose:** Clear, friendly explanations of core machine learning ideas.
+- **Recommended Level:** Students curious about how AI models actually learn.
+- **How It Connects:** Helps you understand the "learning" behind the AI tools you use, deepening Phase 0 and Phase 6.
+- **Portfolio Reflection:** Explain one ML idea (like training data) using a school example.
+
+> **Teacher note:** 这些是可选拓展资源，不是必修前置。Offer these as enrichment for fast finishers or curious students. Do not block any phase on them. Add real links for the placeholder items based on what your school uses.

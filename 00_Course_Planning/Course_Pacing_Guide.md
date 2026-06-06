@@ -78,6 +78,21 @@ These are the "must-pass" milestones. Students who miss a checkpoint need extra 
 
 ---
 
+## Teacher Demo Placement
+
+Show the teacher demo to make the architecture concrete before students build their own version.
+
+- **Teacher Demo Walkthrough lesson:** `04_Lesson_Materials/Teacher_Demo_Walkthrough.md` — deliver during **Phase 6–8**, ideally right after Phase 6 and **before** the Phase 8 Cursor Capstone.
+- **Teacher Demo Starter Code:** `06_Starter_Code/teacher-demo-ai-school-assistant/` — the small FastAPI + Next.js demo to run live.
+- **Local Testing Guide:** `06_Starter_Code/teacher-demo-ai-school-assistant/TESTING.md` — run these checks before class.
+
+| Plan | When to run the walkthrough |
+|---|---|
+| 16-week | Week 10 (after Phase 6), revisit in Weeks 13–14 (Phase 8) |
+| 8-week | Week 6 (after Phase 6), revisit in Week 7 (Phase 8) |
+
+---
+
 ## Homework / Independent Study Principles
 
 - Each week should have **one clear deliverable**, not many small tasks.

@@ -50,6 +50,7 @@ Open http://localhost:3000. Make sure the backend is running first.
 ## 7. What Is Still a Placeholder
 - `generate_answer()` in `backend/main.py` does **not** call a real LLM. It returns a simple grounded response based on the matched handbook section.
 - The retrieval function is a simple word-overlap search, not a real vector search.
+- `python-dotenv` is included in `backend/requirements.txt` for the later real-LLM version (so it can read a key from `.env`), but the **current demo does not call a real LLM**.
 
 ## 8. Where a Real LLM API Call Would Go Later
 Inside `generate_answer()` in `backend/main.py`. The `TODO` comment marks the exact spot. In the full project, this function would build a prompt from the question and retrieved context, call an LLM API (using a key from `.env`), and return the model's answer.
@@ -66,3 +67,14 @@ This demo is the skeleton of the final project. The final version adds a real LL
 ## Security
 - `.env.example` shows the variable name only. Copy it to `.env` locally and never commit `.env`.
 - `.gitignore` already ignores `.env`, `node_modules`, `.next`, `__pycache__`, and `.pytest_cache`.
+
+## Troubleshooting
+
+### Frontend cannot connect to backend
+Make sure FastAPI is running at `http://localhost:8000`.
+
+### CORS error
+Check that the backend allows `http://localhost:3000`.
+
+### Empty or irrelevant answer
+Try asking about late homework, exam review, AI usage, or project submission.

@@ -34,6 +34,8 @@ This course teaches students to move from **AI literacy** to real full-stack AI 
 
 Students start by understanding AI — then they build with it.
 
+This course is **portfolio-first**: AI Literacy comes first, **FastAPI** is the backend path, and **Cursor is an accelerator — not a replacement for understanding**. The final project is the **AI School Assistant**.
+
 ---
 
 ## Target Architecture

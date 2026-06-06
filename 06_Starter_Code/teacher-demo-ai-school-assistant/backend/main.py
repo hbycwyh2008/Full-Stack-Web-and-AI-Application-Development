@@ -55,6 +55,26 @@ def load_handbook() -> str:
     return HANDBOOK_PATH.read_text(encoding="utf-8")
 
 
+def normalize_words(text: str) -> set[str]:
+    """
+    Turn a piece of text into a clean set of words for matching.
+
+    Steps:
+    - lowercase every word
+    - strip common punctuation (so "policy?" matches "policy")
+    - ignore very short words (2 letters or fewer)
+
+    This keeps both the question and the document sections normalized the same
+    way, so they compare fairly. No external NLP libraries are used.
+    """
+    words = set()
+    for word in text.split():
+        cleaned = word.lower().strip(".,!?;:\"'()")
+        if len(cleaned) > 2:
+            words.add(cleaned)
+    return words
+
+
 def retrieve_context(question: str, handbook: str) -> tuple[str, str]:
     """
     A very simple retrieval function.
@@ -67,7 +87,8 @@ def retrieve_context(question: str, handbook: str) -> tuple[str, str]:
     """
     sections = [s.strip() for s in handbook.split("\n\n") if s.strip()]
 
-    question_words = {word.lower() for word in question.split() if len(word) > 2}
+    # Normalize the question words once, using the shared helper.
+    question_words = normalize_words(question)
 
     best_section = ""
     best_title = ""
@@ -77,7 +98,7 @@ def retrieve_context(question: str, handbook: str) -> tuple[str, str]:
         # The first line of each section is treated as its title/heading.
         lines = section.split("\n")
         title = lines[0].strip()
-        section_words = {word.lower().strip(".,!?") for word in section.split()}
+        section_words = normalize_words(section)
 
         # Score = how many question words appear in this section.
         score = len(question_words & section_words)

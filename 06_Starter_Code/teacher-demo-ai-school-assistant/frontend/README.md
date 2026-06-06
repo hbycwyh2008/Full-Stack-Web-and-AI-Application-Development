@@ -17,7 +17,7 @@ npm run dev
 
 Then open http://localhost:3000
 
-> The backend must be running first (see the backend README). The frontend calls the **FastAPI** backend, not Next.js API routes.
+> The backend must be running first (see `../backend/README.md`). The frontend calls the **FastAPI** backend, not Next.js API routes.
 
 ## Key Files
 - `app/page.js` — the main page and the fetch request to the backend.

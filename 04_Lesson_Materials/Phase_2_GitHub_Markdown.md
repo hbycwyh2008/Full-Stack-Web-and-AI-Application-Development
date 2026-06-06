@@ -1,30 +1,28 @@
 # Phase 2: GitHub + Markdown
 
 ## Phase Goal
-Students learn version control and professional documentation by creating their first GitHub repository with a complete README.
+Learn version control and professional documentation by creating your first GitHub repository with a complete README.
 
-## Lesson Objectives
-- Understand repositories, commits, and the basic Git workflow.
-- Write clean Markdown.
-- Create and push a first repository with a README.
+## Key Concepts
+- Repositories, commits, and the basic Git workflow.
+- Markdown syntax: headings, lists, links, images, code blocks.
+- Why clear commit messages and documentation matter.
 
-## Required Tools
-- GitHub account
-- Git (or GitHub Desktop)
-- Markdown editor (Cursor works well)
+## Required Student Output
+- A public GitHub repository.
+- A `README.md` written using `01_Student_Templates/Project_README_Template.md`.
+- A GitHub profile README using `01_Student_Templates/GitHub_Profile_README_Template.md`.
 
-## Student Tasks
+## Suggested Class Activities
 - Complete the GitHub Skills "Introduction to GitHub" activity.
-- Create a new repository.
-- Write a `README.md` using `01_Student_Templates/README_Template.md`.
-- Commit and push the README to GitHub.
+- Live demo: create → commit → push, including signing in with a token.
+- Markdown practice race: format a sample document correctly.
 
-## Teacher Notes
-> 强调提交信息要清晰。Emphasize clear commit messages. Demonstrate the create → commit → push flow live, including authentication with a personal access token.
+## AI Lens Connection
+Good documentation is how you prove understanding. Later, your README's AI Usage section shows what you built versus what AI generated.
 
-## Exit Ticket
-- Share your repository URL.
-- Explain what a commit is in one sentence.
-
-## Submission Requirement
-- A public GitHub repo containing a README that follows the template.
+## Submission Checklist
+- [ ] Public repo created.
+- [ ] Project README follows the template.
+- [ ] Profile README published.
+- [ ] At least three meaningful commits.

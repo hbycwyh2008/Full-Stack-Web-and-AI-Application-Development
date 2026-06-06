@@ -1,31 +1,27 @@
 # Phase 3: Cursor Quick Win
 
 ## Phase Goal
-Students get a fast, visible AI-assisted result to build confidence with Cursor.
+Get a fast, visible AI-assisted result to build confidence with Cursor.
 
-## Lesson Objectives
-- Install and set up Cursor.
-- Use Cursor to generate a small web page or mini app.
-- Read and lightly modify AI-generated code.
+## Key Concepts
+- What Cursor is and how AI-assisted coding works.
+- Reading and lightly modifying AI-generated code.
+- The difference between accepting code and understanding code.
 
-## Required Tools
-- Cursor
-- A browser
+## Required Student Output
+- A small AI-assisted web page or mini app.
+- At least one manual change you made to the generated code.
+- A short AI usage reflection.
 
-## Recommended Resources
-- **Optional:** `00_Course_Planning/Video_Resource_List.md` — Resource #9, *Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App* (Cursor intro and first AI-assisted build).
+## Suggested Class Activities
+- Guided build: everyone makes the same small page with Cursor, then customizes it.
+- "Explain this line" challenge: students point to a line and explain what it does.
+- Optional: explore Resource #9 (Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App).
 
-## Student Tasks
-- Build a small AI-assisted web page or mini app (e.g., a simple interactive page).
-- Make at least one manual change to the generated code.
-- Write a short AI usage reflection using `01_Student_Templates/AI_Usage_Reflection_Template.md`.
+## AI Lens Connection
+This is the first hands-on test of the Phase 0 rule: AI helps, but you must understand and test what you submit. Reflect on what you accepted blindly versus what you understood.
 
-## Teacher Notes
-> 这个阶段的重点是建立信心，而不是复杂功能。The focus here is confidence, not complexity. Stress that students must read and understand what Cursor generates, not just accept it. Resource #9 is a good optional intro, but remind students that our main backend is FastAPI, not Next.js Server Actions.
-
-## Exit Ticket
-- Show your working mini app.
-- Name one thing AI generated and one thing you changed.
-
-## Submission Requirement
-- A working mini app + a short AI usage reflection.
+## Submission Checklist
+- [ ] Working mini app.
+- [ ] One documented manual change.
+- [ ] AI usage reflection completed.

@@ -1,29 +1,28 @@
 # Phase 8: Cursor Capstone
 
 ## Phase Goal
-Students use an AI-assisted full-stack development workflow with Cursor to build toward the AI School Assistant final project.
+Use an AI-assisted full-stack workflow with Cursor to build a real feature toward the AI School Assistant.
 
-## Lesson Objectives
-- Use the Cursor workflow effectively (planning, generating, reviewing).
-- Apply Cursor Rules and AI-assisted debugging.
-- Review and verify AI-generated code.
+## Key Concepts
+- The Cursor workflow: plan, generate, review, test.
+- Cursor Rules and AI-assisted debugging.
+- Reviewing and verifying AI-generated code before keeping it.
 
-## Required Tools
-- Cursor
-- Next.js + FastAPI project
-- An LLM API key
+## Required Student Output
+- An AI-assisted full-stack feature (for example, an `/ask` endpoint or a chat UI).
+- Evidence of using Cursor to debug at least one issue.
+- An AI usage reflection.
 
-## Student Tasks
-- Implement an AI-assisted full-stack feature (a step toward the AI School Assistant, e.g., `/ask` endpoint or chat UI).
-- Use Cursor to debug at least one issue.
-- Write an AI usage reflection using `01_Student_Templates/AI_Usage_Reflection_Template.md`.
+## Suggested Class Activities
+- Plan a feature together, then build it with Cursor and review the output.
+- "Trust but verify": find one thing Cursor got wrong and fix it.
+- Share debugging strategies that worked.
 
-## Teacher Notes
-> 我们学习 Cursor 工作流，而不是某个课程里的 Supabase 架构。We study the Cursor workflow, not the Supabase architecture from the reference course. Map Supabase concepts to FastAPI/MongoDB as needed. Stress that students must understand the code they ship. Reference Phase 0 Responsible AI Checklist when integrating the LLM.
+## AI Lens Connection
+This phase puts Phase 0 responsibility into practice: students guide the AI, verify its output, and stay accountable for the code. Reference the Responsible AI Checklist when wiring up the LLM.
 
-## Exit Ticket
-- Show a feature you built with Cursor.
-- Describe one bug you fixed and how.
-
-## Submission Requirement
-- An AI-assisted feature + AI usage reflection.
+## Submission Checklist
+- [ ] Working AI-assisted feature.
+- [ ] Documented bug fix using Cursor.
+- [ ] AI usage reflection completed.
+- [ ] Code committed to GitHub.

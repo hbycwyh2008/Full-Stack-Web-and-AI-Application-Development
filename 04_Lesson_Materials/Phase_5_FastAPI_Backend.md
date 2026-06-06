@@ -1,30 +1,28 @@
 # Phase 5: FastAPI Backend
 
 ## Phase Goal
-Students build a backend API service with FastAPI.
+Build a backend API service using FastAPI.
 
-## Lesson Objectives
-- Create FastAPI routes and REST endpoints.
-- Use Pydantic schemas for request/response validation.
-- Handle basic data and errors.
+## Key Concepts
+- FastAPI routes and REST endpoints.
+- Pydantic schemas for request and response validation.
+- Basic data handling and error responses.
 
-## Required Tools
-- Python
-- FastAPI
-- Cursor / code editor
+## Required Student Output
+- A simple API service with at least one working endpoint.
+- A Pydantic schema for the request/response.
+- The project pushed to GitHub with documented endpoints.
 
-## Student Tasks
-- Build a simple API service with at least one working endpoint.
-- Define a Pydantic schema for the request/response.
-- Test the endpoint (e.g., via the FastAPI docs UI).
-- Push the project to GitHub with a README documenting the endpoints.
+## Suggested Class Activities
+- Build a "hello" endpoint together, then test it in the `/docs` page.
+- Design an endpoint on paper before coding it.
+- Trade APIs with a partner and test each other's endpoints.
 
-## Teacher Notes
-> 展示 FastAPI 自动生成的 /docs 页面，方便学生测试。Show the auto-generated `/docs` page so students can test endpoints easily. Emphasize keeping secrets out of the repo.
+## AI Lens Connection
+This backend is where the AI School Assistant will later call the LLM. Emphasize keeping API keys out of the repo — a Responsible AI / security habit from Phase 0.
 
-## Exit Ticket
-- Show one endpoint responding in `/docs`.
-- Explain what an API endpoint does.
-
-## Submission Requirement
-- A running FastAPI service + documented endpoints in the README.
+## Submission Checklist
+- [ ] Running FastAPI service.
+- [ ] At least one endpoint with a Pydantic schema.
+- [ ] Endpoint tested in `/docs`.
+- [ ] GitHub repo with documented endpoints.

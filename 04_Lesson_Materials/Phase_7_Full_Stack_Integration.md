@@ -1,29 +1,28 @@
 # Phase 7: Full-Stack Integration
 
 ## Phase Goal
-Students connect a Next.js frontend to a FastAPI backend.
+Connect a Next.js frontend to a FastAPI backend so data flows end to end.
 
-## Lesson Objectives
-- Send HTTP requests from the frontend to the backend.
-- Handle CORS.
-- Trace the request/response flow and handle errors.
+## Key Concepts
+- Sending HTTP requests from the frontend to the backend.
+- CORS and why it is needed.
+- Handling loading and error states.
 
-## Required Tools
-- Next.js frontend (from Phase 4)
-- FastAPI backend (from Phase 5)
+## Required Student Output
+- A Next.js frontend connected to a FastAPI endpoint.
+- Backend data displayed in the frontend, with loading and error states.
+- The integrated project pushed to GitHub with a README explaining the data flow.
 
-## Student Tasks
-- Connect the frontend to a backend endpoint.
-- Display backend data in the frontend.
-- Handle a loading and an error state.
-- Push the integrated project to GitHub with a README that explains the data flow.
+## Suggested Class Activities
+- Trace one request together from button click to response.
+- Debug a deliberately broken CORS setup as a class.
+- Draw the full request/response path before coding.
 
-## Teacher Notes
-> CORS 是常见的拦路虎，提前准备好示例配置。CORS is a common blocker — prepare an example config in advance. Have students draw the data flow before coding. Connect this phase to Phase 6 RAG concepts when adding the `/ask` endpoint later.
+## AI Lens Connection
+This is the skeleton the AI School Assistant will use: the frontend sends a question, the backend answers. In Phase 8 you add the LLM and document retrieval from Phase 6.
 
-## Exit Ticket
-- Show data moving from backend to frontend.
-- Trace one request from input to response.
-
-## Submission Requirement
-- A working full-stack demo + an architecture/data-flow explanation in the README.
+## Submission Checklist
+- [ ] Frontend successfully calls the backend.
+- [ ] Loading and error states handled.
+- [ ] Data flow explained in the README.
+- [ ] GitHub repo updated.

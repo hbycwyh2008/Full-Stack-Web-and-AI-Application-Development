@@ -1,30 +1,28 @@
 # Phase 4: Next.js Frontend
 
 ## Phase Goal
-Students build a frontend application with Next.js / React.
+Build a frontend application using Next.js and React.
 
-## Lesson Objectives
-- Understand React components and props.
-- Use the Next.js App Router with pages and layouts.
-- Build forms and fetch data.
+## Key Concepts
+- React components and props.
+- Next.js App Router: pages and layouts.
+- Forms, basic state, and fetching data.
 
-## Required Tools
-- Node.js
-- Next.js
-- Cursor / code editor
+## Required Student Output
+- A student project gallery or course resource website.
+- Multiple pages sharing a layout, plus one form or interactive component.
+- The project pushed to GitHub with a README.
 
-## Student Tasks
-- Build a student project gallery or course resource website.
-- Create multiple pages with a shared layout.
-- Add at least one form or interactive component.
-- Push the project to GitHub with a README.
+## Suggested Class Activities
+- Build a single reusable component together (e.g., a project card).
+- Sketch page layouts on paper before coding.
+- Peer review: open each other's running sites and give one improvement.
 
-## Teacher Notes
-> 提醒：Next.js 的 API Routes 不是本课程的主要后端，后端用 FastAPI。Reminder: Next.js API Routes / Server Actions are not the main backend path — FastAPI is. Keep frontend and backend concerns separate.
+## AI Lens Connection
+Reminder: Next.js API Routes / Server Actions are not our main backend — FastAPI is. Keep frontend and backend separate so the AI School Assistant architecture stays clear.
 
-## Exit Ticket
-- Show your running frontend.
-- Explain what a component is.
-
-## Submission Requirement
-- A runnable Next.js frontend + GitHub repo with README.
+## Submission Checklist
+- [ ] Runnable Next.js frontend.
+- [ ] At least two pages with a shared layout.
+- [ ] One form or interactive component.
+- [ ] GitHub repo with README.

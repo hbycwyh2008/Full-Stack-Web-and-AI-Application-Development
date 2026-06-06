@@ -44,9 +44,17 @@ Clear demo; student can explain architecture, data flow, and decisions.
 ## Key Assessment Questions
 
 ```text
+Can the student explain what AI and generative AI are, and what they cannot do?
+Can the student apply responsible AI ideas to the AI School Assistant?
 Can the student explain the architecture?
-Can the student explain the data flow?
+Can the student explain the data flow (including RAG)?
 Can the student debug basic issues?
 Can the student document the project clearly?
 Can the student distinguish AI-generated code from their own decisions?
 ```
+
+## Phase 0 Evidence (AI Literacy Foundation)
+
+- Study notes from AI for Everyone and Generative AI for Everyone
+- Responses to AI Lens Discussion Prompts
+- Completed Responsible AI Checklist (`00_AI_Literacy/Responsible_AI_Checklist.md`)

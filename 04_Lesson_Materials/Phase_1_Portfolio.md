@@ -1,4 +1,4 @@
-# Phase 0: Notion Portfolio
+# Phase 1: Notion Portfolio
 
 ## Phase Goal
 Students build a public-facing portfolio website in Notion and start a documentation habit.
@@ -14,7 +14,8 @@ Students build a public-facing portfolio website in Notion and start a documenta
 ## Student Tasks
 - Create a Notion portfolio using `01_Student_Templates/Student_Portfolio_Template.md`.
 - Add sections: Home, About Me, Projects, Skills, Certificates, Learning Notes, GitHub / Contact.
-- Add at least one draft project page.
+- Add your Phase 0 AI literacy notes to **Learning Notes**.
+- Add at least one draft project page for the AI School Assistant.
 - Publish and copy the public link.
 
 ## Teacher Notes

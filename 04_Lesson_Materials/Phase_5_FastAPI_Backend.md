@@ -1,4 +1,4 @@
-# Phase 4: FastAPI Backend
+# Phase 5: FastAPI Backend
 
 ## Phase Goal
 Students build a backend API service with FastAPI.

@@ -1,4 +1,4 @@
-# Phase 2: Cursor Quick Win
+# Phase 3: Cursor Quick Win
 
 ## Phase Goal
 Students get a fast, visible AI-assisted result to build confidence with Cursor.

@@ -1,21 +1,33 @@
 # Learning Pathway Map
 
-The course is organized into eight phases. Students should not begin with full-stack Cursor coding — they first need portfolio infrastructure and documentation habits.
+The course is organized into ten phases. Students begin with **AI literacy**, then build portfolio and documentation habits, then move into application engineering.
 
 ```text
-Phase 0: Notion Portfolio
-Phase 1: GitHub + Markdown
-Phase 2: Cursor Quick Win
-Phase 3: Next.js Frontend
-Phase 4: FastAPI Backend
-Phase 5: Full-Stack Integration
-Phase 6: Cursor Capstone
-Phase 7: Final Showcase
+Phase 0: AI Literacy Foundation
+Phase 1: Notion Portfolio
+Phase 2: GitHub + Markdown
+Phase 3: Cursor Quick Win
+Phase 4: Next.js Frontend
+Phase 5: FastAPI Backend
+Phase 6: AI API + RAG Concepts
+Phase 7: Full-Stack Integration
+Phase 8: Cursor Capstone
+Phase 9: Final Showcase
 ```
 
 ---
 
-## Phase 0: Notion Portfolio
+## Phase 0: AI Literacy Foundation
+
+- **Focus:** Understand what AI and generative AI are, what they can and cannot do, and how to use them responsibly.
+- **Student Output:** Study notes, AI Lens discussion responses, completed Responsible AI Checklist.
+- **Core Skills:** AI vocabulary, limitations, prompt basics, responsible AI judgment.
+- **Suggested Assessment Evidence:** Portfolio learning notes + completed checklist tied to AI School Assistant.
+- **Resources:** `00_AI_Literacy/` — AI for Everyone, Generative AI for Everyone.
+
+---
+
+## Phase 1: Notion Portfolio
 
 - **Focus:** Build a public-facing portfolio and documentation habit.
 - **Student Output:** Personal CS/AI portfolio website in Notion.
@@ -24,7 +36,7 @@ Phase 7: Final Showcase
 
 ---
 
-## Phase 1: GitHub + Markdown
+## Phase 2: GitHub + Markdown
 
 - **Focus:** Version control and professional project documentation.
 - **Student Output:** First GitHub repository with a complete `README.md`.
@@ -33,7 +45,7 @@ Phase 7: Final Showcase
 
 ---
 
-## Phase 2: Cursor Quick Win
+## Phase 3: Cursor Quick Win
 
 - **Focus:** Get a fast, visible AI-assisted result to build confidence.
 - **Student Output:** Small AI-assisted web page or mini app.
@@ -42,7 +54,7 @@ Phase 7: Final Showcase
 
 ---
 
-## Phase 3: Next.js Frontend
+## Phase 4: Next.js Frontend
 
 - **Focus:** Frontend application development.
 - **Student Output:** Student project gallery or course resource website.
@@ -51,7 +63,7 @@ Phase 7: Final Showcase
 
 ---
 
-## Phase 4: FastAPI Backend
+## Phase 5: FastAPI Backend
 
 - **Focus:** Backend API development.
 - **Student Output:** Simple API service.
@@ -60,7 +72,16 @@ Phase 7: Final Showcase
 
 ---
 
-## Phase 5: Full-Stack Integration
+## Phase 6: AI API + RAG Concepts
+
+- **Focus:** Understand how LLM APIs and retrieval-augmented generation connect to the final project.
+- **Student Output:** Concept map or written explanation of the AI School Assistant data flow; sample prompt design.
+- **Core Skills:** LLM API basics, document retrieval, RAG workflow, source-based answers.
+- **Suggested Assessment Evidence:** Architecture diagram + sample prompt + connection to Phase 0 Responsible AI Checklist.
+
+---
+
+## Phase 7: Full-Stack Integration
 
 - **Focus:** Connecting frontend and backend.
 - **Student Output:** Next.js frontend connected to a FastAPI backend.
@@ -69,18 +90,18 @@ Phase 7: Final Showcase
 
 ---
 
-## Phase 6: Cursor Capstone
+## Phase 8: Cursor Capstone
 
-- **Focus:** AI-assisted full-stack development workflow.
-- **Student Output:** AI-assisted full-stack feature or project.
+- **Focus:** AI-assisted full-stack development workflow toward the final project.
+- **Student Output:** AI-assisted full-stack feature or project milestone.
 - **Core Skills:** Cursor workflow, Cursor Rules, AI-assisted debugging, code review.
 - **Suggested Assessment Evidence:** Feature implementation + AI usage reflection.
 
 ---
 
-## Phase 7: Final Showcase
+## Phase 9: Final Showcase
 
-- **Focus:** Deliver and present the capstone.
+- **Focus:** Deliver and present the AI School Assistant capstone.
 - **Student Output:** AI School Assistant + portfolio submission.
-- **Core Skills:** Integration, documentation, testing, presentation.
-- **Suggested Assessment Evidence:** Live demo, GitHub repo, README, Notion portfolio page.
+- **Core Skills:** Integration, documentation, testing, presentation, responsible AI in practice.
+- **Suggested Assessment Evidence:** Live demo, GitHub repo, README, Notion portfolio page, Responsible AI Checklist.

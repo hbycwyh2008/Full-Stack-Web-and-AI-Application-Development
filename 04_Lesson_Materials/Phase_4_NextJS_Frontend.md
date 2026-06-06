@@ -1,4 +1,4 @@
-# Phase 3: Next.js Frontend
+# Phase 4: Next.js Frontend
 
 ## Phase Goal
 Students build a frontend application with Next.js / React.

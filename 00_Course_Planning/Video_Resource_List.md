@@ -4,11 +4,29 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 ---
 
+## AI Literacy Foundation (Phase 0)
+
+### A1. AI for Everyone — Andrew Ng / DeepLearning.AI
+
+- **Link:** https://www.deeplearning.ai/courses/ai-for-everyone
+- **Purpose:** Non-technical introduction to AI — what it is, what it can and cannot do, and how it affects society.
+- **How to use in this course:** Required foundation for Phase 0. Use with `00_AI_Literacy/AI_for_Everyone_Study_Guide.md`.
+- **Status:** Required (Phase 0)
+
+### A2. Generative AI for Everyone — Andrew Ng / DeepLearning.AI
+
+- **Link:** https://www.deeplearning.ai/courses/generative-ai-for-everyone
+- **Purpose:** How generative AI works, prompt engineering basics, workplace and project use, responsible AI.
+- **How to use in this course:** Required foundation for Phase 0. Use with `00_AI_Literacy/Generative_AI_for_Everyone_Study_Guide.md`. Connects directly to LLM API and RAG phases.
+- **Status:** Required (Phase 0)
+
+---
+
 ## 1. How to Build a Professional Portfolio Website in Notion
 
 - **Link:** https://www.youtube.com/watch?v=kFxfh8urobU
 - **Purpose:** Build the first student portfolio website with sections for projects, skills, certificates, and notes.
-- **How to use in this course:** Student-facing main tutorial for Phase 0 (Notion Portfolio).
+- **How to use in this course:** Student-facing main tutorial for Phase 1 (Notion Portfolio).
 - **Status:** Required
 
 ---
@@ -17,7 +35,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://www.youtube.com/watch?v=HUBNt18RFbo
 - **Purpose:** Teach README.md syntax — headings, lists, links, images, code blocks.
-- **How to use in this course:** Phase 1 reference before writing the first README.
+- **How to use in this course:** Phase 2 reference before writing the first README.
 - **Status:** Required
 
 ---
@@ -26,7 +44,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://github.com/skills/introduction-to-github
 - **Purpose:** Interactive practice for repositories, branches, commits, pull requests, and profile README.
-- **How to use in this course:** Hands-on Phase 1 lab activity.
+- **How to use in this course:** Hands-on Phase 2 lab activity.
 - **Status:** Required
 
 ---
@@ -35,7 +53,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://www.youtube.com/watch?v=RGOj5yH7evk
 - **Purpose:** Explain the Git and GitHub workflow and version control at a beginner level.
-- **How to use in this course:** Phase 1 conceptual background.
+- **How to use in this course:** Phase 2 conceptual background.
 - **Status:** Optional
 
 ---
@@ -44,7 +62,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://www.udemy.com/course/nextjs-react-the-complete-guide/
 - **Purpose:** React components, Next.js App Router, pages/layouts, forms, frontend state, data fetching, calling backend APIs.
-- **How to use in this course:** Main frontend course for Phase 3. Next.js API Routes / Server Actions are **not** the main backend path — FastAPI is.
+- **How to use in this course:** Main frontend course for Phase 4. Next.js API Routes / Server Actions are **not** the main backend path — FastAPI is.
 - **Status:** Required (main frontend course)
 
 ---
@@ -53,7 +71,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://www.udemy.com/course/fastapi-the-complete-course/
 - **Purpose:** FastAPI routes, REST APIs, Pydantic schemas, database integration, authentication, testing, deployment.
-- **How to use in this course:** Main backend course for Phase 4.
+- **How to use in this course:** Main backend course for Phase 5.
 - **Status:** Required (main backend course)
 
 ---
@@ -62,7 +80,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/
 - **Purpose:** Direct Next.js + FastAPI + MongoDB workflow; how the frontend talks to the backend and how the backend connects to the database.
-- **How to use in this course:** Bridge course for Phase 5 — not the main frontend or backend course.
+- **How to use in this course:** Bridge course for Phase 7 — not the main frontend or backend course.
 - **Status:** Optional (bridge)
 
 ---
@@ -71,7 +89,7 @@ Curated resources for each phase of the course. "Required" resources support cor
 
 - **Link:** https://www.udemy.com/course/cursor-ai-mcp-nextjs-supabase/
 - **Purpose:** Cursor workflow, Task Master, Cursor Rules, MCP / GitHub MCP, AI-assisted debugging and development.
-- **How to use in this course:** Phase 6 Cursor workflow reference. The course uses Supabase; we study the **Cursor workflow**, not the exact Supabase architecture.
+- **How to use in this course:** Phase 8 Cursor workflow reference. The course uses Supabase; we study the **Cursor workflow**, not the exact Supabase architecture.
 - **Status:** Optional
 
 ### Migration Notes (Supabase → Our Stack)
@@ -88,8 +106,8 @@ Supabase auth            →  FastAPI auth / JWT
 
 - **Link:** https://www.udemy.com/course/cursorai-nextjs/
 - **Purpose:** Cursor basics, effective prompting, AI-assisted debugging, validating AI-generated code, and building a Next.js 15 Kanban board with shadcn/ui.
-- **How to use in this course:** Optional intro for Phase 2 (Cursor Quick Win). Use for Cursor setup and first AI-assisted build — **not** as the main backend path. The course uses Next.js Server Actions and PostgreSQL; our main backend is FastAPI.
-- **Status:** Optional (Phase 2 Cursor intro)
+- **How to use in this course:** Optional intro for Phase 3 (Cursor Quick Win). Use for Cursor setup and first AI-assisted build — **not** as the main backend path. The course uses Next.js Server Actions and PostgreSQL; our main backend is FastAPI.
+- **Status:** Optional (Phase 3 Cursor intro)
 
 ### Important Notes for Teachers
 
@@ -104,5 +122,5 @@ Use this resource for Cursor workflow confidence, not for final project architec
 ```text
 Next.js Server Actions  →  FastAPI endpoints
 PostgreSQL / Drizzle    →  MongoDB / PostgreSQL (via FastAPI)
-Kanban demo project     →  Smaller Phase 2 mini app or simplified feature
+Kanban demo project     →  Smaller Phase 3 mini app or simplified feature
 ```

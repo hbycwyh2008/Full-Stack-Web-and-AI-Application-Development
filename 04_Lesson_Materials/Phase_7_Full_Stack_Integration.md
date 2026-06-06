@@ -1,4 +1,4 @@
-# Phase 5: Full-Stack Integration
+# Phase 7: Full-Stack Integration
 
 ## Phase Goal
 Students connect a Next.js frontend to a FastAPI backend.
@@ -9,8 +9,8 @@ Students connect a Next.js frontend to a FastAPI backend.
 - Trace the request/response flow and handle errors.
 
 ## Required Tools
-- Next.js frontend (from Phase 3)
-- FastAPI backend (from Phase 4)
+- Next.js frontend (from Phase 4)
+- FastAPI backend (from Phase 5)
 
 ## Student Tasks
 - Connect the frontend to a backend endpoint.
@@ -19,7 +19,7 @@ Students connect a Next.js frontend to a FastAPI backend.
 - Push the integrated project to GitHub with a README that explains the data flow.
 
 ## Teacher Notes
-> CORS 是常见的拦路虎，提前准备好示例配置。CORS is a common blocker — prepare an example config in advance. Have students draw the data flow before coding.
+> CORS 是常见的拦路虎，提前准备好示例配置。CORS is a common blocker — prepare an example config in advance. Have students draw the data flow before coding. Connect this phase to Phase 6 RAG concepts when adding the `/ask` endpoint later.
 
 ## Exit Ticket
 - Show data moving from backend to frontend.

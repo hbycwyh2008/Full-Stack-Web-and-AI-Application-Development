@@ -1,4 +1,4 @@
-# Phase 1: GitHub + Markdown
+# Phase 2: GitHub + Markdown
 
 ## Phase Goal
 Students learn version control and professional documentation by creating their first GitHub repository with a complete README.

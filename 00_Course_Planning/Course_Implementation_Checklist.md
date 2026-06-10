@@ -19,6 +19,8 @@ A practical checklist to complete before launching the course. Adapt items to yo
 
 ## Required Teacher Demo
 - [ ] Teacher demo runs locally (`06_Starter_Code/teacher-demo-ai-school-assistant/`).
+- [ ] Full RAG app runs locally (`06_Starter_Code/ai-school-assistant/`).
+- [ ] ChromaDB running via `docker compose up -d` in `ai-school-assistant/`.
 - [ ] Backend health endpoint works (http://localhost:8000).
 - [ ] Frontend works (http://localhost:3000).
 - [ ] Completed the demo tests in `TESTING.md`.

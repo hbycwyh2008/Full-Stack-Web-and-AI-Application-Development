@@ -14,7 +14,8 @@ A portfolio-first course where students learn to build full-stack web applicatio
 4. Use `01_Student_Templates/` for portfolio, GitHub, README, project submission, and reflection templates
 5. Use `04_Lesson_Materials/` to teach the course phase by phase
 6. Use `03_Final_Project/Teacher_Demo_Cursor_Prompt.md` to understand the teacher demo design
-7. Use `06_Starter_Code/teacher-demo-ai-school-assistant/` after the teacher demo starter code is created
+7. Use `06_Starter_Code/ai-school-assistant/` for the **full RAG implementation** (Next.js + FastAPI + ChromaDB)
+8. Use `06_Starter_Code/teacher-demo-ai-school-assistant/` for the minimal teaching demo
 
 ---
 
@@ -84,7 +85,7 @@ full-stack-web-ai-application-development/
 ├── 03_Final_Project/        # AI School Assistant specs and teacher demo plan
 ├── 04_Lesson_Materials/     # Phase-by-phase lesson materials
 ├── 05_Public_Documents/     # Student, parent, and school facing overviews
-└── 06_Starter_Code/         # Starter code placeholders (frontend/backend/full-stack)
+└── 06_Starter_Code/         # Starter code (teacher demo + full RAG app)
 ```
 
 ---
@@ -93,7 +94,7 @@ full-stack-web-ai-application-development/
 
 1. Start with `00_AI_Literacy/AI_Literacy_Overview.md` — Phase 0 foundation.
 2. Review `00_Course_Planning/Course_Overview.md` and `Learning_Pathway_Map.md`.
-3. Review the `02_Assessment/` rubrics and AI usage policy, then adapt them to your school context.
+3. Review the `02_Assessment/` rubrics, **student learning expectations**, and AI usage policy, then adapt them to your school context.
 4. Use `03_Final_Project/` to plan the capstone and build a teacher demo.
 5. Hand out `01_Student_Templates/` files to students for portfolios, READMEs, and reflections.
 6. Deliver lessons phase by phase using `04_Lesson_Materials/`.
@@ -108,7 +109,7 @@ full-stack-web-ai-application-development/
 - **AI Literacy** (`00_AI_Literacy/`) — study guides, discussion prompts, and responsible AI checklist tied to the final project.
 - **Templates** (`01_Student_Templates/`) — copy into Notion, Google Docs, or each project repo.
 - **Public overviews** (`05_Public_Documents/`) — plain-language explanations for students and families.
-- **Assessment** (`02_Assessment/`) — how work is graded and how AI usage must be disclosed.
+- **Assessment** (`02_Assessment/`) — how work is graded, **learning expectations** (read code, debug, reflect), and how AI usage must be disclosed.
 
 ---
 

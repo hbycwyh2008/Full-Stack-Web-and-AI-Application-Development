@@ -45,10 +45,12 @@ FastAPI backend
         ↓
 Python AI / RAG service
         ↓
-MongoDB / Vector Store
+ChromaDB (vector store)
         ↓
 LLM API
 ```
+
+Reference implementation: `06_Starter_Code/ai-school-assistant/` (migrated from the course author's working RAG app).
 
 ---
 

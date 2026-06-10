@@ -65,6 +65,19 @@ Phase 0 AI literacy directly prepares students to build this project with accura
 
 ---
 
+## Learning Mindset (Required)
+
+Students must go beyond typing along with tutorials. The course expects every student to:
+
+- **Read and comprehend code** — trace data flow and explain major components in their own words.
+- **Debug independently** — use error messages, logs, and systematic trial before escalating for help.
+- **Think proactively** — predict behavior, ask specific questions, and connect new concepts to prior work.
+- **Reflect honestly** — document confusion, fixes, AI usage, and remaining gaps in learning journals and project reflections.
+
+See `02_Assessment/Student_Learning_Expectations.md` for habits, evidence requirements, and what is not acceptable.
+
+---
+
 ## Expected Student Outcomes
 
 - A completed AI literacy foundation with study notes and responsible AI checklist.

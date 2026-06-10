@@ -1,26 +1,27 @@
 # Starter Code: Next.js Frontend
 
-## Purpose
-Placeholder for the Next.js frontend starter code used in Phase 3 and the final project. The frontend provides the user interface for the AI School Assistant.
+The production frontend for the AI School Assistant is in **`../ai-school-assistant/frontend/`**.
 
-## Future Planned Contents
-- Next.js app scaffold (App Router).
-- A chat-style UI with question input and answer display.
-- An API client that calls the FastAPI backend.
-- Loading and error states.
+Use that project for the full chat + ingest UI. For Phase 4 exercises, students can:
 
-## Setup Notes
-> _Placeholder: add setup instructions (Node version, install, run) once the starter code is created._
+1. Study `../ai-school-assistant/frontend/app/page.js` — chat UI, file upload, API client
+2. Build a simplified version (project gallery or single-page app) before connecting to FastAPI
 
-```text
-# Example (to be finalized)
+## Run the full frontend
+
+```bash
+cd ../ai-school-assistant/frontend
 npm install
+cp .env.local.example .env.local
 npm run dev
 ```
 
-## TODO
-- [ ] Scaffold the Next.js app.
-- [ ] Build the chat UI.
-- [ ] Add the API client for the backend.
-- [ ] Add loading/error handling.
-- [ ] Document environment variables.
+Open http://localhost:3000 (requires the FastAPI backend on port 8000).
+
+## Key files
+
+| File | Purpose |
+|---|---|
+| `app/page.js` | Main UI — ingest, ask, sources |
+| `app/globals.css` | Styles |
+| `.env.local.example` | Backend URL config |

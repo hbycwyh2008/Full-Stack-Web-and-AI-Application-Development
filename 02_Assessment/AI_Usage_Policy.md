@@ -4,6 +4,10 @@ This course encourages responsible, transparent use of AI tools. AI is an accele
 
 > Core rule: AI can help generate code, but the student is responsible for understanding, testing, debugging, and presenting the project.
 
+Students must **not** treat lessons as typing-along exercises. Following steps without reading code, debugging, or reflecting is not acceptable — even if the project appears to work.
+
+See `Student_Learning_Expectations.md` in this folder for required habits and evidence.
+
 ---
 
 ## Allowed AI Use
@@ -28,6 +32,8 @@ Students may not:
 - copy-paste without testing
 - claim full authorship of AI-generated code
 - use AI to bypass learning
+- follow along typing without reading or understanding the code
+- ask for fixes without attempting to debug first (include what you tried)
 
 ---
 

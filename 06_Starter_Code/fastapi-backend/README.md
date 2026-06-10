@@ -1,28 +1,43 @@
 # Starter Code: FastAPI Backend
 
-## Purpose
-Placeholder for the FastAPI backend starter code used in Phase 4 and the final project. The backend exposes the API the frontend calls and integrates the LLM.
+The production backend for the AI School Assistant is in **`../ai-school-assistant/backend/`**.
 
-## Future Planned Contents
-- FastAPI app scaffold.
-- An `/ask` endpoint with a Pydantic request/response schema.
-- LLM API integration.
-- CORS configuration for the frontend.
-- Basic error handling.
+Use that project for the full RAG API. For Phase 5 exercises, students can:
 
-## Setup Notes
-> _Placeholder: add setup instructions (Python version, virtual env, install, run) once the starter code is created._
+1. Study `../ai-school-assistant/backend/main.py` — routes, CORS, file upload
+2. Study `../ai-school-assistant/backend/services/` — chunking, embeddings, ChromaDB, LLM
+3. Build a simpler API (one endpoint, no RAG) before the capstone
 
-```text
-# Example (to be finalized)
+## Run the full backend
+
+```bash
+cd ../ai-school-assistant
+docker compose up -d
+
+cd backend
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
-uvicorn main:app --reload
+cp ../.env.example .env
+uvicorn main:app --reload --port 8000
 ```
 
-## TODO
-- [ ] Scaffold the FastAPI app.
-- [ ] Add the `/ask` endpoint.
-- [ ] Define Pydantic schemas.
-- [ ] Integrate the LLM API (key via environment variable).
-- [ ] Configure CORS.
-- [ ] Add error handling and tests.
+API docs: http://localhost:8000/docs
+
+## Key endpoints
+
+| Method | Path | Purpose |
+|---|---|---|
+| GET | `/api/health` | Health check |
+| POST | `/api/ingest` | Upload and index handbook |
+| POST | `/api/ask` | RAG question answering |
+
+## Key services
+
+| Module | Purpose |
+|---|---|
+| `services/chunk_text.py` | Split handbook into chunks |
+| `services/embed_chunks.py` | OpenAI embeddings |
+| `services/chroma_client.py` | ChromaDB storage and query |
+| `services/retrieve_chunks.py` | Vector search |
+| `services/generate_answer.py` | LLM answer generation |

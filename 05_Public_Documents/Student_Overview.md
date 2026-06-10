@@ -42,3 +42,18 @@ Where can I find the project submission requirements?
 ```
 
 You will learn not just to use AI, but to understand and build with it — and to explain exactly what you made.
+
+---
+
+## What We Expect From You
+
+This course is **not** about following along and typing code. You are expected to become someone who:
+
+- **Reads code** — understand what files and functions do before you change them.
+- **Debugs problems** — read error messages, try fixes, and record what you tried.
+- **Thinks and asks questions** — predict outcomes, notice when something is wrong, and ask specific questions.
+- **Reflects on your learning** — write about what confused you, what you fixed, and what you still want to improve.
+
+Using Cursor or AI is allowed — but you must still understand, test, and explain your project yourself.
+
+See `02_Assessment/Student_Learning_Expectations.md` for the full expectations and habits checklist.

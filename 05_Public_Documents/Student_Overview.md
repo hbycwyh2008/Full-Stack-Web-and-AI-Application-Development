@@ -4,7 +4,7 @@
 
 In this course, you will build real web applications — not just demos. You will:
 
-- Start with **Git & GitHub** — your project archive and evidence.
+- Start with **Git & GitHub** — create your **personal portfolio repository** (not this course repo). See [Student GitHub Repository Guide](../01_Student_Templates/Student_GitHub_Repository_Guide.md).
 - Publish a **Notion portfolio** (Phase 1).
 - Build a **unified AI literacy foundation** (Phase 2).
 - Complete **AI Math Bridge** — vectors, matrices, NumPy, images as data (Phase 3).

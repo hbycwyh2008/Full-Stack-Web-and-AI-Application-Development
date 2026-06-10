@@ -26,7 +26,7 @@ Phase 2 AI literacy and Phase 3 `ai-math-bridge/` — conceptual clarity, labs, 
 Notion structure, Figma link, clear sections.
 
 ### GitHub + README quality (13%)
-Organized repo; `ai-literacy/`, `ai-math-bridge/`, project READMEs.
+Organized personal repo per `Student_GitHub_Repository_Guide.md`; root README; folder structure; commit/branch/PR history; project READMEs in `ai-literacy/`, `ai-math-bridge/`, and project folders. See `02_Assessment/Student_GitHub_Assessment.md`. Assess **organization, documentation, and evidence** — not only code.
 
 ### Frontend functionality (18%)
 Next.js + TypeScript runs; matches Figma plan.

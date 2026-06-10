@@ -7,7 +7,8 @@ Build **visual, intuitive** linear algebra foundations connected to AI, ML, and 
 - Vectors, matrices, feature vectors, dot product, transformations, X/y in ML, PCA intuition, images as matrices, basic NumPy.
 
 ## Required Student Output
-- `ai-math-bridge/` folder in `student-portfolio` (see `00_AI_Math_Bridge/AI_Math_Bridge_Overview.md`).
+- `ai-math-bridge/` folder in personal `student-portfolio` repo (see `01_Student_Templates/Student_GitHub_Repository_Guide.md`).
+- Lesson guides: `00_AI_Math_Bridge/README.md`.
 - NumPy mini lab + image matrix mini project.
 - Reflection connecting math to AI/ML/CV.
 
@@ -18,7 +19,7 @@ Build **visual, intuitive** linear algebra foundations connected to AI, ML, and 
 ## Resources
 - 3Blue1Brown — Essence of Linear Algebra (selected videos).
 - DeepLearning.AI — Linear Algebra for ML (Week 3–4 selected parts).
-- `01_Student_Templates/AI_Math_Bridge_README_Template.md`.
+- `01_Student_Templates/ai-math-bridge-README-template.md`.
 
 ---
 
@@ -125,10 +126,24 @@ print(M.shape)
 ---
 
 ## Submission Requirements
-- [ ] `ai-math-bridge/` folder with all required files.
-- [ ] README from template.
-- [ ] NumPy lab + image matrix lab.
-- [ ] Reflection connecting to AI/ML/CV.
+
+Required folder in **personal** `student-portfolio` repo:
+
+```text
+ai-math-bridge/
+├── README.md
+├── vector-notes.md
+├── matrix-notes.md
+├── dot-product-notes.md
+├── numpy-mini-lab.ipynb
+├── image-as-matrix-lab.ipynb
+├── pca-reflection.md
+└── screenshots/
+```
+
+- [ ] All files above (or equivalent evidence).
+- [ ] README from `01_Student_Templates/ai-math-bridge-README-template.md`.
+- [ ] Lessons 1–10 guides in `00_AI_Math_Bridge/` used as reference.
 - [ ] `02_Assessment/AI_Math_Bridge_Checklist.md` signed off.
 
 ## Common Student Problems

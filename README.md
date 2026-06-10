@@ -6,6 +6,35 @@ A portfolio-first course where students learn to build full-stack web applicatio
 
 > Students should not learn math as isolated abstract content. They should learn math when it helps them understand AI systems, data, images, and models. **Linear algebra is introduced as an AI Math Bridge**, not as a full traditional math course.
 
+> Students should move from watching tutorials to **building, documenting, publishing, and explaining** real projects.
+
+---
+
+## Course Repository vs Student Repository
+
+This repository contains the **official course materials** — lesson plans, templates, assessments, starter code, rubrics, and teacher documentation.
+
+Each student must create their **own GitHub repository** to collect learning evidence, project work, reflections, screenshots, certificates, and final portfolio projects.
+
+```text
+The course repository tells students what to do.
+The student repository shows what each student has done.
+```
+
+Students should follow:
+
+[Student GitHub Repository Guide](01_Student_Templates/Student_GitHub_Repository_Guide.md)
+
+### Three Places for Student Work
+
+```text
+Teacher course repository  →  lessons, templates, rubrics, starter code
+Student personal repository →  evidence, projects, reflections, code history
+Notion portfolio           →  public showcase of best work
+```
+
+GitHub proves **technical process and project history**. Notion presents the **best finished work**.
+
 ---
 
 ## Start Here
@@ -14,12 +43,13 @@ A portfolio-first course where students learn to build full-stack web applicatio
 2. Check `00_Course_Planning/Course_Pacing_Guide.md`
 3. **Phase 0:** `04_Lesson_Materials/Phase_0_Git_GitHub.md`
 4. **Phase 2:** `00_AI_Literacy/AI_Literacy_Overview.md`
-5. **Phase 3:** `00_AI_Math_Bridge/AI_Math_Bridge_Overview.md`
-6. Use `01_Student_Templates/` for portfolio, GitHub, README, and reflection templates
-7. Teach phase by phase from `04_Lesson_Materials/` (Phases 0–11)
-8. Use `03_Final_Project/Teacher_Demo_Cursor_Prompt.md` for the teacher demo design
-9. Use `06_Starter_Code/ai-school-assistant/` for the **full RAG implementation** (Next.js + FastAPI + ChromaDB)
-10. Use `06_Starter_Code/teacher-demo-ai-school-assistant/` for the **minimal teaching demo**
+5. **Phase 3:** `00_AI_Math_Bridge/README.md`
+6. **Students:** `01_Student_Templates/Student_GitHub_Repository_Guide.md` — personal repo setup
+7. Use `01_Student_Templates/` for portfolio, GitHub, README, and reflection templates
+8. Teach phase by phase from `04_Lesson_Materials/` (Phases 0–11)
+9. Use `03_Final_Project/Teacher_Demo_Cursor_Prompt.md` for the teacher demo design
+10. Use `06_Starter_Code/ai-school-assistant/` for the **full RAG implementation** (Next.js + FastAPI + ChromaDB)
+11. Use `06_Starter_Code/teacher-demo-ai-school-assistant/` for the **minimal teaching demo**
 
 ---
 
@@ -107,8 +137,9 @@ full-stack-web-ai-application-development/
 
 - **AI Literacy** (`00_AI_Literacy/`) — Phase 2 study guides and responsible AI checklist.
 - **AI Math Bridge** (`00_AI_Math_Bridge/`) — Phase 3 math intuition for AI/ML/CV.
-- **Templates** (`01_Student_Templates/`) — portfolio, README, math bridge, reflections.
-- **Assessment** (`02_Assessment/`) — rubrics, learning expectations, AI usage policy.
+- **Student GitHub Guide** (`01_Student_Templates/Student_GitHub_Repository_Guide.md`) — personal repo structure and Phase 0 task.
+- **Templates** (`01_Student_Templates/`) — root README, reflections, math bridge, final project.
+- **Assessment** (`02_Assessment/`) — rubrics, GitHub assessment, math bridge checklist, AI usage policy.
 
 ---
 

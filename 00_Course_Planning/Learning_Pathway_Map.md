@@ -31,9 +31,9 @@ Finally: Design + code + integrate + Cursor + capstone.
 
 ## Phase 0: Git & GitHub
 
-- **Focus:** Version control and project archive first.
-- **Student Output:** `student-portfolio` repo with folders, README, commits, branch/PR practice.
-- **Resources:** Markdown Crash Course, GitHub Skills, Learn Git Branching.
+- **Focus:** Version control and **personal portfolio repository** (separate from this course repo).
+- **Student Output:** `student-portfolio` (or `student-name-full-stack-ai-portfolio`) with full folder scaffold, README, commits, branch `update-profile` + merged PR.
+- **Resources:** `01_Student_Templates/Student_GitHub_Repository_Guide.md`; `02_Assessment/Student_GitHub_Assessment.md`; Markdown Crash Course, GitHub Skills, Learn Git Branching.
 
 ---
 
@@ -56,7 +56,7 @@ Finally: Design + code + integrate + Cursor + capstone.
 
 - **Focus:** Short visual bridge — vectors, matrices, dot product, X/y, images as matrices, NumPy — **not** a full LA course.
 - **Student Output:** `ai-math-bridge/` folder with labs, notes, reflection.
-- **Resources:** `00_AI_Math_Bridge/`; 3Blue1Brown (selected); DeepLearning.AI LA Week 3–4 (selected).
+- **Resources:** `00_AI_Math_Bridge/README.md` (lesson guides); `AI_Math_Bridge_Overview.md`; 3Blue1Brown (selected); DeepLearning.AI LA Week 3–4 (selected).
 - **Reuse:** Before CV, ML, or embedding-heavy AI features.
 
 ---

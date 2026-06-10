@@ -1,5 +1,7 @@
 # AI Math Bridge: Linear Algebra for AI
 
+> **Lesson index:** see [README.md](README.md) for all lesson guides (Lessons 1–10, NumPy lab, image project).
+
 ## Purpose
 
 This is **not** a full traditional linear algebra course. It is a short, practical **bridge module** that helps high school students understand the math ideas behind AI, machine learning, and computer vision.
@@ -75,7 +77,7 @@ Do **not** place linear algebra before GitHub, Notion, or AI Literacy. Engineeri
 
 ## Student Deliverables
 
-Create in GitHub (`student-portfolio`):
+Create in your **personal** GitHub repo (`student-portfolio`). See `01_Student_Templates/Student_GitHub_Repository_Guide.md`.
 
 ```text
 ai-math-bridge/
@@ -89,7 +91,7 @@ ai-math-bridge/
 └── screenshots/
 ```
 
-Use `01_Student_Templates/AI_Math_Bridge_README_Template.md` for the README.
+Use `01_Student_Templates/ai-math-bridge-README-template.md` for the README. Lesson guides: [README.md](README.md).
 
 ---
 

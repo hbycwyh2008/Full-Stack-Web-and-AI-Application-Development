@@ -16,6 +16,23 @@ Students progress: **Git → Notion → AI Literacy → AI Math Bridge → Figma
 
 > Linear algebra is introduced as an **AI Math Bridge**, not as a full traditional math course.
 
+> Students should move from watching tutorials to **building, documenting, publishing, and explaining** real projects.
+
+---
+
+## Course Repository vs Student Repository
+
+| | Course repository (this repo) | Student personal repository |
+|---|---|---|
+| **Who** | Teacher / course team | Each student |
+| **Contains** | Lessons, templates, rubrics, starter code | Evidence, projects, reflections, code |
+| **Purpose** | Tells students what to do | Shows what each student did |
+
+Student guide: `01_Student_Templates/Student_GitHub_Repository_Guide.md`  
+GitHub assessment: `02_Assessment/Student_GitHub_Assessment.md`
+
+**Notion portfolio** presents the best work publicly. **GitHub** proves technical process and history.
+
 ---
 
 ## Course Goals

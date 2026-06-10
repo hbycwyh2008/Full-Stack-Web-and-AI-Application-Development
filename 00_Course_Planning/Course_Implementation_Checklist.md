@@ -27,13 +27,17 @@ A practical checklist to complete before launching the course. Adapt items to yo
 - [ ] Reviewed `04_Lesson_Materials/Teacher_Demo_Walkthrough.md`.
 
 ## Student Templates Ready
+- [ ] `01_Student_Templates/Student_GitHub_Repository_Guide.md` shared with students (Phase 0).
+- [ ] `01_Student_Templates/student-root-README-template.md` ready.
 - [ ] `01_Student_Templates/Student_Portfolio_Template.md` ready to hand out.
-- [ ] `01_Student_Templates/Project_README_Template.md` ready.
-- [ ] `01_Student_Templates/GitHub_Profile_README_Template.md` ready.
-- [ ] `01_Student_Templates/AI_Math_Bridge_README_Template.md` ready.
+- [ ] `01_Student_Templates/ai-literacy-reflection-template.md` ready.
+- [ ] `01_Student_Templates/ai-math-bridge-README-template.md` ready.
+- [ ] `01_Student_Templates/weekly-reflection-template.md` and `cursor-reflection-template.md` ready.
+- [ ] `01_Student_Templates/final-project-README-template.md` ready.
 
 ## Assessment Ready
 - [ ] `02_Assessment/Assessment_Rubric.md` reviewed.
+- [ ] `02_Assessment/Student_GitHub_Assessment.md` reviewed (Phase 0 sign-off).
 - [ ] `02_Assessment/Presentation_Rubric.md` reviewed.
 - [ ] `02_Assessment/AI_Literacy_Checklist.md` reviewed.
 - [ ] `02_Assessment/AI_Math_Bridge_Checklist.md` reviewed.
@@ -43,7 +47,7 @@ A practical checklist to complete before launching the course. Adapt items to yo
 - [ ] Phase 0 lesson plan reviewed (`04_Lesson_Materials/Phase_0_Git_GitHub.md`).
 - [ ] Phase 1 Notion plan reviewed (`Phase_1_Notion_Portfolio.md`).
 - [ ] Phase 2 AI literacy plan reviewed (`Phase_2_AI_Literacy_Foundation.md`).
-- [ ] Phase 3 AI Math Bridge reviewed (`00_AI_Math_Bridge/`, `Phase_3_AI_Math_Bridge_Linear_Algebra.md`).
+- [ ] Phase 3 AI Math Bridge reviewed (`00_AI_Math_Bridge/README.md`, lesson guides, `Phase_3_AI_Math_Bridge_Linear_Algebra.md`).
 - [ ] 3Blue1Brown + DeepLearning.AI LA links verified; NumPy/Jupyter available for labs.
 
 ## Technical Setup

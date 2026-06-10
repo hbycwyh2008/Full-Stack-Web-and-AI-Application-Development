@@ -1,7 +1,5 @@
 # AI Math Bridge: Linear Algebra for AI
 
-> Same content as `ai-math-bridge-README-template.md` — use either filename in your student repo.
-
 ## What I Learned
 
 _(Write 3–5 sentences in your own words about vectors, matrices, and how they connect to AI.)_

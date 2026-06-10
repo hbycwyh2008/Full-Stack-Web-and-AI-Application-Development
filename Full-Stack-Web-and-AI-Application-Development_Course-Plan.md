@@ -22,13 +22,15 @@ Portfolio, GitHub, Next.js, FastAPI, Cursor, and AI-Powered Applications
 
 This course is not simply about using AI tools. It is about helping students understand, build, document, and present real AI-powered web applications.
 
-> **Canonical curriculum (latest):** See repository `README.md`, `00_Course_Planning/Learning_Pathway_Map.md`, and `00_AI_Math_Bridge/AI_Math_Bridge_Overview.md`. Phases **0–11** include **AI Math Bridge: Linear Algebra for AI** after AI Literacy and before Figma.
+> **Canonical curriculum (latest):** See repository `README.md` (including **Course Repository vs Student Repository**), `00_Course_Planning/Learning_Pathway_Map.md`, `01_Student_Templates/Student_GitHub_Repository_Guide.md`, and `00_AI_Math_Bridge/README.md`. Phases **0–11** include **AI Math Bridge: Linear Algebra for AI** after AI Literacy and before Figma.
+
+**Student personal repository:** Each student maintains `student-portfolio` (or `student-name-full-stack-ai-portfolio`) for evidence — separate from this teacher course repo.
 
 ---
 
 ## 2.5 AI Math Bridge: Linear Algebra for AI (Phase 3)
 
-Short, practical bridge — **not** a full traditional linear algebra course. See `00_AI_Math_Bridge/` and `04_Lesson_Materials/Phase_3_AI_Math_Bridge_Linear_Algebra.md`.
+Short, practical bridge — **not** a full traditional linear algebra course. See `00_AI_Math_Bridge/README.md` (10 lesson guides), `AI_Math_Bridge_Overview.md`, and `04_Lesson_Materials/Phase_3_AI_Math_Bridge_Linear_Algebra.md`.
 
 **Learning path (summary):**
 
@@ -41,7 +43,7 @@ Git & GitHub → Notion → AI Literacy → AI Math Bridge → Figma → TypeScr
 
 **Deliverables:** `ai-math-bridge/` in GitHub; assess conceptual clarity — not proofs.
 
-**Philosophy:** Students learn math when it helps them understand AI systems, data, images, and models.
+**Philosophy:** Students learn math when it helps them understand AI systems, data, images, and models. Students move from tutorials to building, documenting, publishing, and explaining real projects.
 
 ---
 

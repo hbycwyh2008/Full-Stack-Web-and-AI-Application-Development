@@ -8,18 +8,20 @@ This is not only an AI literacy course. It is an AI application engineering cour
 
 ## Alignment with the CS / AI Pathway
 
-This course builds directly on foundational CS/AI concepts — starting with Andrew Ng's AI for Everyone and Generative AI for Everyone — and moves students into applied software development: frontend, backend, databases, and AI integration. It develops skills that transfer to advanced coursework, internships, and post-secondary programs.
-
-> _Placeholder: map this course to the school's existing CS/AI course sequence._
+This course builds on foundational CS/AI concepts. Students start with **Git & GitHub**, then a **unified AI literacy foundation** (Andrew Ng's AI for Everyone and Generative AI for Everyone), then portfolio, design, and applied development.
 
 ## How AI Literacy and Engineering Work Together
 
 | Phase | Focus |
 |---|---|
-| Phase 0 | AI literacy foundation (concepts, limits, responsible use) |
-| Phases 1–5 | Portfolio, GitHub, frontend, backend |
-| Phase 6 | AI API + RAG concepts (bridge to final project) |
-| Phases 7–9 | Integration, Cursor capstone, AI School Assistant showcase |
+| Phase 0 | Git & GitHub |
+| Phase 1 | Notion portfolio |
+| Phase 2 | Unified AI literacy |
+| Phase 3 | AI Math Bridge (linear algebra for AI) |
+| Phases 4–6 | Figma, TypeScript, Next.js |
+| Phase 7 | Lightweight FastAPI |
+| Phase 8 | AI API + RAG |
+| Phases 9–11 | Integration, Cursor, final showcase |
 
 AI literacy is not a separate theory track — it connects directly to the final project design and assessment.
 

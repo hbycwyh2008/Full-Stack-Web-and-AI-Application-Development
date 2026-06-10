@@ -4,28 +4,35 @@
 
 In this course, you will build real web applications — not just demos. You will:
 
-- Build an **AI literacy foundation** — understand what AI is and how to use it responsibly.
-- Create a professional portfolio website in Notion.
-- Publish projects to GitHub with clear documentation.
-- Build a frontend with Next.js.
-- Build a backend with FastAPI.
+- Start with **Git & GitHub** — your project archive and evidence.
+- Publish a **Notion portfolio** (Phase 1).
+- Build a **unified AI literacy foundation** (Phase 2).
+- Complete **AI Math Bridge** — vectors, matrices, NumPy, images as data (Phase 3).
+- Design in **Figma**, learn **TypeScript**, build **Next.js**.
+- Build a **lightweight FastAPI** backend.
 - Learn how **AI APIs and RAG** power your final project.
 - Connect everything into a full-stack app.
-- Finish with an **AI School Assistant** — a web app that answers questions from school documents.
+- Use **Cursor** responsibly after you understand the stack.
+- Finish with an **AI School Assistant**.
 
 ## What Tools You Will Learn
 
-- **DeepLearning.AI courses** — AI for Everyone, Generative AI for Everyone
-- **Notion** — your portfolio website
-- **GitHub + Markdown** — version control and documentation
-- **Next.js / React** — the frontend
-- **FastAPI** — the backend
-- **Cursor** — AI-assisted coding
-- **LLM APIs + RAG** — AI-powered, source-based answers
+- **Git / GitHub** — version control first
+- **DeepLearning.AI** — AI for Everyone, Generative AI for Everyone
+- **Notion** — portfolio website
+- **Figma** — UI design before coding
+- **Next.js / React + TypeScript** — frontend
+- **FastAPI** — lightweight backend
+- **Cursor** — AI-assisted coding (late in the course)
+- **LLM APIs + RAG** — source-based AI answers
 
-## Why AI Literacy Comes First
+## Learning Order
 
-Before you build the AI School Assistant, you need to know what AI can do, what it cannot do, and how to use it responsibly. This course is not only an AI literacy course — it is an **AI application engineering** course built on top of AI literacy.
+```text
+Git → Notion → AI Literacy → AI Math Bridge → Figma → TypeScript → Next.js → FastAPI → …
+```
+
+This is not only an AI literacy course — it is an **AI application engineering** course built on top of AI literacy.
 
 ## Why a Portfolio Matters
 

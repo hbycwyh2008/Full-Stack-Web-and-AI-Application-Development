@@ -1,107 +1,124 @@
 # Learning Pathway Map
 
-The course is organized into ten phases. Students begin with **AI literacy**, then build portfolio and documentation habits, then move into application engineering.
+The course is organized into **twelve phases (0–11)**. Students build **workflow and literacy first**, then **AI Math Bridge**, then **design and engineering**, then the **AI School Assistant** capstone.
 
 ```text
-Phase 0: AI Literacy Foundation
-Phase 1: Notion Portfolio
-Phase 2: GitHub + Markdown
-Phase 3: Cursor Quick Win
-Phase 4: Next.js Frontend
-Phase 5: FastAPI Backend
-Phase 6: AI API + RAG Concepts
-Phase 7: Full-Stack Integration
-Phase 8: Cursor Capstone
-Phase 9: Final Showcase
+Phase 0:  Git & GitHub
+Phase 1:  Notion Portfolio
+Phase 2:  AI Literacy Foundation
+Phase 3:  AI Math Bridge: Linear Algebra for AI
+Phase 4:  Figma UI Design
+Phase 5:  TypeScript Basics
+Phase 6:  Next.js Frontend
+Phase 7:  FastAPI Backend (lightweight)
+Phase 8:  AI API + RAG Concepts
+Phase 9:  Full-Stack Integration
+Phase 10: Cursor Capstone
+Phase 11: Final Showcase
 ```
+
+### Teaching Logic
+
+```text
+First:   Organize, document, and build projects (Git, Notion, AI Literacy).
+Then:    Math intuition for AI features (AI Math Bridge).
+Finally: Design + code + integrate + Cursor + capstone.
+```
+
+**AI Math Bridge** can be **reused** before Computer Vision, ML, or advanced AI app features.
 
 ---
 
-## Phase 0: AI Literacy Foundation
+## Phase 0: Git & GitHub
 
-- **Focus:** Understand what AI and generative AI are, what they can and cannot do, and how to use them responsibly.
-- **Student Output:** Study notes, AI Lens discussion responses, completed Responsible AI Checklist.
-- **Core Skills:** AI vocabulary, limitations, prompt basics, responsible AI judgment.
-- **Suggested Assessment Evidence:** Portfolio learning notes + completed checklist tied to AI School Assistant.
-- **Resources:** `00_AI_Literacy/` — AI for Everyone, Generative AI for Everyone.
+- **Focus:** Version control and project archive first.
+- **Student Output:** `student-portfolio` repo with folders, README, commits, branch/PR practice.
+- **Resources:** Markdown Crash Course, GitHub Skills, Learn Git Branching.
 
 ---
 
 ## Phase 1: Notion Portfolio
 
-- **Focus:** Build a public-facing portfolio and documentation habit.
-- **Student Output:** Personal CS/AI portfolio website in Notion.
-- **Core Skills:** Information structuring, writing, basic web publishing.
-- **Suggested Assessment Evidence:** Public Notion link with Home, About, Projects, Skills sections.
+- **Focus:** Public showcase layer; link GitHub from Phase 0.
+- **Student Output:** Published Notion portfolio (Home, Projects, Skills, AI Literacy, Reflections, GitHub Links).
 
 ---
 
-## Phase 2: GitHub + Markdown
+## Phase 2: AI Literacy Foundation
 
-- **Focus:** Version control and professional project documentation.
-- **Student Output:** First GitHub repository with a complete `README.md`.
-- **Core Skills:** Git workflow, commits, repositories, Markdown syntax.
-- **Suggested Assessment Evidence:** GitHub repo URL with a README using the course template.
-
----
-
-## Phase 3: Cursor Quick Win
-
-- **Focus:** Get a fast, visible AI-assisted result to build confidence.
-- **Student Output:** Small AI-assisted web page or mini app.
-- **Core Skills:** Using Cursor, reading generated code, basic debugging.
-- **Suggested Assessment Evidence:** Working mini app + short AI usage reflection.
+- **Focus:** Unified AI literacy tied to the AI School Assistant.
+- **Student Output:** `ai-literacy/` in GitHub; Responsible AI Checklist; study guides.
+- **Resources:** `00_AI_Literacy/` — AI for Everyone, Generative AI for Everyone.
 
 ---
 
-## Phase 4: Next.js Frontend
+## Phase 3: AI Math Bridge — Linear Algebra for AI
 
-- **Focus:** Frontend application development.
-- **Student Output:** Student project gallery or course resource website.
-- **Core Skills:** React components, App Router, pages/layouts, forms, data fetching.
-- **Suggested Assessment Evidence:** Deployed or runnable frontend + GitHub repo.
-
----
-
-## Phase 5: FastAPI Backend
-
-- **Focus:** Backend API development.
-- **Student Output:** Simple API service.
-- **Core Skills:** FastAPI routes, REST, Pydantic schemas, basic data handling.
-- **Suggested Assessment Evidence:** Running API + documented endpoints.
+- **Focus:** Short visual bridge — vectors, matrices, dot product, X/y, images as matrices, NumPy — **not** a full LA course.
+- **Student Output:** `ai-math-bridge/` folder with labs, notes, reflection.
+- **Resources:** `00_AI_Math_Bridge/`; 3Blue1Brown (selected); DeepLearning.AI LA Week 3–4 (selected).
+- **Reuse:** Before CV, ML, or embedding-heavy AI features.
 
 ---
 
-## Phase 6: AI API + RAG Concepts
+## Phase 4: Figma UI Design
 
-- **Focus:** Understand how LLM APIs and retrieval-augmented generation connect to the final project.
-- **Student Output:** Concept map or written explanation of the AI School Assistant data flow; sample prompt design.
-- **Core Skills:** LLM API basics, document retrieval, RAG workflow, source-based answers.
-- **Suggested Assessment Evidence:** Architecture diagram + sample prompt + connection to Phase 0 Responsible AI Checklist.
+- **Focus:** Mockups before Next.js coding.
+- **Student Output:** Figma link + `design/figma-link.md`.
 
 ---
 
-## Phase 7: Full-Stack Integration
+## Phase 5: TypeScript Basics
 
-- **Focus:** Connecting frontend and backend.
-- **Student Output:** Next.js frontend connected to a FastAPI backend.
-- **Core Skills:** HTTP requests, CORS, request/response flow, error handling.
-- **Suggested Assessment Evidence:** Working full-stack demo + architecture explanation.
+- **Focus:** Types after workflow + math bridge; before/during frontend hardening.
+- **Student Output:** `types.ts`, `api-types.ts`, typed components.
 
 ---
 
-## Phase 8: Cursor Capstone
+## Phase 6: Next.js Frontend
 
-- **Focus:** AI-assisted full-stack development workflow toward the final project.
-- **Student Output:** AI-assisted full-stack feature or project milestone.
-- **Core Skills:** Cursor workflow, Cursor Rules, AI-assisted debugging, code review.
-- **Suggested Assessment Evidence:** Feature implementation + AI usage reflection.
+- **Focus:** User interface from Figma mockups.
+- **Student Output:** Runnable Next.js project + README.
 
 ---
 
-## Phase 9: Final Showcase
+## Phase 7: FastAPI Backend (Lightweight)
 
-- **Focus:** Deliver and present the AI School Assistant capstone.
-- **Student Output:** AI School Assistant + portfolio submission.
-- **Core Skills:** Integration, documentation, testing, presentation, responsible AI in practice.
-- **Suggested Assessment Evidence:** Live demo, GitHub repo, README, Notion portfolio page, Responsible AI Checklist.
+- **Focus:** Routes, Pydantic, `/docs` — no required production database.
+- **Student Output:** Lightweight API service.
+
+---
+
+## Phase 8: AI API + RAG Concepts
+
+- **Focus:** LLM + retrieval bridge to final project.
+- **Student Output:** Data-flow diagram, sample prompt, updated Responsible AI Checklist.
+
+---
+
+## Phase 9: Full-Stack Integration
+
+- **Focus:** Next.js + TypeScript ↔ FastAPI.
+- **Student Output:** End-to-end demo with loading/error states.
+
+---
+
+## Phase 10: Cursor Capstone
+
+- **Focus:** Cursor **after** stack understanding.
+- **Student Output:** AI-assisted feature + reflection.
+
+---
+
+## Phase 11: Final Showcase
+
+- **Focus:** AI School Assistant demo and portfolio submission.
+- **Student Output:** Live demo, complete documentation, checklist sign-off.
+
+---
+
+## Course Philosophy (Math)
+
+> Students should not learn math as isolated abstract content. They should learn math when it helps them understand AI systems, data, images, and models.
+
+> Linear algebra is introduced as an **AI Math Bridge**, not as a full traditional math course.

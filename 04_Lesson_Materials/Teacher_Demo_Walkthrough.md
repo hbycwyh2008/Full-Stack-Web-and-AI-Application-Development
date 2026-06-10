@@ -4,7 +4,7 @@
 This lesson helps the teacher introduce the AI School Assistant starter demo before students build their own version. Students see a working full-stack example and learn to read its architecture, data flow, and AI placeholder.
 
 ## When to Use This Lesson
-Use this walkthrough around **Phase 6–8**, and **before** students use Cursor for their capstone feature (Phase 8). It works best right after Phase 6 (AI API + RAG Concepts), so the concepts are fresh.
+Use after **Phase 8 (RAG)** and **before Phase 10 (Cursor)** — ideally Week 13 in the 16-week plan.
 
 ## Demo Goals
 - Show a small, working full-stack app end to end.
@@ -56,9 +56,9 @@ User question
 ## Where the AI Placeholder Is
 In `backend/main.py`, the `generate_answer()` function returns a simple grounded response and contains a `TODO` comment marking exactly where a real LLM API call will go later.
 
-## How This Connects to Phase 6 and Phase 8
-- **Phase 6 (AI API + RAG Concepts):** the demo is a concrete example of "retrieve then generate" and source-based answers.
-- **Phase 8 (Cursor Capstone):** students use this demo as a model when building their own feature with Cursor.
+## How This Connects to Phase 8 and Phase 10
+- **Phase 8 (RAG):** demo shows retrieve-then-generate and sources.
+- **Phase 10 (Cursor):** students use demo as model when building with Cursor.
 
 ## Common Student Misunderstandings
 - "The AI already works." → It is a placeholder; no real LLM yet.

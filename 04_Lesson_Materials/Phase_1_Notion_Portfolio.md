@@ -1,16 +1,15 @@
 # Phase 1: Notion Portfolio
 
 ## Phase Goal
-Build a public-facing portfolio website in Notion and start a habit of documenting your work.
+Build a public-facing portfolio in **Notion** after **Phase 0 Git & GitHub** — the showcase layer for your work.
 
 ## Key Concepts
-- What a portfolio is and why it matters for school and career.
-- How to organize information clearly for a reader.
-- Notion is the **public showcase** layer; GitHub is the **technical evidence** layer.
+- Portfolio purpose; Notion = showcase, GitHub = evidence.
+- Sections: Home, Projects, Skills, AI Literacy (placeholder for Phase 2), Reflections, GitHub Links.
 
 ## Required Student Output
-- A published Notion portfolio with: Home, About Me, Projects, Skills, Certificates, Learning Notes, GitHub / Contact.
-- At least one draft project page for the AI School Assistant.
+- Published Notion portfolio linked to `student-portfolio` GitHub repo.
+- Draft AI School Assistant project page.
 
 ---
 
@@ -20,37 +19,28 @@ Build a public-facing portfolio website in Notion and start a habit of documenti
 ## Lesson Sequence
 
 ### Lesson 1: Set Up the Portfolio
-- **Goal:** Create a Notion account and build the seven-section structure.
-- **Warm-up:** Show two portfolios (one messy, one clear). "Which would you trust more, and why?"
-- **Mini Lesson:** Watch the Notion portfolio video. Tour the teacher's sample portfolio and explain each of the seven sections.
-- **Guided Practice:** Students create their Notion page and add the seven section headings using `01_Student_Templates/Student_Portfolio_Template.md`.
-- **Independent Work:** Fill in Home and About Me.
-- **Exit Ticket:** Name the seven sections of your portfolio.
-- **Homework:** Complete Home, About Me, and Skills sections.
+- **Goal:** Create Notion structure and link GitHub from Phase 0.
+- **Warm-up:** Which portfolio is clearer — messy or organized?
+- **Mini Lesson:** Notion video; `Student_Portfolio_Template.md`.
+- **Guided Practice:** Seven+ sections; paste GitHub link.
+- **Independent Work:** Home and About Me.
+- **Exit Ticket:** Name your main sections.
+- **Homework:** Complete Home, About Me, Skills.
 
-### Lesson 2: Content, Projects, and Publishing
-- **Goal:** Add a project page, add AI literacy notes, and publish.
-- **Warm-up:** "What is one project or skill you are proud of?"
-- **Mini Lesson:** What makes a strong project page (problem, tools, what you learned). Explain that Notion is the public showcase, while GitHub (Phase 2) is the technical evidence.
-- **Guided Practice:** Create a draft AI School Assistant project page using the project page fields.
-- **Independent Work:** Add Phase 0 AI literacy notes to Learning Notes; publish the page.
-- **Exit Ticket:** Paste your public Notion link.
-- **Homework:** Polish all sections and confirm the public link works.
+### Lesson 2: Publish and Connect
+- **Goal:** Publish and prepare for AI Literacy (Phase 2).
+- **Guided Practice:** Draft project page; publish settings.
+- **Independent Work:** Public link; add GitHub Links section.
+- **Exit Ticket:** Paste public Notion link.
+- **Homework:** Prepare `ai-literacy/` folder on GitHub for Phase 2.
 
 ## Submission Requirements
-- [ ] Public Notion link shared.
-- [ ] All seven sections present.
-- [ ] AI literacy notes added to Learning Notes.
-- [ ] One draft AI School Assistant project page.
-
-## Common Student Problems
-- Forgetting to publish / share settings → walk through "Share → Publish" together.
-- Empty sections → require at least one line in every section.
-- Over-designing instead of writing content → remind: clarity over decoration.
-- Mixing up Notion and GitHub roles → repeat: showcase vs. evidence.
+- [ ] Public Notion link.
+- [ ] Required sections present.
+- [ ] GitHub repo linked.
 
 ## Teacher Notes
-> 先展示示范，再让学生模仿。Show the sample first, then let students mirror it. Keep the focus on clear writing, not visual polish. This portfolio will hold every future project, so set good habits now.
+> Notion 在 AI 素养与数学桥接之前，建立展示习惯。Portfolio before literacy content depth.
 
 ## AI Lens Reflection
-Ask students: *"How will you describe your AI usage on each project page so a reader trusts your work?"* Add a short note to the Learning Notes section.
+*How will you document AI usage on each project page?*

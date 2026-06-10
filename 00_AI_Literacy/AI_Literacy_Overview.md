@@ -1,10 +1,16 @@
 # AI Literacy Overview
 
-## Why AI Literacy Comes First
+## Why AI Literacy Comes Early (Phase 1)
 
-Before you build the **AI School Assistant**, you need to understand what AI is, what it can do, and what it cannot do. AI literacy is not a separate theory class — it is the foundation for every coding phase that follows.
+You start with **Git & GitHub (Phase 0)** and **Notion (Phase 1)**. **Phase 2** builds a **unified** AI literacy foundation before the **AI Math Bridge (Phase 3)** and coding phases.
 
-This is not only an AI literacy course. It is an **AI application engineering** course built on top of AI literacy.
+Before you build the **AI School Assistant**, you need to understand what AI is, what it can do, and what it cannot do. AI literacy is not a separate theory class — it connects directly to the final project.
+
+Store your Phase 1 work in:
+
+```text
+student-portfolio/ai-literacy/
+```
 
 ---
 

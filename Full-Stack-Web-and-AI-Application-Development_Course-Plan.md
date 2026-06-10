@@ -22,6 +22,27 @@ Portfolio, GitHub, Next.js, FastAPI, Cursor, and AI-Powered Applications
 
 This course is not simply about using AI tools. It is about helping students understand, build, document, and present real AI-powered web applications.
 
+> **Canonical curriculum (latest):** See repository `README.md`, `00_Course_Planning/Learning_Pathway_Map.md`, and `00_AI_Math_Bridge/AI_Math_Bridge_Overview.md`. Phases **0–11** include **AI Math Bridge: Linear Algebra for AI** after AI Literacy and before Figma.
+
+---
+
+## 2.5 AI Math Bridge: Linear Algebra for AI (Phase 3)
+
+Short, practical bridge — **not** a full traditional linear algebra course. See `00_AI_Math_Bridge/` and `04_Lesson_Materials/Phase_3_AI_Math_Bridge_Linear_Algebra.md`.
+
+**Learning path (summary):**
+
+```text
+Git & GitHub → Notion → AI Literacy → AI Math Bridge → Figma → TypeScript → Next.js
+→ FastAPI (lightweight) → RAG → Integration → Cursor → AI School Assistant
+```
+
+**Resources:** 3Blue1Brown (selected), DeepLearning.AI Linear Algebra Week 3–4 (selected), NumPy + image matrix labs.
+
+**Deliverables:** `ai-math-bridge/` in GitHub; assess conceptual clarity — not proofs.
+
+**Philosophy:** Students learn math when it helps them understand AI systems, data, images, and models.
+
 ---
 
 ## 2. Course Positioning

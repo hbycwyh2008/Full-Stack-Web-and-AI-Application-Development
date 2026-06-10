@@ -2,66 +2,60 @@
 
 ## Course Description
 
-**Full-Stack Web and AI Application Development** is a portfolio-first course where students learn to build and document real full-stack web applications and AI-powered software products using modern development tools.
+**Full-Stack Web and AI Application Development** is a portfolio-first course where students build and document real full-stack AI applications.
 
-This is not only an AI literacy course. It is an **AI application engineering** course built on top of AI literacy.
+Students progress: **Git → Notion → AI Literacy → AI Math Bridge → Figma → TypeScript → Next.js → lightweight FastAPI → RAG → integration → Cursor → AI School Assistant**.
 
-Students begin with an AI literacy foundation, then progress from building a personal portfolio to shipping a working AI application backed by a real frontend, backend, database, and LLM API.
+---
+
+## Course Philosophy
+
+> This is not only an AI literacy course. It is an **AI application engineering** course built on top of AI literacy.
+
+> Students should not learn math as isolated abstract content. They should learn math when it helps them understand AI systems, data, images, and models.
+
+> Linear algebra is introduced as an **AI Math Bridge**, not as a full traditional math course.
 
 ---
 
 ## Course Goals
 
-By the end of the course, students will be able to:
-
-- Explain what AI and generative AI are, and what they can and cannot do.
-- Apply responsible AI practices when building and presenting software.
-- Build and maintain a professional portfolio website in Notion.
-- Use GitHub and Markdown for version control and project documentation.
-- Build a frontend application using Next.js / React.
-- Build a backend API service using FastAPI.
-- Explain how LLM APIs and RAG-style workflows support the AI School Assistant.
-- Connect a Next.js frontend to a FastAPI backend.
-- Integrate an LLM API into a working application.
-- Use Cursor as an AI-assisted development accelerator.
-- Document, test, and present a portfolio-ready AI web application.
-- Clearly distinguish AI-generated code from their own decisions.
-
----
-
-## Prerequisites
-
-- Grade 8 (G8) or above.
-- Strong math background.
-- Strong language (reading and writing) background.
-- Some prior programming experience.
-- Basic computer literacy and comfort installing software.
-
-> No prior web development or AI experience is required, but students should be ready to read documentation and write clear project documentation in English.
+- Use Git/GitHub for version control and portfolio evidence.
+- Publish a Notion portfolio and Figma mockups.
+- Complete unified AI literacy and Responsible AI practices.
+- Explain vectors, matrices, and basic ML data shapes (X, y) for AI/ML/CV.
+- Build Next.js + TypeScript frontend and lightweight FastAPI backend.
+- Explain RAG and integrate full stack responsibly.
+- Use Cursor after understanding the stack.
+- Present the AI School Assistant with full documentation.
 
 ---
 
 ## Tools
 
-| Tool | Purpose |
-|---|---|
-| DeepLearning.AI courses | AI literacy foundation (Phase 0) |
-| Notion | Portfolio website |
-| GitHub | Version control and project evidence |
-| Markdown | Documentation |
-| Next.js / React | Frontend development |
-| FastAPI | Backend API service |
-| MongoDB / Vector Store | Data storage |
-| Cursor | AI-assisted development |
-| LLM API | AI-powered features |
+| Tool | Phase | Purpose |
+|---|---|---|
+| Git / GitHub | 0 | Version control |
+| Notion | 1 | Portfolio |
+| DeepLearning.AI (AI) | 2 | AI literacy |
+| 3Blue1Brown + DL.AI LA | 3 | AI Math Bridge |
+| Figma | 4 | UI design |
+| TypeScript | 5 | Frontend types |
+| Next.js | 6 | Frontend |
+| FastAPI | 7 | Lightweight backend |
+| Cursor | 10 | AI-assisted dev |
+
+---
+
+## Prerequisites
+
+Grade 8+, strong math and language background, some programming experience.
 
 ---
 
 ## Final Project
 
-**AI School Assistant** — a web application that lets students, teachers, or parents ask questions based on school documents, course materials, or a student handbook. The project integrates a Next.js frontend, a FastAPI backend, a document/AI service, and an LLM API.
-
-Phase 0 AI literacy directly prepares students to build this project with accurate, source-based, and responsible answers.
+**AI School Assistant** — document-grounded Q&A with sources. See `03_Final_Project/`.
 
 ---
 
@@ -80,9 +74,7 @@ See `02_Assessment/Student_Learning_Expectations.md` for habits, evidence requir
 
 ## Expected Student Outcomes
 
-- A completed AI literacy foundation with study notes and responsible AI checklist.
-- A public Notion portfolio with project pages.
-- Multiple GitHub repositories with clean README files.
-- A working full-stack AI application (AI School Assistant).
-- The ability to explain architecture, data flow, AI concepts, and AI usage.
-- A documented record of responsible, transparent AI use.
+- `student-portfolio` with `ai-literacy/` and `ai-math-bridge/`
+- Notion + Figma + GitHub evidence chain
+- Working full-stack demo toward the AI School Assistant capstone
+- Ability to explain architecture, data flow, math/AI connections, and responsible AI use

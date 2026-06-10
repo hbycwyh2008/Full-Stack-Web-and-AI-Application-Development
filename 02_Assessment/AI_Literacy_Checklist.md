@@ -1,6 +1,6 @@
 # AI Literacy Checklist
 
-Use this checklist to confirm a student has completed the **Phase 0: AI Literacy Foundation** before moving into application building. It can be used for self-assessment or teacher grading.
+Use this checklist to confirm **Phase 2: AI Literacy Foundation** (after Phases 0–1) before **Phase 3 AI Math Bridge**.
 
 > This checklist connects directly to the final project: **AI School Assistant**.
 
@@ -33,7 +33,7 @@ Use this checklist to confirm a student has completed the **Phase 0: AI Literacy
 - [ ] Can identify a fairness, bias, or privacy concern.
 - [ ] Understands that the student is responsible for the final project, not the AI.
 
-## 5. Phase 0 Deliverables
+## 5. Phase 2 Deliverables
 
 - [ ] Completed study notes for **AI for Everyone**.
 - [ ] Completed study notes for **Generative AI for Everyone**.

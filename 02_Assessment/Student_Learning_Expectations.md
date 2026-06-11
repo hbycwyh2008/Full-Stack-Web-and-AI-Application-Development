@@ -6,6 +6,46 @@ This course is **not** a typing-along exercise. Students are expected to develop
 
 ---
 
+## Learning Expectations for Computer Science
+
+This course (CS1) is not designed for students who only watch demonstrations, copy solutions, or use AI tools to complete tasks without understanding them. Credit and growth in this course depend on **active practice**, **independent problem-solving**, **clear explanation**, and **documented evidence** of your own learning.
+
+You are expected to write code, test it, fix errors, and be able to describe what your code does and why you chose your approach. Submitting work that runs but that you cannot explain is not sufficient.
+
+### 1. Understanding code is not the same as being able to write code
+
+You may feel that you understand a concept while watching a teacher demo, a video, or a peer’s screen. That feeling is common, but it is not the same as mastery. Real understanding means you can write the code yourself: choose the right structure, type it without copying line by line, and adjust it when the problem changes. In this course, you will be assessed on what you can **produce and explain**, not only on what you can recognize while someone else codes.
+
+### 2. Copying code is not mastery
+
+Examples, starter code, documentation, and class notes are tools for learning. Using them is appropriate when you study how they work and then apply the ideas on your own. Copying and pasting without comprehension does not meet course standards. You must be able to **explain** what each important part does, **modify** it for a new requirement, and **recreate** similar logic without relying on an identical source in front of you.
+
+### 3. Debugging is part of the learning process, not failure
+
+Errors are normal in programming. A traceback or failed test is information, not a verdict on your ability. You are expected to read error messages carefully, isolate small parts of your program, change one thing at a time, and improve your solution step by step. Skipping this process—or asking AI or the teacher to fix problems before you try—is inconsistent with how computer science is taught and assessed in this course.
+
+### 4. Computer Science requires repeated practice and chunking
+
+Skills become reliable when you use them across many problems, not only once on a single assignment. Build reusable mental patterns, including:
+
+- **Input → process → output** — where data enters, how it is transformed, and what is returned or displayed
+- **Loops over lists and collections** — repeating work over structured data
+- **If/else and decision-making** — choosing behavior based on conditions
+- **Functions** — naming reusable steps and managing scope
+- **Debugging steps** — reproduce, read the error, hypothesize, test one change, record what you tried
+
+Mastery comes from **repeated use** of these patterns in different contexts, including this course’s web stack, APIs, and project work.
+
+### 5. AI tools can support learning, but they cannot replace thinking
+
+You may use AI tools (including Cursor) to ask for explanations, hints, examples, and feedback on your work. That use is acceptable when it supports your learning. It is **not** acceptable to use AI to bypass thinking: generating full solutions you do not understand, hiding errors you did not attempt to fix, or submitting work you cannot defend in your own words. Any AI-assisted work must still be **read**, **understood**, **tested**, and **revised** by you. Honest disclosure of AI use is required; see `02_Assessment/AI_Usage_Policy.md` and use `01_Student_Templates/AI_Usage_Reflection_Template.md`.
+
+### Oral explanation and accountability
+
+You may be asked to **explain your code orally** in class, during check-ins, or at project presentations. Questions may cover how your program works, how you debugged a problem, why you made a design choice, or how you used AI. If AI tools helped you, you must still be able to describe what the final code does, what you changed, and what you learned. The purpose is to verify **your** understanding, not the tool’s output.
+
+---
+
 ## What Success Looks Like
 
 A strong student in this course:

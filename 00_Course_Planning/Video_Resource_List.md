@@ -2,6 +2,8 @@
 
 Curated resources for phases **0–11**. Required = core skills; Optional = enrichment.
 
+**Scrimba** courses are listed in [Scrimba Resources](#scrimba-resources) below. Use them for short interactive exposure and guided practice in the **Skill Warm-up** block — not as a substitute for classroom rebuild tasks, GitHub evidence, or project work.
+
 ---
 
 ## Git & GitHub (Phase 0)
@@ -62,6 +64,86 @@ Curated resources for phases **0–11**. Required = core skills; Optional = enri
 
 ---
 
+## Scrimba Resources
+
+Scrimba should be used for **short interactive exposure** and **guided practice**. It should **not** replace classroom rebuild tasks, GitHub evidence, or project work.
+
+Use selected lessons only — not full course completion unless a teacher assigns specific modules.
+
+### HTML / CSS
+
+#### 1. Scrimba — Learn HTML and CSS
+- **Link:** https://scrimba.com/learn-html-and-css-c0p
+- **Alternative:** https://scrimba.com/learn/htmlandcss
+- **Use:** Main beginner HTML/CSS resource. Use selected lessons for webpage structure, basic styling, and small project practice.
+- **Phases:** Supports Phase 4 (Figma handoff) and early web literacy before TypeScript/Next.js.
+
+#### 2. Scrimba — HTML & CSS Crash Course with Kevin Powell
+- **Link:** https://scrimba.com/html-css-crash-course-c02l
+- **Alternative:** https://scrimba.com/learn/introhtmlcss
+- **Use:** Shorter HTML/CSS crash course for fast classroom warm-up or review.
+- **Phases:** Warm-up before Phase 4–6 web work.
+
+### JavaScript
+
+#### 3. Scrimba — Learn JavaScript
+- **Link:** https://scrimba.com/learn-javascript-c0v
+- **Alternative:** https://scrimba.com/learn/learnjavascript
+- **Use:** Main JavaScript beginner resource. Use selected lessons for variables, functions, conditionals, loops, arrays, objects, and small interactive projects.
+- **Phases:** Before Phase 5 (TypeScript) and Phase 6 (Next.js).
+
+#### 4. Scrimba — Introduction to JavaScript
+- **Link:** https://scrimba.com/introduction-to-javascript-c01q
+- **Use:** Shorter JavaScript introduction for classroom warm-up.
+- **Phases:** Skill Warm-up before deeper JS or TypeScript lessons.
+
+#### 5. Scrimba — Learn Modern JavaScript
+- **Link:** https://scrimba.com/learn-modern-javascript-c02j
+- **Use:** Short ES6 supplement for `let`/`const`, scope, and modern JavaScript syntax.
+- **Phases:** Supplement after core JS warm-up; before or alongside Phase 5.
+
+### React
+
+#### 6. Scrimba — Learn React
+- **Link:** https://scrimba.com/learn-react-c0e
+- **Alternative:** https://scrimba.com/learn/learnreact
+- **Use:** Main React beginner resource. Use selected lessons for JSX, components, props, rendering lists, state, and side effects.
+- **Phases:** Required support for Phase 6 (Next.js Frontend).
+
+#### 7. Scrimba — Learn React for Free Playlist
+- **Link:** https://scrimba.com/playlist/p7P5Hd
+- **Use:** Shorter React sequence if the full Learn React course is too long.
+- **Phases:** Alternative or supplement for Phase 6.
+
+#### 8. Scrimba — freeCodeCamp React
+- **Link:** https://scrimba.com/freeCodeCamp-React
+- **Use:** Short React supplement using a movie search app.
+- **Phases:** Optional enrichment during Phase 6.
+
+### How Scrimba Resources Should Be Used
+
+Do **not** design the course as “students watch Scrimba and finish online exercises.”
+
+Use Scrimba in the **Skill Warm-up** block or as support material. After students use Scrimba, they must complete a **classroom rebuild task**.
+
+**Examples:**
+
+- After HTML/CSS input → students rebuild a personal webpage or project card.
+- After JavaScript input → students write a small function or interactive feature.
+- After React input → students create their own `ProfileCard`, `CourseCard`, `ProjectCard`, or `CertificateCard` component.
+- After any online exercise → students submit evidence through **GitHub**, **Notion**, screenshots, or a learning log.
+
+**Course principle:**
+
+```text
+Resources introduce the pattern.
+Classroom practice builds the skill.
+Independent rebuild checks mastery.
+Project evidence proves progress.
+```
+
+---
+
 ## Figma UI Design (Phase 4)
 
 ### Figma for Beginners (Teacher-selected)
@@ -76,6 +158,8 @@ Curated resources for phases **0–11**. Required = core skills; Optional = enri
 - **Link:** _Teacher to add verified link._
 - **Status:** Required (Phase 5) — **after Figma, before Next.js**
 
+> **Scrimba support:** Complete selected [JavaScript](#javascript) and [Modern JavaScript](#5-scrimba--learn-modern-javascript) lessons before Phase 5 if students need JS foundations.
+
 ---
 
 ## Next.js Frontend (Phase 6)
@@ -83,6 +167,8 @@ Curated resources for phases **0–11**. Required = core skills; Optional = enri
 ### Next.js & React - The Complete Guide
 - **Link:** https://www.udemy.com/course/nextjs-react-the-complete-guide/
 - **Status:** Required (Phase 6). FastAPI is backend — not Next.js API Routes.
+
+> **Scrimba support:** Use [Learn React](#6-scrimba--learn-react) (selected lessons) in Skill Warm-up before building Next.js components. Follow with classroom rebuild tasks (e.g. `ProfileCard`, `ProjectCard`) and GitHub evidence in `nextjs-frontend/`.
 
 ---
 

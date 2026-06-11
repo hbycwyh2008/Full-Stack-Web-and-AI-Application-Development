@@ -11,13 +11,21 @@ Learn Git and GitHub as the first course phase — your long-term project archiv
 - **Course repo vs student repo** — see `01_Student_Templates/Student_GitHub_Repository_Guide.md`.
 
 ## Required Student Output
+
+**Phase 0 minimum (required to pass):** See **Phase 0 Minimal Setup — What to Create** and **Phase 0 — Three-Lesson Checklist** in `01_Student_Templates/Student_GitHub_Repository_Guide.md`.
+
+Students must deliver:
+
 - A public personal repository: `student-portfolio` or `student-name-full-stack-ai-portfolio`
-- Full recommended folder structure (create folders as you go; scaffold in Phase 0):
+- Five files with real content: `README.md`, `.gitignore`, `profile/about-me.md`, `profile/learning-goals.md`, `reflections/weekly-reflection-01.md`
+- Root README from `01_Student_Templates/student-root-README-template.md`
+- Phase 0 Final GitHub Task (below): branch `update-profile` → PR → merge
+- Assessment: `02_Assessment/Student_GitHub_Assessment.md`
+
+**Optional early scaffold** (empty folders only — not required for Phase 0 sign-off):
 
 ```text
 student-portfolio/
-├── README.md
-├── profile/
 ├── ai-literacy/
 ├── ai-math-bridge/
 ├── figma-design/
@@ -26,13 +34,10 @@ student-portfolio/
 ├── fastapi-backend/
 ├── full-stack-mini-project/
 ├── final-ai-app/
-├── certificates/
-└── reflections/
+└── certificates/
 ```
 
-- Root README from `01_Student_Templates/student-root-README-template.md`
-- Phase 0 Final GitHub Task (below)
-- Assessment: `02_Assessment/Student_GitHub_Assessment.md`
+Add these when your teacher asks, or when you reach each phase. The full target structure is in the student guide.
 
 ---
 
@@ -88,8 +93,11 @@ This proves students can use: repository, README, commit, branch, pull request, 
 - **Homework:** Submit repo link; prepare `ai-literacy/` for Phase 2.
 
 ## Submission Requirements
-- [ ] Public personal repo with recommended folder scaffold.
+- [ ] Public personal repo with Phase 0 minimum structure (five files — see student guide).
 - [ ] Clear root README.md (template-based).
+- [ ] `profile/about-me.md` and `profile/learning-goals.md` complete.
+- [ ] `reflections/weekly-reflection-01.md` complete.
+- [ ] `.gitignore` present.
 - [ ] Multiple meaningful commits.
 - [ ] Branch `update-profile` with merged PR.
 - [ ] Submission checklist in `Student_GitHub_Repository_Guide.md` completed.

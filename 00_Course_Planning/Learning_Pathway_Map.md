@@ -65,6 +65,7 @@ Finally: Design + code + integrate + Cursor + capstone.
 
 - **Focus:** Mockups before Next.js coding.
 - **Student Output:** Figma link + `design/figma-link.md`.
+- **Resources:** Scrimba HTML/CSS (selected lessons) for Skill Warm-up — see `Video_Resource_List.md` → Scrimba Resources.
 
 ---
 
@@ -72,6 +73,7 @@ Finally: Design + code + integrate + Cursor + capstone.
 
 - **Focus:** Types after workflow + math bridge; before/during frontend hardening.
 - **Student Output:** `types.ts`, `api-types.ts`, typed components.
+- **Resources:** Scrimba JavaScript + Modern JavaScript (selected lessons) before TypeScript — see `Video_Resource_List.md` → Scrimba Resources.
 
 ---
 
@@ -79,6 +81,7 @@ Finally: Design + code + integrate + Cursor + capstone.
 
 - **Focus:** User interface from Figma mockups.
 - **Student Output:** Runnable Next.js project + README.
+- **Resources:** Scrimba Learn React (selected lessons) + classroom component rebuilds — see `Video_Resource_List.md` → Scrimba Resources.
 
 ---
 

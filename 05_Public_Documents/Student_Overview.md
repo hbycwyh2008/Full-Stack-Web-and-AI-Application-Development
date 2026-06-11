@@ -54,13 +54,16 @@ You will learn not just to use AI, but to understand and build with it — and t
 
 ## What We Expect From You
 
-This course is **not** about following along and typing code. You are expected to become someone who:
+This course (CS1) is **not** about watching, copying, or using AI to finish tasks without learning. You must practice actively, debug your own code, explain your work, and show evidence of your thinking.
 
-- **Reads code** — understand what files and functions do before you change them.
-- **Debugs problems** — read error messages, try fixes, and record what you tried.
-- **Thinks and asks questions** — predict outcomes, notice when something is wrong, and ask specific questions.
-- **Reflects on your learning** — write about what confused you, what you fixed, and what you still want to improve.
+The five core principles:
 
-Using Cursor or AI is allowed — but you must still understand, test, and explain your project yourself.
+1. **Understanding ≠ writing** — you must be able to write code yourself, not only follow demos.
+2. **Copying ≠ mastery** — you must explain, modify, and recreate code without pasting answers.
+3. **Debugging is learning** — errors are expected; read messages, test small parts, improve step by step.
+4. **Practice and patterns** — reuse ideas like input-process-output, loops, if/else, functions, and debugging steps across many problems.
+5. **AI supports thinking; it does not replace it** — use AI for hints and feedback, not to skip the work; understand and revise anything AI helped with.
 
-See `02_Assessment/Student_Learning_Expectations.md` for the full expectations and habits checklist.
+You may be asked to **explain your code orally** — how it works, how you debugged it, or how you used AI — especially when tools assisted your work.
+
+Full details: `00_Course_Planning/Course_Overview.md` (Learning Expectations for Computer Science) and `02_Assessment/Student_Learning_Expectations.md`.

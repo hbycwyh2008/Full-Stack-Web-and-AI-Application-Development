@@ -55,6 +55,112 @@ Add more folders **later**, when you reach each phase (see [Phase to Folder Mapp
 
 ---
 
+## Phase 0 Minimal Setup — What to Create (Step by Step)
+
+Phase 0 is **not** the full course structure. It is one public repo, **five files with real content**, and a short Git workflow.
+
+### What you create on GitHub
+
+1. A **public** personal repository (not the teacher course repo).
+2. Repository name: `student-portfolio` **or** `student-name-full-stack-ai-portfolio` (example: `morgan-full-stack-ai-portfolio`).
+
+### The five required files
+
+| File | Required content |
+|---|---|
+| `README.md` | Your repo homepage. Copy from `01_Student_Templates/student-root-README-template.md` and fill in your name, grade, course, learning goals, and project table (status can be "Not Started"). Link placeholders are fine in Phase 0. |
+| `.gitignore` | Exclude files that must never be uploaded. See [What Not to Upload](#what-not-to-upload) below for the recommended list. |
+| `profile/about-me.md` | Short introduction: name, grade, CS/AI interests, why you are taking this course. |
+| `profile/learning-goals.md` | 3–5 specific goals for this semester (Git, portfolio, full-stack, AI apps, etc.). |
+| `reflections/weekly-reflection-01.md` | Your first weekly reflection. Use `01_Student_Templates/weekly-reflection-template.md` as a guide. Write in your own words. |
+
+You do **not** need `ai-literacy/`, `nextjs-frontend/`, `final-ai-app/`, or other phase folders in Phase 0. Add those when you reach each phase.
+
+### Git workflow you must complete
+
+| Step | Action |
+|---|---|
+| 1 | Create the repository |
+| 2 | Add all five files above |
+| 3 | Make at least one commit (multiple meaningful commits are better) |
+| 4 | Create a branch named `update-profile` |
+| 5 | Edit `README.md` on that branch (e.g. expand About Me or update the project table) |
+| 6 | Open a pull request (`update-profile` → `main`) |
+| 7 | Merge the pull request |
+| 8 | Submit your repository URL to your teacher |
+
+This proves you can use: repository, README, commit, branch, pull request, merge, and basic organization.
+
+### Phase 0 vs full scaffold (do not confuse these)
+
+`04_Lesson_Materials/Phase_0_Git_GitHub.md` may suggest creating **empty** folders early (`ai-literacy/`, `final-ai-app/`, etc.). That is **optional** scaffolding for teachers who want the shell up front.
+
+The **Phase 0 pass requirement** in this guide is only the five files and the Git workflow above. Empty folders alone are not enough.
+
+---
+
+## Phase 0 — Three-Lesson Checklist
+
+Use this if your class runs Phase 0 over three lessons. Each lesson adds concrete deliverables.
+
+### After Lesson 1: Markdown and Your First Repo
+
+**Goal:** Repository exists with a readable homepage.
+
+- [ ] GitHub account ready (if needed)
+- [ ] Public repo created with the correct name
+- [ ] `README.md` added from `student-root-README-template.md`
+- [ ] README includes: your name, grade, course name, and at least one learning goal
+- [ ] At least one commit pushed to GitHub
+- [ ] You can explain: course repo vs student repo
+
+**Repo state after Lesson 1:**
+
+```text
+student-portfolio/
+└── README.md
+```
+
+### After Lesson 2: Commits and Git Workflow
+
+**Goal:** Profile and reflection files exist; commits show real progress.
+
+- [ ] `.gitignore` added (recommended list in [What Not to Upload](#what-not-to-upload))
+- [ ] `profile/about-me.md` written (not empty)
+- [ ] `profile/learning-goals.md` written (not empty)
+- [ ] `reflections/weekly-reflection-01.md` written (not empty)
+- [ ] Multiple commits with clear messages (e.g. "Add profile folder", "Add weekly reflection")
+- [ ] All changes pushed to GitHub
+- [ ] You can explain what a commit is and why `.gitignore` matters
+
+**Repo state after Lesson 2:**
+
+```text
+student-portfolio/
+├── README.md
+├── .gitignore
+├── profile/
+│   ├── about-me.md
+│   └── learning-goals.md
+└── reflections/
+    └── weekly-reflection-01.md
+```
+
+### After Lesson 3: Branch, Pull Request, and Phase 0 Capstone
+
+**Goal:** Phase 0 Final GitHub Task complete; repo link submitted.
+
+- [ ] Branch `update-profile` created
+- [ ] `README.md` updated on that branch
+- [ ] Pull request opened and merged into `main`
+- [ ] [Student GitHub Submission Checklist](#student-github-submission-checklist) completed
+- [ ] Repository URL submitted to teacher
+- [ ] You can explain what a pull request is and why branches are useful
+
+**Optional before Phase 2:** create an empty `ai-literacy/` folder if your teacher asks you to prepare early.
+
+---
+
 ## Full Target Repository Structure
 
 This is the **final target structure** for the whole course.

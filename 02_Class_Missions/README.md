@@ -9,7 +9,7 @@ Each **class mission** is a student task sheet for one session. Your teacher wil
 ## How to Use
 
 1. Start at [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) if this is your first day.
-2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md); Phase 1: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md)).
+2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md); Phase 1 combined path: [Phase_1_Portfolio_Web_Foundations/README.md](Phase_1_Portfolio_Web_Foundations/README.md)).
 3. Follow each block in order.
 4. Submit **learning evidence** before class ends (see Exit Evidence in each mission).
 
@@ -62,6 +62,21 @@ Start: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md)
 | 2 | [lesson-02-publish-and-connect-github.md](Phase_1_Notion_Portfolio/lesson-02-publish-and-connect-github.md) |
 
 Start: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md)
+
+---
+
+## Phase 1: Portfolio Web Foundations
+
+**Combined path:** Notion portfolio → HTML/CSS digital business card → JavaScript interactive profile → React component portfolio.
+
+| Module | Class mission |
+|---|---|
+| 1 | [module-01-notion-portfolio.md](Phase_1_Portfolio_Web_Foundations/module-01-notion-portfolio.md) |
+| 2 | [module-02-html-css-digital-business-card.md](Phase_1_Portfolio_Web_Foundations/module-02-html-css-digital-business-card.md) |
+| 3 | [module-03-javascript-interactive-profile.md](Phase_1_Portfolio_Web_Foundations/module-03-javascript-interactive-profile.md) |
+| 4 | [module-04-react-component-portfolio.md](Phase_1_Portfolio_Web_Foundations/module-04-react-component-portfolio.md) |
+
+Start: [Phase_1_Portfolio_Web_Foundations/README.md](Phase_1_Portfolio_Web_Foundations/README.md)
 
 ---
 

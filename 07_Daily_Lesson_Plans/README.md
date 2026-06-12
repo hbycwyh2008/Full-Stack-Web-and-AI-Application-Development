@@ -11,6 +11,8 @@ Skill Warm-up → Entry Check → Talk Robin 1 → Teacher Pattern → Guided Pr
 
 **80-minute default timing:** 0–20 / 20–30 / 30–34 / 34–45 / 45–60 / 60–72 / 72–76 / 76–80
 
+**Course posters:** [05_Public_Documents/posters/](../05_Public_Documents/posters/README.md) — classroom flow, mastery level, CS competition pathways.
+
 ---
 
 ## Relationship to Other Folders

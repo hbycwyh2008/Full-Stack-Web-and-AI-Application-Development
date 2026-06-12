@@ -2,6 +2,12 @@
 
 Your grade and growth depend on **what you can do**, not only what you watched.
 
+![Mastery Level — Not just working code. Real understanding.](../../05_Public_Documents/posters/mastery-level.png)
+
+*Course poster: [mastery-level.png](../../05_Public_Documents/posters/mastery-level.png)*
+
+> **Running code once is not mastery.** You must explain, rebuild, debug, modify, and submit evidence. See Levels 0–5 below.
+
 ---
 
 ## Level 0: Exposure

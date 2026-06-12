@@ -2,6 +2,10 @@
 
 Use these levels to understand **your** progress. The goal is not “finished the video.” The goal is **what you can do without copying**.
 
+![Mastery Level poster](../../05_Public_Documents/posters/mastery-level.png)
+
+*Course poster: [mastery-level.png](../../05_Public_Documents/posters/mastery-level.png)*
+
 ---
 
 ## Level 0: Exposure

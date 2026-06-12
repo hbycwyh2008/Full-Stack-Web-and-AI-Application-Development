@@ -2,6 +2,12 @@
 
 Each class follows the same **80-minute** structure. Know what you are doing in each block.
 
+![Our Classroom Flow — We learn. Practice. Rebuild. Share.](../../05_Public_Documents/posters/classroom-flow.png)
+
+*Course poster: [classroom-flow.png](../../05_Public_Documents/posters/classroom-flow.png)*
+
+> **Poster vs this guide:** The wall poster shows **seven** steps in a cycle. This guide adds **exact times** for an 80-minute class (Entry Check before Talk Robin 1; Exit Evidence in the last 4 minutes). Follow this guide during class.
+
 ---
 
 ## The Eight Blocks

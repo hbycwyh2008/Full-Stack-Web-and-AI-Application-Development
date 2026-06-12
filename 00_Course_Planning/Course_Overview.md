@@ -8,6 +8,18 @@ Students progress: **Git → Notion → AI Literacy → AI Math Bridge → Figma
 
 ---
 
+## Course Posters
+
+Official classroom visuals: [05_Public_Documents/posters/README.md](../05_Public_Documents/posters/README.md)
+
+| Poster | Purpose |
+|---|---|
+| [Classroom Flow](../05_Public_Documents/posters/classroom-flow.png) | Every class: learn → practice → rebuild → share |
+| [Mastery Level](../05_Public_Documents/posters/mastery-level.png) | Real understanding — not just running code once |
+| [CS Competition Pathways](../05_Public_Documents/posters/cs-competition-pathways.png) | Optional enrichment beyond core course |
+
+---
+
 ## Course Philosophy
 
 > This is not only an AI literacy course. It is an **AI application engineering** course built on top of AI literacy.

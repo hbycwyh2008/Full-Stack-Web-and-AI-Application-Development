@@ -26,6 +26,12 @@ By the end of this unit, students should be able to:
 
 ---
 
+## Course Posters
+
+- [Classroom Flow](../05_Public_Documents/posters/classroom-flow.png)
+- [Mastery Level](../05_Public_Documents/posters/mastery-level.png)
+- [CS Competition Pathways](../05_Public_Documents/posters/cs-competition-pathways.png) (optional)
+
 ## Classroom Model (Every Lesson)
 
 Each lesson follows the course poster flow:

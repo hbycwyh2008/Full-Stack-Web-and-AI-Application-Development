@@ -38,6 +38,24 @@ This is not only an AI literacy course — it is an **AI application engineering
 
 Your portfolio is how you show what you can do. Each project becomes evidence: a working app, a GitHub repo, and a clear explanation. This is what colleges, programs, and employers want to see.
 
+## How Every Class Works
+
+![Our Classroom Flow](posters/classroom-flow.png)
+
+Each class follows a clear cycle: warm-up → discuss → check understanding → learn the core pattern → practice → **rebuild on your own** → share evidence. See [Class Mission Guides](../07_Class_Mission_Guides/README.md) for your daily mission.
+
+![Mastery Level — Real understanding, not just running code](posters/mastery-level.png)
+
+Success means you can **rebuild, explain, modify, and debug** your work — not only copy or run code once.
+
+## Optional: CS Competition Pathways
+
+Want challenges beyond class? See pathways for programming, cybersecurity, AI, and robotics:
+
+![CS Competition Pathways](posters/cs-competition-pathways.png)
+
+Details: [posters/README.md](posters/README.md). Competitions are **optional** — not required for course credit.
+
 ## Final Project: AI School Assistant
 
 You will build a web app that answers real questions like:

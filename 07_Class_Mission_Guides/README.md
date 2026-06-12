@@ -26,6 +26,16 @@ During class, you should have this mission guide open (laptop, tablet, or projec
 
 ---
 
+## Course Posters (Display in Class)
+
+| Poster | Link |
+|---|---|
+| Classroom Flow | [classroom-flow.png](../05_Public_Documents/posters/classroom-flow.png) |
+| Mastery Level | [mastery-level.png](../05_Public_Documents/posters/mastery-level.png) |
+| CS Competition Pathways (optional) | [cs-competition-pathways.png](../05_Public_Documents/posters/cs-competition-pathways.png) |
+
+Index: [05_Public_Documents/posters/README.md](../05_Public_Documents/posters/README.md)
+
 ## How Every Class Works (80 Minutes)
 
 See `shared/classroom-flow.md` for the full flow.

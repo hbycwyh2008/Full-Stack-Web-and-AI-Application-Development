@@ -2,6 +2,8 @@
 
 This course is **not** a typing-along exercise. Students are expected to develop real engineering habits: reading code, debugging problems, asking thoughtful questions, and reflecting on what they learn.
 
+**Course posters:** [Classroom Flow](../05_Public_Documents/posters/classroom-flow.png) · [Mastery Level](../05_Public_Documents/posters/mastery-level.png) · [Posters index](../05_Public_Documents/posters/README.md)
+
 > **Core expectation:** You may use AI and follow guided steps, but you must be able to explain what the code does, find and fix problems yourself, and show evidence of your own thinking.
 
 ---

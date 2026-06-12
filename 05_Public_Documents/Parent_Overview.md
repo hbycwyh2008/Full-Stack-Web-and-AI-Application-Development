@@ -1,5 +1,7 @@
 # Parent Overview
 
+**Classroom posters:** [Classroom Flow](posters/classroom-flow.png) · [Mastery Level](posters/mastery-level.png) · [CS Competition Pathways](posters/cs-competition-pathways.png) (optional)
+
 ## Course Value
 
 This course teaches students to build real full-stack web applications using professional tools. Students start with **Git & GitHub**, then **AI literacy**, then portfolio and design (Notion, Figma), then coding (Next.js, TypeScript, lightweight FastAPI), and finish with the **AI School Assistant**.

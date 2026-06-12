@@ -2,6 +2,10 @@
 
 Use these levels to describe **student independence**, not “finished the video.”
 
+![Mastery Level poster](../../05_Public_Documents/posters/mastery-level.png)
+
+*Poster: [05_Public_Documents/posters/mastery-level.png](../../05_Public_Documents/posters/mastery-level.png)*
+
 ---
 
 ## Level 0: Exposure

@@ -120,6 +120,7 @@ full-stack-web-ai-application-development/
 ├── 07_Class_Mission_Guides/ # Student-facing per-class mission guides
 ├── git-github-unit/         # Phase 0 supplement — handouts, rubrics, parent overview
 ├── 05_Public_Documents/
+│   └── posters/             # classroom flow, mastery level, CS competition posters
 └── 06_Starter_Code/         # teacher demo + full RAG app
 ```
 

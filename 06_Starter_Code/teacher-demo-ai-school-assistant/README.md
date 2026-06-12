@@ -78,3 +78,7 @@ Check that the backend allows `http://localhost:3000`.
 
 ### Empty or irrelevant answer
 Try asking about late homework, exam review, AI usage, or project submission.
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

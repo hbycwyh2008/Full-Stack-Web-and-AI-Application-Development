@@ -73,3 +73,7 @@ The `generate_answer()` function in `main.py` is a **placeholder**. It does not 
 - **No real API key is used yet.** The demo runs fully without one.
 - `python-dotenv` is included in `requirements.txt` so the later real-LLM version can read a key from `.env`, but the current demo does **not** call a real LLM.
 - Never commit a real `.env` file (it is already gitignored).
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

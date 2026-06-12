@@ -23,3 +23,7 @@ OpenAI embeddings + chat
 ```
 
 Migrated from [hbycwyh2008/ai_school_handbook](https://github.com/hbycwyh2008/ai_school_handbook).
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

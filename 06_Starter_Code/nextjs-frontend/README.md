@@ -25,3 +25,7 @@ Open http://localhost:3000 (requires the FastAPI backend on port 8000).
 | `app/page.js` | Main UI — ingest, ask, sources |
 | `app/globals.css` | Styles |
 | `.env.local.example` | Backend URL config |
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

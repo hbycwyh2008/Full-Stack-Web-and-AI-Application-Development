@@ -22,7 +22,7 @@ Portfolio, GitHub, Next.js, FastAPI, Cursor, and AI-Powered Applications
 
 This course is not simply about using AI tools. It is about helping students understand, build, document, and present real AI-powered web applications.
 
-> **Canonical curriculum (latest):** See repository `README.md` (including **Course Repository vs Student Repository**), `00_Course_Planning/Learning_Pathway_Map.md`, `01_Student_Templates/Student_GitHub_Repository_Guide.md`, and `00_AI_Math_Bridge/README.md`. Phases **0–11** include **AI Math Bridge: Linear Algebra for AI** after AI Literacy and before Figma.
+> **Canonical curriculum (latest):** See repository `README.md` (including **Course Repository vs Student Repository**), `00_Course_Overview/Learning_Pathway_Map.md`, `03_Templates/Student_GitHub_Repository_Guide.md`, and `05_Resources/AI_Math_Bridge/README.md`. Phases **0–11** include **AI Math Bridge: Linear Algebra for AI** after AI Literacy and before Figma.
 
 **Student personal repository:** Each student maintains `student-portfolio` (or `student-name-full-stack-ai-portfolio`) for evidence — separate from this teacher course repo.
 
@@ -30,7 +30,7 @@ This course is not simply about using AI tools. It is about helping students und
 
 ## 2.5 AI Math Bridge: Linear Algebra for AI (Phase 3)
 
-Short, practical bridge — **not** a full traditional linear algebra course. See `00_AI_Math_Bridge/README.md` (10 lesson guides), `AI_Math_Bridge_Overview.md`, and `04_Lesson_Materials/Phase_3_AI_Math_Bridge_Linear_Algebra.md`.
+Short, practical bridge — **not** a full traditional linear algebra course. See `05_Resources/AI_Math_Bridge/README.md` (10 lesson guides), `AI_Math_Bridge_Overview.md`, and `09_Teacher_Planning/Phase_Overviews/Phase_3_AI_Math_Bridge_Linear_Algebra.md`.
 
 **Learning path (summary):**
 
@@ -472,30 +472,30 @@ full-stack-web-ai-application-development/
 │
 ├── README.md
 │
-├── 00_Course_Planning/
+├── 00_Course_Overview/
 │   ├── Course_Overview.md
 │   ├── Learning_Pathway_Map.md
 │   ├── Video_Resource_List.md
 │   └── Teacher_Preparation_Checklist.md
 │
-├── 01_Student_Templates/
+├── 03_Templates/
 │   ├── Student_Portfolio_Template.md
 │   ├── README_Template.md
 │   ├── Project_Submission_Template.md
 │   ├── AI_Usage_Reflection_Template.md
 │   └── Learning_Journal_Template.md
 │
-├── 02_Assessment/
+├── 04_Assessment/
 │   ├── Assessment_Rubric.md
 │   ├── Presentation_Rubric.md
 │   └── AI_Usage_Policy.md
 │
-├── 03_Final_Project/
+├── 07_Final_Project/
 │   ├── Final_Project_Specification.md
 │   ├── AI_School_Assistant_Requirements.md
 │   └── Teacher_Demo_Project_Plan.md
 │
-├── 04_Lesson_Materials/
+├── 09_Teacher_Planning/Phase_Overviews/
 │   ├── Phase_0_Portfolio.md
 │   ├── Phase_1_GitHub_Markdown.md
 │   ├── Phase_2_Cursor_Quick_Win.md
@@ -504,7 +504,7 @@ full-stack-web-ai-application-development/
 │   ├── Phase_5_Full_Stack_Integration.md
 │   └── Phase_6_Cursor_Capstone.md
 │
-├── 05_Public_Documents/
+├── 08_Public_Documents/
 │   ├── Student_Overview.md
 │   ├── Parent_Overview.md
 │   └── School_Proposal.md
@@ -525,31 +525,31 @@ Initial files:
 
 ```text
 README.md
-00_Course_Planning/Course_Overview.md
-00_Course_Planning/Learning_Pathway_Map.md
-00_Course_Planning/Video_Resource_List.md
-01_Student_Templates/Student_Portfolio_Template.md
-01_Student_Templates/README_Template.md
-02_Assessment/AI_Usage_Policy.md
-02_Assessment/Assessment_Rubric.md
-03_Final_Project/Final_Project_Specification.md
+00_Course_Overview/Course_Overview.md
+00_Course_Overview/Learning_Pathway_Map.md
+00_Course_Overview/Video_Resource_List.md
+03_Templates/Student_Portfolio_Template.md
+03_Templates/README_Template.md
+04_Assessment/AI_Usage_Policy.md
+04_Assessment/Assessment_Rubric.md
+07_Final_Project/Final_Project_Specification.md
 ```
 
 After these are stable, create:
 
 ```text
-03_Final_Project/AI_School_Assistant_Requirements.md
-03_Final_Project/Teacher_Demo_Project_Plan.md
-04_Lesson_Materials/Phase_0_Portfolio.md
-04_Lesson_Materials/Phase_1_GitHub_Markdown.md
-04_Lesson_Materials/Phase_2_Cursor_Quick_Win.md
-04_Lesson_Materials/Phase_3_NextJS_Frontend.md
-04_Lesson_Materials/Phase_4_FastAPI_Backend.md
-04_Lesson_Materials/Phase_5_Full_Stack_Integration.md
-04_Lesson_Materials/Phase_6_Cursor_Capstone.md
-05_Public_Documents/Student_Overview.md
-05_Public_Documents/Parent_Overview.md
-05_Public_Documents/School_Proposal.md
+07_Final_Project/AI_School_Assistant_Requirements.md
+07_Final_Project/Teacher_Demo_Project_Plan.md
+09_Teacher_Planning/Phase_Overviews/Phase_0_Portfolio.md
+09_Teacher_Planning/Phase_Overviews/Phase_1_GitHub_Markdown.md
+09_Teacher_Planning/Phase_Overviews/Phase_2_Cursor_Quick_Win.md
+09_Teacher_Planning/Phase_Overviews/Phase_3_NextJS_Frontend.md
+09_Teacher_Planning/Phase_Overviews/Phase_4_FastAPI_Backend.md
+09_Teacher_Planning/Phase_Overviews/Phase_5_Full_Stack_Integration.md
+09_Teacher_Planning/Phase_Overviews/Phase_6_Cursor_Capstone.md
+08_Public_Documents/Student_Overview.md
+08_Public_Documents/Parent_Overview.md
+08_Public_Documents/School_Proposal.md
 ```
 
 ---
@@ -575,12 +575,12 @@ Do not generate a full software application yet. First generate the curriculum r
 Create the folder structure:
 
 ```text
-00_Course_Planning/
-01_Student_Templates/
-02_Assessment/
-03_Final_Project/
-04_Lesson_Materials/
-05_Public_Documents/
+00_Course_Overview/
+03_Templates/
+04_Assessment/
+07_Final_Project/
+09_Teacher_Planning/Phase_Overviews/
+08_Public_Documents/
 06_Starter_Code/
 ```
 
@@ -621,10 +621,10 @@ Use the title:
 Create:
 
 ```text
-00_Course_Planning/Course_Overview.md
-00_Course_Planning/Learning_Pathway_Map.md
-00_Course_Planning/Video_Resource_List.md
-00_Course_Planning/Teacher_Preparation_Checklist.md
+00_Course_Overview/Course_Overview.md
+00_Course_Overview/Learning_Pathway_Map.md
+00_Course_Overview/Video_Resource_List.md
+00_Course_Overview/Teacher_Preparation_Checklist.md
 ```
 
 Content requirements:
@@ -701,11 +701,11 @@ Include:
 Create:
 
 ```text
-01_Student_Templates/Student_Portfolio_Template.md
-01_Student_Templates/README_Template.md
-01_Student_Templates/Project_Submission_Template.md
-01_Student_Templates/AI_Usage_Reflection_Template.md
-01_Student_Templates/Learning_Journal_Template.md
+03_Templates/Student_Portfolio_Template.md
+03_Templates/README_Template.md
+03_Templates/Project_Submission_Template.md
+03_Templates/AI_Usage_Reflection_Template.md
+03_Templates/Learning_Journal_Template.md
 ```
 
 Requirements:
@@ -776,9 +776,9 @@ Include weekly reflection prompts:
 Create:
 
 ```text
-02_Assessment/Assessment_Rubric.md
-02_Assessment/Presentation_Rubric.md
-02_Assessment/AI_Usage_Policy.md
+04_Assessment/Assessment_Rubric.md
+04_Assessment/Presentation_Rubric.md
+04_Assessment/AI_Usage_Policy.md
 ```
 
 Requirements:
@@ -823,9 +823,9 @@ Include:
 Create:
 
 ```text
-03_Final_Project/Final_Project_Specification.md
-03_Final_Project/AI_School_Assistant_Requirements.md
-03_Final_Project/Teacher_Demo_Project_Plan.md
+07_Final_Project/Final_Project_Specification.md
+07_Final_Project/AI_School_Assistant_Requirements.md
+07_Final_Project/Teacher_Demo_Project_Plan.md
 ```
 
 Requirements:
@@ -889,13 +889,13 @@ Notion portfolio page
 Create:
 
 ```text
-04_Lesson_Materials/Phase_0_Portfolio.md
-04_Lesson_Materials/Phase_1_GitHub_Markdown.md
-04_Lesson_Materials/Phase_2_Cursor_Quick_Win.md
-04_Lesson_Materials/Phase_3_NextJS_Frontend.md
-04_Lesson_Materials/Phase_4_FastAPI_Backend.md
-04_Lesson_Materials/Phase_5_Full_Stack_Integration.md
-04_Lesson_Materials/Phase_6_Cursor_Capstone.md
+09_Teacher_Planning/Phase_Overviews/Phase_0_Portfolio.md
+09_Teacher_Planning/Phase_Overviews/Phase_1_GitHub_Markdown.md
+09_Teacher_Planning/Phase_Overviews/Phase_2_Cursor_Quick_Win.md
+09_Teacher_Planning/Phase_Overviews/Phase_3_NextJS_Frontend.md
+09_Teacher_Planning/Phase_Overviews/Phase_4_FastAPI_Backend.md
+09_Teacher_Planning/Phase_Overviews/Phase_5_Full_Stack_Integration.md
+09_Teacher_Planning/Phase_Overviews/Phase_6_Cursor_Capstone.md
 ```
 
 Each file should include:
@@ -915,9 +915,9 @@ Each file should include:
 Create:
 
 ```text
-05_Public_Documents/Student_Overview.md
-05_Public_Documents/Parent_Overview.md
-05_Public_Documents/School_Proposal.md
+08_Public_Documents/Student_Overview.md
+08_Public_Documents/Parent_Overview.md
+08_Public_Documents/School_Proposal.md
 ```
 
 Requirements:
@@ -1018,12 +1018,12 @@ Do not generate the full software application yet. First create the curriculum d
 
 Create this folder structure:
 
-00_Course_Planning/
-01_Student_Templates/
-02_Assessment/
-03_Final_Project/
-04_Lesson_Materials/
-05_Public_Documents/
+00_Course_Overview/
+03_Templates/
+04_Assessment/
+07_Final_Project/
+09_Teacher_Planning/Phase_Overviews/
+08_Public_Documents/
 06_Starter_Code/
 06_Starter_Code/nextjs-frontend/
 06_Starter_Code/fastapi-backend/
@@ -1033,36 +1033,36 @@ Create these files:
 
 README.md
 
-00_Course_Planning/Course_Overview.md
-00_Course_Planning/Learning_Pathway_Map.md
-00_Course_Planning/Video_Resource_List.md
-00_Course_Planning/Teacher_Preparation_Checklist.md
+00_Course_Overview/Course_Overview.md
+00_Course_Overview/Learning_Pathway_Map.md
+00_Course_Overview/Video_Resource_List.md
+00_Course_Overview/Teacher_Preparation_Checklist.md
 
-01_Student_Templates/Student_Portfolio_Template.md
-01_Student_Templates/README_Template.md
-01_Student_Templates/Project_Submission_Template.md
-01_Student_Templates/AI_Usage_Reflection_Template.md
-01_Student_Templates/Learning_Journal_Template.md
+03_Templates/Student_Portfolio_Template.md
+03_Templates/README_Template.md
+03_Templates/Project_Submission_Template.md
+03_Templates/AI_Usage_Reflection_Template.md
+03_Templates/Learning_Journal_Template.md
 
-02_Assessment/Assessment_Rubric.md
-02_Assessment/Presentation_Rubric.md
-02_Assessment/AI_Usage_Policy.md
+04_Assessment/Assessment_Rubric.md
+04_Assessment/Presentation_Rubric.md
+04_Assessment/AI_Usage_Policy.md
 
-03_Final_Project/Final_Project_Specification.md
-03_Final_Project/AI_School_Assistant_Requirements.md
-03_Final_Project/Teacher_Demo_Project_Plan.md
+07_Final_Project/Final_Project_Specification.md
+07_Final_Project/AI_School_Assistant_Requirements.md
+07_Final_Project/Teacher_Demo_Project_Plan.md
 
-04_Lesson_Materials/Phase_0_Portfolio.md
-04_Lesson_Materials/Phase_1_GitHub_Markdown.md
-04_Lesson_Materials/Phase_2_Cursor_Quick_Win.md
-04_Lesson_Materials/Phase_3_NextJS_Frontend.md
-04_Lesson_Materials/Phase_4_FastAPI_Backend.md
-04_Lesson_Materials/Phase_5_Full_Stack_Integration.md
-04_Lesson_Materials/Phase_6_Cursor_Capstone.md
+09_Teacher_Planning/Phase_Overviews/Phase_0_Portfolio.md
+09_Teacher_Planning/Phase_Overviews/Phase_1_GitHub_Markdown.md
+09_Teacher_Planning/Phase_Overviews/Phase_2_Cursor_Quick_Win.md
+09_Teacher_Planning/Phase_Overviews/Phase_3_NextJS_Frontend.md
+09_Teacher_Planning/Phase_Overviews/Phase_4_FastAPI_Backend.md
+09_Teacher_Planning/Phase_Overviews/Phase_5_Full_Stack_Integration.md
+09_Teacher_Planning/Phase_Overviews/Phase_6_Cursor_Capstone.md
 
-05_Public_Documents/Student_Overview.md
-05_Public_Documents/Parent_Overview.md
-05_Public_Documents/School_Proposal.md
+08_Public_Documents/Student_Overview.md
+08_Public_Documents/Parent_Overview.md
+08_Public_Documents/School_Proposal.md
 
 06_Starter_Code/nextjs-frontend/README.md
 06_Starter_Code/fastapi-backend/README.md

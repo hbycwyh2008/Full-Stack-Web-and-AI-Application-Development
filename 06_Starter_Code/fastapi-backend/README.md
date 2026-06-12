@@ -41,3 +41,7 @@ API docs: http://localhost:8000/docs
 | `services/chroma_client.py` | ChromaDB storage and query |
 | `services/retrieve_chunks.py` | Vector search |
 | `services/generate_answer.py` | LLM answer generation |
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

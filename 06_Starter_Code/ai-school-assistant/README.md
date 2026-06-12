@@ -123,8 +123,12 @@ See `.env.example` (backend) and `frontend/.env.local.example`.
 
 - Never commit `.env` or API keys.
 - `.gitignore` excludes uploads and secrets.
-- Students must disclose AI usage per `02_Assessment/AI_Usage_Policy.md`.
+- Students must disclose AI usage per `04_Assessment/AI_Usage_Policy.md`.
 
 ## Testing
 
 See `TESTING.md` for a manual test checklist.
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

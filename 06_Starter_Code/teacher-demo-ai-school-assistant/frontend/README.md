@@ -23,3 +23,7 @@ Then open http://localhost:3000
 - `app/page.js` — the main page and the fetch request to the backend.
 - `app/layout.js` — the root layout.
 - `app/globals.css` — simple styles.
+
+---
+
+Source code in this folder is licensed under the MIT License unless otherwise stated.

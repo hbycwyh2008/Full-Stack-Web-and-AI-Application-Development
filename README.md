@@ -41,12 +41,12 @@ GitHub proves **technical process and project history**. Notion presents the **b
 
 1. Read `00_Course_Planning/Course_Overview.md`
 2. Check `00_Course_Planning/Course_Pacing_Guide.md`
-3. **Phase 0:** `04_Lesson_Materials/Phase_0_Git_GitHub.md`
+3. **Phase 0:** `04_Lesson_Materials/Phase_0_Git_GitHub.md` and **[Daily Lesson Plans — Phase 0](07_Daily_Lesson_Plans/README.md)** (ready-to-teach 80-minute sessions)
 4. **Phase 2:** `00_AI_Literacy/AI_Literacy_Overview.md`
 5. **Phase 3:** `00_AI_Math_Bridge/README.md`
-6. **Students:** `01_Student_Templates/Student_GitHub_Repository_Guide.md` — personal repo setup
+6. **Students:** **[Class Mission Guides](07_Class_Mission_Guides/README.md)** — open today’s mission during class; `01_Student_Templates/Student_GitHub_Repository_Guide.md` — portfolio setup
 7. Use `01_Student_Templates/` for portfolio, GitHub, README, and reflection templates
-8. Teach phase by phase from `04_Lesson_Materials/` (Phases 0–11)
+8. **Daily plans:** `07_Daily_Lesson_Plans/README.md` — session-by-session classroom scripts (Phase 0 available)
 9. Use `03_Final_Project/Teacher_Demo_Cursor_Prompt.md` for the teacher demo design
 10. Use `06_Starter_Code/ai-school-assistant/` for the **full RAG implementation** (Next.js + FastAPI + ChromaDB)
 11. Use `06_Starter_Code/teacher-demo-ai-school-assistant/` for the **minimal teaching demo**
@@ -115,7 +115,10 @@ full-stack-web-ai-application-development/
 ├── 01_Student_Templates/
 ├── 02_Assessment/
 ├── 03_Final_Project/
-├── 04_Lesson_Materials/     # Phase_0 … Phase_11
+├── 04_Lesson_Materials/     # Phase_0 … Phase_11 (phase overviews)
+├── 07_Daily_Lesson_Plans/   # Teacher session-by-session lesson plans
+├── 07_Class_Mission_Guides/ # Student-facing per-class mission guides
+├── git-github-unit/         # Phase 0 supplement — handouts, rubrics, parent overview
 ├── 05_Public_Documents/
 └── 06_Starter_Code/         # teacher demo + full RAG app
 ```
@@ -124,17 +127,19 @@ full-stack-web-ai-application-development/
 
 ## How Teachers Should Use This Repository
 
-1. Start with **Phase 0 Git & GitHub**, then **Phases 1–3** (Notion, AI Literacy, AI Math Bridge).
-2. Review `Course_Overview.md` and `Learning_Pathway_Map.md`.
-3. Review `02_Assessment/` rubrics, **student learning expectations**, and AI usage policy.
-4. Use `03_Final_Project/` and starter code in `06_Starter_Code/`.
-5. Run the teacher demo walkthrough before Phase 10 (Cursor).
-6. Deliver lessons from `04_Lesson_Materials/` in order.
+1. Start with **Phase 0 Git & GitHub** — teach from **`07_Daily_Lesson_Plans/Phase_0_Git_GitHub/`** (daily 80-minute plans).
+2. Use **`04_Lesson_Materials/`** for phase goals and submission requirements (not session-by-session timing).
+3. Review `Course_Overview.md` and `Learning_Pathway_Map.md`.
+4. Review `02_Assessment/` rubrics, **student learning expectations**, and AI usage policy.
+5. Use `03_Final_Project/` and starter code in `06_Starter_Code/`.
+6. Run the teacher demo walkthrough before Phase 10 (Cursor).
+7. Continue phase overviews from `04_Lesson_Materials/`; add future daily plans under `07_Daily_Lesson_Plans/` as published.
 
 ---
 
 ## How Student-Facing Materials Are Organized
 
+- **Class Mission Guides** (`07_Class_Mission_Guides/`) — **student-facing per-class mission guides**; open during class and follow step by step (Phase 0 Git & GitHub available).
 - **AI Literacy** (`00_AI_Literacy/`) — Phase 2 study guides and responsible AI checklist.
 - **AI Math Bridge** (`00_AI_Math_Bridge/`) — Phase 3 math intuition for AI/ML/CV.
 - **Student GitHub Guide** (`01_Student_Templates/Student_GitHub_Repository_Guide.md`) — personal repo structure and Phase 0 task.

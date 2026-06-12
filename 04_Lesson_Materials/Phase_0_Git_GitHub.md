@@ -3,6 +3,12 @@
 ## Phase Goal
 Learn Git and GitHub as the first course phase — your long-term project archive and portfolio evidence before AI literacy and coding.
 
+**Daily lesson plans (6 × 80 min):** `07_Daily_Lesson_Plans/Phase_0_Git_GitHub/` — teacher session plans. Index: `07_Daily_Lesson_Plans/README.md`.
+
+**Class mission guides (students):** `07_Class_Mission_Guides/Phase_0_Git_GitHub/` — student-facing missions students open during class. Index: `07_Class_Mission_Guides/README.md`.
+
+**Supplement:** `git-github-unit/` — extended handouts, parent overview, detailed rubrics. Unit repo name for daily lessons: `cs-learning-log`. Portfolio sign-off may still use `student-portfolio` per `Student_GitHub_Repository_Guide.md` — teacher chooses merge path.
+
 ## Key Concepts
 - What Git and GitHub are; repository, commit, branch, pull request, merge.
 - Clone, push, pull, and `.gitignore`.
@@ -46,7 +52,7 @@ Add these when your teacher asks, or when you reach each phase. The full target 
 Each student must:
 
 1. Create a personal GitHub repository.
-2. Name it `student-portfolio` or `student-name-full-stack-ai-portfolio`.
+2. Name it `student-name-full-stack-ai-portfolio`.
 3. Add a root `README.md`.
 4. Create the required folder structure.
 5. Make at least one commit.

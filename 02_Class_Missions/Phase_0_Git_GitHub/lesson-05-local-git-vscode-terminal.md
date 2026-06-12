@@ -4,127 +4,76 @@
 
 ---
 
-## Today’s Mission
+## Lesson Goal
 
-You will connect **editing on your computer** to **GitHub** using: change file → `git status` → `git add` → `git commit` → `git push` → check GitHub.
+By the end of this lesson, students should be able to:
 
-If your class uses **web fallback** (devices not ready), you will do the same **pattern** on github.com and write `lesson-05/notes.md` explaining commit vs push.
-
----
-
-## Why This Matters
-
-Saving a file on your laptop does **not** update GitHub until you **commit** and **push**. Developers use this workflow daily. You need it for Next.js and FastAPI projects later.
+1. Explain the difference between **save**, **commit**, and **push**
+2. Run the local workflow: change file → `git status` → `git add` → `git commit` → `git push` → check GitHub  
+   **OR** complete the **web fallback** pattern with written explanation in `lesson-05/notes.md`
+3. Show evidence (terminal or web commits) and explain each step
 
 ---
 
-## Resources
+## Required Resource
 
-| Resource | URL | Your use |
-|---|---|---|
-| GitHub Docs: Quickstart | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Clone reference |
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Optional local setup clip |
-
-**Cheatsheet:** `05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md` (if your teacher shares it)
-
----
-
-## Core Vocabulary
-
-| Word | Meaning |
+| | |
 |---|---|
-| **Local** | On your computer |
-| **Remote** | On GitHub |
-| **Stage (`git add`)** | Prepare changes for commit |
-| **Push** | Upload commits to GitHub |
+| **Resource name** | Git & GitHub Command Cheatsheet (course handout) |
+| **Link** | `05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md` (teacher shares path or copy in LMS) |
+| **Required section** | Read **only:** `git status`, `git add`, `git commit`, `git push` rows + “Save vs Commit vs Push” |
+| **Why this resource** | One page with the exact commands for today — no playlist, no extra tutorials |
+
+If your teacher prints the cheatsheet, use the paper copy instead of searching other links.
 
 ---
 
-## Core Pattern
+## What to Focus On
+
+While reading the cheatsheet, focus **only** on:
+
+1. What `git status` shows
+2. What `git add` does (stage changes)
+3. What `git commit` does (local snapshot)
+4. What `git push` does (upload to GitHub)
+5. Why **save in editor ≠ commit ≠ push**
+
+**Required notes:**
 
 ```text
-change file → git status → git add . → git commit -m "message" → git push → check GitHub
+git status tells me...
+git add prepares...
+git commit saves locally...
+git push uploads...
+Save vs commit vs push: ...
+One thing I still do not understand is...
 ```
 
-**What each command does for you:**
+---
 
-| Command | You use it to… |
-|---|---|
-| `git status` | **Check current state** — what changed? |
-| `git add .` | **Prepare changes** for commit |
-| `git commit -m "..."` | **Record local version** |
-| `git push` | **Upload commits** to GitHub |
+## Optional Support Resources
 
-**Remember:** Save in editor ≠ commit ≠ push.
+Use **only if stuck:**
+
+1. **GitHub Docs: Quickstart** (clone/edit on web — web fallback path) — https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
 
 ---
 
-## Mastery Target
+## Teacher Reference Only
 
-| Path | Level |
-|---|---|
-| Local Git | Level 3 with checklist |
-| Web fallback | Level 2–3 |
-| Stretch | Level 4 — full sequence without cheatsheet |
+- GitHub for Beginners Playlist
+- Full `git-github-command-cheatsheet.md` advanced sections
+- VS Code Source Control docs
 
 ---
 
-## Class Flow (90 Minutes)
+## Mini Skill: What You Need Before This Task
 
-### 0–15 min: Self Learning / Skill Warm-up
+1. **Lessons 1–4 complete** — repo with folders, commits, `lesson-04/notes.md`
+2. **Local path:** Git installed, repo cloned to your computer, VS Code (or editor) + terminal
+3. **Web fallback:** if local setup not ready — edit on github.com; write `lesson-05/notes.md` explaining what push would do later
 
-**You work independently:**
-
-**Local path:** Watch demo of `git status`. Predict what happens after you edit a file without commit.
-
-**Web fallback:** Read Save vs Commit vs Push table with partner notes allowed **after** you draft alone first.
-
-**You write:** one sentence difference between commit and push (draft for Exit Evidence).
-
----
-
-### 15–25 min: Talk Robin 1
-
-**Each student speaks:**
-
-- **You:** “Commit is local; push is…”
-- **Partner:** “If GitHub shows old README, I check…”
-- **Together:** One terminal fear to normalize.
-
----
-
-### 25–32 min: Group Answer
-
-**Your group prepares:**
-
-1. One sentence: what `git status` tells you
-2. One sentence: difference between **commit** and **push**
-3. One sentence: what folder you must be in for git commands
-4. One question for the teacher
-
----
-
-### 32–42 min: Entry Points Check
-
-**Not mainly for grading.**
-
-**Self-check:**
-
-1. What does `git status` tell you?
-2. Difference between **commit** and **push**?
-3. If you save locally but don’t push, does GitHub update?
-4. What folder must you be in for git commands?
-5. Good commit message for “updated learning-log Lesson 5”?
-
----
-
-### 42–55 min: Teacher Explanation / Core Pattern
-
-**Local demo you follow:**
-
-1. Open `cs-learning-log` in VS Code (clone if needed)
-2. Edit `README.md` or `learning-log.md` — add “Lesson 5: local Git practice”
-3. In terminal **inside repo folder:**
+**Command sequence (local):**
 
 ```bash
 git status
@@ -133,61 +82,127 @@ git commit -m "Add Lesson 5 note on local Git workflow"
 git push
 ```
 
-4. Browser → GitHub → **Commits** — see new commit
+**Core pattern:**
 
-**Web fallback you follow:**
+```text
+change file → git status → git add → git commit → git push → check GitHub
+```
 
-- Edit files on github.com → commit twice (meaningful messages)
-- You will write `lesson-05/notes.md` explaining what **push** would do when local is ready
-
-Teacher explains **unclear parts only**.
-
----
-
-### 55–70 min: Guided Practice
-
-**With teacher support:**
-
-**Local:** You clone/pull → edit → run full command sequence.
-
-**Web:** You edit `learning-log.md` + create `lesson-05/notes.md` with two web commits.
-
-Ask teacher if auth fails — do not skip evidence.
+| Command | Purpose |
+|---|---|
+| `git status` | See what changed |
+| `git add .` | Stage changes |
+| `git commit -m "..."` | Save local snapshot |
+| `git push` | Upload to GitHub |
 
 ---
 
-### 70–83 min: Independent Rebuild
+## 90-Minute Class Flow
 
-**Repeat with less help.**
+### 0–10 min: Entry Point Check
 
-**Local checklist:**
+**Task — answer individually:**
 
-- [ ] Edited `README.md` or `learning-log.md`
+1. If you edit README on GitHub web, is that the same as `git push`? Why or why not?
+2. What does `git status` tell you?
+3. What is the difference between **commit** and **push**?
+4. Are you on **local path** or **web fallback** today?
+
+**Teacher checks:** Who thinks saving a file updates GitHub automatically?
+
+**Student output:** Four answers + path choice.
+
+---
+
+### 10–25 min: Individual Learning
+
+Read **required cheatsheet section** and complete **six required notes**.
+
+Predict: “If I save locally but don’t push, GitHub shows ___.”
+
+**Student output:** Filled note template.
+
+---
+
+### 25–40 min: Talk Round 1
+
+**Each student speaks:**
+
+1. “Commit is local; push is…”
+2. “If GitHub shows old README, I check…”
+3. One terminal fear to normalize
+
+**Student output:** Pair agrees on one question for teacher.
+
+---
+
+### 40–55 min: Entry Points Check / Teacher Diagnosis
+
+**Group shared answer:**
+
+1. One sentence: `git status`
+2. One sentence: commit vs push
+3. One sentence: save vs commit
+4. Which path: local or web fallback
+5. One question for the teacher
+
+**Teacher explains** unclear parts only.
+
+**Local demo sequence:**
+
+1. Open cloned `cs-learning-log` in VS Code
+2. Edit `README.md` or `learning-log.md` — add “Lesson 5: local Git practice”
+3. Run command sequence in repo folder
+4. Verify on GitHub **Commits** tab
+
+**Web fallback:** Edit on github.com; create `lesson-05/notes.md` explaining commit vs push; two meaningful web commits.
+
+---
+
+### 55–75 min: Guided Practice / Mission Task
+
+**Local — with support, then less help:**
+
+- [ ] Edit file
 - [ ] `git status` before add
 - [ ] `git add` + `git commit` with meaningful message
 - [ ] `git push` succeeded
 - [ ] GitHub Commits tab updated
 - [ ] Terminal screenshot saved
 
-**Web fallback checklist:**
+**Web fallback:**
 
 - [ ] Two web commits with meaningful messages
 - [ ] `lesson-05/notes.md` explains commit vs push
 - [ ] Note: “Web workflow today — local push later”
 
-**Do not use AI for full command sequence paste during this block.**
+**No AI full command paste** during this block (`../shared/ai-use-during-practice.md`).
 
 ---
 
-### 83–90 min: Talk Robin 2 + Evidence
+### 75–85 min: Exit Check
 
-**Local you submit:**
+1. What command sequence did you run (or web steps)?
+2. What proof shows push worked (or deferred)?
+3. One sentence: commit vs push?
 
-1. Terminal screenshot (status/add/commit/push)
+---
+
+### 85–90 min: Submission
+
+Submit evidence (below).
+
+---
+
+## What You Must Submit
+
+**Local path:**
+
+1. Terminal screenshot (status / add / commit / push)
 2. GitHub screenshot after push
-3. One sentence: difference between **commit** and **push**?
+3. One sentence: difference between **commit** and **push**
 
-**Web you submit:**
+**Web fallback:**
 
 1. Web commit screenshot(s)
 2. Link to `lesson-05/notes.md`
@@ -195,22 +210,23 @@ Ask teacher if auth fails — do not skip evidence.
 
 ---
 
-## What You Must Submit
+## Success Criteria
 
-| Path | Evidence |
-|---|---|
-| Local | Terminal screenshot + GitHub screenshot + one sentence |
-| Web | Web commit screenshot(s) + `lesson-05/notes.md` + one sentence |
+1. File change visible on GitHub with meaningful commit message(s)
+2. You can explain save → commit → push in order
+3. Evidence matches your path (local or web)
+
+**Mastery:** Level 3 — full sequence with checklist; Level 4 — without cheatsheet.
 
 ---
 
-## Mastery Check
+## Teacher Checkpoints
 
-| Level | You… |
-|---|---|
-| **Level 3** | Full sequence with checklist |
-| **Level 4** | Sequence without cheatsheet |
-| **Level 5** | Debug peer “nothing to commit” or auth error (hints) |
+1. Can students run `git status` in the correct folder?
+2. Can students explain why `nothing to commit` happens?
+3. Can students show GitHub updated after push (or explain web path)?
+4. Can students distinguish commit vs push orally?
+5. Did students try before asking for auth/help?
 
 ---
 
@@ -218,14 +234,7 @@ Ask teacher if auth fails — do not skip evidence.
 
 | Problem | Try first |
 |---|---|
-| `not a git repository` | `cd` into your repo folder |
-| `nothing to commit` | Did you `git add`? |
+| `not a git repository` | `cd` into cloned repo folder |
+| `nothing to commit` | Did you save and `git add`? |
 | GitHub unchanged | Did you `git push`? |
-| Auth failed on push | Ask teacher — PAT or GitHub Desktop |
-
----
-
-## Optional Extension
-
-- `git log --oneline` in terminal
-- VS Code Source Control UI (same ideas)
+| Auth failed | Ask teacher — PAT or GitHub Desktop |

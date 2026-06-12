@@ -2,195 +2,175 @@
 
 **Your repo:** `cs-learning-log` (you create it today)
 
-**Class length:** 90 minutes
+---
+
+## Lesson Goal
+
+By the end of this lesson, students should be able to:
+
+1. Explain what GitHub is used for in this course (learning evidence, not only code storage)
+2. Create a GitHub repository named `cs-learning-log` with a meaningful `README.md`
+3. Make a commit, read commit history, and submit evidence they can explain
+
+Running through the steps once is **not mastery**. You must be able to **repeat the core pattern** and **explain what you did**.
 
 ---
 
-## Today’s Mission
+## Required Resource
 
-By the end of class you will:
+Students must use this **one** main resource during Individual Learning (10–25 min):
 
-1. Understand **how this course works** — not a lecture-only class
-2. Know **mastery levels 0–5** and what counts as real learning
-3. Create your GitHub repository **`cs-learning-log`**
-4. Write **`README.md`** with the required sections
-5. **Commit** your work and check **commit history**
-6. Submit **Exit Evidence** before you leave
-
-**Today is half course culture, half GitHub.** Do not skip the learning model — it defines every future class.
-
-Running through the steps once is **not mastery**. You must be able to **repeat the core pattern independently** and **explain what you did**.
-
----
-
-## Why This Matters
-
-This course uses **GitHub as proof of how you learn** — not just a place to dump files. GitHub is not only for storing code. It is part of your **learning evidence system**: commits, README, and history show your process over time.
-
-If you only watch or copy, you will not meet course expectations. Today you start your **learning log** that grows into your portfolio evidence for full-stack and AI projects later.
-
----
-
-## Resources
-
-**You may use (selective — not full completion):**
-
-| Resource | URL | How you use it today |
-|---|---|---|
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Self Learning: **one** short clip (5–8 min) |
-| A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs | Optional second clip |
-| GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Steps when creating repo |
-| GitHub Docs: Quickstart | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Steps when creating repo |
-| GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | **Optional after class** — not required |
-
-**You must read:** `../shared/mastery-levels.md`, `../shared/classroom-flow.md`, `../shared/talk-robin-rules.md`
-
-**You may not:** watch entire playlists instead of doing today’s rebuild.
-
----
-
-## Core Vocabulary
-
-| Word | What it means for you |
+| | |
 |---|---|
-| **Repository (repo)** | Your project folder on GitHub — stores files and history |
-| **README.md** | The homepage file people see when they open your repo |
-| **Commit** | A saved snapshot of your work with a message saying what changed |
-| **Commit history** | The list of all your commits — your learning timeline |
-| **Evidence** | Proof you learned: commits, screenshots, reflections, oral answers |
-| **Course repo vs your repo** | This teacher materials repo ≠ your personal `cs-learning-log` |
+| **Resource name** | A brief introduction to Git for beginners |
+| **Link** | https://www.youtube.com/watch?v=r8jQ9hVA2qs |
+| **Required section** | Watch the full video (about 10 minutes) |
+| **Why this resource** | Introduces GitHub, repositories, commits, and history in one clear path — no choosing between clips |
+
+Do **not** open other GitHub videos during class.
 
 ---
 
-## Core Pattern
+## What to Focus On
+
+While watching, focus **only** on:
+
+1. What GitHub is **used for**
+2. What a **repository** is
+3. What a **commit** is
+4. Why **commit history** can show learning over time
+5. One thing you still do not understand
+
+You do **not** need to understand every Git command in the video. You only need the parts required for today’s GitHub task.
+
+**Required notes (fill in every line):**
+
+```text
+GitHub is useful because...
+A repository is...
+A commit is...
+Commit history can show learning because...
+One thing I still do not understand is...
+```
+
+Also write **one thing that is not enough** to count as learning in this course (example: watching without notes).
+
+---
+
+## Optional Support Resources
+
+Use **only if you are stuck** during Guided Practice (55–75 min):
+
+1. **GitHub Docs: Hello World** — https://docs.github.com/en/get-started/start-your-journey/hello-world  
+   Use **only** the steps for: create repo → edit README → commit → view history. Do **not** finish the full tutorial today.
+
+---
+
+## Teacher Reference Only
+
+Students are **not** asked to use these during class:
+
+- `../shared/mastery-levels.md`
+- `../shared/classroom-flow.md`
+- `../shared/talk-robin-rules.md`
+- GitHub for Beginners Playlist — https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f
+- GitHub Docs: Quickstart
+- GitHub Skills: Introduction to GitHub
+
+Teacher may assign a quick scan of mastery levels before Entry Point Check.
+
+---
+
+## Mini Skill: What You Need Before This Task
+
+Before completing this mission, you need to know:
+
+1. **Course repo vs your repo** — this teacher materials repo is **not** where you submit work. You create **your own** repo `cs-learning-log`.
+2. **README.md** — a Markdown file that appears as the homepage of your repo.
+3. **Commit** — save a snapshot with a short message describing what changed.
+4. **Commits tab** — on GitHub, shows your commit history (your learning timeline).
+
+**Minimum Markdown for today:**
+
+```markdown
+# Heading 1 — title of your page
+## Heading 2 — section title
+- bullet item
+```
+
+You do **not** need HTML, JavaScript, or local Git commands today — only the GitHub website.
+
+---
+
+## 90-Minute Class Flow
+
+### 0–10 min: Entry Point Check
+
+**Purpose:** Check what you already know and reveal confusion **before** the video.
+
+**Task — answer individually (no talking yet):**
+
+1. Have you used GitHub before? Yes / No / A little
+2. What do you think a “repository” might be?
+3. Why might a course ask you to use GitHub instead of only Google Docs?
+4. What is one thing you are unsure about today?
+
+**Teacher checks:**
+
+- Who has never opened GitHub?
+- Common misconceptions about “uploading files” vs commits
+- Who confuses the course repo with a personal repo
+
+**Student output:** Four short written answers in notebook or draft file.
+
+---
+
+### 10–25 min: Individual Learning
+
+Watch the **required video** and complete the **five required notes** (see What to Focus On).
+
+**Student output:**
+
+- Five filled-in note lines
+- One line: “Not enough evidence in this course: …”
+
+---
+
+### 25–40 min: Talk Round 1
+
+Discuss with a partner (`../shared/talk-robin-rules.md`). **Each student must speak.**
+
+**Group task — compare your five notes:**
+
+1. Share “GitHub is useful because…” and “A repository is…”
+2. Share “A commit is…” and “Commit history can show learning because…”
+3. Pick the **best** “One thing I still do not understand is…” for your group answer
+
+**Student output:** Agreed list of what your pair understood vs what is still confusing.
+
+---
+
+### 40–55 min: Entry Points Check / Teacher Diagnosis
+
+**Your group submits a shared answer with five sentences:**
+
+1. What GitHub is **used for**
+2. What a **repository** is
+3. What a **commit** is
+4. Why **commit history** can show **learning evidence**
+5. **One question** for the teacher
+
+**Teacher identifies** what to explain next — **does not** re-teach the entire video.
+
+**Core pattern to listen for:**
 
 ```text
 create repository → edit README → commit changes → check commit history → submit evidence
 ```
 
-You will rebuild this pattern today — first with support, then with less help.
+**Course rules (brief):** Watching ≠ mastery. Copying ≠ mastery. AI cannot replace Independent Rebuild. GitHub = learning evidence.
 
----
-
-## Mastery Target
-
-| Level | What it looks like for you today |
-|---|---|
-| **Typical goal** | Level 1–2 — repo works; you can explain README while looking |
-| **Stretch** | Level 3 preview — you complete README rebuild with checklist alone |
-
-See `../shared/mastery-levels.md`.
-
----
-
-## Class Flow (90 Minutes)
-
-### 0–15 min: Self Learning / Skill Warm-up
-
-**You work independently** — not passive watching.
-
-Use the resources above. Focus on:
-
-- What is **GitHub**?
-- What is a **repository**?
-- What is a **README** file?
-- Why do we use GitHub as **learning evidence**?
-- Why is **commit history** useful?
-
-**You must produce initial notes or answers.** Write in your notebook or a draft file:
-
-1. Your answer to each focus question (short bullets are fine)
-2. One reason people use GitHub
-3. One thing that is **not** enough to count as learning in this course
-
-Also read `../shared/mastery-levels.md` and `../shared/classroom-flow.md`.
-
-**Do not skim.** You need written notes before Talk Robin 1.
-
----
-
-### 15–25 min: Talk Robin 1
-
-**Discuss with your partner** (`../shared/talk-robin-rules.md`). **Each student must speak.**
-
-Compare your Self Learning notes. Identify:
-
-- what you understood
-- what you are unsure about
-- what confused you
-- one question you want to ask the teacher
-
-**Prompts:**
-
-- **You (A or B):** “GitHub is…”
-- **Your partner:** “We use our own repository because…”
-- **Together:** What is still confusing about README or commits?
-
-**Be ready** if the teacher calls on you.
-
----
-
-### 25–32 min: Group Answer
-
-**Your group prepares one short shared answer** (on paper or shared doc). This makes student thinking visible for the teacher.
-
-Include:
-
-1. **One sentence:** What GitHub is
-2. **One sentence:** Why students need their own repository (not the course repo)
-3. **One sentence:** What a README file does
-4. **One question or confusion point** for the teacher
-
-Your teacher will use this during **Entry Points Check**.
-
----
-
-### 32–42 min: Entry Points Check
-
-**This is not a traditional quiz.** It is not mainly for grading.
-
-The teacher checks **group answers** or asks quick questions to find **entry points for instruction**.
-
-The purpose is to identify:
-
-- what students already understand
-- what students misunderstand
-- what students are still confused about
-- what the teacher needs to explain next
-
-**You may be asked** to share your group’s question or one bullet from your Self Learning notes.
-
-**While the teacher checks**, review your notes and mark what you still need explained.
-
----
-
-### 42–55 min: Teacher Explanation / Core Pattern
-
-**Listen for the core pattern** — the teacher explains **key unclear parts**, not everything from the video or reading again.
-
-```text
-create repository → edit README → commit changes → check commit history → submit evidence
-```
-
-**Course rules you must understand:**
-
-- This is **not** a lecture-only course.
-- **Watching** is not mastery.
-- **Copying** is not mastery.
-- **Running something once** is not mastery.
-- You must **rebuild patterns**, **debug**, **explain** your work, and submit **visible evidence**.
-- **GitHub** is part of your learning evidence — not only a code storage site.
-- **AI** can help you understand — it **cannot replace your thinking** or **Independent Rebuild**.
-- You may be **randomly asked** to explain your work orally.
-
-**GitHub task preview:**
-
-1. Create public repo **`cs-learning-log`**
-2. Add `README.md` (content below)
-3. **Commit changes** with a meaningful message
-4. Open **Commits** tab — see your history
-
-**Required README content — copy structure, personalize one part:**
+**Required README structure (for mission task):**
 
 ```markdown
 # CS Learning Log
@@ -217,91 +197,82 @@ This repository records my learning progress in this course.
 - I will use AI tools responsibly.
 ```
 
-Add **your name** or **one personal goal** somewhere in README.
+Add **your name** or **one personal goal** in README.
 
 ---
 
-### 55–70 min: Guided Practice
+### 55–75 min: Guided Practice / Mission Task
 
-**You follow the GitHub workflow with teacher support:**
+**Main task — with teacher support, then less help:**
 
-1. Create `cs-learning-log` on GitHub (not the teacher’s course repo)
-2. Add README with all sections above
-3. Write a short **course introduction** in your own words
-4. Personalize at least one bullet or add one sentence about you
-5. Click **Commit changes**
-6. Commit message example: `Add initial README with learning goals`
-7. Open **Commits** — confirm your message appears
-8. Confirm your **repository link works**
+1. Create public repo **`cs-learning-log`** (not the course repo)
+2. Add `README.md` using the structure above + personal sentence
+3. Click **Commit changes** — message example: `Add initial README with learning goals`
+4. Open **Commits** tab — confirm history
+5. Confirm repository link works
 
-Use GitHub Docs Hello World if you need step-by-step help. Ask the teacher when stuck **after you tried something**.
+Use **Optional Support** Hello World doc **only** for steps you are stuck on.
 
----
+**Required output:**
 
-### 70–83 min: Independent Rebuild
+- Working repo link
+- README with required sections
+- At least one meaningful commit visible on Commits tab
 
-**Repeat or rebuild the same pattern with less help.**
-
-The goal is **not** just to make it work once. You must show you can **reproduce the pattern independently**.
-
-**Checklist:**
-
-- [ ] Repo name is `cs-learning-log`
-- [ ] README has all required headings and bullets
-- [ ] You added something personal (not copied from partner)
-- [ ] Commit message is meaningful (not `update`, `readme`, `first`)
-- [ ] Commits tab shows your commit
-- [ ] You can **explain** what the commit shows
-- [ ] Repository link works
-- [ ] You drafted your Exit Evidence reflection
-
-**Rules:**
-
-- Do **not** copy your partner’s personal sentences
-- Do **not** use AI to paste a full README you cannot explain
-- See `../shared/ai-use-during-practice.md`
+**Independent Rebuild (last 10 min of this block):** Repeat the checklist **without** copying partner’s personal sentences. See `../shared/ai-use-during-practice.md`.
 
 ---
 
-### 83–90 min: Talk Robin 2 + Evidence
+### 75–85 min: Exit Check
 
-**Explain what you did with your partner.** Each student must speak:
+Answer individually, then discuss with partner:
 
-- what you created
-- what you changed
-- where your **commit history** is
-- why this counts as **learning evidence**
+1. What did you complete today?
+2. What is still confusing?
+3. What evidence did you submit (or are about to submit)?
 
-**Prompts:**
-
-- **You:** “Today’s core pattern in one sentence is…”
-- **Partner:** “My commit message says ___ because ___.”
-- **Together:** Why does GitHub count as evidence in this course?
-
-Then submit **Exit Evidence** before class ends.
+**Each student must explain orally (if called):** what you created, what changed, where commit history is.
 
 ---
 
-## Required Exit Evidence
+### 85–90 min: Submission
 
-| # | Evidence |
-|---|---|
-| 1 | **GitHub repository link** |
-| 2 | **README screenshot** or link (shows `# CS Learning Log`) |
-| 3 | **Commit history screenshot** or link |
-| 4 | **Short reflection:** “Today I learned that GitHub is useful because…” |
+Submit Exit Evidence (see below).
 
 ---
 
-## Mastery Check
+## What You Must Submit
 
-| Level | You demonstrate… |
-|---|---|
-| **Level 3** | README + commit + checklist complete without copying full solution; you can explain your commit |
-| **Level 4** | Same, without looking at neighbor’s repo |
-| **Level 5** | You help peer find Commits tab or fix forgotten commit (hints only) |
+Submit the following:
 
-**Remember:** Going through the steps once with help is not enough. **Mastery** means you can **repeat the pattern independently** and **explain what you did**.
+1. **GitHub repository link**
+2. **README screenshot** or link (shows `# CS Learning Log`)
+3. **Commit history screenshot** or link
+4. **Short reflection:** “Today I learned that GitHub is useful because…”
+
+---
+
+## Success Criteria
+
+You are successful if:
+
+1. Your repo exists, README is complete, and commit history shows a meaningful message
+2. You can **explain** repository, commit, and commit history in your own words
+3. You submitted all four evidence items before leaving
+
+**Mastery stretch:** Level 3 — complete checklist without copying full solution; Level 4 — without neighbor’s repo visible.
+
+---
+
+## Teacher Checkpoints
+
+The teacher should check:
+
+1. Can students explain what they just did (repo, README, commit)?
+2. Can students modify README wording without copying partner text?
+3. Can students find their repo link and **Commits** tab?
+4. Can students explain why GitHub is learning evidence in this course?
+5. Can students show screenshots or links as proof?
 
 ---
 
@@ -309,14 +280,7 @@ Then submit **Exit Evidence** before class ends.
 
 | Problem | Try this first |
 |---|---|
-| “I edited README but teacher sees nothing” | Did you click **Commit changes**? |
-| Wrong repo | You need **your** `cs-learning-log`, not the course repo |
-| Vague commit `update` | Rewrite message: what did you add? |
-| Cannot explain commit | Open Commits tab — read your message aloud to partner |
-
----
-
-## Optional Extension
-
-- Add under README: “Portfolio links coming in Phase 1.”
-- Optional after class: start GitHub Skills — **not** required for credit
+| README edited but nothing on GitHub | Did you click **Commit changes**? |
+| Wrong repo | Use **your** `cs-learning-log`, not the course repo |
+| Commit message `update` | Rewrite: what did you add? |
+| Cannot explain commit | Read commit message aloud from Commits tab |

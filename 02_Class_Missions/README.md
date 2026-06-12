@@ -19,20 +19,19 @@ Each **class mission** is a student task sheet for one session. Your teacher wil
 
 Each **90-minute** class mission follows this flow:
 
-1. **Self Learning / Skill Warm-up**
-2. **Talk Robin 1**
-3. **Group Answer**
-4. **Entry Points Check**
-5. **Teacher Explanation / Core Pattern**
-6. **Guided Practice**
-7. **Independent Rebuild**
-8. **Talk Robin 2 + Evidence**
+1. **Entry Point Check** (0–10 min)
+2. **Individual Learning** — **one required resource** (10–25 min)
+3. **Talk Round 1** (25–40 min)
+4. **Entry Points Check / Teacher Diagnosis** (40–55 min)
+5. **Guided Practice / Mission Task** (55–75 min)
+6. **Exit Check** (75–85 min)
+7. **Submission** (85–90 min)
 
 ![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
 
 Details: [classroom-flow.md](shared/classroom-flow.md)
 
-> Self Learning is **not** passive video time. You produce initial notes before Talk Robin 1. The teacher explains **entry points** from your group answers — not everything from the reading or video again.
+> Each mission file lists **one required resource**, focus notes, optional support (max 1–2), and exact submission — no browsing playlists during class.
 
 ---
 

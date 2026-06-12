@@ -1,71 +1,58 @@
 # Talk Robin Rules — Pair Discussion
 
-**Talk Robin** = structured talk with your **partner**. Default: **pairs** (two students). Your teacher may use small groups.
+**Talk Round 1** = structured talk with your **partner** (or small group). Default: **pairs**.
 
 ---
 
-## Timing
+## When Talk Round 1 Happens
 
-| Round | Time (90-minute class) | What happens |
+| Block | Time | Your job |
 |---|---|---|
-| **Talk Robin 1** | 15–25 min | Discuss Self Learning notes — each student speaks |
-| **Group Answer** | 25–32 min | Group writes shared answer (separate step — see mission guide) |
-| **Talk Robin 2** | 83–90 min | Explain what you built; prepare Exit Evidence |
+| **Talk Round 1** | 25–40 min | Discuss **Individual Learning** notes — each student speaks |
+| **Exit Check** (75–85 min) | Partner practice | Explain what you built before **Submission** |
 
-Within each Talk Robin block, use a timer:
+Within Talk Round 1, use a timer:
 
 | Step | Time | What happens |
 |---|---|---|
-| Student A speaks | 45 seconds | A explains their answer to B |
-| Student B speaks | 45 seconds | B explains their answer to A |
-| Pair or group summary | 30 seconds | Agree on one best answer or one question for class |
+| Student A speaks | 45 seconds | A explains their notes to B |
+| Student B speaks | 45 seconds | B explains their notes to A |
+| Pair summary | 30 seconds | Agree on best group answer or question for teacher |
 | Teacher cold call | as needed | Teacher may call students to share |
 
-**Practice being clear and short.**
-
 ---
 
-## Talk Robin 1 — After Self Learning (15–25 min)
+## Talk Round 1 — What to Discuss
 
 **Your job:**
 
-- Compare your initial notes and answers
-- Name what you understood and what confused you
-- Prepare for **Group Answer**
-- Identify one question for the teacher
+- Compare **required notes** from Individual Learning (not the whole resource)
+- Name what you understood vs what confused you
+- Prepare content for **Entry Points Check / Teacher Diagnosis** (group shared answer)
 
-**Do not** read your entire README or long notes aloud.
+**Do not** read your entire README or long files aloud.
 
 ---
 
-## Talk Robin 2 + Evidence (83–90 min)
+## Exit Check Discussion (75–85 min)
 
 **Your job:**
 
-- Explain what you created and changed
-- Point to your commit history or other evidence
-- Say why it counts as **learning evidence**
-- Confirm Exit Evidence before you submit
-
----
-
-## How to Use Your 45 Seconds
-
-1. **Say your claim** — “I think a commit is…”
-2. **Give evidence** — “In my repo, my last commit…”
-3. **Name one question** — “I’m still unsure about…”
+- Say what you completed in the **Mission Task**
+- Name what is still confusing
+- Confirm evidence you will submit at 85–90 min
 
 ---
 
 ## Every Student Must Be Ready
 
-The teacher may **randomly call** you after Talk Robin or during Entry Points Check.
+The teacher may call on you during Entry Points Check or Exit Check.
 
 When called:
 
 - Answer in **your own words**
-- It is OK to say what you **tried** if you are unsure
-- If you used AI, be ready to say what **you** changed afterward
+- Use **your repo** as evidence when relevant
+- If AI helped, say what **you** changed afterward
 
 ---
 
@@ -73,4 +60,4 @@ When called:
 
 - Both students speak every round
 - You may **hint** — do not give your full solution to copy
-- Stay on task during Talk Robin time
+- Stay on task during discussion time

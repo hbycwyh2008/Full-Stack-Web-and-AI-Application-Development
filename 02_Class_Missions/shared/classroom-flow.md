@@ -1,134 +1,67 @@
 # Classroom Flow — What Happens Every Class
 
-Each class follows the same **90-minute** structure. Know what you are doing in each block.
+Each class follows the same **90-minute** structure. Your **class mission** file has lesson-specific tasks; this guide shows the **time blocks**.
 
 ![Our Classroom Flow — We learn. Practice. Rebuild. Share.](../../08_Public_Documents/posters/classroom-flow.png)
 
-*Course poster: [classroom-flow.png](../../08_Public_Documents/posters/classroom-flow.png)*
-
-> **Poster vs this guide:** The wall poster shows the learning cycle in seven steps. This guide adds **exact times** for a **90-minute class**, including **Group Answer** and **Entry Points Check**. Follow this guide during class.
-
 ---
 
-## The Eight Blocks
+## The Seven Blocks
 
 | Time | Block | What you do |
 |---|---|---|
-| **0–15 min** | Self Learning / Skill Warm-up | Read, watch, or complete selected materials **independently** — write initial notes or answers |
-| **15–25 min** | Talk Robin 1 | Discuss with partner or small group — **each student speaks** |
-| **25–32 min** | Group Answer | Group prepares a short shared answer — what you understood, what you are unsure about, one question for the teacher |
-| **32–42 min** | Entry Points Check | Teacher checks group answers to find what to explain next — **not mainly for grading** |
-| **42–55 min** | Teacher Explanation / Core Pattern | Teacher explains **key unclear parts** — responds to confusion, does not reteach everything |
-| **55–70 min** | Guided Practice | Complete the core workflow **with teacher support** |
-| **70–83 min** | Independent Rebuild | **Repeat or rebuild** the pattern with less help — show you can reproduce it |
-| **83–90 min** | Talk Robin 2 + Evidence | Explain what you did, compare evidence, submit **Exit Evidence** |
+| **0–10 min** | Entry Point Check | Answer short questions **individually** — reveal what you already know and what confuses you |
+| **10–25 min** | Individual Learning | Use the **one required resource** — take required notes |
+| **25–40 min** | Talk Round 1 | Discuss notes with partner — **each student speaks** |
+| **40–55 min** | Entry Points Check / Teacher Diagnosis | Group shared answer; teacher explains **only what students are stuck on** |
+| **55–75 min** | Guided Practice / Mission Task | Complete the **main task** with support, then less help |
+| **75–85 min** | Exit Check | What you finished, what is confusing, what evidence you submit |
+| **85–90 min** | Submission | Submit evidence listed in the mission guide |
 
 ---
 
-## Self Learning / Skill Warm-up (0–15 min) — Not Passive Time
+## One Required Path
 
-You first learn **independently** through a selected video, guide, reading, or task.
+Every mission guide includes:
 
-**You may not** passively watch or skim.
+- **One Required Resource** — the only main video, doc, or repo section for Individual Learning
+- **What to Focus On** — exactly what to note (not everything in the resource)
+- **Optional Support Resources** — at most 1–2, only if stuck
+- **Teacher Reference Only** — not for students to choose from during class
 
-You must produce **initial notes, answers, or observations** before Talk Robin 1.
-
----
-
-## Talk Robin 1 (15–25 min)
-
-Discuss your initial understanding with a partner or small group.
-
-**Each student must speak.**
-
-Compare answers. Identify what you understood, what you are unsure about, what confused you, and what question you want to ask the teacher.
-
-See `talk-robin-rules.md`.
+Do **not** browse playlists or “pick a clip” during class.
 
 ---
 
-## Group Answer (25–32 min)
+## Entry Point Check vs Entry Points Check
 
-Each group prepares a **short shared answer** so student thinking is visible.
+| Block | When | Purpose |
+|---|---|---|
+| **Entry Point Check** (0–10) | **Before** Individual Learning | What you bring in; baseline confusion |
+| **Entry Points Check** (40–55) | **After** Talk Round 1 | Teacher uses **group answers** to decide what to teach |
 
-Typical contents (your mission guide may specify more):
-
-- what the group understood
-- what the group is still unsure about
-- **one question for the teacher**
-
-The teacher uses this during Entry Points Check.
+Neither block is mainly for grading.
 
 ---
 
-## Entry Points Check (32–42 min)
+## Guided Practice / Mission Task (55–75 min)
 
-**This is not a traditional quiz.** It is **not mainly for grading**.
+This is where you **do the work** — create files, commits, folders, or mastery answers.
 
-The teacher checks group answers or asks quick questions to find **entry points for instruction**:
+Running through steps once with help is **not mastery**. You must show you can **explain** and **repeat** the pattern.
 
-- what students already understand
-- what students misunderstand
-- what students still need explained
-
-The teacher’s explanation should **respond to this**, not reteach everything from the video or guide.
+See `../shared/ai-use-during-practice.md` during independent parts.
 
 ---
 
-## Teacher Explanation / Core Pattern (42–55 min)
+## Submission (85–90 min)
 
-Listen for **today’s core pattern**.
+Submit what **What You Must Submit** lists in today’s mission file.
 
-The teacher explains **only the key parts students need** — based on confusion and missing understanding from Entry Points Check.
-
-**Do not expect** a full repeat of the Self Learning video or reading.
-
-Write down the pattern. You will use it in Guided Practice and Independent Rebuild.
+See `exit-evidence-checklist.md` for evidence types.
 
 ---
 
-## Guided Practice (55–70 min)
+## Homework
 
-Follow the core workflow **with teacher support**.
-
-The teacher helps students who are stuck **after they tried something**.
-
----
-
-## Independent Rebuild (70–83 min)
-
-This is the most important block for **your mastery**.
-
-**Repeat or rebuild** the same pattern with **less help**.
-
-Running through steps once is **not enough**. You must show you can **reproduce the pattern independently** and **explain what you did**.
-
-**You may not:**
-
-- copy a full solution from a neighbor
-- use AI to generate the full answer
-- reuse yesterday’s finished work without a **new** meaningful change
-
-**You may:**
-
-- use a short checklist (if the mission guide allows)
-- read error messages and try fixes
-- ask the teacher **specific** questions after you tried something
-
----
-
-## Talk Robin 2 + Evidence (83–90 min)
-
-Explain what you did with your partner. Compare evidence.
-
-Submit what the mission guide lists **before class ends** (or by your teacher’s deadline).
-
-See `exit-evidence-checklist.md` for acceptable evidence types.
-
----
-
-## Homework in This Course
-
-There is **no heavy regular homework** if you finish class evidence.
-
-If you do not finish **Independent Rebuild** or **Exit Evidence**, you may need to complete it later — that is not “optional extra work,” it is **unfinished class evidence**.
+No heavy homework if you finish in class. Unfinished mission output = **unfinished evidence**, not optional extra credit.

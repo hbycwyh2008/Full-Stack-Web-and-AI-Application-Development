@@ -1,5 +1,7 @@
 # Git & GitHub Beginner Unit
 
+> **Students:** Use [02_Class_Missions/Phase_0_Git_GitHub/](../../02_Class_Missions/Phase_0_Git_GitHub/README.md) during class — **one required resource per lesson**. This folder is a **teacher supplement** (handouts, rubrics, duplicate lesson copies). Do not choose from all links here during class.
+
 **Course:** Full-Stack Web and AI Application Development  
 **Unit focus:** GitHub as learning evidence — not advanced Git internals  
 **Suggested duration:** 6 lessons × 80 minutes (or 3 double blocks)

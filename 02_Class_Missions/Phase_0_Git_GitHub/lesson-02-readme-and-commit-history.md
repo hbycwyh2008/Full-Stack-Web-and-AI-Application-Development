@@ -4,42 +4,81 @@
 
 ---
 
-## Today’s Mission
+## Lesson Goal
 
-You will treat **commit history as learning evidence**. You will improve `README.md`, create `learning-log.md`, add Lesson 1 and Lesson 2 reflections, and make **meaningful commits** you can explain.
+By the end of this lesson, students should be able to:
 
----
-
-## Why This Matters
-
-One commit called `final` at the end does **not** show how you learned. Many small commits with clear messages tell your teacher (and future you) the story of your work. This habit supports your full-stack portfolio all year.
+1. Explain why **commit history** is learning evidence (not one `final` commit)
+2. Write **meaningful commit messages** and avoid vague messages like `update` or `asdf`
+3. Create `learning-log.md`, improve README, and make **separate commits** they can explain
 
 ---
 
-## Resources
+## Required Resource
 
-| Resource | URL | Your use today |
-|---|---|---|
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: one clip on commits (5–8 min) |
-| A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs | Optional review |
-| GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Commit steps |
-
-**You may not** complete full playlist today.
-
----
-
-## Core Vocabulary
-
-| Word | Meaning |
+| | |
 |---|---|
-| **Commit message** | Short text describing what changed |
-| **Commit history** | List of commits — your timeline |
-| **Learning log** | Running record of what you did and learned |
-| **Meaningful commit** | Message someone else can understand |
+| **Resource name** | GitHub Docs — About commits |
+| **Link** | https://docs.github.com/en/get-started/using-git/about-commits |
+| **Required section** | Read “About commits” and “Commit messages” (about 10 minutes) |
+| **Why this resource** | One clear reading path for commits and messages — no playlist choices |
 
 ---
 
-## Core Pattern
+## What to Focus On
+
+While reading, focus **only** on:
+
+1. What a **commit** saves
+2. Why **commit messages** should describe the change
+3. How **commit history** tells a story over time
+4. Why one commit called `final` is **not** enough evidence
+5. One thing you still do not understand
+
+**Required notes:**
+
+```text
+A commit is...
+A good commit message looks like...
+Commit history is evidence because...
+A bad commit message example is...
+One thing I still do not understand is...
+```
+
+Open your repo **Commits** tab and find your Lesson 1 commit — note its message.
+
+---
+
+## Optional Support Resources
+
+Use **only if stuck:**
+
+1. **GitHub Docs: Hello World** (commit steps only) — https://docs.github.com/en/get-started/start-your-journey/hello-world
+
+---
+
+## Teacher Reference Only
+
+- GitHub for Beginners Playlist
+- A brief introduction to Git for beginners (Lesson 1 video — review only if teacher assigns)
+- `05_Resources/Git_GitHub_Unit/rubrics/github-mastery-rubric.md`
+
+---
+
+## Mini Skill: What You Need Before This Task
+
+1. **Lesson 1 complete** — you have `cs-learning-log` with README and at least one commit
+2. **Commits tab** — GitHub → your repo → **Commits**
+3. **Markdown file** — create `learning-log.md` at repo root (same `#` and `##` as Lesson 1)
+
+**Good vs bad commit messages (today’s standard):**
+
+```text
+Good:  Add learning log with Lesson 1 reflection
+Bad:   update / asdf / final / change
+```
+
+**Core pattern:**
 
 ```text
 small change → meaningful commit → visible history
@@ -47,104 +86,62 @@ small change → meaningful commit → visible history
 
 ---
 
-## Mastery Target
+## 90-Minute Class Flow
 
-| Goal | Level |
-|---|---|
-| Typical | Level 2–3 |
-| Stretch | Level 4 — good messages without examples on screen |
+### 0–10 min: Entry Point Check
 
----
-
-## Good vs Bad Commit Messages
-
-**Good — you should write like this:**
-
-```text
-Add learning expectations
-Add first learning log
-Update README with course goals
-Fix typo in project description
-```
-
-**Bad — do not use:**
-
-```text
-update
-asdf
-final
-change
-```
-
----
-
-## Class Flow (90 Minutes)
-
-### 0–15 min: Self Learning / Skill Warm-up
-
-**You work independently:**
-
-- Watch one short clip on commits **or** compare two commit histories the teacher shows
-- Write: which history shows learning better? Why?
-- Preview good vs bad messages above
-- Draft answers: What is a commit? Where is commit history on GitHub?
-
-**Produce notes** — not passive watching.
-
----
-
-### 15–25 min: Talk Robin 1
-
-**Each student speaks** (`../shared/talk-robin-rules.md`):
-
-- **You:** “Commit history is evidence because…”
-- **Partner:** “A good commit message I used or saw is…”
-- **Together:** One confusion about commits vs saving.
-
----
-
-### 25–32 min: Group Answer
-
-**Your group prepares a shared answer:**
-
-1. One sentence: what a **commit** is
-2. One sentence: why **commit history** matters for learning evidence
-3. One example of a **good** commit message (from warm-up or your repo)
-4. One question for the teacher
-
----
-
-### 32–42 min: Entry Points Check
-
-**Not a traditional quiz.** The teacher uses group answers to find what to explain.
-
-Be ready to share your group’s question or one warm-up answer.
-
-**Self-check while waiting:**
+**Task — answer individually:**
 
 1. What is a commit in your own words?
 2. Where do you see commit history on GitHub?
-3. Why is `asdf` a bad commit message?
-4. What did your Lesson 1 commit change?
-5. Write one **good** message for “added learning goals to README.”
+3. What was your Lesson 1 commit message?
+4. Why might `asdf` be a bad commit message?
+
+**Teacher checks:** Who can open Commits tab? Who has only one vague commit?
+
+**Student output:** Four short answers.
 
 ---
 
-### 42–55 min: Teacher Explanation / Core Pattern
+### 10–25 min: Individual Learning
 
-**Listen for today’s pattern** (responds to confusion — not full reteach):
+Read the **required doc** and complete the **five required notes**.
 
-```text
-small change → meaningful commit → visible history
-```
+Look at your Lesson 1 commit on the **Commits** tab while reading.
 
-**You will:**
+**Student output:** Five note lines + Lesson 1 commit message copied or described.
 
-1. Open `cs-learning-log` → **Commits** tab
-2. Improve `README.md`
-3. Create `learning-log.md` at repo root
-4. Add **Lesson 1** and **Lesson 2** reflections
-5. Make **separate commits** for README and log (not one giant commit)
+---
+
+### 25–40 min: Talk Round 1
+
+**Each student speaks.** Compare notes:
+
+1. “Commit history is evidence because…”
+2. “A good message I saw or wrote is…”
+3. One confusion about commits vs saving a file
+
+**Student output:** Pair summary of best good vs bad message example.
+
+---
+
+### 40–55 min: Entry Points Check / Teacher Diagnosis
+
+**Group shared answer:**
+
+1. One sentence: what a **commit** is
+2. One sentence: why **commit history** matters
+3. One **good** commit message example
+4. One **bad** commit message example
+5. One question for the teacher
+
+**Teacher explains** unclear parts only. **Pattern:** small change → meaningful commit → visible history.
+
+**You will create:**
+
+- Improved `README.md`
+- `learning-log.md` with Lesson 1 and Lesson 2 reflections
+- **Separate commits** for README and log (not one giant commit)
 
 **Starter for `learning-log.md`:**
 
@@ -164,75 +161,66 @@ small change → meaningful commit → visible history
 
 ---
 
-### 55–70 min: Guided Practice
+### 55–75 min: Guided Practice / Mission Task
 
-**With teacher support:**
+**With support, then less help:**
 
-1. Read old commits on Commits tab
+1. Read commits on **Commits** tab
 2. Edit README → commit: `Update README with personal learning goals`
 3. Create `learning-log.md` → commit: `Add learning log with Lesson 1 reflection`
 4. Add Lesson 2 section → commit: `Add Lesson 2 reflection to learning log`
 
----
+**Required output:**
 
-### 70–83 min: Independent Rebuild
+- `learning-log.md` with real reflections (not empty bullets)
+- At least **two new commits** with meaningful messages
+- Clear progression on Commits tab
 
-**Repeat the pattern with less help:**
-
-- [ ] README improved from Lesson 1
-- [ ] `learning-log.md` with real Lesson 1 and Lesson 2 reflections
-- [ ] At least **two new commits** with meaningful messages
-- [ ] Commits tab shows clear progression
-- [ ] You can explain which commit changed which file
-
-**Do not** copy partner’s reflections. **Do not** use AI for full log paste (`../shared/ai-use-during-practice.md`).
+**Rules:** No copying partner reflections. No AI full log paste (`../shared/ai-use-during-practice.md`).
 
 ---
 
-### 83–90 min: Talk Robin 2 + Evidence
+### 75–85 min: Exit Check
 
-**Each student explains:**
+1. What files did you commit today?
+2. Which commit message is your best — why?
+3. What evidence are you submitting?
 
-- what you changed today
-- your best commit message and why
-- where your commit history is
-
-**Prompts:**
-
-- **You:** “Small change → meaningful commit means…”
-- **Partner:** “My best commit message today is ___ because ___.”
-
-Submit Exit Evidence before class ends.
+**Oral (if called):** Explain small change → meaningful commit.
 
 ---
 
-## Required Exit Evidence
+### 85–90 min: Submission
 
-**You submit:**
-
-1. Link or screenshot of `learning-log.md`
-2. Screenshot of **Commits** tab (multiple messages)
-3. One sentence: why are good commit messages important?
+Submit evidence (below).
 
 ---
 
 ## What You Must Submit
 
-| # | Evidence |
-|---|---|
-| 1 | `learning-log.md` link or screenshot |
-| 2 | Commits tab screenshot |
-| 3 | One sentence on good commit messages |
+1. Link or screenshot of `learning-log.md`
+2. Screenshot of **Commits** tab (multiple meaningful messages)
+3. One sentence: why are good commit messages important?
 
 ---
 
-## Mastery Check
+## Success Criteria
 
-| Level | You… |
-|---|---|
-| **Level 3** | Complete log + commits with checklist |
-| **Level 4** | Write good messages without examples list |
-| **Level 5** | Help peer read Commits tab story (hints only) |
+1. `learning-log.md` exists with Lesson 1 and Lesson 2 reflections
+2. Commits tab shows **at least two new** meaningful commits (not `update` / `final`)
+3. You can explain which commit changed which file
+
+**Mastery:** Level 3 with checklist; Level 4 — good messages without examples on screen.
+
+---
+
+## Teacher Checkpoints
+
+1. Can students explain commit vs save?
+2. Can students write a new message without copying the good/bad list verbatim?
+3. Can students locate Commits tab and match message to file?
+4. Can students explain why history is evidence?
+5. Is `learning-log.md` their own writing?
 
 ---
 
@@ -243,10 +231,3 @@ Submit Exit Evidence before class ends.
 | One commit `lesson 2 done` | Split into README + log commits |
 | Empty reflection bullets | Write 3+ real sentences per lesson |
 | Message `fix` only | `Fix typo in README title` |
-
----
-
-## Optional Extension
-
-- Add “Portfolio Links” placeholder to README
-- Compare your history with partner — what story does each tell?

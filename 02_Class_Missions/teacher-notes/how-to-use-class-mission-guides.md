@@ -16,12 +16,12 @@ Mission guides are **not** a replacement for daily lesson plans. They are the do
 
 ## How to Deploy in Class
 
-1. **Before class:** Post link to today’s mission file (LMS, QR, or repo path).
-2. **Entry Points Check:** Use group answers to choose what to explain in Teacher Explanation / Core Pattern (42–55 min).
-3. **Independent Rebuild:** Students follow checklist in mission guide — you circulate.
-4. **Talk Robin 2 + Evidence:** Students submit what “What You Must Submit” lists (83–90 min).
+1. **Before class:** Post link to today’s **mission file** (LMS, QR, or repo path).
+2. **Entry Points Check (40–55 min):** Use group answers from the mission file to choose what to explain.
+3. **Mission Task (55–75 min):** Students follow **Guided Practice / Mission Task** — you circulate.
+4. **Submission (85–90 min):** Students submit **What You Must Submit** from the mission file.
 
-Student-facing flow and timing: `../shared/classroom-flow.md` (**90 minutes**).
+Student-facing flow and timing: `../shared/classroom-flow.md` (**90 minutes**, seven blocks). Each mission has **one Required Resource** — students do not pick from playlists.
 
 ---
 

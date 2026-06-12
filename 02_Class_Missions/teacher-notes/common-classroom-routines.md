@@ -1,58 +1,54 @@
 # Common Classroom Routines (Teacher)
 
-Quick reference when using **Class Mission Guides** alongside **Daily Lesson Plans**.
+Quick reference when using **Class Missions** alongside **Daily Lesson Plans**.
+
+Mission files use the **90-minute seven-block flow** (see `../shared/classroom-flow.md`).
 
 ---
 
 ## Start of Class
 
-- Display link to today’s mission guide
-- Reminder: “Talk Robin 2 + Evidence in last 7 minutes — mission guide lists what to submit”
+- Display link to today’s **one mission file** (not the resource list in Git_GitHub_Unit)
+- Reminder: “Submission at 85–90 min — see **What You Must Submit** in the mission”
 
 ---
 
-## Self Learning / Skill Warm-up
+## Entry Point Check (0–10 min)
 
-- Students follow mission guide Self Learning task — not full playlist
-- You time **15 min**; cut optional clip if needed, not Independent Rebuild
-
----
-
-## Group Answer and Entry Points Check
-
-- Groups submit shared answer before Entry Points Check
-- Use group answers to choose what to explain — do not reteach entire warm-up resource
+- Students answer mission **Entry Point Check** questions individually
+- You note baseline confusion before Individual Learning
 
 ---
 
-## Talk Robin
+## Individual Learning (10–25 min)
 
-- Timer visible: 45s / 45s / 30s
-- Cold call 2–3 students after each round
-- Mission guide lists pair prompts — you may add on slide
-
----
-
-## Independent Rebuild
-
-- Students use mission checklist — you do not post full solutions
-- Enforce `shared/ai-use-during-practice.md` during this block
+- Students use **one required resource** only — no playlist browsing
+- You time 15 min; cut optional depth, not Mission Task
 
 ---
 
-## Exit Evidence
+## Talk Round 1 + Entry Points Check (25–55 min)
 
-- Students submit from “What You Must Submit” section
-- Incomplete → finish-up deadline (not optional long homework)
+- Timer for pair talk: 45s / 45s / 30s
+- Collect **group shared answers** for diagnosis at 40–55 min
+- Explain **only** stuck parts — do not reteach entire resource
 
 ---
 
-## Oral Cold Call
+## Guided Practice / Mission Task (55–75 min)
 
-Use mission guide vocabulary. Ask for **their repo** examples.
+- Students follow mission task + **Required output**
+- You circulate; no full solutions posted
+
+---
+
+## Submission (85–90 min)
+
+- Students submit from **What You Must Submit**
+- Incomplete → finish-up deadline (unfinished evidence)
 
 ---
 
 ## See Also
 
-`09_Teacher_Planning/Daily_Lesson_Plans/teacher-notes/common-classroom-routines.md` for expanded teacher routines.
+`09_Teacher_Planning/Daily_Lesson_Plans/teacher-notes/common-classroom-routines.md` for expanded teacher scripts (may use different block labels).

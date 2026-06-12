@@ -15,18 +15,17 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 
 **Message:** We learn. Practice. Rebuild. Share.
 
-The poster shows the class learning cycle:
+The poster shows the learning cycle at a high level. **Class mission files** use the detailed **90-minute seven-block** flow:
 
-1. Self Learning / Skill Warm-up
-2. Talk Robin 1
-3. Group Answer
-4. Entry Points Check
-5. Teacher Explanation / Core Pattern
-6. Guided Practice
-7. Independent Rebuild
-8. Talk Robin 2 + Evidence
+1. Entry Point Check (0–10 min)
+2. Individual Learning (10–25 min) — **one required resource**
+3. Talk Round 1 (25–40 min)
+4. Entry Points Check / Teacher Diagnosis (40–55 min)
+5. Guided Practice / Mission Task (55–75 min)
+6. Exit Check (75–85 min)
+7. Submission (85–90 min)
 
-**In class mission guides**, the **90-minute** block uses the eight timed sections above. See `02_Class_Missions/shared/classroom-flow.md` for exact minutes. Teacher daily lesson plans may use different timing notes.
+**In class mission guides**, the **90-minute** block uses seven timed sections (see `02_Class_Missions/shared/classroom-flow.md`). Each lesson lists **one required resource**. Teacher daily lesson plans may use different timing notes.
 
 ---
 

@@ -4,121 +4,73 @@
 
 ---
 
-## Today’s Mission
+## Lesson Goal
 
-You will play **selected Oh My Git! intro levels** to understand commits and history, then connect the game to **your real GitHub Commits tab**. You will add `lesson-04/notes.md`, screenshot game progress, and commit on GitHub.
+By the end of this lesson, students should be able to:
 
-**You do not** need to complete branch, merge, or index sections.
+1. Connect **Oh My Git!** game ideas (backup, timeline) to real **Git commits** and **commit history**
+2. Complete **four intro levels only** and explain the metaphor in their own words
+3. Add `lesson-04/notes.md`, commit on GitHub, and submit game + repo evidence
 
----
-
-## Why This Matters
-
-The game is a **metaphor** for real Git. Your **GitHub commit history** is the evidence that counts for this course — not game completion alone.
+The game alone is **not** enough evidence. Your **GitHub commit history** counts.
 
 ---
 
-## Resources
+## Required Resource
 
-| Resource | URL | Your use |
-|---|---|---|
-| Oh My Git! | https://ohmygit.org/ | Selected intro levels only |
-
-**Required levels only:**
-
-1. Living dangerously
-2. Making backups
-3. The command line
-4. Your first commit
-
-**You may not** play branch/merge/index levels for Phase 0 credit.
-
----
-
-## Core Vocabulary
-
-| Word | Meaning |
+| | |
 |---|---|
-| **Snapshot** | Saved state — like a commit |
-| **Timeline** | Sequence of snapshots |
-| **Backup** | Saved state you can return to |
-| **Metaphor** | Game idea that maps to real Git |
+| **Resource name** | Oh My Git! |
+| **Link** | https://ohmygit.org/ |
+| **Required section** | **These four levels only:** (1) Living dangerously, (2) Making backups, (3) The command line, (4) Your first commit |
+| **Why this resource** | One interactive path to understand commits as snapshots — no branch/merge levels today |
+
+Do **not** play branch, merge, or index levels for Phase 0 credit.
 
 ---
 
-## Core Pattern
+## What to Focus On
+
+While playing **only the four required levels**, focus on:
+
+1. What problem **“making backups”** solves (like commits)
+2. How the game **timeline** is like GitHub **Commits** tab
+3. What a **label** or message might mean on a snapshot
+4. Why the game **plus** GitHub notes together = learning evidence
+5. One thing you still do not understand
+
+**Required notes:**
 
 ```text
-game timeline → commit history → learning evidence
+Backup in the game is like a commit because...
+The game timeline is like commit history because...
+I completed these levels: ...
+One connection I see to my GitHub repo is...
+One thing I still do not understand is...
 ```
 
 ---
 
-## Mastery Target
+## Optional Support Resources
 
-| Goal | Level |
-|---|---|
-| Typical | Level 2–3 |
-| Stretch | Level 3 — reflection + commit without copying teacher text |
+Use **only if stuck** on GitHub after playing:
 
----
-
-## Class Flow (90 Minutes)
-
-### 0–15 min: Self Learning / Skill Warm-up
-
-**You work independently** — play or watch demo:
-
-- **Living dangerously**
-- **Making backups**
-
-**You write:**
-
-- What happens without backup?
-- How is backup like a **commit**?
-
-Stop at 15 min if needed — move to Talk Robin 1 with your notes.
+1. **Lesson 1 video** (commit section review) — https://www.youtube.com/watch?v=r8jQ9hVA2qs — **commit/history parts only**, if teacher allows
 
 ---
 
-### 15–25 min: Talk Robin 1
+## Teacher Reference Only
 
-**Each student speaks:**
-
-- **You:** “A commit is like ___ in the game because…”
-- **Partner:** “GitHub history shows evidence because…”
-- **Together:** Which level you will try in Guided Practice.
+- Oh My Git! levels beyond the four intro levels
+- `05_Resources/Git_GitHub_Unit/lesson-04-oh-my-git-commit-history.md` (teacher unit copy)
 
 ---
 
-### 25–32 min: Group Answer
+## Mini Skill: What You Need Before This Task
 
-**Your group prepares:**
-
-1. One sentence: how game **backup** relates to GitHub **commit**
-2. One sentence: how game **timeline** relates to **commit history**
-3. One sentence: why the game alone is **not** enough evidence
-4. One question for the teacher
-
----
-
-### 32–42 min: Entry Points Check
-
-**Not mainly for grading.**
-
-**Self-check while teacher reviews groups:**
-
-1. What problem does “making backups” solve in the game?
-2. How is game timeline like GitHub **Commits** tab?
-3. How many commits are in your real repo?
-4. Why is the game **not** enough evidence by itself?
-5. What will you add to `lesson-04/notes.md`?
-
----
-
-### 42–55 min: Teacher Explanation / Core Pattern
-
-**Map game → GitHub:**
+1. **Lessons 1–3 complete** — repo with folders, commits, `learning-log.md`
+2. **Commits tab** — you can open your real history on `cs-learning-log`
+3. **Metaphor map:**
 
 | Game | Your GitHub |
 |---|---|
@@ -126,63 +78,127 @@ Stop at 15 min if needed — move to Talk Robin 1 with your notes.
 | Timeline | Commit history |
 | Label | Commit message |
 
-**You will on GitHub:**
+**Core pattern:**
 
-1. Screenshot Oh My Git progress
-2. Create `lesson-04/notes.md` — levels played, connection to Commits tab, one insight
+```text
+game timeline → commit history → learning evidence
+```
+
+---
+
+## 90-Minute Class Flow
+
+### 0–10 min: Entry Point Check
+
+**Task — answer individually:**
+
+1. What is a commit in your own words (from Lessons 1–2)?
+2. How many commits are on your real repo Commits tab?
+3. What do you think “backup” might mean in a game about Git?
+4. Why might playing a game **not** be enough evidence by itself?
+
+**Teacher checks:** Who confuses game progress with GitHub commits?
+
+**Student output:** Four short answers.
+
+---
+
+### 10–25 min: Individual Learning
+
+Play **required four levels** (or watch teacher demo if install fails — then take notes from demo).
+
+Complete **five required notes** while playing or immediately after.
+
+**Student output:** Notes + Oh My Git progress (levels 1–4 attempted).
+
+---
+
+### 25–40 min: Talk Round 1
+
+**Each student speaks:**
+
+1. “A commit is like ___ in the game because…”
+2. “GitHub history shows evidence because…”
+3. Which level was hardest?
+
+**Student output:** Pair picks best game → GitHub connection sentence.
+
+---
+
+### 40–55 min: Entry Points Check / Teacher Diagnosis
+
+**Group shared answer:**
+
+1. One sentence: game **backup** → GitHub **commit**
+2. One sentence: game **timeline** → **commit history**
+3. One sentence: why game **alone** is not enough
+4. What you will write in `lesson-04/notes.md`
+5. One question for the teacher
+
+**Teacher explains** unclear parts. **You will on GitHub:**
+
+1. Screenshot Oh My Git progress (levels 1–4)
+2. Create `lesson-04/notes.md` — levels played, link to Commits tab, one insight (3+ sentences)
 3. Commit: `Add lesson-04 notes connecting Oh My Git to commit history`
 
 ---
 
-### 55–70 min: Guided Practice
+### 55–75 min: Guided Practice / Mission Task
 
-**With teacher support:**
+**With support, then less help:**
 
-- Play **The command line** + **Your first commit** (class-paced)
-- Draft `lesson-04/notes.md`
-- Open your **Commits** tab beside game screenshot
+- Finish required levels if needed
+- Write `lesson-04/notes.md` linking game to **your** Commits tab
+- Commit on `cs-learning-log`
+- Save screenshot for submission
 
----
+**Required output:**
 
-### 70–83 min: Independent Rebuild
-
-**Repeat with less help:**
-
-- [ ] At least 3 of 4 intro levels done (or teacher alternative)
-- [ ] Oh My Git screenshot saved for submission
-- [ ] `lesson-04/notes.md` — 3+ sentences linking game to GitHub
-- [ ] Meaningful commit on `cs-learning-log`
-- [ ] You can explain connection without reading notes word-for-word
+- Oh My Git screenshot (intro levels)
+- `lesson-04/notes.md` with real connection (not “fun game” only)
+- Meaningful commit on GitHub
 
 ---
 
-### 83–90 min: Talk Robin 2 + Evidence
+### 75–85 min: Exit Check
 
-Submit:
+1. Can you explain game timeline → commit history without reading notes word-for-word?
+2. Where is your GitHub evidence today?
+3. What are you submitting?
 
-1. Oh My Git screenshot
-2. Link to `lesson-04/notes.md`
-3. One sentence: how is game timeline like GitHub history?
+---
+
+### 85–90 min: Submission
+
+Submit evidence (below).
 
 ---
 
 ## What You Must Submit
 
-| # | Evidence |
-|---|---|
-| 1 | Oh My Git screenshot |
-| 2 | Link to `lesson-04/notes.md` |
-| 3 | One sentence comparing game timeline to GitHub history |
+1. Oh My Git screenshot (shows progress on required levels)
+2. Link to `lesson-04/notes.md`
+3. One sentence: how is game timeline like GitHub history?
 
 ---
 
-## Mastery Check
+## Success Criteria
 
-| Level | You… |
-|---|---|
-| **Level 3** | Notes + commit independently |
-| **Level 4** | Explain mapping without notes |
-| **Level 5** | Help peer read Commits story |
+1. At least 3 of 4 intro levels completed (or teacher-approved alternative)
+2. `lesson-04/notes.md` connects game to **your** GitHub Commits tab
+3. Meaningful commit visible on GitHub
+
+**Mastery:** Level 3 — notes + commit independently; Level 4 — explain mapping without notes.
+
+---
+
+## Teacher Checkpoints
+
+1. Can students map backup → commit orally?
+2. Can students open Commits tab and relate to game timeline?
+3. Is `lesson-04/notes.md` more than “I played a game”?
+4. Can students show both game screenshot **and** repo commit?
+5. Did students stop at intro levels (not branch/merge)?
 
 ---
 
@@ -193,10 +209,3 @@ Submit:
 | Only screenshot, no GitHub | Add `lesson-04/notes.md` + commit |
 | Notes say “fun game” only | Add Commits tab connection |
 | Played branch levels | Stop — only intro levels count |
-
----
-
-## Optional Extension
-
-- Draw paper timeline: game level → your commits 1, 2, 3
-- Preview Lesson 5 terminal commands

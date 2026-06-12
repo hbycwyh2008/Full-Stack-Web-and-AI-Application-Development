@@ -24,14 +24,13 @@ Notion shows your best work to the world.
 
 Open [today’s class mission](../02_Class_Missions/README.md) and follow the **90-minute** classroom flow:
 
-1. **Self Learning / Skill Warm-up** — read, watch, or complete materials independently; write initial notes
-2. **Talk Robin 1** — discuss with a partner; each student speaks
-3. **Group Answer** — group prepares a shared answer and one question for the teacher
-4. **Entry Points Check** — teacher finds what to explain next (not mainly for grading)
-5. **Teacher Explanation / Core Pattern** — teacher explains key unclear parts only
-6. **Guided Practice** — try the workflow with support
-7. **Independent Rebuild** — repeat the pattern with less help
-8. **Talk Robin 2 + Evidence** — explain what you did and submit proof
+1. **Entry Point Check** — answer short questions before the required resource
+2. **Individual Learning** — use the **one required resource**; complete required notes
+3. **Talk Round 1** — discuss notes with a partner
+4. **Entry Points Check / Teacher Diagnosis** — group answer; teacher explains what you are stuck on
+5. **Guided Practice / Mission Task** — complete today’s main task
+6. **Exit Check** — review what you finished
+7. **Submission** — submit evidence listed in the mission file
 
 ![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
 

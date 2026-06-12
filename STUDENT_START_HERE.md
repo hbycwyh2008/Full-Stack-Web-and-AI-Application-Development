@@ -20,14 +20,13 @@ You will build real projects, document your process, and prove you can **explain
 
 Each **90-minute** class follows the same flow:
 
-1. **Self Learning / Skill Warm-up**
-2. **Talk Robin 1**
-3. **Group Answer**
-4. **Entry Points Check**
-5. **Teacher Explanation / Core Pattern**
-6. **Guided Practice**
-7. **Independent Rebuild**
-8. **Talk Robin 2 + Evidence**
+1. **Entry Point Check** (0–10 min) — short individual questions before learning
+2. **Individual Learning** (10–25 min) — **one required resource** + required notes
+3. **Talk Round 1** (25–40 min) — discuss with partner; each student speaks
+4. **Entry Points Check / Teacher Diagnosis** (40–55 min) — group answer; teacher explains stuck parts only
+5. **Guided Practice / Mission Task** (55–75 min) — main task with support, then less help
+6. **Exit Check** (75–85 min) — what you finished and what is confusing
+7. **Submission** (85–90 min) — submit evidence from the mission file
 
 ![Classroom Flow](08_Public_Documents/posters/classroom-flow.png)
 

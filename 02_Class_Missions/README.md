@@ -9,7 +9,7 @@ Each **class mission** is a student task sheet for one session. Your teacher wil
 ## How to Use
 
 1. Start at [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) if this is your first day.
-2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md); Phase 1 combined path: [Phase_1_Portfolio_Web_Foundations/README.md](Phase_1_Portfolio_Web_Foundations/README.md)).
+2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md); Phase 1 Notion: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md); Phase 2 web basics: [Phase_2_Web_Basics/README.md](Phase_2_Web_Basics/README.md); front-end path: [Front-end _web+knowledge/README.md](Front-end%20_web+knowledge/README.md)).
 3. Follow each block in order.
 4. Submit **learning evidence** before class ends (see Exit Evidence in each mission).
 
@@ -65,18 +65,30 @@ Start: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md)
 
 ---
 
-## Phase 1: Portfolio Web Foundations
+## Phase 2: Web Basics (MDN First Form)
 
-**Combined path:** Notion portfolio → HTML/CSS digital business card → JavaScript interactive profile → React component portfolio.
+**Prerequisite:** Phase 1 Notion portfolio complete.
+
+| Lesson | Class mission |
+|---|---|
+| 1 | [lesson-01-html-form-structure.md](Phase_2_Web_Basics/lesson-01-html-form-structure.md) |
+| 2 | [lesson-02-html-form-styling-and-github.md](Phase_2_Web_Basics/lesson-02-html-form-styling-and-github.md) |
+
+Start: [Phase_2_Web_Basics/README.md](Phase_2_Web_Basics/README.md)
+
+---
+
+## Front-end _web+knowledge
+
+**Combined path:** HTML/CSS digital business card → JavaScript interactive profile → React component portfolio.
 
 | Module | Class mission |
 |---|---|
-| 1 | [module-01-notion-portfolio.md](Phase_1_Portfolio_Web_Foundations/module-01-notion-portfolio.md) |
-| 2 | [module-02-html-css-digital-business-card.md](Phase_1_Portfolio_Web_Foundations/module-02-html-css-digital-business-card.md) |
-| 3 | [module-03-javascript-interactive-profile.md](Phase_1_Portfolio_Web_Foundations/module-03-javascript-interactive-profile.md) |
-| 4 | [module-04-react-component-portfolio.md](Phase_1_Portfolio_Web_Foundations/module-04-react-component-portfolio.md) |
+| 2 | [module-02-html-css-digital-business-card.md](Front-end%20_web+knowledge/module-02-html-css-digital-business-card.md) |
+| 3 | [module-03-javascript-interactive-profile.md](Front-end%20_web+knowledge/module-03-javascript-interactive-profile.md) |
+| 4 | [module-04-react-component-portfolio.md](Front-end%20_web+knowledge/module-04-react-component-portfolio.md) |
 
-Start: [Phase_1_Portfolio_Web_Foundations/README.md](Phase_1_Portfolio_Web_Foundations/README.md)
+Start: [Front-end _web+knowledge/README.md](Front-end%20_web+knowledge/README.md)
 
 ---
 

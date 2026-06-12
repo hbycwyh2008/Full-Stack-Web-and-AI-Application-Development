@@ -1,122 +1,17 @@
-# Lesson 3: File Organization and Learning Log
+# Lesson 3: GitHub Pages and Public Learning Site
 
-**Your repo:** `studentName-Full-Stack-Web-and-AI-Application`
-
-**Classroom learning cycle:**
-
-```text
-individual learning
-→ Talk Robin / group discussion
-→ group answer
-→ Entry Points Check
-→ teacher explains only what students do not understand
-→ mission task
-→ exit check
-→ submission of evidence
-```
-
----
+**Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 ## Lesson Goal
 
-By the end of this lesson, students should be able to:
+By the end of this lesson, each student should be able to:
 
-1. Organize work into **lesson folders** (`lesson-01/`, `lesson-02/`, `lesson-03/`) instead of dumping files in the repo root
-2. Write short `notes.md` files using basic **Markdown** headings and bullets
-3. Commit folder changes with meaningful messages and explain why structure matters
-
----
-
-## Required Resource
-
-Use this resource during **Individual Learning**:
-
-| | |
-|---|---|
-| **Resource name** | Markdown Crash Course (Traversy Media) |
-| **Link** | https://www.youtube.com/watch?v=HUBNt18RFbo |
-| **Required section** | **0:00–12:00 only** — headings (`#`, `##`) and bullet lists |
-| **Why this resource** | Teaches the only Markdown you need today — stop at 12 minutes |
-
-Do **not** watch the full crash course during class.
-
----
-
-## What to Focus On
-
-While watching **0:00–12:00**, focus **only** on:
-
-1. `#` for main title, `##` for section title
-2. `-` for bullet lists
-3. How headings make notes easier to read
-4. Why organized folders help reviewers find your work
-5. One thing you still do not understand
-
-**Required notes:**
-
-```text
-# creates a...
-## creates a...
-A bullet list uses...
-Organized folders help because...
-One thing I still do not understand is...
-```
-
-You do **not** need links, images, code blocks, or tables today.
-
----
-
-## Optional Support Resources
-
-Use **only if stuck** during the mission task:
-
-1. **GitHub Docs: Quickstart** (create files/folders on web) — https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
-
----
-
-## Teacher Reference Only
-
-- Full Traversy Markdown video (after 12:00)
-- `05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md`
-
----
-
-## Mini Skill: What You Need Before This Task
-
-1. **Lessons 1–2 complete** — `README.md`, `learning-log.md`, commits on GitHub
-2. **Repo root** — top level; `README.md` stays here, lesson notes go in folders
-3. **Markdown minimum** (cheatsheet):
-
-```markdown
-# Lesson 03 Notes
-
-## Core pattern
-create folder → create file → write → commit → check structure
-
-## What I practiced
-- one bullet
-- another bullet
-```
-
-**Target structure you build today:**
-
-```text
-studentName-Full-Stack-Web-and-AI-Application/
-├── README.md
-├── learning-log.md
-├── lesson-01/
-│   └── notes.md
-├── lesson-02/
-│   └── notes.md
-└── lesson-03/
-    └── notes.md
-```
-
-**Core pattern:**
-
-```text
-create folder → create file → write content → commit → check structure
-```
+1. Explain what GitHub Pages is used for.
+2. Complete GitHub Skills: GitHub Pages.
+3. Create or update a simple GitHub Pages site from a GitHub repository.
+4. Customize a homepage or blog-style page with personal learning content.
+5. Show commit history as evidence of site changes.
+6. Submit a public page link and explain what changed.
 
 ---
 
@@ -124,51 +19,58 @@ create folder → create file → write content → commit → check structure
 
 ### 0–15 min: Individual Learning
 
-Open **Markdown Crash Course (Traversy Media)**: https://www.youtube.com/watch?v=HUBNt18RFbo
+Students work individually first.
 
-Watch **0:00–12:00 only**. Stop after headings and bullet lists.
+**Step A — video explanation:**
 
-**Complete the required notes:**
+1. Open: https://www.youtube.com/watch?v=b2r9Cdvssi0&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=12
+2. Watch the full assigned video.
+3. Focus on what GitHub Pages publishes, where the page content comes from, and why a public page can show learning evidence.
+
+**Step B — interactive practice:**
+
+1. Open **GitHub Skills: GitHub Pages**: https://github.com/skills/github-pages
+2. Complete the GitHub Skills exercise.
+3. Stop when the exercise is complete.
+
+**Individual notes:**
 
 ```text
-# creates a...
-## creates a...
-A bullet list uses...
-Organized folders help because...
+GitHub Pages is useful because...
+A public learning site can show...
+One thing I changed in the GitHub Pages exercise was...
+Commit history matters for a public page because...
 One thing I still do not understand is...
 ```
 
-Practice writing one `#` heading and one `##` heading in your notebook.
-
-**Student output:** Five notes + sample Markdown snippet.
+**Student output:** Completed notes and GitHub Skills progress.
 
 ---
 
-### 15–30 min: Talk Robin / Group Discussion
+### 15–27 min: Talk Robin / Group Discussion
 
 Each student speaks once before anyone speaks twice.
 
 **Share:**
 
-1. “File organization matters because…”
-2. “`#` vs `##` means…”
-3. Where `README.md` should live
-4. One confusion about folders on GitHub
+1. What GitHub Pages publishes
+2. What students changed during the GitHub Pages exercise
+3. How a public page can show learning progress
+4. One confusion or question
 
-**Student output:** Group list of folder or Markdown questions.
+**Student output:** Group list of what GitHub Pages is for and what is still unclear.
 
 ---
 
-### 30–40 min: Group Answer
+### 27–37 min: Group Answer
 
-Prepare one shared answer:
+As a group, prepare one shared answer:
 
 ```text
-Folders help because...
-# creates...
-## creates...
-lesson-03/notes.md should live...
-A good commit message for this task is...
+GitHub Pages is useful because...
+A public learning site should include...
+Commit history proves page changes because...
+One good commit message for a page update is...
 Our group still needs help with...
 ```
 
@@ -176,105 +78,98 @@ Our group still needs help with...
 
 ---
 
-### 40–50 min: Entry Points Check
+### 37–45 min: Entry Points Check
 
-The teacher checks what the class already understands before explaining.
+The teacher checks what students already understand before explaining.
 
 **Teacher checks:**
 
-1. Who dumps everything in the repo root?
-2. Who can explain `#` vs plain text?
-3. Who can explain `#` vs `##`?
-4. Which groups are unsure how to create folders on GitHub web?
-5. Which folder structure questions came up across multiple groups?
+1. Can students explain GitHub Pages without saying only “a website”?
+2. Can students explain where page content comes from?
+3. Did students complete GitHub Skills: GitHub Pages?
+4. Which questions appear across multiple groups?
 
-**Teacher explanation rule:** Explain unclear parts only. Pattern: create folder → file → write → commit → check structure.
-
-**`notes.md` template:**
-
-```markdown
-# Lesson 03 Notes
-
-## Core pattern
-create folder → create file → write → commit → check structure
-
-## Key vocabulary
--
-
-## What I practiced
--
-
-## What was hard
--
-```
+**Teacher explanation rule:** Explain only the unclear parts. Do not run a full teacher-demo-first lesson.
 
 ---
 
-### 50–75 min: Mission Task
+### 45–70 min: Mission Task
 
-Open your `studentName-Full-Stack-Web-and-AI-Application` repo on GitHub. If you are stuck creating files or folders, open **GitHub Docs: Quickstart** and use only the file/folder creation steps.
+Students create or update a simple public learning page.
+
+**Mission resource, if needed:** Use the page setup and editing patterns from the video and GitHub Skills exercise.
 
 **Task:**
 
-1. `lesson-01/notes.md` — summarize Lesson 1 → commit
-2. `lesson-02/notes.md` — summarize Lesson 2 → commit
-3. `lesson-03/notes.md` — today’s notes → commit
+1. Open your `[studentName]-Full-Stack-Web-and-AI-Application` repository.
+2. Create or update a simple homepage for your learning site.
+3. Add a title, a short course description, and one section called `Learning Progress`.
+4. Add at least two bullets describing what you have learned so far.
+5. Commit the page update with a meaningful message, such as `Add GitHub Pages learning homepage`.
 
-Check **Code** tab file tree after each commit.
+**Mission output:**
 
-**Required output:**
-
-- Three lesson folders with non-empty `notes.md`
-- At least two meaningful commits for folder work
-- Root not cluttered with random note files
-
----
-
-### 75–85 min: Exit Check
-
-Answer individually:
-
-1. What folders did you create?
-2. Where does `README.md` live?
-3. Where does `lesson-03/notes.md` live?
-4. Can you navigate the file tree without search?
-5. What screenshot or link are you submitting?
-
-**Oral check if called:** Explain create folder → create file → write content → commit → check structure.
+- Public GitHub Pages link or page preview evidence
+- Homepage with course description and learning progress
+- Meaningful commit visible in commit history
 
 ---
 
-### 85–90 min: Submission
+### 70–80 min: Independent Rebuild / Exit Check
 
-Submit evidence (below).
+Students repeat the workflow independently **without looking at the tutorial**.
+
+This is not a delete-and-redo task. Students stay in the same repo/project and complete one small new change.
+
+**Independent rebuild task:**
+
+1. Open the same page file or homepage editor.
+2. Add one new sentence or bullet about today's GitHub Pages practice.
+3. Commit the small change with a new meaningful message.
+4. Confirm that commit history shows both today's mission commit and independent rebuild commit.
+
+**Exit prompts:**
+
+```text
+My GitHub Pages link or page evidence is...
+GitHub Pages is useful because...
+One change I made to my page was...
+My best commit message today is...
+One thing I can now do without the tutorial is...
+One thing I still need help with is...
+```
+
+**Oral check if called:** Explain page content → commit → public page evidence using your own repository.
+
+---
+
+### 80–90 min: Submission of Evidence
+
+Submit evidence before leaving class.
+
+Check that every link or screenshot clearly shows the student's own work.
 
 ---
 
 ## What You Must Submit
 
-1. Screenshot of repo **file tree** (shows lesson folders)
-2. One sentence: why does file organization matter?
-3. Link to `lesson-03/notes.md`
+1. GitHub Pages public link or screenshot showing the page
+2. Screenshot or link showing commit history with today's commits
+3. Screenshot or note showing GitHub Skills: GitHub Pages completed
+4. One sentence: “GitHub Pages can show my learning because...”
 
 ---
 
 ## Success Criteria
 
-1. `lesson-01/`, `lesson-02/`, `lesson-03/` exist with real content in each `notes.md`
-2. Commits show folder work with meaningful messages
-3. You can explain the core pattern without reading notes verbatim
+You are successful if:
 
-**Mastery:** Level 3 with checklist; Level 4 — rebuild structure from blank diagram.
-
----
-
-## Teacher Checkpoints
-
-1. Can students use `#` and `##` correctly in `notes.md`?
-2. Can students create a folder on GitHub web UI?
-3. Can students find `lesson-03/notes.md` in the file tree?
-4. Can students explain why structure matters for portfolio review?
-5. Is content original (not copied from partner)?
+1. Your page includes a title, course description, and learning progress section.
+2. Your page evidence is visible through a public link or screenshot.
+3. Your commit history shows meaningful page update commits.
+4. You completed GitHub Skills: GitHub Pages.
+5. You can explain what you did in your own words.
+6. You submitted all required evidence.
 
 ---
 
@@ -282,6 +177,21 @@ Submit evidence (below).
 
 | Problem | Try first |
 |---|---|
-| Files only in root | Create `lesson-XX/` folders |
-| Empty `notes.md` | Write 3+ sentences |
-| Commit `all lessons` | One folder per commit or logical group |
+| My page does not show changes yet | Wait a few minutes, refresh, and check the latest commit. |
+| I only completed GitHub Skills | Update your own course repo too; that is the course evidence. |
+| My commit message says only `update` | Rewrite it to describe the page change. |
+
+---
+
+## Fast Track Option
+
+If most students complete this lesson in about 45 minutes, continue directly into Lesson 4 during the same 90-minute block.
+
+Use this only if students have:
+
+1. Completed the required GitHub Skills exercise.
+2. Submitted or saved the required evidence.
+3. Completed the independent rebuild without looking at the tutorial.
+4. Can explain the workflow orally in simple words.
+
+If more than one third of the class is still stuck, do not start the next lesson. Use the remaining time for rebuild, evidence checks, and oral explanation.

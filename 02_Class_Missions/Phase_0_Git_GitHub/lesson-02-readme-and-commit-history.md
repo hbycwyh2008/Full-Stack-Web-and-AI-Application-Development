@@ -1,103 +1,17 @@
-# Lesson 2: README and Commit History
+# Lesson 2: README, Markdown, and Commit History
 
-**Your repo:** `studentName-Full-Stack-Web-and-AI-Application`
-
-**Classroom learning cycle:**
-
-```text
-individual learning
-→ Talk Robin / group discussion
-→ group answer
-→ Entry Points Check
-→ teacher explains only what students do not understand
-→ mission task
-→ exit check
-→ submission of evidence
-```
-
----
+**Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 ## Lesson Goal
 
-By the end of this lesson, students should be able to:
+By the end of this lesson, each student should be able to:
 
-1. Explain why **commit history** is learning evidence (not one `final` commit)
-2. Write **meaningful commit messages** and avoid vague messages like `update` or `asdf`
-3. Create `learning-log.md`, improve README, and make **separate commits** they can explain
-
----
-
-## Required Resource
-
-Use this resource during **Individual Learning**:
-
-| | |
-|---|---|
-| **Resource name** | GitHub Docs — About commits |
-| **Link** | https://docs.github.com/en/get-started/using-git/about-commits |
-| **Required section** | Read “About commits” and “Commit messages” (about 10 minutes) |
-| **Why this resource** | One clear reading path for commits and messages — no playlist choices |
-
----
-
-## What to Focus On
-
-While reading, focus **only** on:
-
-1. What a **commit** saves
-2. Why **commit messages** should describe the change
-3. How **commit history** tells a story over time
-4. Why one commit called `final` is **not** enough evidence
-5. One thing you still do not understand
-
-**Required notes:**
-
-```text
-A commit is...
-A good commit message looks like...
-Commit history is evidence because...
-A bad commit message example is...
-One thing I still do not understand is...
-```
-
-Open your repo **Commits** tab and find your Lesson 1 commit — note its message.
-
----
-
-## Optional Support Resources
-
-Use **only if stuck:**
-
-1. **GitHub Docs: Hello World** (commit steps only) — https://docs.github.com/en/get-started/start-your-journey/hello-world
-
----
-
-## Teacher Reference Only
-
-- GitHub for Beginners Playlist
-- A brief introduction to Git for beginners (Lesson 1 video — review only if teacher assigns)
-- `05_Resources/Git_GitHub_Unit/rubrics/github-mastery-rubric.md`
-
----
-
-## Mini Skill: What You Need Before This Task
-
-1. **Lesson 1 complete** — you have `studentName-Full-Stack-Web-and-AI-Application` with README and at least one commit
-2. **Commits tab** — GitHub → your repo → **Commits**
-3. **Markdown file** — create `learning-log.md` at repo root (same `#` and `##` as Lesson 1)
-
-**Good vs bad commit messages (today’s standard):**
-
-```text
-Good:  Add learning log with Lesson 1 reflection
-Bad:   update / asdf / final / change
-```
-
-**Core pattern:**
-
-```text
-small change → meaningful commit → visible history
-```
+1. Use basic Markdown to make a README easier to read.
+2. Explain why a README is communication, not just a file.
+3. Complete GitHub Skills: Communicate using Markdown.
+4. Make a meaningful README or learning-log update in the course repo.
+5. Show commit history as evidence of the update.
+6. Explain the update orally if called.
 
 ---
 
@@ -105,49 +19,58 @@ small change → meaningful commit → visible history
 
 ### 0–15 min: Individual Learning
 
-Open **GitHub Docs — About commits**: https://docs.github.com/en/get-started/using-git/about-commits
+Students work individually first.
 
-Read only “About commits” and “Commit messages.” Then open your repo **Commits** tab and find your Lesson 1 commit.
+**Step A — video explanation:**
 
-**Complete the required notes:**
+1. Open: https://www.youtube.com/watch?v=LxeclcePg-c&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=13
+2. Watch the full assigned video.
+3. Focus on README purpose, Markdown formatting, and why clear repository communication matters.
+
+**Step B — interactive practice:**
+
+1. Open **GitHub Skills: Communicate using Markdown**: https://github.com/skills/communicate-using-markdown
+2. Complete the GitHub Skills exercise.
+3. Stop when the exercise is complete.
+
+**Individual notes:**
 
 ```text
-A commit is...
-A good commit message looks like...
-Commit history is evidence because...
-A bad commit message example is...
-My Lesson 1 commit message was...
+A README is useful because...
+Markdown helps because...
+One Markdown feature I practiced is...
+A good commit message for a README change could be...
 One thing I still do not understand is...
 ```
 
-**Student output:** Six note lines + Lesson 1 commit message copied or described.
+**Student output:** Completed notes and GitHub Skills progress.
 
 ---
 
-### 15–30 min: Talk Robin / Group Discussion
+### 15–27 min: Talk Robin / Group Discussion
 
 Each student speaks once before anyone speaks twice.
 
 **Share:**
 
-1. “Commit history is evidence because…”
-2. “A good message I saw or wrote is…”
-3. Your Lesson 1 commit message
-4. One confusion about commits vs saving a file
+1. What a README is for
+2. One Markdown feature you practiced
+3. Why commit history is evidence of improving communication
+4. One confusion or question
 
-**Student output:** Group list of good and bad commit message examples.
+**Student output:** Group list of useful Markdown features and unclear questions.
 
 ---
 
-### 30–40 min: Group Answer
+### 27–37 min: Group Answer
 
-Prepare one shared answer:
+As a group, prepare one shared answer:
 
 ```text
-A commit is...
+A README is useful because...
+Markdown makes README clearer because...
 Commit history matters because...
-A good commit message example is...
-A bad commit message example is...
+One good README commit message is...
 Our group still needs help with...
 ```
 
@@ -155,108 +78,97 @@ Our group still needs help with...
 
 ---
 
-### 40–50 min: Entry Points Check
+### 37–45 min: Entry Points Check
 
-The teacher checks what the class already understands before explaining.
+The teacher checks what students already understand before explaining.
 
 **Teacher checks:**
 
-1. Who can open the Commits tab?
-2. Who can explain commit vs save?
-3. Who has only one vague commit message?
-4. Which groups still confuse commit message and file content?
-5. Which questions came up across multiple groups?
+1. Can students explain the purpose of a README?
+2. Can students name at least one Markdown feature?
+3. Did students complete GitHub Skills: Communicate using Markdown?
+4. Which questions appear across multiple groups?
 
-**Teacher explanation rule:** Explain unclear parts only. Pattern: small change → meaningful commit → visible history.
-
-**You will create:**
-
-- Improved `README.md`
-- `learning-log.md` with Lesson 1 and Lesson 2 reflections
-- **Separate commits** for README and log (not one giant commit)
+**Teacher explanation rule:** Explain only the unclear parts. Do not run a full teacher-demo-first lesson.
 
 ---
 
-### 50–75 min: Mission Task
+### 45–70 min: Mission Task
 
-Keep your `studentName-Full-Stack-Web-and-AI-Application` repo and **Commits** tab open while you work.
+Students complete the main task.
+
+**Mission resource, if needed:** Use the Markdown patterns from the video and GitHub Skills exercise.
 
 **Task:**
 
-1. Read commits on **Commits** tab.
-2. Edit README → commit: `Update README with personal learning goals`
-3. Create `learning-log.md` → commit: `Add learning log with Lesson 1 reflection`
-4. Add Lesson 2 section → commit: `Add Lesson 2 reflection to learning log`
+1. Open your `[studentName]-Full-Stack-Web-and-AI-Application` repository.
+2. Edit `README.md`.
+3. Add or improve at least two Markdown elements, such as headings, bullets, or a task list.
+4. Add a short section called `## Learning Log`.
+5. Commit the README update with a meaningful message, such as `Improve README with Markdown learning notes`.
 
-**Starter for `learning-log.md`:**
+**Mission output:**
 
-```markdown
-# Learning Log
+- Updated `README.md`
+- At least two Markdown features used correctly
+- Meaningful commit visible in commit history
 
-## Lesson 1 Reflection
-- What I did:
-- What I learned:
-- What was hard:
+---
 
-## Lesson 2 Reflection
-- What I did:
-- What I learned:
-- What was hard:
+### 70–80 min: Independent Rebuild / Exit Check
+
+Students repeat the workflow independently **without looking at the tutorial**.
+
+This is not a delete-and-redo task. Students stay in the same repo/project and complete one small new change.
+
+**Independent rebuild task:**
+
+1. Open the same `README.md`.
+2. Add one new bullet under `## Learning Log`.
+3. Commit the small change with a new meaningful message.
+4. Confirm that commit history shows both today's mission commit and independent rebuild commit.
+
+**Exit prompts:**
+
+```text
+A README is useful because...
+One Markdown feature I used is...
+My best commit message today is...
+One thing I can now do without the tutorial is...
+One thing I still need help with is...
 ```
 
-**Required output:**
-
-- `learning-log.md` with real reflections (not empty bullets)
-- At least **two new commits** with meaningful messages
-- Clear progression on Commits tab
-
-**Rules:** No copying partner reflections. No AI full log paste (`../shared/ai-use-during-practice.md`).
+**Oral check if called:** Explain README → Markdown update → commit → commit history using your own repository.
 
 ---
 
-### 75–85 min: Exit Check
+### 80–90 min: Submission of Evidence
 
-Answer individually:
+Submit evidence before leaving class.
 
-1. What files did you commit today?
-2. Which commit message is your best — why?
-3. What evidence are you submitting?
-
-**Oral check if called:** Explain small change → meaningful commit.
-
----
-
-### 85–90 min: Submission
-
-Submit evidence (below).
+Check that every link or screenshot clearly shows the student's own work.
 
 ---
 
 ## What You Must Submit
 
-1. Link or screenshot of `learning-log.md`
-2. Screenshot of **Commits** tab (multiple meaningful messages)
-3. One sentence: why are good commit messages important?
+1. Link or screenshot showing updated `README.md`
+2. Screenshot or link showing commit history with today's commits
+3. Screenshot or note showing GitHub Skills: Communicate using Markdown completed
+4. One sentence: “Markdown makes my README clearer because...”
 
 ---
 
 ## Success Criteria
 
-1. `learning-log.md` exists with Lesson 1 and Lesson 2 reflections
-2. Commits tab shows **at least two new** meaningful commits (not `update` / `final`)
-3. You can explain which commit changed which file
+You are successful if:
 
-**Mastery:** Level 3 with checklist; Level 4 — good messages without examples on screen.
-
----
-
-## Teacher Checkpoints
-
-1. Can students explain commit vs save?
-2. Can students write a new message without copying the good/bad list verbatim?
-3. Can students locate Commits tab and match message to file?
-4. Can students explain why history is evidence?
-5. Is `learning-log.md` their own writing?
+1. Your `README.md` is easier to read than before.
+2. Your `README.md` uses at least two Markdown features correctly.
+3. Your commit history shows meaningful README update commits.
+4. You completed GitHub Skills: Communicate using Markdown.
+5. You can explain what you did in your own words.
+6. You submitted all required evidence.
 
 ---
 
@@ -264,6 +176,21 @@ Submit evidence (below).
 
 | Problem | Try first |
 |---|---|
-| One commit `lesson 2 done` | Split into README + log commits |
-| Empty reflection bullets | Write 3+ real sentences per lesson |
-| Message `fix` only | `Fix typo in README title` |
+| My README is plain text only | Add headings and bullets. |
+| My commit message says only `update` | Rewrite it to describe the change. |
+| I think GitHub Skills is the evidence | GitHub Skills is practice; your own repo update is the evidence. |
+
+---
+
+## Fast Track Option
+
+If most students complete this lesson in about 45 minutes, continue directly into Lesson 3 during the same 90-minute block.
+
+Use this only if students have:
+
+1. Completed the required GitHub Skills exercise.
+2. Submitted or saved the required evidence.
+3. Completed the independent rebuild without looking at the tutorial.
+4. Can explain the workflow orally in simple words.
+
+If more than one third of the class is still stuck, do not start the next lesson. Use the remaining time for rebuild, evidence checks, and oral explanation.

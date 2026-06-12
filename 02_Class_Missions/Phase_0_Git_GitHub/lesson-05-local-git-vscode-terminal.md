@@ -1,114 +1,17 @@
-# Lesson 5: Local Git with VS Code and Terminal
+# Lesson 5: Pull Requests and Code Review
 
-**Your repo:** `studentName-Full-Stack-Web-and-AI-Application`
-
-**Classroom learning cycle:**
-
-```text
-individual learning
-→ Talk Robin / group discussion
-→ group answer
-→ Entry Points Check
-→ teacher explains only what students do not understand
-→ mission task
-→ exit check
-→ submission of evidence
-```
-
----
+**Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 ## Lesson Goal
 
-By the end of this lesson, students should be able to:
+By the end of this lesson, each student should be able to:
 
-1. Explain the difference between **save**, **commit**, and **push**
-2. Run the local workflow: change file → `git status` → `git add` → `git commit` → `git push` → check GitHub  
-   **OR** complete the **web fallback** pattern with written explanation in `lesson-05/notes.md`
-3. Show evidence (terminal or web commits) and explain each step
-
----
-
-## Required Resource
-
-Use this resource during **Individual Learning** and keep it open during the mission:
-
-| | |
-|---|---|
-| **Resource name** | Git & GitHub Command Cheatsheet (course handout) |
-| **Link** | `05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md` (teacher shares path or copy in LMS) |
-| **Required section** | Read **only:** `git status`, `git add`, `git commit`, `git push` rows + “Save vs Commit vs Push” |
-| **Why this resource** | One page with the exact commands for today — no playlist, no extra tutorials |
-
-If your teacher prints the cheatsheet, use the paper copy instead of searching other links.
-
----
-
-## What to Focus On
-
-While reading the cheatsheet, focus **only** on:
-
-1. What `git status` shows
-2. What `git add` does (stage changes)
-3. What `git commit` does (local snapshot)
-4. What `git push` does (upload to GitHub)
-5. Why **save in editor ≠ commit ≠ push**
-
-**Required notes:**
-
-```text
-git status tells me...
-git add prepares...
-git commit saves locally...
-git push uploads...
-Save vs commit vs push: ...
-One thing I still do not understand is...
-```
-
----
-
-## Optional Support Resources
-
-Use **only if stuck:**
-
-1. **GitHub Docs: Quickstart** (clone/edit on web — web fallback path) — https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
-
----
-
-## Teacher Reference Only
-
-- GitHub for Beginners Playlist
-- Full `git-github-command-cheatsheet.md` advanced sections
-- VS Code Source Control docs
-
----
-
-## Mini Skill: What You Need Before This Task
-
-1. **Lessons 1–4 complete** — repo with folders, commits, `lesson-04/notes.md`
-2. **Local path:** Git installed, repo cloned to your computer, VS Code (or editor) + terminal
-3. **Web fallback:** if local setup not ready — edit on github.com; write `lesson-05/notes.md` explaining what push would do later
-
-**Command sequence (local):**
-
-```bash
-git status
-git add .
-git commit -m "Add Lesson 5 note on local Git workflow"
-git push
-```
-
-**Core pattern:**
-
-```text
-change file → git status → git add → git commit → git push → check GitHub
-```
-
-| Command | Purpose |
-|---|---|
-| `git status` | See what changed |
-| `git add .` | Stage changes |
-| `git commit -m "..."` | Save local snapshot |
-| `git push` | Upload to GitHub |
+1. Explain what a pull request is used for.
+2. Explain why review comments and suggestions improve work before merging.
+3. Complete GitHub Skills: Review pull requests.
+4. Practice reviewing or documenting a change in the course repository.
+5. Submit evidence of pull request review practice and repo commit history.
+6. Explain the review workflow orally if called.
 
 ---
 
@@ -116,61 +19,61 @@ change file → git status → git add → git commit → git push → check Git
 
 ### 0–15 min: Individual Learning
 
-Open the **Git & GitHub Command Cheatsheet** at:
+Students work individually first.
 
-`05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md`
+**Step A — video explanation:**
 
-Read only:
+1. Open: https://www.youtube.com/watch?v=nCKdihvneS0&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=7&t=2s
+2. Watch the assigned video section.
+3. Focus on what a pull request is and why developers use it before merging work.
+4. Open: https://www.youtube.com/watch?v=FDXSgyDGmho&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=7&t=70s
+5. Watch the assigned video section.
+6. Focus on review, comments, suggestions, and approval.
 
-- `git status`
-- `git add`
-- `git commit`
-- `git push`
-- “Save vs Commit vs Push”
+**Step B — interactive practice:**
 
-Complete the required notes:
+1. Open **GitHub Skills: Review pull requests**: https://github.com/skills/review-pull-requests
+2. Complete the GitHub Skills exercise.
+3. Stop when the exercise is complete.
+
+**Individual notes:**
 
 ```text
-git status tells me...
-git add prepares...
-git commit saves locally...
-git push uploads...
-Save vs commit vs push: ...
+A pull request is useful because...
+A review comment should...
+A suggested change is useful because...
+Before merging, reviewers should check...
 One thing I still do not understand is...
 ```
 
-Predict: “If I save locally but don’t push, GitHub shows ___.”
-
-**Student output:** Six notes + prediction.
+**Student output:** Completed notes and GitHub Skills progress.
 
 ---
 
-### 15–30 min: Talk Robin / Group Discussion
+### 15–27 min: Talk Robin / Group Discussion
 
 Each student speaks once before anyone speaks twice.
 
 **Share:**
 
-1. “Commit is local; push is…”
-2. “If GitHub shows old README, I check…”
-3. Whether you are on **local path** or **web fallback**
-4. One terminal fear or setup question
+1. What a pull request is used for
+2. What makes a review comment helpful
+3. What the Review pull requests exercise made clearer
+4. One confusion or question
 
-**Student output:** Group list of command or setup questions.
+**Student output:** Group list of useful review behaviors and unclear questions.
 
 ---
 
-### 30–40 min: Group Answer
+### 27–37 min: Group Answer
 
-Prepare one shared answer:
+As a group, prepare one shared answer:
 
 ```text
-git status means...
-git add means...
-git commit means...
-git push means...
-Save vs commit vs push means...
-Our group path is local / web fallback / mixed.
+A pull request is useful because...
+A good review comment should...
+A suggested change helps because...
+Review evidence matters because...
 Our group still needs help with...
 ```
 
@@ -178,106 +81,98 @@ Our group still needs help with...
 
 ---
 
-### 40–50 min: Entry Points Check
+### 37–45 min: Entry Points Check
 
-The teacher checks what the class already understands before explaining.
+The teacher checks what students already understand before explaining.
 
 **Teacher checks:**
 
-1. Who thinks saving a file updates GitHub automatically?
-2. Who can explain commit vs push?
-3. Who has Git installed and repo cloned?
-4. Who needs the web fallback today?
-5. Which command or authentication questions appeared across groups?
+1. Can students explain pull request vs commit?
+2. Can students explain what review comments are for?
+3. Did students complete GitHub Skills: Review pull requests?
+4. Which questions appear across multiple groups?
 
-**Teacher explanation rule:** Explain unclear parts only. If modeling is needed, model only the blocked command sequence.
-
-**Local demo sequence:**
-
-1. Open cloned `studentName-Full-Stack-Web-and-AI-Application` in VS Code
-2. Edit `README.md` or `learning-log.md` — add “Lesson 5: local Git practice”
-3. Run command sequence in repo folder
-4. Verify on GitHub **Commits** tab
-
-**Web fallback:** Edit on github.com; create `lesson-05/notes.md` explaining commit vs push; two meaningful web commits.
+**Teacher explanation rule:** Explain only the unclear parts. Do not run a full teacher-demo-first lesson.
 
 ---
 
-### 50–75 min: Mission Task
+### 45–70 min: Mission Task
 
-Keep the **Git & GitHub Command Cheatsheet** open while you work.
+Students document a review-ready change in their course repository.
 
-**Local path:**
+**Mission resource, if needed:** Use the review behaviors from the videos and GitHub Skills exercise.
 
-- [ ] Edit file
-- [ ] `git status` before add
-- [ ] `git add` + `git commit` with meaningful message
-- [ ] `git push` succeeded
-- [ ] GitHub Commits tab updated
-- [ ] Terminal screenshot saved
+**Task:**
 
-**Web fallback path:**
+1. Open your `[studentName]-Full-Stack-Web-and-AI-Application` repository.
+2. Create or update a file called `review-notes.md`.
+3. Add a section called `## Pull Request Review Checklist`.
+4. Add at least four bullets describing what a reviewer should check.
+5. Commit the file with a meaningful message, such as `Add pull request review checklist`.
 
-- [ ] Two web commits with meaningful messages
-- [ ] `lesson-05/notes.md` explains commit vs push
-- [ ] Note: “Web workflow today — local push later”
+**Mission output:**
 
-**No AI full command paste** during this block (`../shared/ai-use-during-practice.md`).
-
----
-
-### 75–85 min: Exit Check
-
-Answer individually:
-
-1. What command sequence did you run (or web steps)?
-2. What proof shows push worked (or was deferred)?
-3. One sentence: save vs commit vs push?
-4. What evidence are you submitting?
-
-**Oral check if called:** Explain change file → status → add → commit → push → check GitHub.
+- `review-notes.md` with a review checklist
+- Meaningful commit visible in commit history
+- Evidence that GitHub Skills: Review pull requests was completed
 
 ---
 
-### 85–90 min: Submission
+### 70–80 min: Independent Rebuild / Exit Check
 
-Submit evidence (below).
+Students repeat the workflow independently **without looking at the tutorial**.
+
+This is not a delete-and-redo task. Students stay in the same repo/project and complete one small new change.
+
+**Independent rebuild task:**
+
+1. Open `review-notes.md`.
+2. Add one new bullet describing a helpful review comment.
+3. Commit the small change with a new meaningful message.
+4. Confirm that commit history shows both today's mission commit and independent rebuild commit.
+
+**Exit prompts:**
+
+```text
+A pull request is useful because...
+A good review comment should...
+One thing I added to my review checklist was...
+My best commit message today is...
+One thing I can now do without the tutorial is...
+One thing I still need help with is...
+```
+
+**Oral check if called:** Explain pull request → review comment → suggested change → merge using the GitHub Skills exercise and your own notes.
+
+---
+
+### 80–90 min: Submission of Evidence
+
+Submit evidence before leaving class.
+
+Check that every link or screenshot clearly shows the student's own work.
 
 ---
 
 ## What You Must Submit
 
-**Local path:**
-
-1. Terminal screenshot (status / add / commit / push)
-2. GitHub screenshot after push
-3. One sentence: difference between **commit** and **push**
-
-**Web fallback:**
-
-1. Web commit screenshot(s)
-2. Link to `lesson-05/notes.md`
-3. Same sentence + note that push was deferred
+1. Link or screenshot showing `review-notes.md`
+2. Screenshot or link showing commit history with today's commits
+3. Screenshot or note showing GitHub Skills: Review pull requests completed
+4. One sentence: “Pull request reviews improve work because...”
 
 ---
 
 ## Success Criteria
 
-1. File change visible on GitHub with meaningful commit message(s)
-2. You can explain save → commit → push in order
-3. Evidence matches your path (local or web)
+You are successful if:
 
-**Mastery:** Level 3 — full sequence with checklist; Level 4 — without cheatsheet.
-
----
-
-## Teacher Checkpoints
-
-1. Can students run `git status` in the correct folder?
-2. Can students explain why `nothing to commit` happens?
-3. Can students show GitHub updated after push (or explain web path)?
-4. Can students distinguish commit vs push orally?
-5. Did students try before asking for auth/help?
+1. `review-notes.md` includes a pull request review checklist.
+2. Your checklist has at least four useful review bullets.
+3. Your commit history shows meaningful review-notes commits.
+4. You completed GitHub Skills: Review pull requests.
+5. You can explain what you did in your own words.
+6. You submitted all required evidence.
 
 ---
 
@@ -285,7 +180,21 @@ Submit evidence (below).
 
 | Problem | Try first |
 |---|---|
-| `not a git repository` | `cd` into cloned repo folder |
-| `nothing to commit` | Did you save and `git add`? |
-| GitHub unchanged | Did you `git push`? |
-| Auth failed | Ask teacher — PAT or GitHub Desktop |
+| I confuse pull request and commit | Commit saves a change; pull request asks for review before merging. |
+| My review checklist is too vague | Write checks a reviewer can actually do. |
+| I only completed GitHub Skills | Add `review-notes.md` in your own repo too; that is the course evidence. |
+
+---
+
+## Fast Track Option
+
+If most students complete this lesson in about 45 minutes, continue directly into Lesson 6 during the same 90-minute block.
+
+Use this only if students have:
+
+1. Completed the required GitHub Skills exercise.
+2. Submitted or saved the required evidence.
+3. Completed the independent rebuild without looking at the tutorial.
+4. Can explain the workflow orally in simple words.
+
+If more than one third of the class is still stuck, do not start the next lesson. Use the remaining time for rebuild, evidence checks, and oral explanation.

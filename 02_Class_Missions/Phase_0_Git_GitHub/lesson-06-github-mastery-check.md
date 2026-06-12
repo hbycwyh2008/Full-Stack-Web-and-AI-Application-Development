@@ -1,120 +1,17 @@
-# Lesson 6: GitHub Mastery Check
+# Lesson 6: Resolve Merge Conflicts
 
-**Your repo:** `studentName-Full-Stack-Web-and-AI-Application`
-
-**Classroom learning cycle:**
-
-```text
-individual learning
-→ Talk Robin / group discussion
-→ group answer
-→ Entry Points Check
-→ teacher explains only what students do not understand
-→ mission task
-→ exit check
-→ submission of evidence
-```
-
----
+**Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 ## Lesson Goal
 
-By the end of this lesson, students should be able to:
+By the end of this lesson, each student should be able to:
 
-1. Answer **five mastery questions** in their own words with **examples from their repo**
-2. Create `mastery-check/final-github-practice.md`, commit with a meaningful message, and submit evidence
-3. State **“My current GitHub mastery level is Level ___ because…”** and explain orally if called
-
-This lesson has **no new video**. Your **repo is the required resource**.
-
----
-
-## Required Resource
-
-Use this resource during **Individual Learning** and keep it open during the mission:
-
-| | |
-|---|---|
-| **Resource name** | Your GitHub repository `studentName-Full-Stack-Web-and-AI-Application` |
-| **Link** | Your repo URL (Commits tab, Code tab, README) |
-| **Required section** | Review: README, folder structure, Commits tab, `learning-log.md`, lesson folders |
-| **Why this resource** | Phase 0 mastery is proved by **your evidence**, not a new tutorial |
-
----
-
-## What to Focus On
-
-While reviewing **your repo**, focus **only** on:
-
-1. Can you **explain** repository, commit, commit history using **your** files?
-2. Can you **describe** save vs commit vs push from **your** Lesson 5 work?
-3. Can you **point to** meaningful commits (not `update` / `final`)?
-4. Can you **explain** why GitHub is learning evidence in this course?
-5. What is still confusing?
-
-**Required prep notes (before writing final file):**
-
-```text
-My repo URL is...
-My commit count is approximately...
-My best commit message is... because...
-My folder structure includes...
-One thing I still need to improve is...
-```
-
----
-
-## Optional Support Resources
-
-Use **only if stuck** on one definition:
-
-1. **GitHub Docs: Hello World** — https://docs.github.com/en/get-started/start-your-journey/hello-world (reference one term only)
-
----
-
-## Teacher Reference Only
-
-- `04_Assessment/Student_GitHub_Assessment.md`
-- `05_Resources/Git_GitHub_Unit/rubrics/github-mastery-rubric.md`
-- `../shared/mastery-levels.md`
-
----
-
-## Mini Skill: What You Need Before This Task
-
-You must have completed **Lessons 1–5** with evidence in `studentName-Full-Stack-Web-and-AI-Application`:
-
-| Skill | Where to check in your repo |
-|---|---|
-| Repository + README | Root `README.md` |
-| Commits + messages | **Commits** tab |
-| Learning log | `learning-log.md` |
-| Folders | `lesson-01/` … `lesson-05/` |
-| Local or web Git | `lesson-05/notes.md` or push evidence |
-
-**Core pattern:**
-
-```text
-independent task → meaningful commit → evidence submission → oral explanation
-```
-
-**Independent task file — you create:**
-
-```text
-mastery-check/final-github-practice.md
-```
-
-**Answer in your own words** (examples from **your** repo):
-
-1. What is a repository?
-2. What is a commit?
-3. What is commit history?
-4. What is the difference between saving, committing, and pushing?
-5. Why is GitHub evidence important in this course?
-
-Commit example: `Add final GitHub mastery practice answers`
-
-**Do not** use AI to generate all five answers during the mission block.
+1. Explain why merge conflicts happen.
+2. Identify conflicting changes in a file.
+3. Complete GitHub Skills: Resolve Merge Conflicts.
+4. Write a short conflict-resolution checklist in the course repository.
+5. Show commit history as evidence of the checklist update.
+6. Explain the conflict-resolution workflow orally if called.
 
 ---
 
@@ -122,163 +19,157 @@ Commit example: `Add final GitHub mastery practice answers`
 
 ### 0–15 min: Individual Learning
 
-Open your GitHub repository `studentName-Full-Stack-Web-and-AI-Application`.
+Students work individually first.
 
-Use these sections of **your repo**:
+**Step A — video explanation:**
 
-- Root `README.md`
-- **Commits** tab
-- File tree / Code tab
-- `learning-log.md`
-- `lesson-01/` through `lesson-05/`
-- Lesson 5 local or web Git evidence
+1. Open: https://www.youtube.com/watch?v=mOJazBNrG-c
+2. Watch the full assigned video.
+3. Focus on why conflicts happen, how conflicting changes are shown, and how developers decide what to keep.
 
-Complete the prep notes:
+**Step B — interactive practice:**
+
+1. Open **GitHub Skills: Resolve Merge Conflicts**: https://github.com/skills/resolve-merge-conflicts
+2. Complete the GitHub Skills exercise.
+3. Stop when the exercise is complete.
+
+**Individual notes:**
 
 ```text
-My repo URL is...
-My commit count is approximately...
-My best commit message is... because...
-My folder structure includes...
-One thing I still need to improve is...
+A merge conflict happens when...
+GitHub shows a conflict by...
+To resolve a conflict, I should...
+One careful choice I need to make is...
+One thing I still do not understand is...
 ```
 
-Then draft answers to the five mastery questions using examples from your repo.
-
-**Student output:** Five prep notes + five draft answers.
+**Student output:** Completed notes and GitHub Skills progress.
 
 ---
 
-### 15–30 min: Talk Robin / Group Discussion
+### 15–27 min: Talk Robin / Group Discussion
 
 Each student speaks once before anyone speaks twice.
 
 **Share:**
 
-1. Your answer to “What is a commit?” with **your** repo example
-2. Your answer to “save vs commit vs push” with **your** Lesson 5 example
-3. Your best commit message
-4. Your hardest mastery question
+1. Why merge conflicts happen
+2. What conflict markers or conflicting sections mean
+3. One decision you made during the Resolve Merge Conflicts exercise
+4. One confusion or question
 
-**Student output:** Group identifies weakest answer to fix in the final file.
+**Student output:** Group list of conflict causes and unclear questions.
 
 ---
 
-### 30–40 min: Group Answer
+### 27–37 min: Group Answer
 
-Prepare one shared answer:
+As a group, prepare one shared answer:
 
 ```text
-A repository is...
-A commit is...
-Commit history is...
-Saving vs committing vs pushing means...
-GitHub evidence matters because...
-Our group's weakest area is...
+A merge conflict happens when...
+Conflict resolution means...
+A careful resolver should...
+Commit history matters after resolving a conflict because...
+Our group still needs help with...
 ```
 
 **Student output:** One group answer.
 
 ---
 
-### 40–50 min: Entry Points Check
+### 37–45 min: Entry Points Check
 
-The teacher checks what the class already understands before explaining.
+The teacher checks what students already understand before explaining.
 
 **Teacher checks:**
 
-1. Who can answer with repo evidence, not copied definitions?
-2. Who can distinguish save, commit, and push?
-3. Who can locate Commits tab and folder evidence quickly?
-4. Which mastery question is weakest across groups?
-5. Who needs oral explanation support?
+1. Can students explain why conflicts happen?
+2. Can students explain the difference between choosing one side and combining both sides?
+3. Did students complete GitHub Skills: Resolve Merge Conflicts?
+4. Which questions appear across multiple groups?
 
-**Teacher explanation rule:** Explain gaps only. Do not reteach all of Phase 0.
-
-**Level guide:**
-
-| Level | You demonstrate |
-|---|---|
-| 3 | Complete file + commit + exit evidence with checklist |
-| 4 | Same without step-by-step handout; clear oral |
-| 5 | Oral excellence + hint-only help to peer on Commits tab |
+**Teacher explanation rule:** Explain only the unclear parts. Do not run a full teacher-demo-first lesson.
 
 ---
 
-### 50–75 min: Mission Task
+### 45–70 min: Mission Task
 
-Keep your `studentName-Full-Stack-Web-and-AI-Application` repo open while you work.
+Students document a safe conflict-resolution process in their course repository.
+
+**Mission resource, if needed:** Use the conflict-resolution steps from the video and GitHub Skills exercise.
 
 **Task:**
 
-1. Create `mastery-check/` folder
-2. Write `final-github-practice.md` — all 5 answers with **personal repo examples**
-3. Commit with meaningful message
-4. Prepare 30-second oral answer for each question
+1. Open your `[studentName]-Full-Stack-Web-and-AI-Application` repository.
+2. Create or update a file called `merge-conflict-notes.md`.
+3. Add a section called `## Conflict Resolution Checklist`.
+4. Add at least five checklist items for resolving a conflict carefully.
+5. Commit the file with a meaningful message, such as `Add merge conflict resolution checklist`.
 
-**Required output:**
+**Mission output:**
 
-- `mastery-check/final-github-practice.md` complete
-- Meaningful commit on GitHub
-- Answers are **your words** (revise generic/AI text)
-
-**Level 4:** Close checklist after reading questions once.  
-**Level 5:** Hint-only help to assigned peer on Commits tab after you finish.
+- `merge-conflict-notes.md` with a conflict-resolution checklist
+- Meaningful commit visible in commit history
+- Evidence that GitHub Skills: Resolve Merge Conflicts was completed
 
 ---
 
-### 75–85 min: Exit Check
+### 70–80 min: Independent Rebuild / Exit Check
 
-Practice oral answers using your repo as evidence:
+Students repeat the workflow independently **without looking at the tutorial**.
 
-1. Commit history (#3)
-2. Why evidence matters (#5)
-3. **“My current GitHub mastery level is Level ___ because…”**
+This is not a delete-and-redo task. Students stay in the same repo/project and complete one small new change.
 
-Then answer:
+**Independent rebuild task:**
 
-1. What did you complete?
-2. What is still confusing?
-3. What evidence did you submit?
+1. Open `merge-conflict-notes.md`.
+2. Add one new bullet explaining what to check before committing a conflict fix.
+3. Commit the small change with a new meaningful message.
+4. Confirm that commit history shows both today's mission commit and independent rebuild commit.
 
-**Oral check if called:** Answer without reading copied text word-for-word.
+**Exit prompts:**
+
+```text
+A merge conflict happens when...
+One safe conflict-resolution step is...
+One thing I added to my checklist was...
+My best commit message today is...
+One thing I can now do without the tutorial is...
+One thing I still need help with is...
+```
+
+**Oral check if called:** Explain conflict → resolution choice → commit → history using the GitHub Skills exercise and your own notes.
 
 ---
 
-### 85–90 min: Submission
+### 80–90 min: Submission of Evidence
 
-Submit evidence (below). Oral check if teacher calls.
+Submit evidence before leaving class.
 
-Phase 0 sign-off may use `04_Assessment/Student_GitHub_Assessment.md` — ask your teacher.
+Check that every link or screenshot clearly shows the student's own work.
 
 ---
 
 ## What You Must Submit
 
-1. Link to `mastery-check/final-github-practice.md`
-2. Screenshot of **final commit** on Commits tab
-3. One sentence: **“My current GitHub mastery level is Level ___ because…”**
-4. Oral answer when called
+1. Link or screenshot showing `merge-conflict-notes.md`
+2. Screenshot or link showing commit history with today's commits
+3. Screenshot or note showing GitHub Skills: Resolve Merge Conflicts completed
+4. One sentence: “Merge conflicts are easier to solve when...”
 
 ---
 
 ## Success Criteria
 
-1. All five answers use **examples from your repo** (commit count, folder names, messages)
-2. No vague commit message `done` / `final` on mastery commit
-3. You can explain orally without reading AI text verbatim
+You are successful if:
 
-**Minimum pass:** Level 3. **Strong:** Level 4–5.
-
----
-
-## Teacher Checkpoints
-
-1. Can students explain each answer with repo evidence?
-2. Can students modify a wrong answer without copying a neighbor?
-3. Can students locate `mastery-check/final-github-practice.md` and Commits tab?
-4. Can students explain **why** GitHub evidence matters for the course?
-5. Can students state mastery level with a **because** reason?
+1. `merge-conflict-notes.md` includes a conflict-resolution checklist.
+2. Your checklist has at least five useful conflict-resolution items.
+3. Your commit history shows meaningful merge-conflict-notes commits.
+4. You completed GitHub Skills: Resolve Merge Conflicts.
+5. You can explain what you did in your own words.
+6. You submitted all required evidence.
 
 ---
 
@@ -286,7 +177,21 @@ Phase 0 sign-off may use `04_Assessment/Student_GitHub_Assessment.md` — ask yo
 
 | Problem | Try first |
 |---|---|
-| Copied definitions, no personal example | Add commit count, folder names |
-| File only in root | OK if clear; prefer `mastery-check/` |
-| Commit `done` or `final` | Use descriptive message |
-| Cannot explain when called | Revise answers in your own words tonight |
+| I think conflicts mean Git is broken | Conflicts mean two changes touched the same area and need a human decision. |
+| I delete one side without reading | Read both sides first, then decide what should remain. |
+| I only completed GitHub Skills | Add `merge-conflict-notes.md` in your own repo too; that is the course evidence. |
+
+---
+
+## Fast Track Option
+
+If most students complete this lesson in about 45 minutes, continue directly into Lesson 7 during the same 90-minute block.
+
+Use this only if students have:
+
+1. Completed the required GitHub Skills exercise.
+2. Submitted or saved the required evidence.
+3. Completed the independent rebuild without looking at the tutorial.
+4. Can explain the workflow orally in simple words.
+
+If more than one third of the class is still stuck, do not start the certification sprint. Use the remaining time for rebuild, evidence checks, and oral explanation.

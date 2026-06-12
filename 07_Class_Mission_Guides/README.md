@@ -33,6 +33,7 @@ During class, you should have this mission guide open (laptop, tablet, or projec
 | Classroom Flow | [classroom-flow.png](../05_Public_Documents/posters/classroom-flow.png) |
 | Mastery Level | [mastery-level.png](../05_Public_Documents/posters/mastery-level.png) |
 | CS Competition Pathways (optional) | [cs-competition-pathways.png](../05_Public_Documents/posters/cs-competition-pathways.png) |
+| AI Use Policy | [ai-use-policy.png](../05_Public_Documents/posters/ai-use-policy.png) |
 
 Index: [05_Public_Documents/posters/README.md](../05_Public_Documents/posters/README.md)
 
@@ -72,7 +73,7 @@ Start with `Phase_0_Git_GitHub/README.md`.
 - `shared/mastery-levels.md` — Levels 0–5 and what counts as learning
 - `shared/talk-robin-rules.md` — pair discussion rules
 - `shared/exit-evidence-checklist.md` — what you can submit as proof
-- `shared/ai-use-during-practice.md` — when AI is OK in class
+- `shared/ai-use-during-practice.md` — when AI is OK in class (see [AI Use Policy poster](../05_Public_Documents/posters/ai-use-policy.png))
 
 ---
 

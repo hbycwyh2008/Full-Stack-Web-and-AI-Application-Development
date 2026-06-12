@@ -2,7 +2,11 @@
 
 This course encourages responsible, transparent use of AI tools. AI is an accelerator, not a substitute for understanding.
 
-> Core rule: AI can help generate code, but the student is responsible for understanding, testing, debugging, and presenting the project.
+![AI Use Policy poster](../05_Public_Documents/posters/ai-use-policy.png)
+
+*Classroom poster: [ai-use-policy.png](../05_Public_Documents/posters/ai-use-policy.png)*
+
+> **Use AI as a learning tool, not a shortcut.** Core rule: AI can help generate code, but the student is responsible for understanding, testing, debugging, and presenting the project.
 
 Students must **not** treat lessons as typing-along exercises. Following steps without reading code, debugging, or reflecting is not acceptable — even if the project appears to work.
 
@@ -39,7 +43,16 @@ Students may not:
 
 ## Required AI Disclosure
 
-Every project must include an AI reflection answering:
+Every project must include an AI reflection. Short form (from course poster):
+
+```text
+AI Help Used:
+What I asked AI:
+How it helped me:
+What I did on my own:
+```
+
+Extended form — use `01_Student_Templates/AI_Usage_Reflection_Template.md`:
 
 ```text
 How did I use AI?

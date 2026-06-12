@@ -7,6 +7,7 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 | **Our Classroom Flow** | [classroom-flow.png](classroom-flow.png) | Every class session — learning cycle |
 | **Mastery Level** | [mastery-level.png](mastery-level.png) | Expectations — rebuild, explain, debug, own your work |
 | **CS Competition Pathways** | [cs-competition-pathways.png](cs-competition-pathways.png) | Optional enrichment — competitions and challenges beyond class |
+| **AI Use Policy** | [ai-use-policy.png](ai-use-policy.png) | Use AI as a learning tool, not a shortcut |
 
 ---
 
@@ -50,3 +51,46 @@ Optional pathways for students who want challenges beyond the core course:
 - Robotics & engineering (VEX, FIRST, computer vision)
 
 Not required for course credit — supports portfolio and college applications.
+
+---
+
+## AI Use Policy Poster
+
+**Message:** Use AI as a learning tool, not a shortcut.
+
+### Allowed
+
+- Explain concepts in simple words
+- Debug and troubleshoot (with your own fixes)
+- Get hints, strategies, and approaches
+- Review and improve code or writing
+- Generate practice questions or quizzes
+
+### Not allowed
+
+- Submit AI-generated work as your own without understanding
+- Copy and paste without learning, modifying, and explaining
+- Use AI to complete the entire task
+- Claim AI work as your own without disclosure
+
+### Required
+
+- Understand and explain your code, logic, and decisions
+- Rebuild key patterns independently
+- Document AI usage when you use it
+- Show learning and growth in your portfolio evidence
+
+### Disclose your AI use
+
+Include in project README or reflection:
+
+```text
+AI Help Used:
+What I asked AI:
+How it helped me:
+What I did on my own:
+```
+
+Full policy: `02_Assessment/AI_Usage_Policy.md`  
+Class practice rules: `07_Class_Mission_Guides/shared/ai-use-during-practice.md`  
+Reflection template: `01_Student_Templates/AI_Usage_Reflection_Template.md`

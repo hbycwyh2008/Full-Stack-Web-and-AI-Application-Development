@@ -17,6 +17,7 @@ Official classroom visuals: [05_Public_Documents/posters/README.md](../05_Public
 | [Classroom Flow](../05_Public_Documents/posters/classroom-flow.png) | Every class: learn → practice → rebuild → share |
 | [Mastery Level](../05_Public_Documents/posters/mastery-level.png) | Real understanding — not just running code once |
 | [CS Competition Pathways](../05_Public_Documents/posters/cs-competition-pathways.png) | Optional enrichment beyond core course |
+| [AI Use Policy](../05_Public_Documents/posters/ai-use-policy.png) | Use AI as a learning tool, not a shortcut |
 
 ---
 

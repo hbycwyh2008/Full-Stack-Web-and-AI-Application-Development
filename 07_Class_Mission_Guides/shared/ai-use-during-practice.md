@@ -2,6 +2,10 @@
 
 AI tools (ChatGPT, Cursor, etc.) can **help you learn** in this course. They **cannot** replace your thinking or your evidence.
 
+![AI Use Policy — Use AI as a learning tool, not a shortcut](../../05_Public_Documents/posters/ai-use-policy.png)
+
+*Course poster: [ai-use-policy.png](../../05_Public_Documents/posters/ai-use-policy.png)*
+
 ---
 
 ## You MAY Use AI For
@@ -49,6 +53,21 @@ Be ready to say:
 
 ---
 
+## Disclose Your AI Use
+
+When AI helped you, include in your README, learning log, or project reflection:
+
+```text
+AI Help Used:
+What I asked AI:
+How it helped me:
+What I did on my own:
+```
+
+Template: `01_Student_Templates/AI_Usage_Reflection_Template.md`
+
+---
+
 ## Course Principle
 
 ```text
@@ -57,4 +76,4 @@ AI cannot replace thinking.
 Your GitHub history should show YOUR learning process.
 ```
 
-More policy: `02_Assessment/AI_Usage_Policy.md` (if your teacher assigns it).
+Full policy: `02_Assessment/AI_Usage_Policy.md`

@@ -56,6 +56,14 @@ Want challenges beyond class? See pathways for programming, cybersecurity, AI, a
 
 Details: [posters/README.md](posters/README.md). Competitions are **optional** — not required for course credit.
 
+## AI Use Policy
+
+![AI Use Policy — Use AI as a learning tool, not a shortcut](posters/ai-use-policy.png)
+
+You **may** use AI to explain concepts, debug, get hints, review work, and practice. You **may not** submit AI work you do not understand, copy without learning, or use AI to complete entire tasks. You **must** explain your work, rebuild independently, and disclose AI help.
+
+Policy: [AI_Usage_Policy.md](../02_Assessment/AI_Usage_Policy.md) · Class rules: [ai-use-during-practice.md](../07_Class_Mission_Guides/shared/ai-use-during-practice.md)
+
 ## Final Project: AI School Assistant
 
 You will build a web app that answers real questions like:

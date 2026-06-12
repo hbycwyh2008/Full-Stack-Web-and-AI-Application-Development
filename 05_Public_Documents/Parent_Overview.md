@@ -1,6 +1,6 @@
 # Parent Overview
 
-**Classroom posters:** [Classroom Flow](posters/classroom-flow.png) · [Mastery Level](posters/mastery-level.png) · [CS Competition Pathways](posters/cs-competition-pathways.png) (optional)
+**Classroom posters:** [Classroom Flow](posters/classroom-flow.png) · [Mastery Level](posters/mastery-level.png) · [AI Use Policy](posters/ai-use-policy.png) · [CS Competition Pathways](posters/cs-competition-pathways.png) (optional)
 
 ## Course Value
 
@@ -30,6 +30,8 @@ This creates a real record of your student's skills that can support college and
 
 ## Responsible AI Use
 
+![AI Use Policy](posters/ai-use-policy.png)
+
 We treat AI as a learning accelerator, not a shortcut. Students must:
 
 - Complete GitHub and AI literacy foundations before major application coding.
@@ -39,3 +41,5 @@ We treat AI as a learning accelerator, not a shortcut. Students must:
 - Be able to explain their work in their own words.
 
 > Our core rule: AI can help generate code, but the student is responsible for understanding, testing, debugging, and presenting the project.
+
+Policy: [AI_Usage_Policy.md](../02_Assessment/AI_Usage_Policy.md)

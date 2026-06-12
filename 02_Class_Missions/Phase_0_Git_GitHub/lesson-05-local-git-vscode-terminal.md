@@ -1,6 +1,19 @@
 # Lesson 5: Local Git with VS Code and Terminal
 
-**Your repo:** `cs-learning-log`
+**Your repo:** `studentName-Full-Stack-Web-and-AI-Application`
+
+**Classroom learning cycle:**
+
+```text
+individual learning
+→ Talk Robin / group discussion
+→ group answer
+→ Entry Points Check
+→ teacher explains only what students do not understand
+→ mission task
+→ exit check
+→ submission of evidence
+```
 
 ---
 
@@ -16,6 +29,8 @@ By the end of this lesson, students should be able to:
 ---
 
 ## Required Resource
+
+Use this resource during **Individual Learning** and keep it open during the mission:
 
 | | |
 |---|---|
@@ -99,58 +114,87 @@ change file → git status → git add → git commit → git push → check Git
 
 ## 90-Minute Class Flow
 
-### 0–10 min: Entry Point Check
+### 0–15 min: Individual Learning
 
-**Task — answer individually:**
+Open the **Git & GitHub Command Cheatsheet** at:
 
-1. If you edit README on GitHub web, is that the same as `git push`? Why or why not?
-2. What does `git status` tell you?
-3. What is the difference between **commit** and **push**?
-4. Are you on **local path** or **web fallback** today?
+`05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md`
 
-**Teacher checks:** Who thinks saving a file updates GitHub automatically?
+Read only:
 
-**Student output:** Four answers + path choice.
+- `git status`
+- `git add`
+- `git commit`
+- `git push`
+- “Save vs Commit vs Push”
 
----
+Complete the required notes:
 
-### 10–25 min: Individual Learning
-
-Read **required cheatsheet section** and complete **six required notes**.
+```text
+git status tells me...
+git add prepares...
+git commit saves locally...
+git push uploads...
+Save vs commit vs push: ...
+One thing I still do not understand is...
+```
 
 Predict: “If I save locally but don’t push, GitHub shows ___.”
 
-**Student output:** Filled note template.
+**Student output:** Six notes + prediction.
 
 ---
 
-### 25–40 min: Talk Round 1
+### 15–30 min: Talk Robin / Group Discussion
 
-**Each student speaks:**
+Each student speaks once before anyone speaks twice.
+
+**Share:**
 
 1. “Commit is local; push is…”
 2. “If GitHub shows old README, I check…”
-3. One terminal fear to normalize
+3. Whether you are on **local path** or **web fallback**
+4. One terminal fear or setup question
 
-**Student output:** Pair agrees on one question for teacher.
+**Student output:** Group list of command or setup questions.
 
 ---
 
-### 40–55 min: Entry Points Check / Teacher Diagnosis
+### 30–40 min: Group Answer
 
-**Group shared answer:**
+Prepare one shared answer:
 
-1. One sentence: `git status`
-2. One sentence: commit vs push
-3. One sentence: save vs commit
-4. Which path: local or web fallback
-5. One question for the teacher
+```text
+git status means...
+git add means...
+git commit means...
+git push means...
+Save vs commit vs push means...
+Our group path is local / web fallback / mixed.
+Our group still needs help with...
+```
 
-**Teacher explains** unclear parts only.
+**Student output:** One group answer.
+
+---
+
+### 40–50 min: Entry Points Check
+
+The teacher checks what the class already understands before explaining.
+
+**Teacher checks:**
+
+1. Who thinks saving a file updates GitHub automatically?
+2. Who can explain commit vs push?
+3. Who has Git installed and repo cloned?
+4. Who needs the web fallback today?
+5. Which command or authentication questions appeared across groups?
+
+**Teacher explanation rule:** Explain unclear parts only. If modeling is needed, model only the blocked command sequence.
 
 **Local demo sequence:**
 
-1. Open cloned `cs-learning-log` in VS Code
+1. Open cloned `studentName-Full-Stack-Web-and-AI-Application` in VS Code
 2. Edit `README.md` or `learning-log.md` — add “Lesson 5: local Git practice”
 3. Run command sequence in repo folder
 4. Verify on GitHub **Commits** tab
@@ -159,9 +203,11 @@ Predict: “If I save locally but don’t push, GitHub shows ___.”
 
 ---
 
-### 55–75 min: Guided Practice / Mission Task
+### 50–75 min: Mission Task
 
-**Local — with support, then less help:**
+Keep the **Git & GitHub Command Cheatsheet** open while you work.
+
+**Local path:**
 
 - [ ] Edit file
 - [ ] `git status` before add
@@ -170,7 +216,7 @@ Predict: “If I save locally but don’t push, GitHub shows ___.”
 - [ ] GitHub Commits tab updated
 - [ ] Terminal screenshot saved
 
-**Web fallback:**
+**Web fallback path:**
 
 - [ ] Two web commits with meaningful messages
 - [ ] `lesson-05/notes.md` explains commit vs push
@@ -182,9 +228,14 @@ Predict: “If I save locally but don’t push, GitHub shows ___.”
 
 ### 75–85 min: Exit Check
 
+Answer individually:
+
 1. What command sequence did you run (or web steps)?
-2. What proof shows push worked (or deferred)?
-3. One sentence: commit vs push?
+2. What proof shows push worked (or was deferred)?
+3. One sentence: save vs commit vs push?
+4. What evidence are you submitting?
+
+**Oral check if called:** Explain change file → status → add → commit → push → check GitHub.
 
 ---
 

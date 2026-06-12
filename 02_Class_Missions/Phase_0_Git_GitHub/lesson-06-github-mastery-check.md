@@ -1,6 +1,19 @@
 # Lesson 6: GitHub Mastery Check
 
-**Your repo:** `cs-learning-log`
+**Your repo:** `studentName-Full-Stack-Web-and-AI-Application`
+
+**Classroom learning cycle:**
+
+```text
+individual learning
+→ Talk Robin / group discussion
+→ group answer
+→ Entry Points Check
+→ teacher explains only what students do not understand
+→ mission task
+→ exit check
+→ submission of evidence
+```
 
 ---
 
@@ -18,9 +31,11 @@ This lesson has **no new video**. Your **repo is the required resource**.
 
 ## Required Resource
 
+Use this resource during **Individual Learning** and keep it open during the mission:
+
 | | |
 |---|---|
-| **Resource name** | Your GitHub repository `cs-learning-log` |
+| **Resource name** | Your GitHub repository `studentName-Full-Stack-Web-and-AI-Application` |
 | **Link** | Your repo URL (Commits tab, Code tab, README) |
 | **Required section** | Review: README, folder structure, Commits tab, `learning-log.md`, lesson folders |
 | **Why this resource** | Phase 0 mastery is proved by **your evidence**, not a new tutorial |
@@ -67,7 +82,7 @@ Use **only if stuck** on one definition:
 
 ## Mini Skill: What You Need Before This Task
 
-You must have completed **Lessons 1–5** with evidence in `cs-learning-log`:
+You must have completed **Lessons 1–5** with evidence in `studentName-Full-Stack-Web-and-AI-Application`:
 
 | Skill | Where to check in your repo |
 |---|---|
@@ -105,53 +120,80 @@ Commit example: `Add final GitHub mastery practice answers`
 
 ## 90-Minute Class Flow
 
-### 0–10 min: Entry Point Check
+### 0–15 min: Individual Learning
 
-**Task — without notes, write:**
+Open your GitHub repository `studentName-Full-Stack-Web-and-AI-Application`.
 
-1. What is a repository?
-2. What is a commit?
-3. What is commit history?
-4. Saving vs committing vs pushing?
-5. Why GitHub evidence in this course?
+Use these sections of **your repo**:
 
-**Self-score:** 0–5 how many without guessing?
+- Root `README.md`
+- **Commits** tab
+- File tree / Code tab
+- `learning-log.md`
+- `lesson-01/` through `lesson-05/`
+- Lesson 5 local or web Git evidence
 
-**Teacher checks:** Who needs oral support? Who copied definitions only?
+Complete the prep notes:
 
-**Student output:** Five draft answers + self-score.
+```text
+My repo URL is...
+My commit count is approximately...
+My best commit message is... because...
+My folder structure includes...
+One thing I still need to improve is...
+```
 
----
+Then draft answers to the five mastery questions using examples from your repo.
 
-### 10–25 min: Individual Learning
-
-Review **your repo** (required resource). Open Commits tab, file tree, README.
-
-Complete **five prep notes** with **your** numbers and examples.
-
-Revise Entry Point answers using repo evidence.
-
-**Student output:** Prep notes with repo-specific examples.
-
----
-
-### 25–40 min: Talk Round 1
-
-**Each student speaks:**
-
-1. Answer #2 (commit) with **your** repo example
-2. Answer #4 (save/commit/push) with **your** example
-3. Hardest question (#1–5)
-
-**Student output:** Pair identifies weakest answer to fix in final file.
+**Student output:** Five prep notes + five draft answers.
 
 ---
 
-### 40–55 min: Entry Points Check / Teacher Diagnosis
+### 15–30 min: Talk Robin / Group Discussion
 
-**Group shared answer:** One sentence per question #1–5 + “Our group’s weakest area is…”
+Each student speaks once before anyone speaks twice.
 
-**Teacher explains** gaps only — **does not** reteach all of Phase 0.
+**Share:**
+
+1. Your answer to “What is a commit?” with **your** repo example
+2. Your answer to “save vs commit vs push” with **your** Lesson 5 example
+3. Your best commit message
+4. Your hardest mastery question
+
+**Student output:** Group identifies weakest answer to fix in the final file.
+
+---
+
+### 30–40 min: Group Answer
+
+Prepare one shared answer:
+
+```text
+A repository is...
+A commit is...
+Commit history is...
+Saving vs committing vs pushing means...
+GitHub evidence matters because...
+Our group's weakest area is...
+```
+
+**Student output:** One group answer.
+
+---
+
+### 40–50 min: Entry Points Check
+
+The teacher checks what the class already understands before explaining.
+
+**Teacher checks:**
+
+1. Who can answer with repo evidence, not copied definitions?
+2. Who can distinguish save, commit, and push?
+3. Who can locate Commits tab and folder evidence quickly?
+4. Which mastery question is weakest across groups?
+5. Who needs oral explanation support?
+
+**Teacher explanation rule:** Explain gaps only. Do not reteach all of Phase 0.
 
 **Level guide:**
 
@@ -163,9 +205,11 @@ Revise Entry Point answers using repo evidence.
 
 ---
 
-### 55–75 min: Guided Practice / Mission Task
+### 50–75 min: Mission Task
 
-**With support, then less help:**
+Keep your `studentName-Full-Stack-Web-and-AI-Application` repo open while you work.
+
+**Task:**
 
 1. Create `mastery-check/` folder
 2. Write `final-github-practice.md` — all 5 answers with **personal repo examples**
@@ -185,15 +229,19 @@ Revise Entry Point answers using repo evidence.
 
 ### 75–85 min: Exit Check
 
-Practice oral — 45 sec each if called:
+Practice oral answers using your repo as evidence:
 
 1. Commit history (#3)
 2. Why evidence matters (#5)
 3. **“My current GitHub mastery level is Level ___ because…”**
 
+Then answer:
+
 1. What did you complete?
 2. What is still confusing?
 3. What evidence did you submit?
+
+**Oral check if called:** Answer without reading copied text word-for-word.
 
 ---
 

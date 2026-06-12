@@ -9,7 +9,7 @@ Each **class mission** is a student task sheet for one session. Your teacher wil
 ## How to Use
 
 1. Start at [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) if this is your first day.
-2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md)).
+2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md); Phase 1: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md)).
 3. Follow each block in order.
 4. Submit **learning evidence** before class ends (see Exit Evidence in each mission).
 
@@ -49,6 +49,19 @@ Details: [classroom-flow.md](shared/classroom-flow.md)
 | 6 | [lesson-06-github-mastery-check.md](Phase_0_Git_GitHub/lesson-06-github-mastery-check.md) |
 
 Start: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md)
+
+---
+
+## Phase 1: Notion Portfolio
+
+**Your public showcase for these lessons:** a published Notion portfolio site.
+
+| Lesson | Class mission |
+|---|---|
+| 1 | [lesson-01-notion-portfolio-structure.md](Phase_1_Notion_Portfolio/lesson-01-notion-portfolio-structure.md) |
+| 2 | [lesson-02-publish-and-connect-github.md](Phase_1_Notion_Portfolio/lesson-02-publish-and-connect-github.md) |
+
+Start: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md)
 
 ---
 

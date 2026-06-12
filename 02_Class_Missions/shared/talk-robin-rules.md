@@ -1,31 +1,51 @@
 # Talk Robin Rules — Pair Discussion
 
-**Talk Robin** = structured talk with your **partner**. Default: **pairs** (two students).
+**Talk Robin** = structured talk with your **partner**. Default: **pairs** (two students). Your teacher may use small groups.
 
 ---
 
-## Timing (About 4–5 Minutes Per Round)
+## Timing
+
+| Round | Time (90-minute class) | What happens |
+|---|---|---|
+| **Talk Robin 1** | 15–25 min | Discuss Self Learning notes — each student speaks |
+| **Group Answer** | 25–32 min | Group writes shared answer (separate step — see mission guide) |
+| **Talk Robin 2** | 83–90 min | Explain what you built; prepare Exit Evidence |
+
+Within each Talk Robin block, use a timer:
 
 | Step | Time | What happens |
 |---|---|---|
 | Student A speaks | 45 seconds | A explains their answer to B |
 | Student B speaks | 45 seconds | B explains their answer to A |
-| Pair shared answer | 30 seconds | Agree on one best answer or one question for class |
-| Teacher cold call | 2–3 minutes | Teacher may call 2–3 students to share |
+| Pair or group summary | 30 seconds | Agree on one best answer or one question for class |
+| Teacher cold call | as needed | Teacher may call students to share |
 
-**Use a timer.** Practice being clear and short.
+**Practice being clear and short.**
 
 ---
 
-## Two Rounds Every Class
+## Talk Robin 1 — After Self Learning (15–25 min)
 
-### Round 1 — After Entry Check (about 30–34 min)
+**Your job:**
 
-**Your job:** Compare Entry Check answers, name confusion, prepare for Core Pattern Explanation.
+- Compare your initial notes and answers
+- Name what you understood and what confused you
+- Prepare for **Group Answer**
+- Identify one question for the teacher
 
-### Round 2 — Before Exit Evidence (about 72–76 min)
+**Do not** read your entire README or long notes aloud.
 
-**Your job:** State today’s core pattern, what you built, what was hard, what evidence you will submit.
+---
+
+## Talk Robin 2 + Evidence (83–90 min)
+
+**Your job:**
+
+- Explain what you created and changed
+- Point to your commit history or other evidence
+- Say why it counts as **learning evidence**
+- Confirm Exit Evidence before you submit
 
 ---
 
@@ -35,13 +55,11 @@
 2. **Give evidence** — “In my repo, my last commit…”
 3. **Name one question** — “I’m still unsure about…”
 
-Do not read your entire README aloud.
-
 ---
 
 ## Every Student Must Be Ready
 
-The teacher may **randomly call** you after Talk Robin.
+The teacher may **randomly call** you after Talk Robin or during Entry Points Check.
 
 When called:
 

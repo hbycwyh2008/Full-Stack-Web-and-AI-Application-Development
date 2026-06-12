@@ -18,15 +18,16 @@ You will build real projects, document your process, and prove you can **explain
 
 ## What You Do Every Class
 
-Each class follows the same flow:
+Each **90-minute** class follows the same flow:
 
-1. **Skill Warm-up**
+1. **Self Learning / Skill Warm-up**
 2. **Talk Robin 1**
-3. **Entry Check**
-4. **Core Pattern**
-5. **Guided Practice**
-6. **Independent Rebuild**
-7. **Talk Robin 2 + Evidence**
+3. **Group Answer**
+4. **Entry Points Check**
+5. **Teacher Explanation / Core Pattern**
+6. **Guided Practice**
+7. **Independent Rebuild**
+8. **Talk Robin 2 + Evidence**
 
 ![Classroom Flow](08_Public_Documents/posters/classroom-flow.png)
 

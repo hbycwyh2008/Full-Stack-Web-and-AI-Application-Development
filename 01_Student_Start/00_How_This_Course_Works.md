@@ -22,15 +22,16 @@ Notion shows your best work to the world.
 
 ## What You Do Every Class
 
-Open [today’s class mission](../02_Class_Missions/README.md) and follow the classroom flow:
+Open [today’s class mission](../02_Class_Missions/README.md) and follow the **90-minute** classroom flow:
 
-1. **Skill Warm-up** — small task, not passive watching
-2. **Talk Robin 1** — discuss with a partner
-3. **Entry Check** — quick understanding check
-4. **Core Pattern** — the idea you must learn today
-5. **Guided Practice** — try it with support
-6. **Independent Rebuild** — do it yourself without copying
-7. **Talk Robin 2 + Evidence** — share and submit proof
+1. **Self Learning / Skill Warm-up** — read, watch, or complete materials independently; write initial notes
+2. **Talk Robin 1** — discuss with a partner; each student speaks
+3. **Group Answer** — group prepares a shared answer and one question for the teacher
+4. **Entry Points Check** — teacher finds what to explain next (not mainly for grading)
+5. **Teacher Explanation / Core Pattern** — teacher explains key unclear parts only
+6. **Guided Practice** — try the workflow with support
+7. **Independent Rebuild** — repeat the pattern with less help
+8. **Talk Robin 2 + Evidence** — explain what you did and submit proof
 
 ![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
 

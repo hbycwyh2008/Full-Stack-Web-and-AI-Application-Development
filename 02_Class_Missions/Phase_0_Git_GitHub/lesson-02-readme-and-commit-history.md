@@ -78,21 +78,49 @@ change
 
 ---
 
-## Class Flow
+## Class Flow (90 Minutes)
 
-### 0–20 min: Skill Warm-up
+### 0–15 min: Self Learning / Skill Warm-up
 
-**You need to:**
+**You work independently:**
 
 - Watch one short clip on commits **or** compare two commit histories the teacher shows
 - Write: which history shows learning better? Why?
 - Preview good vs bad messages above
+- Draft answers: What is a commit? Where is commit history on GitHub?
+
+**Produce notes** — not passive watching.
 
 ---
 
-### 20–30 min: Entry Check
+### 15–25 min: Talk Robin 1
 
-**You answer alone:**
+**Each student speaks** (`../shared/talk-robin-rules.md`):
+
+- **You:** “Commit history is evidence because…”
+- **Partner:** “A good commit message I used or saw is…”
+- **Together:** One confusion about commits vs saving.
+
+---
+
+### 25–32 min: Group Answer
+
+**Your group prepares a shared answer:**
+
+1. One sentence: what a **commit** is
+2. One sentence: why **commit history** matters for learning evidence
+3. One example of a **good** commit message (from warm-up or your repo)
+4. One question for the teacher
+
+---
+
+### 32–42 min: Entry Points Check
+
+**Not a traditional quiz.** The teacher uses group answers to find what to explain.
+
+Be ready to share your group’s question or one warm-up answer.
+
+**Self-check while waiting:**
 
 1. What is a commit in your own words?
 2. Where do you see commit history on GitHub?
@@ -102,17 +130,13 @@ change
 
 ---
 
-### 30–34 min: Talk Robin Round 1
+### 42–55 min: Teacher Explanation / Core Pattern
 
-- **You:** “Commit history is evidence because…”
-- **Partner:** “A good commit message I used or saw is…”
-- **Together:** One confusion about commits vs saving.
+**Listen for today’s pattern** (responds to confusion — not full reteach):
 
----
-
-### 34–45 min: Core Pattern Explanation
-
-**You write down the pattern:** small change → meaningful commit → visible history.
+```text
+small change → meaningful commit → visible history
+```
 
 **You will:**
 
@@ -140,9 +164,9 @@ change
 
 ---
 
-### 45–60 min: Guided Practice
+### 55–70 min: Guided Practice
 
-**You do with class:**
+**With teacher support:**
 
 1. Read old commits on Commits tab
 2. Edit README → commit: `Update README with personal learning goals`
@@ -151,29 +175,38 @@ change
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 70–83 min: Independent Rebuild
 
-**Checklist:**
+**Repeat the pattern with less help:**
 
 - [ ] README improved from Lesson 1
 - [ ] `learning-log.md` with real Lesson 1 and Lesson 2 reflections
 - [ ] At least **two new commits** with meaningful messages
 - [ ] Commits tab shows clear progression
-- [ ] You know which commit changed which file
+- [ ] You can explain which commit changed which file
 
 **Do not** copy partner’s reflections. **Do not** use AI for full log paste (`../shared/ai-use-during-practice.md`).
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 83–90 min: Talk Robin 2 + Evidence
+
+**Each student explains:**
+
+- what you changed today
+- your best commit message and why
+- where your commit history is
+
+**Prompts:**
 
 - **You:** “Small change → meaningful commit means…”
 - **Partner:** “My best commit message today is ___ because ___.”
-- **Together:** Exit Evidence ready?
+
+Submit Exit Evidence before class ends.
 
 ---
 
-### 76–80 min: Exit Evidence
+## Required Exit Evidence
 
 **You submit:**
 

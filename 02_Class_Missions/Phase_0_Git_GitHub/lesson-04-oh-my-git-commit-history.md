@@ -63,11 +63,11 @@ game timeline → commit history → learning evidence
 
 ---
 
-## Class Flow
+## Class Flow (90 Minutes)
 
-### 0–20 min: Skill Warm-up
+### 0–15 min: Self Learning / Skill Warm-up
 
-**You play or watch demo:**
+**You work independently** — play or watch demo:
 
 - **Living dangerously**
 - **Making backups**
@@ -77,11 +77,36 @@ game timeline → commit history → learning evidence
 - What happens without backup?
 - How is backup like a **commit**?
 
-Stop at 20 min even if not finished — move to Entry Check.
+Stop at 15 min if needed — move to Talk Robin 1 with your notes.
 
 ---
 
-### 20–30 min: Entry Check
+### 15–25 min: Talk Robin 1
+
+**Each student speaks:**
+
+- **You:** “A commit is like ___ in the game because…”
+- **Partner:** “GitHub history shows evidence because…”
+- **Together:** Which level you will try in Guided Practice.
+
+---
+
+### 25–32 min: Group Answer
+
+**Your group prepares:**
+
+1. One sentence: how game **backup** relates to GitHub **commit**
+2. One sentence: how game **timeline** relates to **commit history**
+3. One sentence: why the game alone is **not** enough evidence
+4. One question for the teacher
+
+---
+
+### 32–42 min: Entry Points Check
+
+**Not mainly for grading.**
+
+**Self-check while teacher reviews groups:**
 
 1. What problem does “making backups” solve in the game?
 2. How is game timeline like GitHub **Commits** tab?
@@ -91,17 +116,9 @@ Stop at 20 min even if not finished — move to Entry Check.
 
 ---
 
-### 30–34 min: Talk Robin Round 1
+### 42–55 min: Teacher Explanation / Core Pattern
 
-- **You:** “A commit is like ___ in the game because…”
-- **Partner:** “GitHub history shows evidence because…”
-- **Together:** Which level you play next in Guided Practice.
-
----
-
-### 34–45 min: Core Pattern Explanation
-
-**You map game → GitHub:**
+**Map game → GitHub:**
 
 | Game | Your GitHub |
 |---|---|
@@ -117,9 +134,9 @@ Stop at 20 min even if not finished — move to Entry Check.
 
 ---
 
-### 45–60 min: Guided Practice
+### 55–70 min: Guided Practice
 
-**You:**
+**With teacher support:**
 
 - Play **The command line** + **Your first commit** (class-paced)
 - Draft `lesson-04/notes.md`
@@ -127,9 +144,9 @@ Stop at 20 min even if not finished — move to Entry Check.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 70–83 min: Independent Rebuild
 
-**Checklist:**
+**Repeat with less help:**
 
 - [ ] At least 3 of 4 intro levels done (or teacher alternative)
 - [ ] Oh My Git screenshot saved for submission
@@ -139,15 +156,9 @@ Stop at 20 min even if not finished — move to Entry Check.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 83–90 min: Talk Robin 2 + Evidence
 
-- **You:** “Game timeline → commit history means…”
-- **Partner:** “My GitHub evidence today is…”
-- **Together:** Exit Evidence.
-
----
-
-### 76–80 min: Exit Evidence
+Submit:
 
 1. Oh My Git screenshot
 2. Link to `lesson-04/notes.md`

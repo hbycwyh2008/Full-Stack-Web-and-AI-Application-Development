@@ -17,15 +17,16 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 
 The poster shows the class learning cycle:
 
-1. Skill Warm-up
+1. Self Learning / Skill Warm-up
 2. Talk Robin 1
-3. Entry Check
-4. Core Pattern
-5. Guided Practice
-6. Independent Rebuild
-7. Talk Robin 2 + Evidence
+3. Group Answer
+4. Entry Points Check
+5. Teacher Explanation / Core Pattern
+6. Guided Practice
+7. Independent Rebuild
+8. Talk Robin 2 + Evidence
 
-**In daily lesson plans and mission guides**, the 80-minute block uses **eight timed sections** (Entry Check before Talk Robin 1; Exit Evidence as its own final block). The poster and written guides teach the **same cycle** — see `02_Class_Missions/shared/classroom-flow.md`.
+**In class mission guides**, the **90-minute** block uses the eight timed sections above. See `02_Class_Missions/shared/classroom-flow.md` for exact minutes. Teacher daily lesson plans may use different timing notes.
 
 ---
 

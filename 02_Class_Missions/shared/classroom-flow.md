@@ -1,12 +1,12 @@
 # Classroom Flow — What Happens Every Class
 
-Each class follows the same **80-minute** structure. Know what you are doing in each block.
+Each class follows the same **90-minute** structure. Know what you are doing in each block.
 
 ![Our Classroom Flow — We learn. Practice. Rebuild. Share.](../../08_Public_Documents/posters/classroom-flow.png)
 
 *Course poster: [classroom-flow.png](../../08_Public_Documents/posters/classroom-flow.png)*
 
-> **Poster vs this guide:** The wall poster shows **seven** steps in a cycle. This guide adds **exact times** for an 80-minute class (Entry Check before Talk Robin 1; Exit Evidence in the last 4 minutes). Follow this guide during class.
+> **Poster vs this guide:** The wall poster shows the learning cycle in seven steps. This guide adds **exact times** for a **90-minute class**, including **Group Answer** and **Entry Points Check**. Follow this guide during class.
 
 ---
 
@@ -14,53 +14,94 @@ Each class follows the same **80-minute** structure. Know what you are doing in 
 
 | Time | Block | What you do |
 |---|---|---|
-| **0–20 min** | Skill Warm-up | Short video, reading, or example — then **you complete a small task** |
-| **20–30 min** | Entry Check | Answer check questions or show warm-up evidence **on your own** |
-| **30–34 min** | Talk Robin Round 1 | Discuss with your partner (see `talk-robin-rules.md`) |
-| **34–45 min** | Core Pattern Explanation | Listen and identify **today’s core pattern** |
-| **45–60 min** | Guided Practice | Practice the pattern with class support |
-| **60–72 min** | Independent Rebuild | Rebuild the pattern **with less help** — no full copy, no AI full answer |
-| **72–76 min** | Talk Robin Round 2 | Summarize pattern, evidence, and difficulties |
-| **76–80 min** | Exit Evidence | Submit proof before you leave |
+| **0–15 min** | Self Learning / Skill Warm-up | Read, watch, or complete selected materials **independently** — write initial notes or answers |
+| **15–25 min** | Talk Robin 1 | Discuss with partner or small group — **each student speaks** |
+| **25–32 min** | Group Answer | Group prepares a short shared answer — what you understood, what you are unsure about, one question for the teacher |
+| **32–42 min** | Entry Points Check | Teacher checks group answers to find what to explain next — **not mainly for grading** |
+| **42–55 min** | Teacher Explanation / Core Pattern | Teacher explains **key unclear parts** — responds to confusion, does not reteach everything |
+| **55–70 min** | Guided Practice | Complete the core workflow **with teacher support** |
+| **70–83 min** | Independent Rebuild | **Repeat or rebuild** the pattern with less help — show you can reproduce it |
+| **83–90 min** | Talk Robin 2 + Evidence | Explain what you did, compare evidence, submit **Exit Evidence** |
 
 ---
 
-## Skill Warm-up (0–20 min) — Not Passive Video Time
+## Self Learning / Skill Warm-up (0–15 min) — Not Passive Time
 
-The first 20 minutes are **not** “watch and relax.”
+You first learn **independently** through a selected video, guide, reading, or task.
 
-You may use:
+**You may not** passively watch or skim.
 
-- a **short** video clip
-- a written guide or checklist
-- a teacher example
-
-Then you must **do something** — write a note, answer a question, preview a command, or prepare for Entry Check.
-
-**You should produce something** by the end of warm-up (even a few bullet points in your notebook or repo).
+You must produce **initial notes, answers, or observations** before Talk Robin 1.
 
 ---
 
-## Entry Check (20–30 min)
+## Talk Robin 1 (15–25 min)
 
-- Work **individually** — no talking to neighbors yet
-- Show you engaged with the warm-up
-- Your answers help your partner discussion in Talk Robin Round 1
+Discuss your initial understanding with a partner or small group.
 
----
+**Each student must speak.**
 
-## Talk Robin (30–34 min and 72–76 min)
+Compare answers. Identify what you understood, what you are unsure about, what confused you, and what question you want to ask the teacher.
 
-- **Round 1:** After Entry Check — share understanding, surface confusion
-- **Round 2:** Before Exit Evidence — summarize pattern and what you will submit
-
-See `talk-robin-rules.md`. **Every student must be ready** if the teacher calls on you.
+See `talk-robin-rules.md`.
 
 ---
 
-## Independent Rebuild (60–72 min)
+## Group Answer (25–32 min)
 
-This is the most important block for **your** mastery.
+Each group prepares a **short shared answer** so student thinking is visible.
+
+Typical contents (your mission guide may specify more):
+
+- what the group understood
+- what the group is still unsure about
+- **one question for the teacher**
+
+The teacher uses this during Entry Points Check.
+
+---
+
+## Entry Points Check (32–42 min)
+
+**This is not a traditional quiz.** It is **not mainly for grading**.
+
+The teacher checks group answers or asks quick questions to find **entry points for instruction**:
+
+- what students already understand
+- what students misunderstand
+- what students still need explained
+
+The teacher’s explanation should **respond to this**, not reteach everything from the video or guide.
+
+---
+
+## Teacher Explanation / Core Pattern (42–55 min)
+
+Listen for **today’s core pattern**.
+
+The teacher explains **only the key parts students need** — based on confusion and missing understanding from Entry Points Check.
+
+**Do not expect** a full repeat of the Self Learning video or reading.
+
+Write down the pattern. You will use it in Guided Practice and Independent Rebuild.
+
+---
+
+## Guided Practice (55–70 min)
+
+Follow the core workflow **with teacher support**.
+
+The teacher helps students who are stuck **after they tried something**.
+
+---
+
+## Independent Rebuild (70–83 min)
+
+This is the most important block for **your mastery**.
+
+**Repeat or rebuild** the same pattern with **less help**.
+
+Running through steps once is **not enough**. You must show you can **reproduce the pattern independently** and **explain what you did**.
 
 **You may not:**
 
@@ -76,7 +117,9 @@ This is the most important block for **your** mastery.
 
 ---
 
-## Exit Evidence (76–80 min)
+## Talk Robin 2 + Evidence (83–90 min)
+
+Explain what you did with your partner. Compare evidence.
 
 Submit what the mission guide lists **before class ends** (or by your teacher’s deadline).
 

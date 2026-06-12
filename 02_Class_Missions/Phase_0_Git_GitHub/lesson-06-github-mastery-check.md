@@ -72,24 +72,47 @@ mastery-check/final-github-practice.md
 
 ---
 
-## Class Flow
+## Class Flow (90 Minutes)
 
-### 0–20 min: Skill Warm-up
+### 0–15 min: Self Learning / Skill Warm-up
 
-**You write on paper (no devices):**
+**You work independently** — write on paper (no devices):
 
 1. Lesson 1 pattern
 2. Lesson 2 pattern
 3. Lesson 3 pattern
 4. Lesson 5 commands (or web equivalent)
 
-Pair-check with partner — no copying answers.
+Then pair-check with partner — **after** you wrote your own answers first.
 
 ---
 
-### 20–30 min: Entry Check
+### 15–25 min: Talk Robin 1
 
-**Without notes, you write:**
+**Each student speaks:**
+
+- **You:** Answer “What is a commit?” with **your** repo example
+- **Partner:** Answer save vs commit vs push with example
+- **Together:** Which question is hardest?
+
+---
+
+### 25–32 min: Group Answer
+
+**Your group prepares:**
+
+1. One sentence: what a **repository** is
+2. One sentence: why **commit history** is learning evidence
+3. One sentence: save vs commit vs push (group version)
+4. One question for the teacher
+
+---
+
+### 32–42 min: Entry Points Check
+
+**Not mainly for grading.**
+
+**Self-check without notes:**
 
 1. What is a repository?
 2. What is a commit?
@@ -101,17 +124,9 @@ Pair-check with partner — no copying answers.
 
 ---
 
-### 30–34 min: Talk Robin Round 1
+### 42–55 min: Teacher Explanation / Core Pattern
 
-- **You:** Answer #2 (commit) with **your** repo example
-- **Partner:** Answer #4 (save/commit/push) with example
-- **Together:** Which question is hardest?
-
----
-
-### 34–45 min: Core Pattern Explanation
-
-**You listen for:**
+**Listen for:**
 
 - File path: `mastery-check/final-github-practice.md`
 - All five questions — **your words** + **your repo** examples
@@ -119,7 +134,7 @@ Pair-check with partner — no copying answers.
 - Teacher may **cold call** you to explain orally
 - Generic AI text → you must revise and explain
 
-**Level guide for you:**
+**Level guide:**
 
 | Level | You demonstrate |
 |---|---|
@@ -127,11 +142,13 @@ Pair-check with partner — no copying answers.
 | 4 | Complete without step-by-step handout |
 | 5 | Oral excellence + help peer find history issue (hints) |
 
+Teacher responds to **entry points** from group answers — not full Phase 0 reteach.
+
 ---
 
-### 45–60 min: Guided Practice
+### 55–70 min: Guided Practice
 
-**You start:**
+**With teacher support:**
 
 - Create `mastery-check/` folder
 - Draft answers — include “In my `cs-learning-log` I have X commits…”
@@ -139,9 +156,9 @@ Pair-check with partner — no copying answers.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 70–83 min: Independent Rebuild
 
-**Checklist:**
+**Repeat with less help:**
 
 - [ ] `mastery-check/final-github-practice.md` — all 5 questions
 - [ ] Personal repo examples in answers
@@ -155,7 +172,7 @@ Pair-check with partner — no copying answers.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 83–90 min: Talk Robin 2 + Evidence
 
 Practice oral — 45 sec each:
 
@@ -163,11 +180,7 @@ Practice oral — 45 sec each:
 - **Partner:** Question 5 (why evidence matters)
 - **Together:** “My current level is ___ because ___.”
 
----
-
-### 76–80 min: Exit Evidence
-
-**You submit:**
+**Submit:**
 
 1. Link to `mastery-check/final-github-practice.md`
 2. Screenshot of **final commit** on Commits tab

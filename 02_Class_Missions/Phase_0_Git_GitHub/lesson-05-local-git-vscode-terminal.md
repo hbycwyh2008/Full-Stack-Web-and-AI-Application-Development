@@ -69,19 +69,46 @@ change file → git status → git add . → git commit -m "message" → git pus
 
 ---
 
-## Class Flow
+## Class Flow (90 Minutes)
 
-### 0–20 min: Skill Warm-up
+### 0–15 min: Self Learning / Skill Warm-up
+
+**You work independently:**
 
 **Local path:** Watch demo of `git status`. Predict what happens after you edit a file without commit.
 
-**Web fallback:** Read Save vs Commit vs Push table with partner.
+**Web fallback:** Read Save vs Commit vs Push table with partner notes allowed **after** you draft alone first.
 
 **You write:** one sentence difference between commit and push (draft for Exit Evidence).
 
 ---
 
-### 20–30 min: Entry Check
+### 15–25 min: Talk Robin 1
+
+**Each student speaks:**
+
+- **You:** “Commit is local; push is…”
+- **Partner:** “If GitHub shows old README, I check…”
+- **Together:** One terminal fear to normalize.
+
+---
+
+### 25–32 min: Group Answer
+
+**Your group prepares:**
+
+1. One sentence: what `git status` tells you
+2. One sentence: difference between **commit** and **push**
+3. One sentence: what folder you must be in for git commands
+4. One question for the teacher
+
+---
+
+### 32–42 min: Entry Points Check
+
+**Not mainly for grading.**
+
+**Self-check:**
 
 1. What does `git status` tell you?
 2. Difference between **commit** and **push**?
@@ -91,15 +118,7 @@ change file → git status → git add . → git commit -m "message" → git pus
 
 ---
 
-### 30–34 min: Talk Robin Round 1
-
-- **You:** “Commit is local; push is…”
-- **Partner:** “If GitHub shows old README, I check…”
-- **Together:** One terminal fear to normalize.
-
----
-
-### 34–45 min: Core Pattern Explanation
+### 42–55 min: Teacher Explanation / Core Pattern
 
 **Local demo you follow:**
 
@@ -121,9 +140,13 @@ git push
 - Edit files on github.com → commit twice (meaningful messages)
 - You will write `lesson-05/notes.md` explaining what **push** would do when local is ready
 
+Teacher explains **unclear parts only**.
+
 ---
 
-### 45–60 min: Guided Practice
+### 55–70 min: Guided Practice
+
+**With teacher support:**
 
 **Local:** You clone/pull → edit → run full command sequence.
 
@@ -133,7 +156,9 @@ Ask teacher if auth fails — do not skip evidence.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 70–83 min: Independent Rebuild
+
+**Repeat with less help.**
 
 **Local checklist:**
 
@@ -154,15 +179,7 @@ Ask teacher if auth fails — do not skip evidence.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
-
-- **You:** “Local Git pattern in order is…”
-- **Partner:** “My proof push worked is…”
-- **Together:** Exit Evidence.
-
----
-
-### 76–80 min: Exit Evidence
+### 83–90 min: Talk Robin 2 + Evidence
 
 **Local you submit:**
 

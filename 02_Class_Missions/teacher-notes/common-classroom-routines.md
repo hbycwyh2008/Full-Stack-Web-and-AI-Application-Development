@@ -7,14 +7,21 @@ Quick reference when using **Class Mission Guides** alongside **Daily Lesson Pla
 ## Start of Class
 
 - Display link to today’s mission guide
-- Reminder: “Exit Evidence in last 4 minutes — mission guide lists what to submit”
+- Reminder: “Talk Robin 2 + Evidence in last 7 minutes — mission guide lists what to submit”
 
 ---
 
-## Skill Warm-up
+## Self Learning / Skill Warm-up
 
-- Students follow mission guide warm-up task — not full playlist
-- You time 20 min; cut optional clip if needed, not Independent Rebuild
+- Students follow mission guide Self Learning task — not full playlist
+- You time **15 min**; cut optional clip if needed, not Independent Rebuild
+
+---
+
+## Group Answer and Entry Points Check
+
+- Groups submit shared answer before Entry Points Check
+- Use group answers to choose what to explain — do not reteach entire warm-up resource
 
 ---
 

@@ -69,29 +69,24 @@ cs-learning-log/
 
 ---
 
-## Class Flow
+## Class Flow (90 Minutes)
 
-### 0–20 min: Skill Warm-up
+### 0–15 min: Self Learning / Skill Warm-up
 
-**You compare** messy repo vs organized repo (teacher shows or mission examples).
+**You work independently:**
 
-Write **three reasons** reviewers prefer organized structure.
+- Compare messy repo vs organized repo (teacher shows or mission examples)
+- Write **three reasons** reviewers prefer organized structure
+- Optional: Traversy Markdown segment — practice `#` and `##`
+- Sketch target folder structure on paper
 
-Optional: Traversy Markdown segment — practice `#` and `##`.
-
----
-
-### 20–30 min: Entry Check
-
-1. Sketch target structure above.
-2. Where does `README.md` live?
-3. Where does Lesson 3 notes live?
-4. Why is `lesson-03/notes.md` better than `lesson3notes.md` in root?
-5. Commit message for creating `lesson-03/notes.md`?
+**Produce notes** — not passive watching.
 
 ---
 
-### 30–34 min: Talk Robin Round 1
+### 15–25 min: Talk Robin 1
+
+**Each student speaks:**
 
 - **You:** “File organization matters because…”
 - **Partner:** “A messy repo problem is…”
@@ -99,7 +94,32 @@ Optional: Traversy Markdown segment — practice `#` and `##`.
 
 ---
 
-### 34–45 min: Core Pattern Explanation
+### 25–32 min: Group Answer
+
+**Your group prepares:**
+
+1. One sentence: why folder structure matters in a learning repo
+2. One sentence: where `README.md` should live
+3. One sentence: why `lesson-03/notes.md` is better than random files in root
+4. One question for the teacher
+
+---
+
+### 32–42 min: Entry Points Check
+
+**Not mainly for grading.** Teacher uses group answers to decide what to explain.
+
+**Self-check:**
+
+1. Sketch target structure (see Core Pattern section below).
+2. Where does `README.md` live?
+3. Where does Lesson 3 notes live?
+4. Why is `lesson-03/notes.md` better than `lesson3notes.md` in root?
+5. Good commit message for creating `lesson-03/notes.md`?
+
+---
+
+### 42–55 min: Teacher Explanation / Core Pattern
 
 **Pattern:** create folder → create file → write content → commit → check structure.
 
@@ -121,11 +141,13 @@ create folder → create file → write → commit → check structure
 -
 ```
 
+Teacher explains **unclear parts only** — not full reteach of warm-up.
+
 ---
 
-### 45–60 min: Guided Practice
+### 55–70 min: Guided Practice
 
-**You create with class:**
+**With teacher support:**
 
 1. `lesson-01/notes.md` — summarize Lesson 1 → commit
 2. `lesson-02/notes.md` → commit
@@ -135,9 +157,9 @@ Check **Code** tab file tree after each commit.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 70–83 min: Independent Rebuild
 
-**Checklist:**
+**Repeat with less help:**
 
 - [ ] `lesson-01/`, `lesson-02/`, `lesson-03/` with `notes.md`
 - [ ] Each notes file has real content (not empty)
@@ -147,15 +169,11 @@ Check **Code** tab file tree after each commit.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 83–90 min: Talk Robin 2 + Evidence
 
-- **You:** “Today’s folder pattern is…”
-- **Partner:** “My `lesson-03/notes.md` shows I learned…”
-- **Together:** Exit Evidence checklist.
+**Each student explains** folder pattern and evidence.
 
----
-
-### 76–80 min: Exit Evidence
+Submit before class ends:
 
 1. Screenshot of repo **file tree**
 2. One sentence: why does file organization matter?

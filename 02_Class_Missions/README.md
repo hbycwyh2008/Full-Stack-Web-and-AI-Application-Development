@@ -17,21 +17,22 @@ Each **class mission** is a student task sheet for one session. Your teacher wil
 
 ## Classroom Flow (Every Mission)
 
-Each class mission follows this flow:
+Each **90-minute** class mission follows this flow:
 
-1. **Skill Warm-up**
+1. **Self Learning / Skill Warm-up**
 2. **Talk Robin 1**
-3. **Entry Check**
-4. **Core Pattern**
-5. **Guided Practice**
-6. **Independent Rebuild**
-7. **Talk Robin 2 + Evidence**
+3. **Group Answer**
+4. **Entry Points Check**
+5. **Teacher Explanation / Core Pattern**
+6. **Guided Practice**
+7. **Independent Rebuild**
+8. **Talk Robin 2 + Evidence**
 
 ![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
 
 Details: [classroom-flow.md](shared/classroom-flow.md)
 
-> The first blocks are **not** passive video time. You complete a small task and produce something.
+> Self Learning is **not** passive video time. You produce initial notes before Talk Robin 1. The teacher explains **entry points** from your group answers — not everything from the reading or video again.
 
 ---
 

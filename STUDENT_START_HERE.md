@@ -38,7 +38,7 @@ Details: [How This Course Works](01_Student_Start/00_How_This_Course_Works.md)
 
 **During class, open:** [02_Class_Missions/](02_Class_Missions/README.md)
 
-Each **class mission** is a student task sheet for one session. Your teacher will tell you which lesson file to open (Phase 0 starts at [Phase 0 missions](02_Class_Missions/Phase_0_Git_GitHub/README.md)).
+Each **class mission** is a student task sheet for one session. Your teacher will tell you which lesson file to open (Git starts at [01 Web Tools — Phase 01 Git](02_Class_Missions/01_Web_Tools/Phase_01_Git/README.md)).
 
 ---
 
@@ -110,7 +110,7 @@ Full rules: [AI Use Policy for Students](01_Student_Start/04_AI_Use_Policy_For_S
 
 1. Read [How This Course Works](01_Student_Start/00_How_This_Course_Works.md)
 2. Create your GitHub repo: [01_Set_Up_Your_GitHub_Repo.md](01_Student_Start/01_Set_Up_Your_GitHub_Repo.md)
-3. Open today’s mission: [Phase 0 — Lesson 1](02_Class_Missions/Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md)
+3. Open today’s mission: [Phase 01 Git — Lesson 1](02_Class_Missions/01_Web_Tools/Phase_01_Git/lesson-01-course-workflow-and-first-repo.md)
 4. Copy templates from [03_Templates/](03_Templates/) into **your** repo
 
 **Phase 0 minimum in your repo:** `README.md`, `.gitignore`, `profile/`, `reflections/weekly-reflection-01.md`, meaningful commits.

@@ -1,4 +1,6 @@
-# Phase 0: Git & GitHub — Class Missions
+# Phase 01: Git & GitHub — Class Missions
+
+**Parent track:** [01 Web Tools](../README.md)
 
 **Your repository for these six classes:** `cs-learning-log`
 
@@ -16,6 +18,7 @@ Open **one mission file per class** and follow it from top to bottom. Each lesso
 | 4 | [lesson-04-oh-my-git-commit-history.md](lesson-04-oh-my-git-commit-history.md) | Oh My Git — **4 intro levels only** |
 | 5 | [lesson-05-local-git-vscode-terminal.md](lesson-05-local-git-vscode-terminal.md) | Git command cheatsheet (status/add/commit/push) |
 | 6 | [lesson-06-github-mastery-check.md](lesson-06-github-mastery-check.md) | **Your repo** — mastery check |
+| 7 *(optional)* | [lesson-07-coursera-git-github-certification-sprint.md](lesson-07-coursera-git-github-certification-sprint.md) | Coursera Git sprint |
 
 ---
 
@@ -23,9 +26,9 @@ Open **one mission file per class** and follow it from top to bottom. Each lesso
 
 Read (quick scan OK):
 
-- [classroom-flow.md](../shared/classroom-flow.md) — **90-minute** blocks
-- [mastery-levels.md](../shared/mastery-levels.md)
-- [ai-use-during-practice.md](../shared/ai-use-during-practice.md)
+- [classroom-flow.md](../../shared/classroom-flow.md) — **90-minute** blocks
+- [mastery-levels.md](../../shared/mastery-levels.md)
+- [ai-use-during-practice.md](../../shared/ai-use-during-practice.md)
 
 ---
 
@@ -41,11 +44,11 @@ Read (quick scan OK):
 85–90  Submission
 ```
 
-Details: [classroom-flow.md](../shared/classroom-flow.md)
+Details: [classroom-flow.md](../../shared/classroom-flow.md)
 
 ---
 
-## What You Will Be Able to Do After Phase 0
+## What You Will Be Able to Do After Phase 01 Git
 
 - Explain what GitHub is for in this course
 - Create and organize your `cs-learning-log` repo
@@ -55,7 +58,7 @@ Details: [classroom-flow.md](../shared/classroom-flow.md)
 - Submit evidence every class
 - Explain your work orally when asked
 
-**Not in Phase 0:** branches, pull requests, merge conflicts, rebase.
+**Not in Phase 01 Git:** branches, pull requests, merge conflicts, rebase.
 
 ---
 
@@ -72,7 +75,7 @@ Students use **only** the six mission files in this folder during class.
 
 ## Phase Overview (Teachers)
 
-[Phase_0_Git_GitHub.md](../../09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md)
+[Phase_0_Git_GitHub.md](../../../09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md)
 
 ---
 

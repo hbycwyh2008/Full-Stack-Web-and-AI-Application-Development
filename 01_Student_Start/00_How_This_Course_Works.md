@@ -79,6 +79,6 @@ Levels 0–5: [mastery-levels](../02_Class_Missions/shared/mastery-levels.md)
 
 1. [Set Up Your GitHub Repo](01_Set_Up_Your_GitHub_Repo.md)
 2. [Set Up Your Notion Portfolio](02_Set_Up_Your_Notion_Portfolio.md) (after Phase 0)
-3. Open [Phase 0 — Lesson 1](../02_Class_Missions/Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md)
+3. Open [Phase 01 Git — Lesson 1](../02_Class_Missions/01_Web_Tools/Phase_01_Git/lesson-01-course-workflow-and-first-repo.md)
 
 Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)

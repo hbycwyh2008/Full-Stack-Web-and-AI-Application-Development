@@ -146,9 +146,19 @@ Project evidence proves progress.
 
 ## Figma UI Design (Phase 4)
 
-### Figma for Beginners (Teacher-selected)
-- **Link:** _Teacher to add verified link._
-- **Status:** Required (Phase 4)
+### Figma Design for beginners (2025) — Figma Learn
+- **Link:** https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025
+- **Status:** Required (Lessons 1 & 4 — selected modules)
+
+### Coursera Guided Projects (crash-style, ~1–2h each)
+- [Create a Digital Wireframe with Figma](https://www.coursera.org/projects/create-digital-wireframe-figma) — Lesson 2
+- [UI Design using Figma: Weather App Interface](https://www.coursera.org/projects/ui-design-using-figma-create-a-weather-app-interface) — Lesson 4 optional sections
+- [Create a High-Fidelity Prototype with Figma](https://www.coursera.org/projects/create-high-fidelity-prototype-figma) — Lesson 5
+
+**Class missions:** [02_Class_Missions/01_Web_Tools/Phase_02_Figma/](../02_Class_Missions/01_Web_Tools/Phase_02_Figma/README.md)
+
+### Optional certificate
+- [Beginner: Figma UI / UX Design Essentials](https://www.coursera.org/specializations/beginnerfigmauiuxdesignessentials) — homework only; not required for regular track
 
 ---
 
@@ -183,17 +193,32 @@ Project evidence proves progress.
 
 ## Full-Stack Integration (Phase 9)
 
-### Full Stack Course | Next.js + FastAPI
+### Learn Next.js and FastAPI by Building 2 Full Stack Apps
 - **Link:** https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/
-- **Status:** Optional (Phase 9)
+- **How to use:** **First success** track — run both stacks locally, connect frontend → backend, fix CORS, commit evidence.
+- **Class missions:** [05_Vibe_Coding Phase 01](../02_Class_Missions/05_Vibe_Coding/Phase_01_First_Success/) (Lessons 1–5)
+- **Status:** Required for integration path (Phase 9)
+
+### Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App
+- **Link:** https://www.udemy.com/course/cursorai-nextjs/
+- **Start lecture:** https://www.udemy.com/course/cursorai-nextjs/learn/lecture/47849001?start=0
+- **How to use:** **Phase 02 (Lessons 6–10)** — Kanban project with Cursor (rules, MCP, Notepads, Server Actions). Map skills to capstone; **capstone backend stays FastAPI**, not Postgres/Server Actions.
+- **Class missions:** [05_Vibe_Coding Phase 02](../02_Class_Missions/05_Vibe_Coding/Phase_02_NextJS_Deep_Dive/) (Lessons 6–10)
+- **Status:** Required for Cursor / Phase 10 bridge (~5h 38m total)
+
+### Next.js & React — The Complete Guide (optional self-study)
+- **Link:** https://www.udemy.com/course/nextjs-react-the-complete-guide/
+- **How to use:** Optional deep reference — **not** required for 05 Vibe Coding Phase 02.
+- **Status:** Optional supplement
 
 ---
 
 ## Cursor Capstone (Phase 10)
 
-### Cursor + Task Master / Complete Cursor AI courses
-- **Links:** See prior catalog entries in repo history.
-- **Status:** Optional (Phase 10 only)
+### Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App
+- **Link:** https://www.udemy.com/course/cursorai-nextjs/
+- **Class missions:** [05_Vibe_Coding Phase 02](../02_Class_Missions/05_Vibe_Coding/Phase_02_NextJS_Deep_Dive/) — Lessons 6–10; apply workflow on AI School Assistant in formal Phase 10
+- **Status:** Required (Cursor workflow); capstone repo uses FastAPI backend
 
 ---
 

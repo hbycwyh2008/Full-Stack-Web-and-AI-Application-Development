@@ -1,130 +1,330 @@
 # Class Missions
 
+
+
 **Open this folder during class.**
 
-Each **class mission** is a student task sheet for one session. Your teacher will tell you which file to open today.
+
+
+Missions live under **[01_Web_Tools/](01_Web_Tools/)** (Git + Figma), **[Front-end _web+knowledge/](Front-end%20_web+knowledge/)** (frontend), **[05AI_Literacy/](05AI_Literacy/)** or **[AI_Literacy/](AI_Literacy/)** (AI literacy), **[Minimal_Back-end/](Minimal_Back-end/)** or **[Back-end/](Back-end/)** (backend), and **[05_Vibe_Coding/](05_Vibe_Coding/)** (integration + vibe coding) unless your teacher says otherwise.
+
+
 
 ---
 
-## How to Use
 
-1. Start at [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) if this is your first day.
-2. Open the mission file your teacher assigns (Phase 0: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md); Phase 1 Notion: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md); Phase 2 web basics: [Phase_2_Web_Basics/README.md](Phase_2_Web_Basics/README.md); front-end path: [Front-end _web+knowledge/README.md](Front-end%20_web+knowledge/README.md)).
-3. Follow each block in order.
-4. Submit **learning evidence** before class ends (see Exit Evidence in each mission).
 
----
+## 01 Web Tools — Git & Figma
 
-## Classroom Flow (Every Mission)
 
-Each **90-minute** class mission follows this flow:
 
-1. **Entry Point Check** (0–10 min)
-2. **Individual Learning** — **one required resource** (10–25 min)
-3. **Talk Round 1** (25–40 min)
-4. **Entry Points Check / Teacher Diagnosis** (40–55 min)
-5. **Guided Practice / Mission Task** (55–75 min)
-6. **Exit Check** (75–85 min)
-7. **Submission** (85–90 min)
+Start: [01_Web_Tools/README.md](01_Web_Tools/README.md)
 
-![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
 
-Details: [classroom-flow.md](shared/classroom-flow.md)
 
-> Each mission file lists **one required resource**, focus notes, optional support (max 1–2), and exact submission — no browsing playlists during class.
+### Phase 01 — Git & GitHub (6 classes)
 
----
 
-## Phase 0: Git & GitHub
 
-**Your repo for these lessons:** `cs-learning-log` (or your portfolio repo per teacher)
+[Phase_01_Git/README.md](01_Web_Tools/Phase_01_Git/README.md)
+
+
 
 | Lesson | Class mission |
-|---|---|
-| 1 | [lesson-01-course-workflow-and-first-repo.md](Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md) |
-| 2 | [lesson-02-readme-and-commit-history.md](Phase_0_Git_GitHub/lesson-02-readme-and-commit-history.md) |
-| 3 | [lesson-03-file-organization-and-learning-log.md](Phase_0_Git_GitHub/lesson-03-file-organization-and-learning-log.md) |
-| 4 | [lesson-04-oh-my-git-commit-history.md](Phase_0_Git_GitHub/lesson-04-oh-my-git-commit-history.md) |
-| 5 | [lesson-05-local-git-vscode-terminal.md](Phase_0_Git_GitHub/lesson-05-local-git-vscode-terminal.md) |
-| 6 | [lesson-06-github-mastery-check.md](Phase_0_Git_GitHub/lesson-06-github-mastery-check.md) |
 
-Start: [Phase_0_Git_GitHub/README.md](Phase_0_Git_GitHub/README.md)
+|---|---|
+
+| 1 | [lesson-01-course-workflow-and-first-repo.md](01_Web_Tools/Phase_01_Git/lesson-01-course-workflow-and-first-repo.md) |
+
+| 2 | [lesson-02-readme-and-commit-history.md](01_Web_Tools/Phase_01_Git/lesson-02-readme-and-commit-history.md) |
+
+| 3 | [lesson-03-file-organization-and-learning-log.md](01_Web_Tools/Phase_01_Git/lesson-03-file-organization-and-learning-log.md) |
+
+| 4 | [lesson-04-oh-my-git-commit-history.md](01_Web_Tools/Phase_01_Git/lesson-04-oh-my-git-commit-history.md) |
+
+| 5 | [lesson-05-local-git-vscode-terminal.md](01_Web_Tools/Phase_01_Git/lesson-05-local-git-vscode-terminal.md) |
+
+| 6 | [lesson-06-github-mastery-check.md](01_Web_Tools/Phase_01_Git/lesson-06-github-mastery-check.md) |
+
+| 7 *(optional)* | [lesson-07-coursera-git-github-certification-sprint.md](01_Web_Tools/Phase_01_Git/lesson-07-coursera-git-github-certification-sprint.md) |
+
+
+
+### Phase 02 — Figma (5 classes)
+
+
+
+**After Phase 01 Git + Notion.** [Phase_02_Figma/README.md](01_Web_Tools/Phase_02_Figma/README.md)
+
+
+
+| Lesson | Class mission |
+
+|---|---|
+
+| 1 | [lesson-01-figma-basics-and-user-flow.md](01_Web_Tools/Phase_02_Figma/lesson-01-figma-basics-and-user-flow.md) |
+
+| 2 | [lesson-02-wireframe-guided-project.md](01_Web_Tools/Phase_02_Figma/lesson-02-wireframe-guided-project.md) |
+
+| 3 | [lesson-03-ai-assistant-wireframes.md](01_Web_Tools/Phase_02_Figma/lesson-03-ai-assistant-wireframes.md) |
+
+| 4 | [lesson-04-components-auto-layout-and-polish.md](01_Web_Tools/Phase_02_Figma/lesson-04-components-auto-layout-and-polish.md) |
+
+| 5 | [lesson-05-prototype-handoff-and-submission.md](01_Web_Tools/Phase_02_Figma/lesson-05-prototype-handoff-and-submission.md) |
+
+
+
+Aligns with **course Phase 4** · Evidence: `figma-design/`
+
+
 
 ---
+
+
 
 ## Phase 1: Notion Portfolio
 
-**Your public showcase for these lessons:** a published Notion portfolio site.
+
 
 | Lesson | Class mission |
-|---|---|
-| 1 | [lesson-01-notion-portfolio-structure.md](Phase_1_Notion_Portfolio/lesson-01-notion-portfolio-structure.md) |
-| 2 | [lesson-02-publish-and-connect-github.md](Phase_1_Notion_Portfolio/lesson-02-publish-and-connect-github.md) |
 
-Start: [Phase_1_Notion_Portfolio/README.md](Phase_1_Notion_Portfolio/README.md)
+|---|---|
+
+| 1 | [lesson-01-notion-portfolio-structure.md](Front-end%20_web+knowledge/Phase_1_Notion_Portfolio/lesson-01-notion-portfolio-structure.md) |
+
+| 2 | [lesson-02-publish-and-connect-github.md](Front-end%20_web+knowledge/Phase_1_Notion_Portfolio/lesson-02-publish-and-connect-github.md) |
+
+
 
 ---
 
-## Phase 2: Web Basics (MDN First Form)
 
-**Prerequisite:** Phase 1 Notion portfolio complete.
+
+## AI Literacy (6 classes — AI for Everyone)
+
+
+
+**After Phase 01 Git + Notion.** Start: [05AI_Literacy/README.md](05AI_Literacy/README.md) or [AI_Literacy/README.md](AI_Literacy/README.md)
+
+
 
 | Lesson | Class mission |
-|---|---|
-| 1 | [lesson-01-html-form-structure.md](Phase_2_Web_Basics/lesson-01-html-form-structure.md) |
-| 2 | [lesson-02-html-form-styling-and-github.md](Phase_2_Web_Basics/lesson-02-html-form-styling-and-github.md) |
 
-Start: [Phase_2_Web_Basics/README.md](Phase_2_Web_Basics/README.md)
+|---|---|
+
+| 1 | [lesson-01-what-is-ai.md](05AI_Literacy/lesson-01-what-is-ai.md) |
+
+| 2 | [lesson-02-building-ai-projects.md](05AI_Literacy/lesson-02-building-ai-projects.md) |
+
+| 3 | [lesson-03-ai-in-your-school.md](05AI_Literacy/lesson-03-ai-in-your-school.md) |
+
+| 4 | [lesson-04-what-ai-can-and-cannot-do.md](05AI_Literacy/lesson-04-what-ai-can-and-cannot-do.md) |
+
+| 5 | [lesson-05-ai-and-society.md](05AI_Literacy/lesson-05-ai-and-society.md) |
+
+| 6 | [lesson-06-reflection-and-submission.md](05AI_Literacy/lesson-06-reflection-and-submission.md) |
+
+
+
+Resource: [AI for Everyone — DeepLearning.AI](https://www.deeplearning.ai/courses/ai-for-everyone) · Evidence folder: `ai-literacy/`
+
+
 
 ---
 
-## Front-end _web+knowledge
 
-**Combined path:** HTML/CSS digital business card → JavaScript interactive profile → React component portfolio.
 
-| Module | Class mission |
+## Phase 2: Web Basics (MDN HTML Form)
+
+
+
+Start: [Phase_2_Web_Basics/README.md](Front-end%20_web+knowledge/Phase_2_Web_Basics/README.md)
+
+
+
+| Lesson | Class mission |
+
 |---|---|
-| 2 | [module-02-html-css-digital-business-card.md](Front-end%20_web+knowledge/module-02-html-css-digital-business-card.md) |
-| 3 | [module-03-javascript-interactive-profile.md](Front-end%20_web+knowledge/module-03-javascript-interactive-profile.md) |
-| 4 | [module-04-react-component-portfolio.md](Front-end%20_web+knowledge/module-04-react-component-portfolio.md) |
+
+| 1 | [lesson-01-html-form-structure.md](Front-end%20_web+knowledge/Phase_2_Web_Basics/lesson-01-html-form-structure.md) |
+
+| 2 | [lesson-02-html-form-styling-and-github.md](Front-end%20_web+knowledge/Phase_2_Web_Basics/lesson-02-html-form-styling-and-github.md) |
+
+
+
+---
+
+
+
+## Phase 3: JavaScript
+
+
+
+Start: [Phase_3_JavaScript/README.md](Front-end%20_web+knowledge/Phase_3_JavaScript/README.md)
+
+
+
+| Lesson | Class mission |
+
+|---|---|
+
+| 1 | [lesson-01-javascript-in-the-browser.md](Front-end%20_web+knowledge/Phase_3_JavaScript/lesson-01-javascript-in-the-browser.md) |
+
+| 2 | [lesson-02-dom-selection-and-content.md](Front-end%20_web+knowledge/Phase_3_JavaScript/lesson-02-dom-selection-and-content.md) |
+
+| 3 | [lesson-03-events-and-functions.md](Front-end%20_web+knowledge/Phase_3_JavaScript/lesson-03-events-and-functions.md) |
+
+| 4 | [lesson-04-arrays-and-render-lists.md](Front-end%20_web+knowledge/Phase_3_JavaScript/lesson-04-arrays-and-render-lists.md) |
+
+| 5 | [lesson-05-debugging-and-fetch-preview.md](Front-end%20_web+knowledge/Phase_3_JavaScript/lesson-05-debugging-and-fetch-preview.md) |
+
+| 6 | [lesson-06-independent-rebuild-and-submission.md](Front-end%20_web+knowledge/Phase_3_JavaScript/lesson-06-independent-rebuild-and-submission.md) |
+
+
+
+Track B: [module-03-javascript-interactive-profile.md](Front-end%20_web+knowledge/module-03-javascript-interactive-profile.md)
+
+
+
+---
+
+
+
+## Phase 4: React & Next.js (10 classes — regular)
+
+
+
+Start: [Phase_4_React_and_NextJS/README.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/README.md)
+
+
+
+| Lesson | Class mission |
+
+|---|---|
+
+| 1 | [lesson-01-jsx-and-first-components.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-01-jsx-and-first-components.md) |
+
+| 2 | [lesson-02-components-and-styling.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-02-components-and-styling.md) |
+
+| 3 | [lesson-03-props-and-reusable-components.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-03-props-and-reusable-components.md) |
+
+| 4 | [lesson-04-lists-map-and-keys.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-04-lists-map-and-keys.md) |
+
+| 5 | [lesson-05-state-and-events.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-05-state-and-events.md) |
+
+| 6 | [lesson-06-forms-and-conditional-ui.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-06-forms-and-conditional-ui.md) |
+
+| 7 | [lesson-07-useeffect-and-fetch.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-07-useeffect-and-fetch.md) |
+
+| 8 | [lesson-08-nextjs-getting-started.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-08-nextjs-getting-started.md) |
+
+| 9 | [lesson-09-nextjs-routing-and-layouts.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-09-nextjs-routing-and-layouts.md) |
+
+| 10 | [lesson-10-client-server-and-submission.md](Front-end%20_web+knowledge/Phase_4_React_and_NextJS/lesson-10-client-server-and-submission.md) |
+
+
+
+Coursera: [Learn React](https://www.coursera.org/learn/learn-react) + [Learn Next.js](https://www.coursera.org/learn/learn-nextjs)
+
+
+
+---
+
+
+
+## Minimal Back-end: FastAPI + Database (10 classes)
+
+
+
+Start: [Minimal_Back-end/README.md](Minimal_Back-end/README.md) or [Back-end/README.md](Back-end/README.md)
+
+
+
+**Phase 01 — FastAPI (Lessons 1–6):** [Phase_01_FastAPI/README.md](Minimal_Back-end/Phase_01_FastAPI/README.md)
+
+
+
+| Lesson | Class mission |
+
+|---|---|
+
+| 1–6 | See [Minimal_Back-end/README.md](Minimal_Back-end/README.md) |
+
+
+
+**Phase 02 — Database (Lessons 7–10):** [Phase_02_Database/README.md](Minimal_Back-end/Phase_02_Database/README.md)
+
+
+
+---
+
+
+
+## 05 Vibe Coding — First Success + Cursor Kanban (10 classes)
+
+
+
+**After** Git, FastAPI basics, and Front-end Phase 4 (or equivalent). Start: [05_Vibe_Coding/README.md](05_Vibe_Coding/README.md)
+
+
+
+| Phase | Classes | Folder | Udemy |
+|---|---:|---|---|
+| **01 First Success** | 1–5 | [Phase_01_First_Success/](05_Vibe_Coding/Phase_01_First_Success/) | [Next.js + FastAPI — 2 Full Stack Apps](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) |
+| **02 Cursor Kanban + Vibe** | 6–10 | [Phase_02_NextJS_Deep_Dive/](05_Vibe_Coding/Phase_02_NextJS_Deep_Dive/) | [Complete Cursor AI: Next.js 15 Kanban](https://www.udemy.com/course/cursorai-nextjs/) |
+
+
+
+Evidence folders: `full-stack-practice/` · `vibe-coding/` · checkpoint: `FIRST_SUCCESS.md`
+
+
+
+---
+
+
+
+## Optional Modules
+
+
+
+| Module | File |
+
+|---|---|
+
+| HTML/CSS card | [module-02-html-css-digital-business-card.md](Front-end%20_web+knowledge/module-02-html-css-digital-business-card.md) |
+
+| React (legacy pointer) | [module-04-react-component-portfolio.md](Front-end%20_web+knowledge/module-04-react-component-portfolio.md) → Phase 4 |
+
+
 
 Start: [Front-end _web+knowledge/README.md](Front-end%20_web+knowledge/README.md)
 
+
+
 ---
+
+
 
 ## Shared Guides
 
-- [classroom-flow.md](shared/classroom-flow.md) — how each block works
-- [mastery-levels.md](shared/mastery-levels.md) — **mastery** Levels 0–5
-- [talk-robin-rules.md](shared/talk-robin-rules.md) — pair discussion rules
-- [exit-evidence-checklist.md](shared/exit-evidence-checklist.md) — what counts as **learning evidence**
-- [ai-use-during-practice.md](shared/ai-use-during-practice.md) — **AI usage note** rules in class
 
-Posters: [08_Public_Documents/posters/](../08_Public_Documents/posters/README.md)
 
----
+- [classroom-flow.md](shared/classroom-flow.md)
 
-## Course Principles (Every Mission)
+- [mastery-levels.md](shared/mastery-levels.md)
 
-- Watching is not **mastery**.
-- Copying is not **mastery**.
-- Running something once is not enough **learning evidence**.
-- You must **rebuild**, **debug**, **explain**, and submit evidence.
-- AI helps you learn — it does not replace **Independent Rebuild**.
-- You may be asked to explain your work **orally**.
+- [talk-robin-rules.md](shared/talk-robin-rules.md)
+
+- [exit-evidence-checklist.md](shared/exit-evidence-checklist.md)
+
+- [ai-use-during-practice.md](shared/ai-use-during-practice.md)
+
+
 
 ---
 
-## Related Materials
 
-| Need | Location |
-|---|---|
-| Setup guides | [01_Student_Start/](../01_Student_Start/) |
-| Templates | [03_Templates/](../03_Templates/) |
-| Evidence requirements | [04_Assessment/Evidence_System.md](../04_Assessment/Evidence_System.md) |
-| Phase requirements | [09_Teacher_Planning/Phase_Overviews/](../09_Teacher_Planning/Phase_Overviews/) |
-| GitHub setup | [03_Templates/Student_GitHub_Repository_Guide.md](../03_Templates/Student_GitHub_Repository_Guide.md) |
-
----
 
 Educational materials in this folder are copyright © 2026 Wang Morgan. All Rights Reserved.
+
+

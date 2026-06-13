@@ -60,7 +60,7 @@ Write in **your own words**.
 
 ## Step 5: Follow Phase 0 Class Missions
 
-Open [Phase 0 class missions](../02_Class_Missions/Phase_0_Git_GitHub/README.md) during each Git & GitHub class.
+Open [Phase 01 Git class missions](../02_Class_Missions/01_Web_Tools/Phase_01_Git/README.md) during each Git & GitHub class.
 
 Full guide: [Student GitHub Repository Guide](../03_Templates/Student_GitHub_Repository_Guide.md)
 

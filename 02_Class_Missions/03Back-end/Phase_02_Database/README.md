@@ -8,6 +8,9 @@
 
 > **Teacher note:** Course Phase 7 does **not** require all students to finish Phase 02. Assign 7–10 to fast track or second cohort weeks.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Regular Class Track — 4 Missions

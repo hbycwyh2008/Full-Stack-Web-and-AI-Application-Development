@@ -1,5 +1,15 @@
 # Lesson 9: Server Actions, Notepads & Cursor Best Practices
 
+
+| | |
+|:---|:---|
+| **Time** | 90 minutes |
+| **Evidence** | `independent-rebuild/` + follow-along folder |
+| **Independent rebuild** | `independent-rebuild/lesson-09/` · [rules](../INDEPENDENT_REBUILD.md) |
+
+> [!TIP]
+> Mission card → **45–70 Mission Task** → **70–80 Rebuild/Exit** → submit evidence.
+
 **Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 ## Lesson Goal
@@ -17,7 +27,20 @@ By the end of this lesson, each student should be able to:
 
 ## 90-Minute Class Flow
 
+```mermaid
+flowchart LR
+  A["0–15<br/>Learn"] --> B["15–27<br/>Talk"]
+  B --> C["27–37<br/>Group"]
+  C --> D["37–45<br/>Check"]
+  D --> E["45–70<br/>Mission"]
+  E --> F["70–80<br/>Rebuild"]
+  F --> G["80–90<br/>Submit"]
+```
+
 ### 0–15 min: Individual Learning
+
+> [!NOTE]
+> **One required resource** for this block — see below. Do not browse extra playlists during class.
 
 **Required resource — Udemy §4 + §5:**
 
@@ -80,6 +103,9 @@ plan → Notepad/rules → prompt → read diff → run app → test mutation �
 ---
 
 ### 70–80 min: Independent Rebuild / Exit Check
+
+> [!IMPORTANT]
+> Independent work: close course videos, notes, AI tools, and follow-along code before this block.
 
 **Required — no materials:** [INDEPENDENT_REBUILD.md](../INDEPENDENT_REBUILD.md)
 

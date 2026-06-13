@@ -10,6 +10,9 @@ Students should keep using the same GitHub repository:
 
 Notion is the public showcase. GitHub is the evidence and revision history.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Phase Order

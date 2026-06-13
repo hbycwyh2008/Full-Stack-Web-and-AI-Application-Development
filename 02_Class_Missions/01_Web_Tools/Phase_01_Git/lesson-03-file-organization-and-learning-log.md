@@ -1,5 +1,14 @@
 # Lesson 3: GitHub Pages and Public Learning Site
 
+
+| | |
+|:---|:---|
+| **Time** | 90 minutes |
+| **Evidence** | GitHub repo + track folder |
+
+> [!TIP]
+> Mission card → **45–70 Mission Task** → **70–80 Rebuild/Exit** → submit evidence.
+
 **Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 ## Lesson Goal
@@ -17,7 +26,20 @@ By the end of this lesson, each student should be able to:
 
 ## 90-Minute Class Flow
 
+```mermaid
+flowchart LR
+  A["0–15<br/>Learn"] --> B["15–27<br/>Talk"]
+  B --> C["27–37<br/>Group"]
+  C --> D["37–45<br/>Check"]
+  D --> E["45–70<br/>Mission"]
+  E --> F["70–80<br/>Rebuild"]
+  F --> G["80–90<br/>Submit"]
+```
+
 ### 0–15 min: Individual Learning
+
+> [!NOTE]
+> **One required resource** for this block — see below. Do not browse extra playlists during class.
 
 Students work individually first.
 
@@ -116,6 +138,9 @@ Students create or update a simple public learning page.
 ---
 
 ### 70–80 min: Independent Rebuild / Exit Check
+
+> [!IMPORTANT]
+> Independent work: close course videos, notes, AI tools, and follow-along code before this block.
 
 Students repeat the workflow independently **without looking at the tutorial**.
 

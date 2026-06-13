@@ -1,6 +1,18 @@
 # Lesson 6: Reflection and Phase Submission
 
+| | |
+|:---|:---|
+| **Time** | 90 minutes |
+| **Resource** | [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) — Weeks 1–4 wrap-up |
+| **Evidence** | `ai-literacy/` |
+| **Checkpoint** | **C3** — AI Literacy complete |
+
 **Your repo:** `[studentName]-Full-Stack-Web-and-AI-Application`
+
+> [!TIP]
+> Skim this page once → complete **Mission Task** (45–70) → pass oral quiz (70–80) → expand checklist below before submit.
+
+---
 
 ## Lesson Goal
 
@@ -16,6 +28,16 @@ By the end of this lesson, each student should be able to:
 ---
 
 ## 90-Minute Class Flow
+
+```mermaid
+flowchart LR
+  A["0–15<br/>Finish course"] --> B["15–27<br/>Talk Robin"]
+  B --> C["27–37<br/>Group answer"]
+  C --> D["37–45<br/>Entry check"]
+  D --> E["45–70<br/>Mission task"]
+  E --> F["70–80<br/>Oral quiz"]
+  F --> G["80–90<br/>Submit"]
+```
 
 ### 0–15 min: Individual Learning
 
@@ -75,7 +97,7 @@ Our group still needs help with...
 
 Teacher oral quiz (pick 2):
 
-- What is AI vs generative AI? *(generative preview OK from class discussion)*
+- What is AI vs generative AI?
 - What is a hallucination?
 - Why must the assistant use school documents?
 
@@ -95,7 +117,8 @@ Student signs [AI_Literacy_Checklist.md](../../04_Assessment/AI_Literacy_Checkli
 4. Completed checklist (file photo or signed printout — teacher choice)
 5. `AI_USAGE.md` note in `ai-literacy/` if AI helped write any reflection (per policy)
 
-**Phase checklist (paste in PR or Notion):**
+<details>
+<summary><strong>Phase checklist</strong> — expand before you submit</summary>
 
 ```text
 [ ] ai-literacy/README.md with links to all reflections
@@ -108,6 +131,8 @@ Student signs [AI_Literacy_Checklist.md](../../04_Assessment/AI_Literacy_Checkli
 [ ] Meaningful commit history (not one "done" commit)
 [ ] Oral responsible AI explanation passed
 ```
+
+</details>
 
 ---
 
@@ -140,7 +165,7 @@ Begin [Generative AI for Everyone](https://www.deeplearning.ai/courses/generativ
 
 **Formal course:** [Phase 3 AI Math Bridge](../../09_Teacher_Planning/Phase_Overviews/Phase_3_AI_Math_Bridge_Linear_Algebra.md)
 
-**Class missions (teacher map):** [Front-end Web Basics](../Front-end%20_web+knowledge/Phase_2_Web_Basics/) or continue your cohort schedule.
+**Class missions:** [02 Front-end Web Basics](../02Front-end/Phase_2_Web_Basics/) or your cohort schedule.
 
 ---
 

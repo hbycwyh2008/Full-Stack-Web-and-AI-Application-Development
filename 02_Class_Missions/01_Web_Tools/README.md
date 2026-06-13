@@ -6,6 +6,9 @@
 
 Open **one mission file per class** in the phase folder your teacher assigns.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md).
+
 ---
 
 ## Phase Order

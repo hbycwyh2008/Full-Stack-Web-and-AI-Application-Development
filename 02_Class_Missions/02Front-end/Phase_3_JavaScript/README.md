@@ -6,6 +6,9 @@ Open **one mission file per class** and follow it from top to bottom. Each lesso
 
 > **Prerequisite:** [Phase 1 Notion Portfolio](../Phase_1_Notion_Portfolio/) and [Phase 2 Web Basics](../Phase_2_Web_Basics/) complete.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Your Six Missions (Track A — Prior Programming)

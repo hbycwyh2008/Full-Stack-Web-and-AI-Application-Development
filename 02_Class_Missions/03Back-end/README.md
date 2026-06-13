@@ -12,6 +12,9 @@ Open **one mission file per class** and follow it from top to bottom.
 
 > **Course alignment:** Lessons 1–6 match **course Phase 7 (lightweight FastAPI)**. Lessons 7–10 add **database depth** for students who continue Phase 02.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Phase Order

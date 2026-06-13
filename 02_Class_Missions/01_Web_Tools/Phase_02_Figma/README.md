@@ -12,6 +12,9 @@ Open **one mission file per class** and follow it from top to bottom.
 
 > **No “Figma Crash Course” on Coursera** — this track uses **short Guided Projects** + **Figma official intro** + **capstone screens** in class.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Regular Class Track — 5 Missions

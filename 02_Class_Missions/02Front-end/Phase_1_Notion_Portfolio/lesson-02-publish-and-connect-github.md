@@ -1,5 +1,14 @@
 # Lesson 2: Publish and Connect GitHub
 
+
+| | |
+|:---|:---|
+| **Time** | 90 minutes |
+| **Evidence** | student repo + phase folder |
+
+> [!TIP]
+> Mission card → **45–70 Mission Task** → **70–80 Rebuild/Exit** → submit evidence.
+
 ## Lesson Goal
 
 Publish your Notion portfolio as a public website and connect it back to your GitHub repository so your showcase and evidence support each other.

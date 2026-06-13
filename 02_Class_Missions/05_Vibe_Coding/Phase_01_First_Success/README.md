@@ -10,6 +10,9 @@
 
 > **Teacher note:** Assign exact Udemy section numbers from your cohort’s course version. Table below uses typical progression; adjust titles to match the Udemy sidebar.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Regular Class Track — 5 Missions

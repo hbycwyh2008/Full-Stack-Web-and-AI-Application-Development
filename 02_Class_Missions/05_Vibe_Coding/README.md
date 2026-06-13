@@ -1,12 +1,27 @@
 # 05 Vibe Coding — Class Missions
 
+| | |
+|:---|:---|
+| **Classes** | 10 × 90 min |
+| **Phase 01** | [Next.js + FastAPI](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) — first success |
+| **Phase 02** | [Cursor AI Kanban](https://www.udemy.com/course/cursorai-nextjs/) — vibe workflow |
+| **Evidence** | `full-stack-practice/` · `vibe-coding/` |
+
 **Your repository:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
-**Goal:** **First success** with a working Next.js + FastAPI app, then **vibe-code a Kanban app** with Cursor AI, then **bridge** to the formal capstone.
+> [!TIP]
+> Display tips: [mission-display-guide.md](../shared/mission-display-guide.md) · Rebuild rules: [INDEPENDENT_REBUILD.md](INDEPENDENT_REBUILD.md)
 
-**Prerequisite:** [01 Web Tools Phase 01 Git](../01_Web_Tools/Phase_01_Git/) · [Minimal Back-end Phase 01](../Minimal_Back-end/Phase_01_FastAPI/) or [Back-end Phase 01](../Back-end/Phase_01_FastAPI/) · [Front-end Phase 4 React & Next.js](../Front-end%20_web+knowledge/Phase_4_React_and_NextJS/) · [01 Web Tools Phase 02 Figma](../01_Web_Tools/Phase_02_Figma/) recommended
+**Prerequisite:** [Git](../01_Web_Tools/Phase_01_Git/) · [FastAPI](../03Back-end/Phase_01_FastAPI/) · [React/Next](../02Front-end/Phase_4_React_and_NextJS/) · [Figma](../01_Web_Tools/Phase_02_Figma/) recommended
 
-> **Course alignment:** Overlaps formal **Phase 9** (integration) and **Phase 10** (Cursor capstone). Capstone backend stays **FastAPI** — the Kanban Udemy project uses Postgres/Server Actions for **Cursor workflow** only.
+> [!NOTE]
+> Overlaps course **Phase 9–10**. Capstone backend stays **FastAPI** — Kanban uses Postgres/Server Actions for **Cursor practice** only.
+
+```mermaid
+flowchart LR
+  P1["Phase 01<br/>Lessons 1–5<br/>First success"] --> P2["Phase 02<br/>Lessons 6–10<br/>Cursor Kanban"]
+  P2 --> CAP["Capstone<br/>AI School Assistant"]
+```
 
 ---
 

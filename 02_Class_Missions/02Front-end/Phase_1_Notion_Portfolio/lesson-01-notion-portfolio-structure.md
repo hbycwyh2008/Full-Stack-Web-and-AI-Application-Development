@@ -1,5 +1,14 @@
 # Lesson 1: Notion Portfolio Structure
 
+
+| | |
+|:---|:---|
+| **Time** | 90 minutes |
+| **Evidence** | student repo + phase folder |
+
+> [!TIP]
+> Mission card → **45–70 Mission Task** → **70–80 Rebuild/Exit** → submit evidence.
+
 ## Lesson Goal
 
 Build the first version of your Notion portfolio homepage so it can clearly show who you are, what you are learning, and where your GitHub evidence lives.

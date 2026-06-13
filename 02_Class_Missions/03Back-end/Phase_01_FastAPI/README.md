@@ -6,6 +6,9 @@
 
 **Goal:** Running FastAPI service with GET/POST routes, Pydantic validation, and Swagger UI at `/docs` — matches **course Phase 7**.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Regular Class Track — 6 Missions

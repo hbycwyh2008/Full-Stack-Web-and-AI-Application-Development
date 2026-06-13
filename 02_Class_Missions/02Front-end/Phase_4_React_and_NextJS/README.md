@@ -10,6 +10,9 @@ Open **one mission file per class** and follow it from top to bottom. Each lesso
 
 > **Coursera access:** Enroll in [Learn React](https://www.coursera.org/learn/learn-react) and [Learn Next.js](https://www.coursera.org/learn/learn-nextjs). Use school Coursera for Campus if available; otherwise audit or Financial Aid.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Regular Class Track — 10 Missions

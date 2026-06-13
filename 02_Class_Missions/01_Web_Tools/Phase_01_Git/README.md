@@ -6,6 +6,9 @@
 
 Open **one mission file per class** and follow it from top to bottom. Each lesson has **one required resource** — do not choose from many links.
 
+> [!TIP]
+> **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../shared/mission-display-guide.md) (adjust `../` depth if needed).
+
 ---
 
 ## Your Six Missions

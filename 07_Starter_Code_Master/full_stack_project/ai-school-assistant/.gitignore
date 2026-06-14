@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+.next/
+
+# environment / secrets
+.env
+.env.local
+backend/.env
+backend/venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# uploads and runtime data
+backend/data/handbook/uploads/
+backend/chroma_data/
+chroma_data/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

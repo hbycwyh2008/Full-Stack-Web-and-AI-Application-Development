@@ -51,7 +51,7 @@ The following are licensed under the **MIT License**:
 - Frontend source code
 - Backend source code
 - Scripts
-- Code files in `06_Starter_Code/` and other designated code directories
+- Code files in `07_Starter_Code_Master/` and other designated code directories
 
 Unless a file or directory explicitly states otherwise, applicable source code in this repository is MIT licensed.
 
@@ -104,6 +104,22 @@ SOFTWARE.
 | Starter code, demo apps, scripts, source files | MIT License |
 | Mixed Markdown (text + code blocks) | Text: All Rights Reserved · Code blocks: MIT |
 
-For a plain-English overview, see [LICENSE_SUMMARY.md](LICENSE_SUMMARY.md).
+For a plain-English overview, see [00_Admin_Curriculum_Package/LICENSE_SUMMARY.md](00_Admin_Curriculum_Package/LICENSE_SUMMARY.md).
 
-For permission requests regarding educational materials, contact the copyright holder.
+For curriculum design attribution, see [NOTICE.md](NOTICE.md).
+
+---
+
+## 4. School and Instructional Use
+
+**Chongqing Norin Bashu School for Children of Foreign Personnel** may use the **admin-facing curriculum overview** (`00_Admin_Curriculum_Package/`) and **student-facing materials** exported from `01_Student_Hub_Export/` for **internal instructional use** when approved by Morgan Wang.
+
+The following may **not** be copied, redistributed, republished, or transferred as school-owned curriculum **without written permission**:
+
+- The full master curriculum repository
+- Teacher scripts and detailed lesson plans
+- Complete project bank
+- Full prompt library
+- Answer keys and internal planning notes
+
+For permission requests regarding educational materials, contact the copyright holder (Morgan Wang).

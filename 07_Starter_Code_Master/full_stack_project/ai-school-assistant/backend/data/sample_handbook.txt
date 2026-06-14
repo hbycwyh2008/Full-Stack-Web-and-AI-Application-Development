@@ -1,0 +1,11 @@
+Late Homework Policy
+Homework is due at the start of class on the due date. Late homework may be submitted up to three days late for partial credit. After three days, late homework is not accepted unless the student has an excused absence. Students should contact their teacher if they need extra time.
+
+Exam Review Policy
+Before each major exam, teachers provide a review guide one week in advance. Students should review their notes, completed homework, and the review guide. Optional review sessions are held after school during the week before the exam.
+
+AI Usage Policy
+Students may use AI tools to help generate starter code, explain errors, and suggest improvements. Students must disclose how they used AI and must be able to explain any work they submit. Students may not submit AI-generated work they do not understand or claim AI-generated work as fully their own.
+
+Project Submission Policy
+Projects must be submitted through the class portal before the deadline. Each project submission must include a GitHub repository link, a short description, and an AI usage reflection. Projects submitted after the deadline follow the same late policy as homework.

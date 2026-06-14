@@ -1,51 +1,119 @@
 # Full-Stack Web and AI Application Development
 
-## Course Summary
+## Private Master Curriculum Repository
 
-A **portfolio-first**, **evidence-based**, **mastery-focused** course in full-stack web and AI application development. Students build real projects, document learning on GitHub and Notion, and prove they can **explain, rebuild, debug, modify, and apply** each core pattern — not just watch, copy, or run code once.
+**Chongqing Norin Bashu School for Children of Foreign Personnel**  
+**Computer Science and AI Pathway**  
+Designed by **Morgan Wang**
 
-**Final project:** AI School Assistant — a document-grounded Q&A web app with sources.
+> **This repository is the private master curriculum repository.** It is not intended to be directly shared with students or handed over as a complete school-owned curriculum package. Student-facing materials should be copied or exported into a separate **Student Hub** repository or **GitHub Classroom** template repositories.
 
 ---
 
-## Start Here
+## Repository Purpose
 
-### For Students
+This repository stores the **complete curriculum design** for the Computer Science and AI Pathway, including:
 
-**→ [STUDENT_START_HERE.md](STUDENT_START_HERE.md)**
+- Teacher-only materials and detailed lesson plans
+- Detailed lesson plans and class missions
+- Project banks and capstone specifications
+- Rubrics and assessment models
+- Student template masters
+- Cursor prompts and AI prompts
+- Starter code and classroom-ready materials
 
-Then: [01_Student_Start/](01_Student_Start/) · [02_Class_Missions/](02_Class_Missions/README.md) (open during class)
+It serves as the **source repository** from which student-facing materials and GitHub Classroom templates are exported.
 
-### For Teachers
+---
 
-**→ [TEACHER_START_HERE.md](TEACHER_START_HERE.md)**
+## Important Usage Boundary
 
-Then: [Course Implementation Checklist](00_Course_Overview/Course_Implementation_Checklist.md)
+| Layer | Location | Who sees it |
+|---|---|---|
+| **Private master** | This repository (keep **Private** on GitHub) | Teachers, curriculum designers |
+| **Student Hub** | `01_Student_Hub_Export/` → separate repo | Students |
+| **GitHub Classroom** | `02_GitHub_Classroom_Templates/` → org templates | Students per assignment |
+
+**The complete master repository should not be used directly as the student course repository.**
 
 ---
 
 ## Repository Map
 
 ```text
-├── STUDENT_START_HERE.md       ← students begin here
-├── TEACHER_START_HERE.md       ← teachers begin here
-├── 00_Course_Overview/         ← course overview, pacing, pathway
-├── 01_Student_Start/           ← setup: GitHub, Notion, evidence, AI policy
-├── 02_Class_Missions/          ← open during class (student task sheets)
-├── 03_Templates/               ← copy into your personal repo
-├── 04_Assessment/              ← evidence system, rubrics, AI policy
-├── 05_Resources/               ← AI Literacy, Math Bridge, Git unit
-├── 06_Starter_Code/            ← teacher demo + full RAG app
-├── 07_Final_Project/           ← capstone specification
-├── 08_Public_Documents/        ← student overview, posters
-└── 09_Teacher_Planning/        ← daily lesson plans, phase overviews
-    ├── Daily_Lesson_Plans/
-    └── Phase_Overviews/
+/
+├── README.md                          ← you are here
+├── LICENSE.md                         ← dual license (see NOTICE.md)
+├── NOTICE.md                          ← curriculum IP notice
+├── 00_Admin_Curriculum_Package/       ← school leaders, parents, curriculum review
+├── 01_Student_Hub_Export/             ← copy to separate Student Hub repo
+├── 02_GitHub_Classroom_Templates/     ← copy to GitHub Classroom template repos
+├── 03_Course_Units/                   ← units + Class_Missions + resources
+├── 04_Teacher_Only/                   ← lesson plans, scripts, answer keys (planned)
+├── 05_Assessment_and_Rubrics/         ← evidence system, rubrics, AP alignment
+├── 06_Student_Templates_Master/       ← master copies of student templates
+├── 07_Starter_Code_Master/            ← starter and demo code
+├── 08_AI_and_Cursor_Prompts/          ← teacher and student prompts
+├── 09_Project_Bank/                   ← mini, unit, final, extension projects
+└── 10_Archive/                        ← legacy folders and superseded materials
 ```
 
 ---
 
-## Learning Flow
+## What Can Be Shared With Students
+
+Export **only** from:
+
+- `01_Student_Hub_Export/` — course overview, GitHub guide, AI policy, reflections
+- `02_GitHub_Classroom_Templates/` — per-assignment starter files and instructions
+- Sanitized rubric summaries (when appropriate) — not full grading notes
+
+Students work in **their own GitHub repositories** created via GitHub Classroom.
+
+---
+
+## What Should Stay Teacher-Only
+
+- `04_Teacher_Only/` — daily lesson plans, teacher scripts, internal notes
+- `05_Assessment_and_Rubrics/` — full rubrics with grading notes
+- `08_AI_and_Cursor_Prompts/Teacher_Prompts/` — full Cursor prompts
+- `09_Project_Bank/` — complete project specifications
+- Full `03_Course_Units/Class_Missions/` teacher notes
+- This master repository as a whole
+
+---
+
+## How to Use This Repository
+
+### For Teachers
+
+1. Read [04_Teacher_Only/Teacher_Onboarding_Guide.md](04_Teacher_Only/Teacher_Onboarding_Guide.md)
+2. Review [00_Admin_Curriculum_Package/CS_AI_Pathway_Overview.md](00_Admin_Curriculum_Package/CS_AI_Pathway_Overview.md)
+3. Open [03_Course_Units/Class_Missions/README.md](03_Course_Units/Class_Missions/README.md) during class
+4. Use [04_Teacher_Only/Detailed_Lesson_Plans/](04_Teacher_Only/Detailed_Lesson_Plans/) for scripts
+5. Assess with [05_Assessment_and_Rubrics/](05_Assessment_and_Rubrics/)
+
+### For Curriculum Review / Admin
+
+Start at [00_Admin_Curriculum_Package/README.md](00_Admin_Curriculum_Package/README.md)
+
+### For Exporting to Students
+
+Start at [01_Student_Hub_Export/README.md](01_Student_Hub_Export/README.md)
+
+---
+
+## Recommended Workflow
+
+1. **Develop** full materials in this private master repo.
+2. **Export** selected student-facing materials into `01_Student_Hub_Export/`.
+3. **Copy** sanitized assignment templates into GitHub Classroom template repositories.
+4. **Students** work in their own GitHub Classroom assignment repositories.
+5. **Collect** student evidence through GitHub links, reflections, reports, and presentations.
+
+---
+
+## Learning Flow (Capstone Course)
 
 ```text
 Git & GitHub → Notion Portfolio → AI Literacy → AI Math Bridge
@@ -53,44 +121,16 @@ Git & GitHub → Notion Portfolio → AI Literacy → AI Math Bridge
 → Full-Stack Integration → Cursor Capstone → AI School Assistant
 ```
 
-Phase overviews: [09_Teacher_Planning/Phase_Overviews/](09_Teacher_Planning/Phase_Overviews/)
+**Final project:** AI School Assistant — document-grounded Q&A with sources.
 
 ---
 
-## Evidence and Mastery
+## Legacy Content
 
-| Concept | Document |
-|---|---|
-| **Learning evidence** | [Evidence System](04_Assessment/Evidence_System.md) |
-| **Class mission** | [02_Class_Missions/](02_Class_Missions/README.md) |
-| **Mastery** (explain · rebuild · debug · modify · apply) | [mastery-levels](02_Class_Missions/shared/mastery-levels.md) |
-| **AI usage note** | [AI Use Policy for Students](01_Student_Start/04_AI_Use_Policy_For_Students.md) |
-
-```text
-Course repo  →  what to do
-Your GitHub  →  learning evidence (code, reflection, revision record)
-Notion       →  public portfolio
-```
-
----
-
-## Final Project
-
-**AI School Assistant** — answers questions from school documents with sources.
-
-Spec: [07_Final_Project/Final_Project_Specification.md](07_Final_Project/Final_Project_Specification.md)
-
-Starter code: [06_Starter_Code/](06_Starter_Code/)
+Former top-level folders (`00_Course_Overview/`, `01_Student_Start/`, etc.) are preserved in [10_Archive/Legacy_Top_Level/](10_Archive/Legacy_Top_Level/) with migration notes.
 
 ---
 
 ## License
 
-This repository uses a dual-license structure.
-
-Educational materials, including course documents, lesson guides, class missions, templates, rubrics, posters, project instructions, and explanatory teaching text, are copyright © 2026 Wang Morgan. All Rights Reserved. These materials may not be copied, redistributed, adapted, translated, republished, sold, or incorporated into another course, book, curriculum, training product, website, or commercial product without written permission.
-
-Source code, including starter code, demo code, example applications, project scaffolds, frontend code, backend code, and scripts, is licensed under the MIT License.
-
-See `LICENSE.md` and `LICENSE_SUMMARY.md` for details.
-
+See [LICENSE.md](LICENSE.md) and [NOTICE.md](NOTICE.md).

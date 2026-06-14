@@ -17,6 +17,7 @@ This folder is for **school leaders, parents, and curriculum reviewers**. It exp
 | Document | Purpose |
 |---|---|
 | [CS_AI_Pathway_Overview.md](CS_AI_Pathway_Overview.md) | Vision, pathway map, grade progression, AP connections |
+| [CS_AI_Pathway_Overview_Clean.md](CS_AI_Pathway_Overview_Clean.md) | **Clean admin version** for school leaders and promotion (no draft notes) |
 | [G6_G12_Scope_and_Sequence.md](G6_G12_Scope_and_Sequence.md) | Phase-by-phase scope and sequence |
 | [Course_Overview_Collection.md](Course_Overview_Collection.md) | High-level course summaries |
 | [Student_Evidence_Framework.md](Student_Evidence_Framework.md) | What students produce and how evidence is collected |

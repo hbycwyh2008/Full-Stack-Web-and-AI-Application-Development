@@ -1,5 +1,17 @@
-# Starter Files — Markdown Portfolio Page
+# Starter Files — Markdown Portfolio
 
-Add starter code here before copying to GitHub Classroom template repo.
+Copy **`portfolio.md`** into your personal GitHub repository.
 
-> TODO: Copy sanitized starter files from `07_Starter_Code_Master/`.
+Suggested location:
+
+```text
+profile/portfolio.md
+```
+
+or
+
+```text
+portfolio.md
+```
+
+Edit the file in your repo — do not submit only the unchanged starter copy from this assignment.

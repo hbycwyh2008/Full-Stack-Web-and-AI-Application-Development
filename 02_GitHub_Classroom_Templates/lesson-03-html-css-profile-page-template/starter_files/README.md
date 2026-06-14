@@ -1,5 +1,13 @@
 # Starter Files — HTML & CSS Profile Page
 
-Add starter code here before copying to GitHub Classroom template repo.
+Copy these files into your personal GitHub repository:
 
-> TODO: Copy sanitized starter files from `07_Starter_Code_Master/`.
+```text
+projects/profile-page/
+├── index.html
+└── style.css
+```
+
+You may use a different folder name — tell your teacher where the files live.
+
+**Important:** The starter files are **not** a finished page. You must edit HTML content and write your own CSS rules.

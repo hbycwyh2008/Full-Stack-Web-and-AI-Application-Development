@@ -158,3 +158,15 @@ Notes:
 5. Add Classroom links to Student Hub — **pending**
 6. Give students access only to Student Hub + their assignment repos — **pending**
 7. Keep private master curriculum repository private — **ongoing**
+
+---
+
+## Student Hub Classroom Integration Status
+
+- Week 1 agenda added to Student Hub: **yes** (`Week_01_Agenda.md`)
+- GitHub Classroom setup checklist added: **yes** (`Teacher_GitHub_Classroom_Setup_Checklist.md`)
+- Student Hub README updated with Week 1 Start Here links: **yes**
+- Assignment links added: **not yet** — waiting for GitHub Classroom creation
+- Next manual step: create GitHub Classroom assignments and paste links into `Week_01_Agenda.md`
+
+Last Student Hub push: `Add Week 1 agenda and GitHub Classroom setup checklist`

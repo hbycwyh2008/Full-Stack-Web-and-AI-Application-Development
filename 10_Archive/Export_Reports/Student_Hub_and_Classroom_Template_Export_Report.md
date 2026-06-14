@@ -133,40 +133,52 @@ Notes:
 
 ---
 
-## Manual GitHub Classroom Steps
+## GitHub Classroom Change Notice
+
+GitHub Classroom is no longer available for new sign-ups, so this course will not rely on GitHub Classroom.
+
+Updated workflow:
+
+Student Hub → GitHub template repository → student-created assignment repository → manual repository link submission → teacher review.
+
+The existing template repositories remain useful. They should be used as normal GitHub template repositories, not GitHub Classroom templates.
+
+---
+
+## Manual Template Workflow Steps (replaces GitHub Classroom)
 
 1. Open each template repository on GitHub.
 2. Go to **Settings → General**.
 3. Confirm **Template repository** is enabled (already done for lesson-01, lesson-02, lesson-03).
-4. Open [GitHub Classroom](https://classroom.github.com/).
-5. Create a classroom for this course (or use an existing org classroom).
-6. Create **Assignment 1** using `lesson-01-github-readme-template`.
-7. Create **Assignment 2** using `lesson-02-markdown-portfolio-template`.
-8. Create **Assignment 3** using `lesson-03-html-css-profile-page-template`.
-9. Copy the GitHub Classroom assignment links.
-10. Add those links to the Student Hub weekly agenda (`Weekly_Agenda_Template.md` in `NB-CS-AI-Student-Hub`).
-11. Test the flow with a student/test account.
+4. Add template repository links to `Week_01_Agenda.md` in the Student Hub — **done**.
+5. Create a submission collection system (Google Form, Microsoft Form, Notion database, LMS, or spreadsheet).
+6. Test the flow: open Student Hub → Week 1 Agenda → template repo → **Use this template** → create test repo → commit → submit link.
+7. Give students access only to Student Hub + template repos + their own assignment repos.
+8. Keep private master curriculum repository private — **ongoing**.
 
 ---
 
-## Next Manual GitHub Steps (remaining)
+## Next Manual Steps (remaining)
 
 1. ~~Create and push `NB-CS-AI-Student-Hub`~~ — done
 2. ~~Create and push three template repos~~ — done
 3. ~~Enable template repository on lesson repos~~ — done
-4. Connect templates to GitHub Classroom assignments — **pending**
-5. Add Classroom links to Student Hub — **pending**
-6. Give students access only to Student Hub + their assignment repos — **pending**
-7. Keep private master curriculum repository private — **ongoing**
+4. ~~Add template links to Student Hub Week 1 agenda~~ — done
+5. Create submission form for repository links — **pending**
+6. Add submission form link to Student Hub — **pending**
+7. Test **Use this template** as a student — **pending**
+8. Keep private master curriculum repository private — **ongoing**
 
 ---
 
-## Student Hub Classroom Integration Status
+## Student Hub Template Integration Status
 
 - Week 1 agenda added to Student Hub: **yes** (`Week_01_Agenda.md`)
-- GitHub Classroom setup checklist added: **yes** (`Teacher_GitHub_Classroom_Setup_Checklist.md`)
+- Template workflow checklist added: **yes** (`Teacher_Template_Workflow_Checklist.md`)
+- Manual assignment submission guide added: **yes** (`Manual_Assignment_Submission_Guide.md`)
 - Student Hub README updated with Week 1 Start Here links: **yes**
-- Assignment links added: **not yet** — waiting for GitHub Classroom creation
-- Next manual step: create GitHub Classroom assignments and paste links into `Week_01_Agenda.md`
+- Template repository links in Week 1 agenda: **yes** (lesson-01, lesson-02, lesson-03)
+- GitHub Classroom workflow removed from Student Hub: **yes**
+- Next manual step: create submission form and paste link into Student Hub
 
-Last Student Hub push: `Add Week 1 agenda and GitHub Classroom setup checklist`
+Last Student Hub push: `Replace GitHub Classroom workflow with template repository workflow`

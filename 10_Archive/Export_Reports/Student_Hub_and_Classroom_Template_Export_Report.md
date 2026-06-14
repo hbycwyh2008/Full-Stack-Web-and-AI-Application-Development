@@ -182,3 +182,18 @@ The existing template repositories remain useful. They should be used as normal 
 - Next manual step: create submission form and paste link into Student Hub
 
 Last Student Hub push: `Replace GitHub Classroom workflow with template repository workflow`
+
+---
+
+## Current Next-Step Status
+
+The GitHub Classroom workflow has been replaced by the normal GitHub template repository workflow.
+
+Current pending steps:
+
+1. Confirm template repository access for students.
+2. Recommended: make the three template repositories public because they contain only student starter files.
+3. Create a Week 1 submission form for repository links.
+4. Paste the submission form link into `NB-CS-AI-Student-Hub/Week_01_Agenda.md`.
+5. Run the student workflow test:
+   Student Hub → Week 1 Agenda → template repo → Use this template → create student repo → commit → submit repo link.

@@ -2,7 +2,7 @@
 
 Copyright (c) 2026 Wang Morgan
 
-This repository uses a **dual-license** structure. Educational materials and source code are licensed differently.
+This **private master curriculum repository** uses a **dual-license** structure. Educational materials and source code are licensed differently.
 
 ---
 
@@ -21,22 +21,24 @@ The following are **All Rights Reserved** unless otherwise stated:
 - AI use policy and related guidance
 - Portfolio guides
 - Project instructions and specifications
+- Teacher notes, prompts, and curriculum planning documents
 - Any explanatory teaching text
 - Any materials that may later be used in a book, paid course, curriculum, or other published educational product
 
 **Copyright holder:** Wang Morgan  
 **Copyright year:** 2026
 
-Others may **view** these materials in this public repository for personal reference, but **no permission is granted** to:
+**Authorized access to this repository does not grant permission** to reuse, redistribute, adapt, translate, republish, or commercialize the educational materials.
+
+Without **written permission from Morgan Wang**, you may not:
 
 - copy or redistribute the educational materials
 - adapt, translate, or republish them
 - sell or use them commercially
 - incorporate them into another course, book, curriculum, training product, website, or commercial product
+- transfer the full curriculum package as school-owned curriculum
 
-**Written permission from the copyright holder is required** for any commercial use, curriculum reuse, publication, translation, adaptation, or incorporation into another course or book.
-
-Viewing this public repository does **not** grant a license to reuse the educational materials beyond personal reading and learning while accessing the repository.
+Access for authorized collaborators (for example, teachers approved by Morgan Wang) is for **internal curriculum use only**, not for republishing or transferring ownership of the full package.
 
 ---
 
@@ -110,7 +112,13 @@ For curriculum design attribution, see [NOTICE.md](NOTICE.md).
 
 ---
 
-## 4. School and Instructional Use
+## 4. Exports and Instructional Use
+
+**Student-facing materials** may be exported into a separate **Student Hub** repository (`01_Student_Hub_Export/`). That export does not grant permission to republish or transfer the full master curriculum.
+
+**GitHub Classroom assignment templates** may be exported selectively from `02_GitHub_Classroom_Templates/`. Each template should contain only what students need for that assignment.
+
+The **full private master curriculum repository** should not be shared directly with students or transferred as a complete school-owned curriculum package without **written permission from Morgan Wang**.
 
 **Chongqing Norin Bashu School for Children of Foreign Personnel** may use the **admin-facing curriculum overview** (`00_Admin_Curriculum_Package/`) and **student-facing materials** exported from `01_Student_Hub_Export/` for **internal instructional use** when approved by Morgan Wang.
 

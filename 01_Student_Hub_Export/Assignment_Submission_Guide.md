@@ -2,13 +2,11 @@
 
 This course grades **learning evidence**, not only whether code runs once.
 
-Full system: [Evidence System](../04_Assessment/Evidence_System.md)
-
 ---
 
 ## Required Evidence for Every Project
 
-Every phase project and the final capstone must include:
+Every major project must include:
 
 | Evidence | What it is |
 |---|---|
@@ -21,13 +19,15 @@ Every phase project and the final capstone must include:
 
 Optional: certificate screenshot, Notion project page, running-app screenshot.
 
+Use [Reflection_Template.md](Reflection_Template.md) for reflections. See [Portfolio_Requirements.md](Portfolio_Requirements.md) for folder structure.
+
 ---
 
 ## Where Evidence Lives
 
 ```text
 Your GitHub repo     →  code, commits, reflections, certificates
-Notion portfolio     →  public showcase of best projects
+Notion portfolio     →  public showcase of best projects (if used)
 Class submission     →  links and screenshots per teacher’s system
 Oral explanation     →  in class when your teacher asks
 ```
@@ -36,14 +36,24 @@ Oral explanation     →  in class when your teacher asks
 
 ## What to Submit in Class
 
-Each **class mission** lists **Exit Evidence** at the end. Typical submission:
+Each assignment lists **exit evidence** at the end. Typical submission:
 
 1. Link to your GitHub repo (or specific folder/commit)
-2. One screenshot (commits tab, running app, certificate)
+2. One screenshot (commits tab, running app, or certificate)
 3. One sentence: what you learned today
 4. **AI usage note** if AI helped during the mission
 
-Checklist: [exit-evidence-checklist](../02_Class_Missions/shared/exit-evidence-checklist.md)
+---
+
+## Exit Evidence Checklist
+
+Before you submit, confirm:
+
+- [ ] Code is in **my** GitHub repo (not only on my laptop)
+- [ ] README or report explains **my** work
+- [ ] Reflection is in **my own words**
+- [ ] Commit history shows progress (not one giant upload)
+- [ ] AI use is disclosed honestly (or “No AI used”)
 
 ---
 
@@ -63,10 +73,12 @@ Checklist: [exit-evidence-checklist](../02_Class_Missions/shared/exit-evidence-c
 Before you submit, ask:
 
 - Can I **explain** this without reading AI text?
-- Could I **rebuild** the core pattern in **Independent Rebuild**?
+- Could I **rebuild** the core pattern on my own?
 - Is my **revision record** visible in commit history?
 - Did I write an honest **AI usage note**?
 
-Submit through your teacher’s system (LMS, form, or class folder).
+Submit through your teacher’s system (LMS, form, GitHub Classroom, or class folder).
 
-Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)
+---
+
+Back to [README.md](README.md)

@@ -2,11 +2,6 @@
 
 AI is allowed as a **learning tool**, not a **shortcut**.
 
-![AI Use Policy](../08_Public_Documents/posters/ai-use-policy.png)
-
-Full policy: [AI_Usage_Policy.md](../04_Assessment/AI_Usage_Policy.md)  
-During class: [ai-use-during-practice](../02_Class_Missions/shared/ai-use-during-practice.md)
-
 ---
 
 ## You May Use AI To
@@ -23,7 +18,7 @@ During class: [ai-use-during-practice](../02_Class_Missions/shared/ai-use-during
 
 - Complete entire tasks or projects for you
 - Submit work you cannot **explain** orally
-- Skip **Independent Rebuild** in class
+- Skip independent rebuild practice in class
 - Copy code without reading, testing, or revising
 - Hide AI help — you must disclose it
 
@@ -36,7 +31,7 @@ During class: [ai-use-during-practice](../02_Class_Missions/shared/ai-use-during
 3. **Debug** when something breaks
 4. Write an **AI usage note** when AI helped
 
-Short form:
+Short form (add to your reflection or assignment):
 
 ```text
 AI Help Used: Yes / No
@@ -45,7 +40,7 @@ How it helped me:
 What I did on my own:
 ```
 
-Full template: [AI_Usage_Reflection_Template.md](../03_Templates/AI_Usage_Reflection_Template.md)
+Longer reflections: use [Reflection_Template.md](Reflection_Template.md) and add an **AI Use Disclosure** section.
 
 ---
 
@@ -59,6 +54,8 @@ If you cannot explain your project without reading AI text, the evidence is inco
 
 ## In Class
 
-During **Guided Practice** and **Independent Rebuild**, follow your teacher’s rules. When unsure, ask before using AI.
+During guided practice and independent rebuild, follow your teacher’s rules. When unsure, ask before using AI.
 
-Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)
+---
+
+Back to [README.md](README.md)

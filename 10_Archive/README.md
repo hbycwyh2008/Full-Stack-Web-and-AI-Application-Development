@@ -30,7 +30,7 @@ Former repository structure preserved in [Legacy_Top_Level/](Legacy_Top_Level/):
 | `06_Starter_Code/` | `07_Starter_Code_Master/_legacy_starter_code/` |
 | `07_Final_Project/` | `09_Project_Bank/Final_Projects/_legacy_final_project/` |
 | `09_Teacher_Planning/` | `04_Teacher_Only/_legacy_teacher_planning/` |
-| `STUDENT_START_HERE.md` | `01_Student_Hub_Export/_legacy_STUDENT_START_HERE.md` |
+| `STUDENT_START_HERE.md` | `10_Archive/Legacy_Top_Level/STUDENT_START_HERE.md` |
 | `TEACHER_START_HERE.md` | `04_Teacher_Only/Teacher_Onboarding_Guide.md` |
 
 ---

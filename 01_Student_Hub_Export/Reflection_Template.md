@@ -26,3 +26,12 @@ _(Concepts, tools, or skills — in your own words.)_
 ## Portfolio Updates
 
 _(What did you add to GitHub or Notion?)_
+
+## AI Use Disclosure
+
+```text
+AI Help Used: Yes / No
+What I asked AI:
+How it helped me:
+What I changed on my own:
+```

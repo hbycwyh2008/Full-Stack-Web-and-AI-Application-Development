@@ -1,6 +1,6 @@
 # Set Up Your GitHub Repo
 
-Your personal GitHub repository is your **learning evidence** for this course. It is **separate** from this course repository.
+Your personal GitHub repository is your **learning evidence** for this course. It is **separate** from this Student Hub and from your teacher’s private curriculum materials.
 
 ---
 
@@ -24,13 +24,13 @@ or:
 yourname-full-stack-ai-portfolio
 ```
 
-Create a **new repository** on GitHub. Do not fork the teacher’s course repo for your portfolio.
+Create a **new repository** on GitHub. Do not fork the teacher’s private curriculum repo for your portfolio.
 
 ---
 
-## Step 3: Minimum Phase 0 Structure
+## Step 3: Minimum Starting Structure
 
-By the end of Phase 0, your repo needs at least:
+By the end of your first Git & GitHub unit, your repo should include at least:
 
 ```text
 student-portfolio/
@@ -43,26 +43,22 @@ student-portfolio/
     └── weekly-reflection-01.md
 ```
 
-You will add more folders (projects, certificates, code) as the course progresses.
+You will add more folders (`projects/`, `ai-literacy/`, code, etc.) as the course progresses. See [Portfolio_Requirements.md](Portfolio_Requirements.md).
 
 ---
 
 ## Step 4: Use Templates
 
-Copy from [03_Templates/](../03_Templates/):
+Copy and adapt:
 
-- `student-root-README-template.md` → your root `README.md`
-- `weekly-reflection-template.md` → your reflections
-
-Write in **your own words**.
+- [Reflection_Template.md](Reflection_Template.md) → save in your `reflections/` folder
+- Write your root `README.md` in **your own words** (introduce yourself, list skills, link projects)
 
 ---
 
-## Step 5: Follow Phase 0 Class Missions
+## Step 5: Follow Your Assignments
 
-Open [Phase 01 Git class missions](../02_Class_Missions/01_Web_Tools/Phase_01_Git/README.md) during each Git & GitHub class.
-
-Full guide: [Student GitHub Repository Guide](../03_Templates/Student_GitHub_Repository_Guide.md)
+During Git & GitHub classes, your teacher will assign work through **GitHub Classroom** or share the in-class mission for that day. Commit your work to **your** repo after each class.
 
 ---
 
@@ -73,12 +69,12 @@ Full guide: [Student GitHub Repository Guide](../03_Templates/Student_GitHub_Rep
 
 **Commit messages should be meaningful** — they are part of your **revision record**.
 
-Example: `Add profile/about-me.md` not `update` or `final`.
+Example: `Add profile/about-me.md` — not `update` or `final`.
 
 ---
 
-## Assessment
+## Next Steps
 
-Phase 0 is graded with: [Student_GitHub_Assessment.md](../04_Assessment/Student_GitHub_Assessment.md)
-
-Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)
+- [Portfolio_Requirements.md](Portfolio_Requirements.md)
+- [Assignment_Submission_Guide.md](Assignment_Submission_Guide.md)
+- [README.md](README.md)

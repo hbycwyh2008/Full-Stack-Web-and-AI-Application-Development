@@ -29,7 +29,7 @@ This repository is organized **student-first**. Students begin at [STUDENT_START
 
 1. Share [STUDENT_START_HERE.md](STUDENT_START_HERE.md) with students.
 2. Teach from [Daily Lesson Plans — Phase 0](09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/README.md) (80-minute sessions).
-3. Students follow [Class Missions — Phase 01 Git](02_Class_Missions/01_Web_Tools/Phase_01_Git/README.md) in class.
+3. Students follow [Class Missions — 01 GitHub Notion](02_Class_Missions/01-github-notion/README.md) in class.
 4. Grade Phase 0 with [Student_GitHub_Assessment.md](04_Assessment/Student_GitHub_Assessment.md).
 5. Supplement: [Git GitHub Unit](05_Resources/Git_GitHub_Unit/README.md) — handouts, rubrics, parent overview.
 

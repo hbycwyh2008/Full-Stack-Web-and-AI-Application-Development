@@ -2,7 +2,7 @@
 
 **Your goal:** Create your personal GitHub repository and use it as **long-term learning evidence** for this course.
 
-**Open during class:** [Class Missions — Phase 0](../../02_Class_Missions/Phase_0_Git_GitHub/README.md) (one mission per session)
+**Open during class:** [Class Missions — 01 GitHub Notion](../../02_Class_Missions/01-github-notion/README.md) (one mission per session)
 
 **Detailed setup:** [Student GitHub Repository Guide](../../03_Templates/Student_GitHub_Repository_Guide.md)
 

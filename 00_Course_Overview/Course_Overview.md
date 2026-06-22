@@ -135,7 +135,7 @@ Grade 8+, strong math and language background, some programming experience.
 
 ## Expected Student Outcomes
 
-- `student-portfolio` with `ai-literacy/` and `ai-math-bridge/`
-- Notion + Figma + GitHub evidence chain
+- `[studentName]-Full-Stack-Web-and-AI-Application` with numbered unit evidence
+- GitHub + Notion evidence chain, with optional Figma design evidence
 - Working full-stack demo toward the AI School Assistant capstone
 - Ability to explain architecture, data flow, math/AI connections, and responsible AI use

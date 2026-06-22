@@ -1,50 +1,56 @@
 # Learning Pathway Map
 
-The course is organized into **twelve phases (0–11)**. Students build **workflow and literacy first**, then **AI Math Bridge**, then **design and engineering**, then the **AI School Assistant** capstone.
+The course is organized into **numbered units (00–15)** plus optional Figma. Students build workflow and portfolio habits first, then frontend foundations, backend and AI integration, data / ML workflow, Cursor-supported capstone work, and final showcase.
 
 ```text
-Phase 0:  Git & GitHub
-Phase 1:  Notion Portfolio
-Phase 2:  AI Literacy Foundation
-Phase 3:  AI Math Bridge: Linear Algebra for AI
-Phase 4:  Figma UI Design
-Phase 5:  TypeScript Basics
-Phase 6:  Next.js Frontend
-Phase 7:  FastAPI Backend (lightweight)
-Phase 8:  AI API + RAG Concepts
-Phase 9:  Full-Stack Integration
-Phase 10: Cursor Capstone
-Phase 11: Final Showcase
+00: Course overview
+01: GitHub and Notion
+02: AI Literacy
+03: HTML/CSS Basics
+04: JavaScript Basics
+05: React Basics
+06: Next.js Frontend
+07: Python Foundations
+08: FastAPI Backend
+09: FastAPI AI Backend
+10: Next.js + FastAPI Integration
+11: Kaggle Data Processing
+12: Machine Learning Workflow
+13: Cursor Capstone
+14: Final AI Web App Projects
+15: Final Portfolio Showcase
+optional: Figma
 ```
 
 ### Teaching Logic
 
 ```text
-First:   Organize, document, and build projects (Git, Notion, AI Literacy).
-Then:    Math intuition for AI features (AI Math Bridge).
-Finally: Design + code + integrate + Cursor + capstone.
+First:   Organize evidence and publish a portfolio (GitHub + Notion).
+Then:    Build frontend foundations (HTML/CSS, JavaScript, React, Next.js).
+Then:    Add backend, AI backend, integration, data, and ML workflow.
+Finally: Use Cursor for capstone building and final portfolio showcase.
 ```
 
-**AI Math Bridge** can be **reused** before Computer Vision, ML, or advanced AI app features.
+Optional Figma can be inserted before Next.js when students need more UI planning time.
 
 ---
 
-## Phase 0: Git & GitHub
+## 00 Course Overview
 
-- **Focus:** Version control and **personal portfolio repository** (separate from this course repo).
-- **Student Output:** `student-portfolio` (or `student-name-full-stack-ai-portfolio`) with full folder scaffold, README, commits, branch `update-profile` + merged PR.
-- **Resources:** `03_Templates/Student_GitHub_Repository_Guide.md`; `04_Assessment/Student_GitHub_Assessment.md`; Markdown Crash Course, GitHub Skills, Learn Git Branching.
-
----
-
-## Phase 1: Notion Portfolio
-
-- **Focus:** Public showcase layer; link GitHub from Phase 0.
-- **Student Output:** Published Notion portfolio (Home, Projects, Skills, AI Literacy, Reflections, GitHub Links).
+- **Focus:** Understand the course flow, evidence system, and classroom routines.
+- **Student Output:** Knows where missions, templates, and evidence rules live.
 
 ---
 
-## Phase 2: AI Literacy Foundation
+## 01 GitHub and Notion
+
+- **Focus:** GitHub evidence repository, Git/GitHub basics, Notion public portfolio, certification sprint.
+- **Student Output:** `[studentName]-Full-Stack-Web-and-AI-Application` repo, meaningful commits, published Notion portfolio.
+- **Class Missions:** `02_Class_Missions/01-github-notion/`
+
+---
+
+## 02 AI Literacy
 
 - **Focus:** Unified AI literacy tied to the AI School Assistant.
 - **Student Output:** `ai-literacy/` in GitHub; Responsible AI Checklist; study guides.
@@ -52,76 +58,110 @@ Finally: Design + code + integrate + Cursor + capstone.
 
 ---
 
-## Phase 3: AI Math Bridge — Linear Algebra for AI
+## 03 HTML/CSS Basics
 
-- **Focus:** Short visual bridge — vectors, matrices, dot product, X/y, images as matrices, NumPy — **not** a full LA course.
-- **Student Output:** `ai-math-bridge/` folder with labs, notes, reflection.
-- **Resources:** `05_Resources/AI_Math_Bridge/README.md` (lesson guides); `AI_Math_Bridge_Overview.md`; 3Blue1Brown (selected); DeepLearning.AI LA Week 3–4 (selected).
-- **Reuse:** Before CV, ML, or embedding-heavy AI features.
-
----
-
-## Phase 4: Figma UI Design
-
-- **Focus:** Mockups before Next.js coding.
-- **Student Output:** Figma link + `design/figma-link.md`.
-- **Resources:** Scrimba HTML/CSS (selected lessons) for Skill Warm-up — see `Video_Resource_List.md` → Scrimba Resources.
+- **Focus:** HTML structure and CSS styling.
+- **Student Output:** Digital business card with `index.html`, `style.css`, and README.
+- **Class Missions:** `02_Class_Missions/03-html-css-basics/`
 
 ---
 
-## Phase 5: TypeScript Basics
+## 04 JavaScript Basics
 
-- **Focus:** Types after workflow + math bridge; before/during frontend hardening.
-- **Student Output:** `types.ts`, `api-types.ts`, typed components.
-- **Resources:** Scrimba JavaScript + Modern JavaScript (selected lessons) before TypeScript — see `Video_Resource_List.md` → Scrimba Resources.
+- **Focus:** Add interaction and logic to a page.
+- **Student Output:** Interactive profile page with `script.js`.
+- **Class Missions:** `02_Class_Missions/04-javascript-basics/`
 
 ---
 
-## Phase 6: Next.js Frontend
+## 05 React Basics
 
-- **Focus:** User interface from Figma mockups.
+- **Focus:** Rebuild portfolio sections as reusable components.
+- **Student Output:** React component portfolio.
+- **Class Missions:** `02_Class_Missions/05-react-basics/`
+
+---
+
+## 06 Next.js Frontend
+
+- **Focus:** Turn React work into a Next.js frontend.
 - **Student Output:** Runnable Next.js project + README.
-- **Resources:** Scrimba Learn React (selected lessons) + classroom component rebuilds — see `Video_Resource_List.md` → Scrimba Resources.
 
 ---
 
-## Phase 7: FastAPI Backend (Lightweight)
+## 07 Python Foundations
+
+- **Focus:** Python basics needed for backend and AI work.
+- **Student Output:** Python notes, scripts, functions, and simple data practice.
+
+---
+
+## 08 FastAPI Backend
 
 - **Focus:** Routes, Pydantic, `/docs` — no required production database.
 - **Student Output:** Lightweight API service.
 
 ---
 
-## Phase 8: AI API + RAG Concepts
+## 09 FastAPI AI Backend
 
-- **Focus:** LLM + retrieval bridge to final project.
-- **Student Output:** Data-flow diagram, sample prompt, updated Responsible AI Checklist.
+- **Focus:** Connect FastAPI routes to AI API behavior.
+- **Student Output:** AI backend route, prompt notes, updated Responsible AI Checklist.
 
 ---
 
-## Phase 9: Full-Stack Integration
+## 10 Next.js + FastAPI Integration
 
-- **Focus:** Next.js + TypeScript ↔ FastAPI.
+- **Focus:** Next.js frontend ↔ FastAPI backend.
 - **Student Output:** End-to-end demo with loading/error states.
 
 ---
 
-## Phase 10: Cursor Capstone
+## 11 Kaggle Data Processing
+
+- **Focus:** Dataset use, cleaning, summaries, and data evidence.
+- **Student Output:** Notebook or script with dataset processing evidence.
+
+---
+
+## 12 Machine Learning Workflow
+
+- **Focus:** Problem, data, train/test split, baseline model, evaluation, reflection.
+- **Student Output:** ML workflow evidence, not advanced theory proofs.
+
+---
+
+## 13 Cursor Capstone
 
 - **Focus:** Cursor **after** stack understanding.
 - **Student Output:** AI-assisted feature + reflection.
 
 ---
 
-## Phase 11: Final Showcase
+## 14 Final AI Web App Projects
+
+- **Focus:** Build final AI web apps with frontend, backend, AI, and data pieces.
+- **Student Output:** Working final project with documentation and evidence.
+
+---
+
+## 15 Final Portfolio Showcase
 
 - **Focus:** AI School Assistant demo and portfolio submission.
 - **Student Output:** Live demo, complete documentation, checklist sign-off.
 
 ---
 
-## Course Philosophy (Math)
+## Optional Figma
 
-> Students should not learn math as isolated abstract content. They should learn math when it helps them understand AI systems, data, images, and models.
+- **Focus:** UI planning and mockups before coding.
+- **Student Output:** Figma link and design reflection.
+- **Class Missions:** `02_Class_Missions/optional-figma/`
 
-> Linear algebra is introduced as an **AI Math Bridge**, not as a full traditional math course.
+---
+
+## Course Philosophy
+
+> Students should not learn tools as isolated content. Each tool should produce visible evidence that connects to the final AI web app and portfolio.
+
+> Data and machine learning are introduced through practical workflow: problem, data, baseline, evaluation, and reflection.

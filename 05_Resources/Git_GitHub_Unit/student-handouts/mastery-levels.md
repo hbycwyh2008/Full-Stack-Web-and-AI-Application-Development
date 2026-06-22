@@ -2,9 +2,9 @@
 
 Use these levels to understand **your** progress. The goal is not “finished the video.” The goal is **what you can do without copying**.
 
-![Mastery Level poster](../../08_Public_Documents/posters/mastery-level.png)
+![Mastery Level poster](../../../08_Public_Documents/posters/mastery-level.png)
 
-*Course poster: [mastery-level.png](../../08_Public_Documents/posters/mastery-level.png)*
+*Course poster: [mastery-level.png](../../../08_Public_Documents/posters/mastery-level.png)*
 
 ---
 

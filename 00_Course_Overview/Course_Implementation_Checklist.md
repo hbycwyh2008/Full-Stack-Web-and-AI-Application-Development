@@ -37,25 +37,32 @@
 
 ---
 
-## Phase 0–11 Phase Overviews
+## Numbered Class Mission Folders
 
-- [ ] [Phase_0_Git_GitHub.md](../09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md)
-- [ ] [Phase_1_Notion_Portfolio.md](../09_Teacher_Planning/Phase_Overviews/Phase_1_Notion_Portfolio.md)
-- [ ] [Phase_2_AI_Literacy_Foundation.md](../09_Teacher_Planning/Phase_Overviews/Phase_2_AI_Literacy_Foundation.md)
-- [ ] [Phase_3_AI_Math_Bridge_Linear_Algebra.md](../09_Teacher_Planning/Phase_Overviews/Phase_3_AI_Math_Bridge_Linear_Algebra.md)
-- [ ] [Phase_4_Figma_UI_Design.md](../09_Teacher_Planning/Phase_Overviews/Phase_4_Figma_UI_Design.md)
-- [ ] [Phase_5_TypeScript_Basics.md](../09_Teacher_Planning/Phase_Overviews/Phase_5_TypeScript_Basics.md)
-- [ ] [Phase_6_NextJS_Frontend.md](../09_Teacher_Planning/Phase_Overviews/Phase_6_NextJS_Frontend.md)
-- [ ] [Phase_7_FastAPI_Backend.md](../09_Teacher_Planning/Phase_Overviews/Phase_7_FastAPI_Backend.md)
-- [ ] [Phase_8_AI_API_RAG_Concepts.md](../09_Teacher_Planning/Phase_Overviews/Phase_8_AI_API_RAG_Concepts.md)
-- [ ] [Phase_9_Full_Stack_Integration.md](../09_Teacher_Planning/Phase_Overviews/Phase_9_Full_Stack_Integration.md)
-- [ ] [Phase_10_Cursor_Capstone.md](../09_Teacher_Planning/Phase_Overviews/Phase_10_Cursor_Capstone.md)
-- [ ] [Phase_11_Final_Showcase.md](../09_Teacher_Planning/Phase_Overviews/Phase_11_Final_Showcase.md)
+- [ ] [00-course-overview](../02_Class_Missions/00-course-overview/README.md)
+- [ ] [01-github-notion](../02_Class_Missions/01-github-notion/README.md)
+- [ ] [02-ai-literacy](../02_Class_Missions/02-ai-literacy/README.md)
+- [ ] [03-html-css-basics](../02_Class_Missions/03-html-css-basics/README.md)
+- [ ] [04-javascript-basics](../02_Class_Missions/04-javascript-basics/README.md)
+- [ ] [05-react-basics](../02_Class_Missions/05-react-basics/README.md)
+- [ ] [06-nextjs-frontend](../02_Class_Missions/06-nextjs-frontend/README.md)
+- [ ] [07-python-foundations](../02_Class_Missions/07-python-foundations/README.md)
+- [ ] [08-fastapi-backend](../02_Class_Missions/08-fastapi-backend/README.md)
+- [ ] [09-fastapi-ai-backend](../02_Class_Missions/09-fastapi-ai-backend/README.md)
+- [ ] [10-nextjs-fastapi-integration](../02_Class_Missions/10-nextjs-fastapi-integration/README.md)
+- [ ] [11-kaggle-data-processing](../02_Class_Missions/11-kaggle-data-processing/README.md)
+- [ ] [12-machine-learning-workflow](../02_Class_Missions/12-machine-learning-workflow/README.md)
+- [ ] [13-cursor-capstone](../02_Class_Missions/13-cursor-capstone/README.md)
+- [ ] [14-final-ai-web-app-projects](../02_Class_Missions/14-final-ai-web-app-projects/README.md)
+- [ ] [15-final-portfolio-showcase](../02_Class_Missions/15-final-portfolio-showcase/README.md)
+- [ ] [optional-figma](../02_Class_Missions/optional-figma/README.md)
+
+Existing teacher phase overview files in [09_Teacher_Planning/Phase_Overviews/](../09_Teacher_Planning/Phase_Overviews/) remain as teacher references until they are renamed.
 
 **Class delivery (optional layer):**
 
 - [ ] [09_Teacher_Planning/Daily_Lesson_Plans/](../09_Teacher_Planning/Daily_Lesson_Plans/README.md) — teacher session scripts
-- [ ] [02_Class_Missions/](../02_Class_Missions/README.md) — student in-class missions
+- [ ] [02_Class_Missions/](../02_Class_Missions/README.md) — numbered student in-class missions
 
 ---
 
@@ -117,7 +124,7 @@
 
 - [ ] [Teacher_Demo_Walkthrough.md](../09_Teacher_Planning/Phase_Overviews/Teacher_Demo_Walkthrough.md) reviewed
 - [ ] [teacher-demo-ai-school-assistant](../06_Starter_Code/teacher-demo-ai-school-assistant/) runs locally
-- [ ] Demo understood before Phase 10 (Cursor)
+- [ ] Demo understood before `13-cursor-capstone`
 
 ---
 
@@ -143,7 +150,7 @@
 ## Student Submission Workflow
 
 - [ ] Students have GitHub accounts
-- [ ] Students have Notion access (Phase 1+)
+- [ ] Students have Notion access for `01-github-notion`
 - [ ] Personal access token guide ready (GitHub auth)
 - [ ] Submission form or LMS ready per phase
 - [ ] Exit evidence checklist: [exit-evidence-checklist.md](../02_Class_Missions/shared/exit-evidence-checklist.md)
@@ -155,7 +162,7 @@
 - [ ] GitHub — all students
 - [ ] Notion — all students
 - [ ] Python + Node.js — when coding phases begin
-- [ ] Cursor — Phase 10+ only (after stack understanding)
+- [ ] Cursor — `13-cursor-capstone` only (after stack understanding)
 - [ ] NumPy/Jupyter — Phase 3 labs
 
 ---
@@ -164,7 +171,7 @@
 
 - [ ] STUDENT_START_HERE.md distributed
 - [ ] Evidence_System.md understood
-- [ ] Phase 0–2 materials ready for Week 1
+- [ ] `00-course-overview`, `01-github-notion`, and `02-ai-literacy` materials ready for Week 1
 - [ ] Assessment and policies ready
 - [ ] Teacher demo runs
 - [ ] No API keys or secrets in any repo

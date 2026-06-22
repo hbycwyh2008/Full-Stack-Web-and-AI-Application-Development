@@ -21,7 +21,7 @@ Mission guides are **not** a replacement for daily lesson plans. They are the do
 3. **Mission Task (55–75 min):** Students follow **Guided Practice / Mission Task** — you circulate.
 4. **Submission (85–90 min):** Students submit **What You Must Submit** from the mission file.
 
-Student-facing flow and timing: `../shared/classroom-flow.md` (**90 minutes**, seven blocks). Each mission has **one Required Resource** — students do not pick from playlists.
+Student-facing flow and timing: `../../shared/classroom-flow.md` (**90 minutes**, seven blocks). Each mission has **one Required Resource** — students do not pick from playlists.
 
 ---
 
@@ -39,10 +39,10 @@ Teacher strategy lives in `09_Teacher_Planning/Daily_Lesson_Plans/teacher-notes/
 - **Portfolio structure:** `03_Templates/Student_GitHub_Repository_Guide.md`
 - **Extended rubrics:** `05_Resources/Git_GitHub_Unit/rubrics/`
 
-Phase 0 lessons use repo name **`cs-learning-log`** in mission guides. Align with `student-portfolio` path if you migrate later — tell students explicitly.
+GitHub lessons should use repo name **`[studentName]-Full-Stack-Web-and-AI-Application`** in mission guides. Tell students explicitly how to replace `studentName`.
 
 ---
 
-## Adding Future Phases
+## Adding Future Numbered Units
 
-Copy mission template structure from any Phase 0 lesson into `Phase_X_Name/lesson-NN-....md`. Keep student voice.
+Copy mission template structure from an existing numbered folder into `NN-topic-name/lesson-NN-....md`. Keep student voice and do not create duplicate numbered folders.

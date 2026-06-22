@@ -38,24 +38,29 @@ Full details: [classroom-flow](../02_Class_Missions/shared/classroom-flow.md)
 
 ---
 
-## Course Phases
+## Numbered Course Path
 
 ```text
-Phase 0   Git & GitHub
-Phase 1   Notion Portfolio
-Phase 2   AI Literacy
-Phase 3   AI Math Bridge
-Phase 4   Figma UI Design
-Phase 5   TypeScript Basics
-Phase 6   Next.js Frontend
-Phase 7   FastAPI Backend
-Phase 8   AI API + RAG Concepts
-Phase 9   Full-Stack Integration
-Phase 10  Cursor Capstone
-Phase 11  Final Showcase — AI School Assistant
+00  Course overview
+01  GitHub and Notion
+02  AI literacy
+03  HTML/CSS basics
+04  JavaScript basics
+05  React basics
+06  Next.js frontend
+07  Python foundations
+08  FastAPI backend
+09  FastAPI AI backend
+10  Next.js + FastAPI integration
+11  Kaggle data processing
+12  Machine learning workflow
+13  Cursor capstone
+14  Final AI web app projects
+15  Final portfolio showcase
+optional  Figma
 ```
 
-Phase requirements: [Phase Overviews](../09_Teacher_Planning/Phase_Overviews/) (your teacher will assign the file for each phase).
+Class missions: [02_Class_Missions](../02_Class_Missions/README.md) (your teacher will assign the folder for each numbered unit).
 
 Study resources: [05_Resources/](../05_Resources/)
 
@@ -78,7 +83,7 @@ Levels 0–5: [mastery-levels](../02_Class_Missions/shared/mastery-levels.md)
 ## Next Steps
 
 1. [Set Up Your GitHub Repo](01_Set_Up_Your_GitHub_Repo.md)
-2. [Set Up Your Notion Portfolio](02_Set_Up_Your_Notion_Portfolio.md) (after Phase 0)
-3. Open [Phase 01 Git — Lesson 1](../02_Class_Missions/01_Web_Tools/Phase_01_Git/lesson-01-course-workflow-and-first-repo.md)
+2. [Set Up Your Notion Portfolio](02_Set_Up_Your_Notion_Portfolio.md) (during 01 GitHub Notion)
+3. Open [01 GitHub Notion — Lesson 1](../02_Class_Missions/01-github-notion/lesson-01-course-workflow-and-first-repo.md)
 
 Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)

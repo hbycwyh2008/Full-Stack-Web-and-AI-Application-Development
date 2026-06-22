@@ -2,9 +2,9 @@
 
 Every daily lesson in this course follows the **course poster** model. This is not a lecture-only course.
 
-![Our Classroom Flow](../../08_Public_Documents/posters/classroom-flow.png)
+![Our Classroom Flow](../../../08_Public_Documents/posters/classroom-flow.png)
 
-*Poster: [08_Public_Documents/posters/classroom-flow.png](../../08_Public_Documents/posters/classroom-flow.png)*
+*Poster: [08_Public_Documents/posters/classroom-flow.png](../../../08_Public_Documents/posters/classroom-flow.png)*
 
 > The poster shows the **seven-step cycle**. Daily lesson plans use **eight timed blocks** (80 minutes) — same pedagogy, classroom timing detail below.
 

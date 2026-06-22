@@ -5,7 +5,7 @@
 | **Time** | 90 minutes |
 | **Resource** | [Name](https://…) — [section] |
 | **Evidence** | `folder/` |
-| **Independent rebuild** | `folder/independent-rebuild/lesson-0X/` · [INDEPENDENT_REBUILD.md](../05_Vibe_Coding/INDEPENDENT_REBUILD.md) *(if this track uses rebuild)* |
+| **Independent rebuild** | `folder/independent-rebuild/lesson-0X/` · [INDEPENDENT_REBUILD.md](../13-cursor-capstone/vibe-coding/INDEPENDENT_REBUILD.md) *(if this track uses rebuild)* |
 
 > [!TIP]
 > Mission card → **45–70 Mission Task** → **70–80 Independent rebuild** → submit.

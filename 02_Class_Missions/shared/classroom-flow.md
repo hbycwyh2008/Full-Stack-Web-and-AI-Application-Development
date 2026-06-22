@@ -50,7 +50,7 @@ This is where you **do the work** — create files, commits, folders, or mastery
 
 Running through steps once with help is **not mastery**. You must show you can **explain** and **repeat** the pattern.
 
-See `../shared/ai-use-during-practice.md` during independent parts.
+See `../../shared/ai-use-during-practice.md` during independent parts.
 
 ---
 

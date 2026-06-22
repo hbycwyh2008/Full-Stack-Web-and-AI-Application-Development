@@ -12,28 +12,24 @@ If you do not have one, sign up at [github.com](https://github.com).
 
 ## Step 2: Create Your Repository
 
-**Recommended names:**
+**Required name pattern:**
 
 ```text
-student-portfolio
+[studentName]-Full-Stack-Web-and-AI-Application
 ```
 
-or:
-
-```text
-yourname-full-stack-ai-portfolio
-```
+Replace `studentName` with your own name or school username.
 
 Create a **new repository** on GitHub. Do not fork the teacher’s course repo for your portfolio.
 
 ---
 
-## Step 3: Minimum Phase 0 Structure
+## Step 3: Minimum 01 GitHub Notion Structure
 
-By the end of Phase 0, your repo needs at least:
+By the end of 01 GitHub Notion, your repo needs at least:
 
 ```text
-student-portfolio/
+[studentName]-Full-Stack-Web-and-AI-Application/
 ├── README.md
 ├── .gitignore
 ├── profile/
@@ -58,9 +54,9 @@ Write in **your own words**.
 
 ---
 
-## Step 5: Follow Phase 0 Class Missions
+## Step 5: Follow 01 GitHub Notion Class Missions
 
-Open [Phase 01 Git class missions](../02_Class_Missions/01_Web_Tools/Phase_01_Git/README.md) during each Git & GitHub class.
+Open [01 GitHub Notion class missions](../02_Class_Missions/01-github-notion/README.md) during each Git & GitHub class.
 
 Full guide: [Student GitHub Repository Guide](../03_Templates/Student_GitHub_Repository_Guide.md)
 
@@ -79,6 +75,6 @@ Example: `Add profile/about-me.md` not `update` or `final`.
 
 ## Assessment
 
-Phase 0 is graded with: [Student_GitHub_Assessment.md](../04_Assessment/Student_GitHub_Assessment.md)
+01 GitHub Notion is graded with: [Student_GitHub_Assessment.md](../04_Assessment/Student_GitHub_Assessment.md)
 
 Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)

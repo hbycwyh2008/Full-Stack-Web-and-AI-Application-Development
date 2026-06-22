@@ -2,9 +2,9 @@
 
 Use these levels to describe **student independence**, not “finished the video.”
 
-![Mastery Level poster](../../08_Public_Documents/posters/mastery-level.png)
+![Mastery Level poster](../../../08_Public_Documents/posters/mastery-level.png)
 
-*Poster: [08_Public_Documents/posters/mastery-level.png](../../08_Public_Documents/posters/mastery-level.png)*
+*Poster: [08_Public_Documents/posters/mastery-level.png](../../../08_Public_Documents/posters/mastery-level.png)*
 
 ---
 

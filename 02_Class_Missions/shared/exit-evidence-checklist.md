@@ -10,7 +10,7 @@ You may submit (depending on the lesson):
 
 | Evidence | Example |
 |---|---|
-| **GitHub repository link** | `https://github.com/yourname/cs-learning-log` |
+| **GitHub repository link** | `https://github.com/yourname/[studentName]-Full-Stack-Web-and-AI-Application` |
 | **GitHub commit screenshot** | Commits tab showing meaningful messages |
 | **README update** | Screenshot or link showing changed README |
 | **Markdown note** | `lesson-03/notes.md`, `learning-log.md` |
@@ -20,7 +20,7 @@ You may submit (depending on the lesson):
 | **Oral explanation** | You answer when the teacher calls on you |
 | **Learning log** | Entry in `learning-log.md` |
 
-**GitHub commits** are the main evidence in Phase 0.
+**GitHub commits** are the main evidence in `01-github-notion`.
 
 ---
 
@@ -40,7 +40,7 @@ Tell your teacher before leaving. You may have a **finish-up deadline** — that
 
 ---
 
-## Phase 0 Checklist
+## 01 GitHub Notion Checklist
 
 Full lesson-by-lesson list: `09_Teacher_Planning/Daily_Lesson_Plans/shared/exit-evidence-checklist.md` (same requirements) or your teacher’s LMS form.
 

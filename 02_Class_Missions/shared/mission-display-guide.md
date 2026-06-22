@@ -16,7 +16,7 @@ Put a **quick-scan table** under the title so students see the essentials in 5 s
 | **Time** | 90 minutes |
 | **Resource** | [Course name](https://…) — Module X |
 | **Evidence** | `your-folder/` |
-| **Independent rebuild** | `your-folder/independent-rebuild/lesson-03/` ([rules](../05_Vibe_Coding/INDEPENDENT_REBUILD.md) if applicable) |
+| **Independent rebuild** | `your-folder/independent-rebuild/lesson-03/` ([rules](../13-cursor-capstone/vibe-coding/INDEPENDENT_REBUILD.md) if applicable) |
 
 > [!TIP]
 > Skim the mission card → do **Mission Task** → finish **Independent rebuild** → submit evidence.
@@ -135,10 +135,10 @@ Copy the header block from [mission-lesson-snippet.md](mission-lesson-snippet.md
 
 ## 9. Batch apply (canonical tracks)
 
-Re-run after adding new lessons under `01_Web_Tools`, `02Front-end`, `03Back-end`, `04AI_Literacy`, or `05_Vibe_Coding`:
+Re-run after adding new lessons under `01-github-notion`, `03-html-css-basics`, `04-javascript-basics`, `05-react-basics`, `08-fastapi-backend`, `13-cursor-capstone`, or `optional-figma`:
 
 ```bash
-node 02_Class_Missions/scripts/apply-mission-markdown-style.mjs
+node 02_Class_Missions/shared/scripts/apply-mission-markdown-style.mjs
 ```
 
 Adds mission card, Mermaid flow, NOTE/IMPORTANT alerts, and collapsible checklists where applicable. Skips files already styled.

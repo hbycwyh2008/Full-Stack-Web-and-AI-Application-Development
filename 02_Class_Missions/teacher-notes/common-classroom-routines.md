@@ -2,7 +2,7 @@
 
 Quick reference when using **Class Missions** alongside **Daily Lesson Plans**.
 
-Mission files use the **90-minute seven-block flow** (see `../shared/classroom-flow.md`).
+Mission files use the **90-minute seven-block flow** (see `../../shared/classroom-flow.md`).
 
 ---
 

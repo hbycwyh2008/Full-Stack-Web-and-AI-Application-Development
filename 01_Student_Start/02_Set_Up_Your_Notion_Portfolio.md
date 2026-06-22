@@ -1,6 +1,6 @@
 # Set Up Your Notion Portfolio
 
-After Phase 0 (Git & GitHub), you create a **Notion portfolio** — a public site that showcases your best finished work.
+After the GitHub lessons in **01 GitHub Notion**, you create a **Notion portfolio** — a public site that showcases your best finished work.
 
 ---
 
@@ -30,7 +30,7 @@ Include at minimum:
 
 - About you
 - Learning goals
-- Project pages (add more each phase)
+- Project pages (add more in each numbered course unit)
 - Links to your GitHub repo
 
 ---
@@ -44,7 +44,7 @@ Include at minimum:
 
 ---
 
-## Step 4: Update Each Phase
+## Step 4: Update Each Numbered Unit
 
 When you finish a strong project:
 
@@ -52,7 +52,7 @@ When you finish a strong project:
 2. Link to the GitHub folder for that project
 3. Include a short summary — this is part of your **program report** for the public
 
-Phase requirements: [Phase 1 overview](../09_Teacher_Planning/Phase_Overviews/Phase_1_Notion_Portfolio.md)
+Class missions: [01 GitHub Notion](../02_Class_Missions/01-github-notion/README.md)
 
 ---
 

@@ -23,8 +23,8 @@ I'm a high school student learning full-stack web and AI application development
 - Tools: Git, GitHub, Cursor, Notion
 
 ## 📌 Featured Projects
-- [Project Name](link) — one-line description
-- [AI School Assistant](link) — my final capstone project
+- [Project Name](https://github.com/your-username/project-name) — one-line description
+- [AI School Assistant](https://github.com/your-username/ai-school-assistant) — my final capstone project
 
 ## 🤖 How I Use AI
 I use AI tools (like Cursor) to help me write and debug code,

@@ -2,122 +2,98 @@
 
 **Open this folder during class.**
 
-> [!TIP]
-> **Easier reading:** use Markdown preview (`Ctrl+Shift+V` in Cursor) or view on GitHub. See [mission-display-guide.md](shared/mission-display-guide.md).
-
-## Track map
-
-```mermaid
-flowchart TB
-  WT["01 Web Tools<br/>Git · Figma"]
-  NP["02 Front-end<br/>Notion · HTML · JS · React"]
-  AI["04 AI Literacy"]
-  BE["03 Back-end<br/>FastAPI · DB"]
-  VC["05 Vibe Coding<br/>First success · Cursor Kanban"]
-  WT --> NP
-  NP --> AI
-  AI --> BE
-  BE --> VC
-```
-
-| Track | Folder | Classes |
-|---|---|---:|
-| Web Tools | [01_Web_Tools/](01_Web_Tools/) | 11 (+1 opt) |
-| Front-end | [02Front-end/](02Front-end/) | 20 |
-| AI Literacy | [04AI_Literacy/](04AI_Literacy/) | 6 |
-| Back-end | [03Back-end/](03Back-end/) or [Minimal_Back-end/](Minimal_Back-end/) | 10 |
-| Vibe Coding | [05_Vibe_Coding/](05_Vibe_Coding/) | 10 |
+Each **class mission** is a student task sheet for one session. Your teacher will tell you which file to open today.
 
 ---
 
-## 01 Web Tools — Git & Figma
+## How to Use
 
-Start: [01_Web_Tools/README.md](01_Web_Tools/README.md)
+1. Start at [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) if this is your first day.
+2. Open the mission folder your teacher assigns from the numbered course path below.
+3. Follow each block in order.
+4. Submit **learning evidence** before class ends (see Exit Evidence in each mission).
 
-### Phase 01 — Git & GitHub (6 classes)
+---
 
-[Phase_01_Git/README.md](01_Web_Tools/Phase_01_Git/README.md)
+## Classroom Flow (Every Mission)
 
-| Lesson | Class mission |
+Each **90-minute** class mission follows this flow:
+
+1. **Entry Point Check** (0–10 min)
+2. **Individual Learning** — **one required resource** (10–25 min)
+3. **Talk Round 1** (25–40 min)
+4. **Entry Points Check / Teacher Diagnosis** (40–55 min)
+5. **Guided Practice / Mission Task** (55–75 min)
+6. **Exit Check** (75–85 min)
+7. **Submission** (85–90 min)
+
+![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
+
+Details: [classroom-flow.md](shared/classroom-flow.md)
+
+> Each mission file lists **one required resource**, focus notes, optional support (max 1–2), and exact submission — no browsing playlists during class.
+
+---
+
+## Numbered Course Path
+
+Do not create duplicate numbered folders. Use this sequence:
+
+| Folder | Focus |
 |---|---|
-| 1 | [lesson-01-course-workflow-and-first-repo.md](01_Web_Tools/Phase_01_Git/lesson-01-course-workflow-and-first-repo.md) |
-| 2 | [lesson-02-readme-and-commit-history.md](01_Web_Tools/Phase_01_Git/lesson-02-readme-and-commit-history.md) |
-| 3 | [lesson-03-file-organization-and-learning-log.md](01_Web_Tools/Phase_01_Git/lesson-03-file-organization-and-learning-log.md) |
-| 4 | [lesson-04-oh-my-git-commit-history.md](01_Web_Tools/Phase_01_Git/lesson-04-oh-my-git-commit-history.md) |
-| 5 | [lesson-05-local-git-vscode-terminal.md](01_Web_Tools/Phase_01_Git/lesson-05-local-git-vscode-terminal.md) |
-| 6 | [lesson-06-github-mastery-check.md](01_Web_Tools/Phase_01_Git/lesson-06-github-mastery-check.md) |
-| 7 *(optional)* | [lesson-07-coursera-git-github-certification-sprint.md](01_Web_Tools/Phase_01_Git/lesson-07-coursera-git-github-certification-sprint.md) |
-
-### Phase 02 — Figma (5 classes)
-
-**After Phase 01 Git + Notion.** [Phase_02_Figma/README.md](01_Web_Tools/Phase_02_Figma/README.md)
-
-| Lesson | Class mission |
-|---|---|
-| 1–5 | See [Phase_02_Figma/README.md](01_Web_Tools/Phase_02_Figma/README.md) |
-
-Evidence: `figma-design/` · Course Phase 4
-
----
-
-## 02 Front-end
-
-Start: [02Front-end/README.md](02Front-end/README.md)
-
-| Block | Lessons | README |
-|---|---|---|
-| Notion Portfolio | 2 | [Phase_1_Notion_Portfolio/](02Front-end/Phase_1_Notion_Portfolio/) |
-| Web Basics | 2 | [Phase_2_Web_Basics/](02Front-end/Phase_2_Web_Basics/) |
-| JavaScript | 3+ | [Phase_3_JavaScript/](02Front-end/Phase_3_JavaScript/) |
-| React & Next.js | 10 | [Phase_4_React_and_NextJS/](02Front-end/Phase_4_React_and_NextJS/) |
-
----
-
-## 04 AI Literacy (6 classes)
-
-**After Git + Notion.** Start: [04AI_Literacy/README.md](04AI_Literacy/README.md)
-
-| Lesson | Class mission |
-|---|---|
-| 1–6 | See [04AI_Literacy/README.md](04AI_Literacy/README.md) |
-
-Resource: [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone) · Evidence: `ai-literacy/`
-
----
-
-## 03 Back-end — FastAPI + Database (10 classes)
-
-Start: [03Back-end/README.md](03Back-end/README.md) or [Minimal_Back-end/README.md](Minimal_Back-end/README.md)
-
-| Phase | Lessons |
-|---|---|
-| FastAPI | 1–6 · [Phase_01_FastAPI/](03Back-end/Phase_01_FastAPI/) |
-| Database | 7–10 · [Phase_02_Database/](03Back-end/Phase_02_Database/) |
-
----
-
-## 05 Vibe Coding (10 classes)
-
-**After** Git, FastAPI basics, React/Next. Start: [05_Vibe_Coding/README.md](05_Vibe_Coding/README.md)
-
-| Phase | Classes | Udemy |
-|---|---:|---|
-| First Success | 1–5 | [Next.js + FastAPI](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) |
-| Cursor Kanban | 6–10 | [Cursor AI Next.js 15](https://www.udemy.com/course/cursorai-nextjs/) |
-
-Evidence: `full-stack-practice/` · `vibe-coding/` · [Independent rebuild rules](05_Vibe_Coding/INDEPENDENT_REBUILD.md)
+| [00-course-overview](00-course-overview/README.md) | Course map and classroom flow |
+| [01-github-notion](01-github-notion/README.md) | GitHub, Git, Notion portfolio, and Coursera Git/GitHub sprint |
+| [02-ai-literacy](02-ai-literacy/README.md) | AI literacy foundation |
+| [03-html-css-basics](03-html-css-basics/README.md) | HTML/CSS digital business card |
+| [04-javascript-basics](04-javascript-basics/README.md) | JavaScript interactive profile |
+| [05-react-basics](05-react-basics/README.md) | React component portfolio |
+| [06-nextjs-frontend](06-nextjs-frontend/README.md) | Next.js frontend |
+| [07-python-foundations](07-python-foundations/README.md) | Python foundations |
+| [08-fastapi-backend](08-fastapi-backend/README.md) | FastAPI backend |
+| [09-fastapi-ai-backend](09-fastapi-ai-backend/README.md) | FastAPI AI backend |
+| [10-nextjs-fastapi-integration](10-nextjs-fastapi-integration/README.md) | Next.js + FastAPI integration |
+| [11-kaggle-data-processing](11-kaggle-data-processing/README.md) | Kaggle and data processing |
+| [12-machine-learning-workflow](12-machine-learning-workflow/README.md) | Machine learning workflow |
+| [13-cursor-capstone](13-cursor-capstone/README.md) | Cursor capstone |
+| [14-final-ai-web-app-projects](14-final-ai-web-app-projects/README.md) | Final AI web app projects |
+| [15-final-portfolio-showcase](15-final-portfolio-showcase/README.md) | Final portfolio showcase |
+| [optional-figma](optional-figma/README.md) | Optional Figma UI design |
+| [shared](shared/) | Shared classroom routines and checklists |
 
 ---
 
 ## Shared Guides
 
-- [classroom-flow.md](shared/classroom-flow.md) — 90-minute structure
-- [mission-display-guide.md](shared/mission-display-guide.md) — **make missions look better**
-- [mission-lesson-snippet.md](shared/mission-lesson-snippet.md) — copy-paste lesson header
-- [mastery-levels.md](shared/mastery-levels.md)
-- [talk-robin-rules.md](shared/talk-robin-rules.md)
-- [exit-evidence-checklist.md](shared/exit-evidence-checklist.md)
-- [ai-use-during-practice.md](shared/ai-use-during-practice.md)
+- [classroom-flow.md](shared/classroom-flow.md) — how each block works
+- [mastery-levels.md](shared/mastery-levels.md) — **mastery** Levels 0–5
+- [talk-robin-rules.md](shared/talk-robin-rules.md) — pair discussion rules
+- [exit-evidence-checklist.md](shared/exit-evidence-checklist.md) — what counts as **learning evidence**
+- [ai-use-during-practice.md](shared/ai-use-during-practice.md) — **AI usage note** rules in class
+
+Posters: [08_Public_Documents/posters/](../08_Public_Documents/posters/README.md)
+
+---
+
+## Course Principles (Every Mission)
+
+- Watching is not **mastery**.
+- Copying is not **mastery**.
+- Running something once is not enough **learning evidence**.
+- You must **rebuild**, **debug**, **explain**, and submit evidence.
+- AI helps you learn — it does not replace **Independent Rebuild**.
+- You may be asked to explain your work **orally**.
+
+---
+
+## Related Materials
+
+| Need | Location |
+|---|---|
+| Setup guides | [01_Student_Start/](../01_Student_Start/) |
+| Templates | [03_Templates/](../03_Templates/) |
+| Evidence requirements | [04_Assessment/Evidence_System.md](../04_Assessment/Evidence_System.md) |
+| Phase requirements | [09_Teacher_Planning/Phase_Overviews/](../09_Teacher_Planning/Phase_Overviews/) |
+| GitHub setup | [03_Templates/Student_GitHub_Repository_Guide.md](../03_Templates/Student_GitHub_Repository_Guide.md) |
 
 ---
 

@@ -1,42 +1,46 @@
 # Course Pacing Guide
 
-**Twelve phases (0–11).** Adjust weeks to your schedule.
+**Numbered course path (00–15 + optional Figma).** Adjust weeks to your schedule.
 
 ---
 
-## Phase-to-Week Mapping (16-week standard)
+## Unit-to-Week Mapping (16-week standard)
 
-| Phase | Topic | Weeks |
+| Unit | Topic | Weeks |
 |---|---|---|
-| 0 | Git & GitHub | 1–2 |
-| 1 | Notion Portfolio | 3 |
-| 2 | AI Literacy | 4–5 |
-| 3 | AI Math Bridge | 6–7 |
-| 4 | Figma | 8 |
-| 5 | TypeScript | 9 |
-| 6 | Next.js | 10–11 |
-| 7 | FastAPI (lightweight) | 12 |
-| 8 | RAG Concepts | 13 |
-| 9 | Integration | 14 |
-| 10 | Cursor Capstone | 15 |
-| 11 | Final Showcase | 16 |
+| 00 | Course overview | 1 |
+| 01 | GitHub and Notion | 1–2 |
+| 02 | AI Literacy | 3 |
+| 03 | HTML/CSS Basics | 4 |
+| 04 | JavaScript Basics | 5–6 |
+| 05 | React Basics | 7 |
+| 06 | Next.js Frontend | 8 |
+| 07 | Python Foundations | 9 |
+| 08 | FastAPI Backend | 10 |
+| 09 | FastAPI AI Backend | 11 |
+| 10 | Next.js + FastAPI Integration | 12 |
+| 11 | Kaggle Data Processing | 13 |
+| 12 | Machine Learning Workflow | 13 |
+| 13 | Cursor Capstone | 14 |
+| 14 | Final AI Web App Projects | 15 |
+| 15 | Final Portfolio Showcase | 16 |
 
-**Regular Math Bridge track:** 4–6 lessons (Week 6). **Mini-unit track:** 8–10 lessons (Weeks 6–7).
+**Optional Figma:** insert before `06-nextjs-frontend` if students need more UI design time.
 
 ---
 
 ## 8-Week Compressed (outline)
 
-| Week | Phases | Focus |
+| Week | Units | Focus |
 |---|---|---|
-| 1 | 0–1 | Git + Notion |
-| 2 | 2 | AI Literacy |
-| 3 | 3 | Math Bridge (core lessons only) |
-| 4 | 4–5 | Figma + TypeScript |
-| 5 | 6–7 | Next.js + FastAPI |
-| 6 | 8–9 | RAG + integration + teacher demo |
-| 7 | 10 | Cursor |
-| 8 | 11 | Showcase |
+| 1 | 00–01 | Course overview + GitHub + Notion |
+| 2 | 02–03 | AI Literacy + HTML/CSS |
+| 3 | 04 | JavaScript basics |
+| 4 | 05–06 | React + Next.js frontend |
+| 5 | 07–09 | Python + FastAPI + AI backend |
+| 6 | 10–12 | Integration + data + ML workflow |
+| 7 | 13–14 | Cursor + final AI web app build |
+| 8 | 15 | Final portfolio showcase |
 
 ---
 
@@ -44,33 +48,35 @@
 
 | ID | Requirement |
 |---|---|
-| C1 | GitHub `student-portfolio` + PR |
-| C2 | Notion published |
-| C3 | AI Literacy + `ai-literacy/` |
-| C4 | AI Math Bridge + `ai-math-bridge/` + checklist |
-| C5 | Figma + TS + Next.js runnable |
-| C6 | FastAPI in `/docs` |
-| C7 | Full-stack connected |
-| C8 | Final AI School Assistant demo |
+| C1 | GitHub `[studentName]-Full-Stack-Web-and-AI-Application` repo |
+| C2 | Notion portfolio published |
+| C3 | AI Literacy evidence |
+| C4 | HTML/CSS digital business card |
+| C5 | JavaScript interactive profile |
+| C6 | React / Next.js frontend runnable |
+| C7 | FastAPI backend and AI backend evidence |
+| C8 | Full-stack connected |
+| C9 | Data / ML workflow evidence |
+| C10 | Final AI web app demo and portfolio showcase |
 
 ---
 
 ## Teacher Demo
 
-- **When:** After Phase 8 (RAG), before Phase 10 (Cursor).
+- **When:** After `12-machine-learning-workflow`, before `13-cursor-capstone`.
 - **Files:** `Teacher_Demo_Walkthrough.md`, `06_Starter_Code/teacher-demo-ai-school-assistant/`, `TESTING.md`.
 
 ---
 
-## Math Bridge Notes
+## Data And ML Notes
 
-- Do **not** skip Git/Notion/Literacy before Math Bridge.
-- Reuse Phase 3 before CV/ML electives.
-- Assess **concept + NumPy + reflection**, not proofs.
+- Do **not** skip GitHub, Notion, AI Literacy, and frontend basics before data / ML work.
+- Keep the machine learning workflow practical: problem, data, baseline, evaluation, reflection.
+- Assess **concept + data processing + reflection**, not proofs.
 
 ---
 
 ## Homework Principles
 
 - One clear deliverable per week when possible.
-- **Cursor only from Phase 10.**
+- **Cursor capstone only from `13-cursor-capstone`.**

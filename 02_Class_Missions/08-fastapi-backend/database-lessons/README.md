@@ -1,12 +1,12 @@
-# Phase 02: Database — Class Missions (Lessons 7–10)
+# Part 2: Database — Class Missions (Lessons 7–10)
 
 **Same Coursera course:** [Introduction to FastAPI and Backend Development Fundamentals](https://www.coursera.org/learn/packt-introduction-to-fastapi-and-backend-development-fundamentals-7zg6w)
 
 **Student folder:** continue in `fastapi-backend/`
 
-**Goal:** Connect FastAPI to SQLite/SQLModel, use async patterns, preview PostgreSQL — **extension track** after Phase 01.
+**Goal:** Connect FastAPI to SQLite/SQLModel, use async patterns, preview PostgreSQL — **extension track** after Part 1.
 
-> **Teacher note:** Course Phase 7 does **not** require all students to finish Phase 02. Assign 7–10 to fast track or second cohort weeks.
+> **Teacher note:** Course FastAPI backend does **not** require all students to finish Part 2. Assign 7–10 to fast track or second cohort weeks.
 
 > [!TIP]
 > **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../../shared/mission-display-guide.md) (adjust `../` depth if needed).
@@ -26,7 +26,7 @@
 
 ## Previous Block
 
-[Phase 01: FastAPI](../fastapi-lessons/)
+[Part 1: FastAPI](../fastapi-lessons/)
 
 ---
 

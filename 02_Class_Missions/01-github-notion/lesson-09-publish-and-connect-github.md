@@ -114,7 +114,7 @@ Add at least two supporting sections:
 3. **GitHub Learning Reflection**
    - What did GitHub help you understand?
    - What was difficult?
-   - What will you improve in Phase 2?
+   - What will you improve in AI literacy?
 
 ### Part B: Publish the Notion Page
 
@@ -211,4 +211,4 @@ Students should check that they have:
 4. At least one GitHub learning reflection written in their own words.
 5. No private personal information published accidentally.
 
-If students are missing evidence, they should fix the evidence before moving into Phase 2.
+If students are missing evidence, they should fix the evidence before moving into AI literacy.

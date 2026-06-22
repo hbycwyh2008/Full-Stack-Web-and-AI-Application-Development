@@ -1,4 +1,4 @@
-# Phase 01: First Success — Next.js + FastAPI (Udemy)
+# Part 1: First Success — Next.js + FastAPI (Udemy)
 
 **Udemy course:** [Learn Next.js and FastAPI by Building 2 Full Stack Apps](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/)
 
@@ -6,7 +6,7 @@
 
 **Independent rebuild:** [INDEPENDENT_REBUILD.md](../INDEPENDENT_REBUILD.md) — **every lesson**, hand-typed without materials.
 
-**Goal:** Run **Project 1** end-to-end — browser → Next.js → FastAPI → response on screen. Celebrate **first full-stack success** before Phase 02.
+**Goal:** Run **Project 1** end-to-end — browser → Next.js → FastAPI → response on screen. Celebrate **first full-stack success** before Part 2.
 
 > **Teacher note:** Assign exact Udemy section numbers from your cohort’s course version. Table below uses typical progression; adjust titles to match the Udemy sidebar.
 
@@ -25,13 +25,13 @@
 | 4 | [lesson-04-cors-and-first-success.md](lesson-04-cors-and-first-success.md) | CORS, connect, **demo working app** |
 | 5 | [lesson-05-project-one-checkpoint.md](lesson-05-project-one-checkpoint.md) | Finish Project 1 + `FIRST_SUCCESS.md` |
 
-**After Lesson 5:** You should feel: *“I connected frontend and backend.”* Phase 02 teaches **Cursor + Kanban** — do not skip evidence commits.
+**After Lesson 5:** You should feel: *“I connected frontend and backend.”* Part 2 teaches **Cursor + Kanban** — do not skip evidence commits.
 
 ---
 
 ## Next Block
 
-[Phase 02: Cursor AI Kanban + Vibe](../Phase_02_NextJS_Deep_Dive/)
+[Part 2: Cursor AI Kanban + Vibe](../nextjs-deep-dive-lessons/)
 
 ---
 

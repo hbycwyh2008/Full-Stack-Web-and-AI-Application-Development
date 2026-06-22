@@ -20,7 +20,7 @@ By the end of this lesson, each student should be able to:
 2. Write `full-stack-practice/FIRST_SUCCESS.md` — story of your breakthrough in your own words.
 3. Optionally start Project 2 preview (homework only).
 4. Update Notion portfolio with full-stack practice link.
-5. Pass Phase 01 oral check and checklist.
+5. Pass Part 1 oral check and checklist.
 6. **Independent rebuild:** hand-type mini full-stack in `full-stack-practice/independent-rebuild/lesson-05/` — [INDEPENDENT_REBUILD.md](../INDEPENDENT_REBUILD.md).
 
 ---
@@ -90,7 +90,7 @@ Our group still needs help with...
 
 3. Export one more screenshot of completed Project 1 UI.
 4. Update Notion with link to GitHub `full-stack-practice/`.
-5. Commit: `Complete Phase 01 first success checkpoint`.
+5. Commit: `Complete Part 1 first success checkpoint`.
 
 ---
 
@@ -115,7 +115,7 @@ Our group still needs help with...
 
 ### 80–90 min: Submission of Evidence
 
-**Phase 01 checklist:**
+**Part 1 checklist:**
 
 ```text
 [ ] full-stack-practice/ on GitHub
@@ -146,7 +146,7 @@ Our group still needs help with...
 1. Genuine end-to-end working Project 1 (teacher scope).
 2. First success documented in student voice.
 3. **All five** independent rebuild folders committed.
-4. Ready for Phase 02 Cursor AI Kanban course.
+4. Ready for Part 2 Cursor AI Kanban course.
 
 ---
 
@@ -161,13 +161,13 @@ Our group still needs help with...
 
 ## Fast Track Option
 
-Begin Udemy Project 2 at home — not required for Phase 01 sign-off.
+Begin Udemy Project 2 at home — not required for Part 1 sign-off.
 
 ---
 
-## After Phase 01
+## After Part 1
 
-Continue to [Phase 02: Cursor AI Kanban + Vibe](../Phase_02_NextJS_Deep_Dive/lesson-06-app-router-and-layouts.md)
+Continue to [Part 2: Cursor AI Kanban + Vibe](../nextjs-deep-dive-lessons/lesson-06-app-router-and-layouts.md)
 
 ---
 

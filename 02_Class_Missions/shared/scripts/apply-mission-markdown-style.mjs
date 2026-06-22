@@ -49,7 +49,7 @@ function evidenceHint(content, rel) {
     return "`full-stack-practice/` or `vibe-coding/`";
   }
   if (rel.includes("02-ai-literacy")) return "`ai-literacy/`";
-  if (rel.includes("Phase_01_Git") || rel.includes("Phase_02_Figma"))
+  if (rel.includes("01-github-notion") || rel.includes("optional-figma"))
     return "GitHub repo + track folder";
   if (rel.includes("FastAPI") || rel.includes("Database") || rel.includes("Back-end"))
     return "`fastapi-backend/` or course folder";

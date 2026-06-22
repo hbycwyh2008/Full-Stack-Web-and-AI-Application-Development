@@ -178,9 +178,9 @@ Students repeat independently **without opening Coursera**.
 
 **Independent rebuild task:**
 
-1. Add `<p id="course-phase">Phase 3 JavaScript</p>`.
+1. Add `<p id="course-phase">JavaScript JavaScript</p>`.
 2. Change its text from JavaScript when the user clicks a **new** button you add (`#update-phase-btn`).
-3. Commit: `Add second button to update course phase text`.
+3. Commit: `Add second button to update course unit text`.
 
 **Exit prompts:**
 

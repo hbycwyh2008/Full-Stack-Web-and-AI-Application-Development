@@ -151,19 +151,19 @@ Student signs [AI_Literacy_Checklist.md](../../../04_Assessment/AI_Literacy_Chec
 |---|---|
 | Missing Week 3 | Finish at home; submit progress + plan — teacher waiver policy. |
 | Case study too vague | Use concrete Q&A example: wrong policy, missing source, privacy leak. |
-| Notion not public | Follow Phase 1 publish steps; test link in incognito. |
+| Notion not public | Follow Notion portfolio publish steps; test link in incognito. |
 
 ---
 
 ## Fast Track Option
 
-Begin [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) — formal course Phase 2 extension; not required for this class block sign-off.
+Begin [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) — formal course AI literacy extension; not required for this class block sign-off.
 
 ---
 
 ## After AI Literacy
 
-**Formal course:** [Phase 3 AI Math Bridge](../../../09_Teacher_Planning/Phase_Overviews/Phase_3_AI_Math_Bridge_Linear_Algebra.md)
+**Formal course:** AI Math Bridge teacher overview in `09_Teacher_Planning/Phase_Overviews/`
 
 **Class missions:** [02 Front-end Web Basics](../../03-html-css-basics/web-basics-lessons/) or your cohort schedule.
 

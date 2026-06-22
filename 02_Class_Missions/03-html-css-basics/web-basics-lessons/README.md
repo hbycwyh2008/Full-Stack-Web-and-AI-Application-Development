@@ -1,10 +1,10 @@
-# Phase 2: Web Basics — Class Missions
+# AI literacy: Web Basics — Class Missions
 
 **Your repository for these classes:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 Open **one mission file per class** and follow it from top to bottom.
 
-> **Prerequisite:** [Phase 1 Notion Portfolio](../../01-github-notion/) complete.
+> **Prerequisite:** [Notion portfolio Notion Portfolio](../../01-github-notion/) complete.
 
 > [!TIP]
 > **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../../shared/mission-display-guide.md) (adjust `../` depth if needed).
@@ -49,7 +49,7 @@ html-css-first-form/
 
 ## Next Block
 
-[Phase 3: JavaScript](../../04-javascript-basics/javascript-lessons/)
+[JavaScript: JavaScript](../../04-javascript-basics/javascript-lessons/)
 
 ---
 

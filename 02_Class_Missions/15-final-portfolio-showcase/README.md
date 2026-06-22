@@ -4,7 +4,7 @@ Use this folder for final portfolio, presentation, and showcase missions.
 
 Current teacher reference:
 
-[Final Showcase overview](../../09_Teacher_Planning/Phase_Overviews/Phase_11_Final_Showcase.md)
+Final Showcase teacher overview in `09_Teacher_Planning/Phase_Overviews/`
 
 Students should update their Notion portfolio, GitHub README, project pages, screenshots, and final reflection before presenting.
 

@@ -1,4 +1,4 @@
-# Lesson 10: PostgreSQL Preview and Phase 02 Submission
+# Lesson 10: PostgreSQL Preview and Part 2 Submission
 
 
 | | |
@@ -19,8 +19,8 @@ By the end of this lesson, each student should be able to:
 2. Complete Coursera Module 10 (PostgreSQL) at teacher-assigned depth (videos + key assignment).
 3. Document environment variables for a future Postgres connection in `.env.example`.
 4. Submit full **Minimal Back-end** evidence: GitHub, `/docs`, Notion link, Coursera progress.
-5. Reflect on how this backend connects to Next.js (course Phase 9).
-6. Complete Phase 02 checklist without committing real database passwords.
+5. Reflect on how this backend connects to Next.js (course integration).
+6. Complete Part 2 checklist without committing real database passwords.
 
 ---
 
@@ -77,7 +77,7 @@ Our group still needs help with...
 
 ### 37–45 min: Entry Points Check
 
-**Teacher checks:** Phase 01 checklist from Lesson 6 still true; Lesson 7–9 work present or teacher-approved lightweight path.
+**Teacher checks:** Part 1 checklist from Lesson 6 still true; Lesson 7–9 work present or teacher-approved lightweight path.
 
 ---
 
@@ -88,15 +88,15 @@ Our group still needs help with...
    ```text
    OPENAI_API_KEY=your-key-here
    DATABASE_URL=sqlite:///./database.db
-   # Phase 02 extension: postgresql+asyncpg://user:pass@localhost/dbname
+   # Part 2 extension: postgresql+asyncpg://user:pass@localhost/dbname
    ```
 
 2. Update README sections:
    - **Endpoints** table (all routes)
    - **Run locally** (venv, uvicorn)
-   - **Next steps:** course Phase 8 RAG, Phase 9 CORS + Next.js fetch
+   - **Next steps:** course AI backend RAG, integration CORS + Next.js fetch
 3. Add `PHASE_02_CHECKLIST.md` in `fastapi-backend/` (copy checklist below, check boxes).
-4. Final commit: `Complete Minimal Back-end Phase 02 submission docs`.
+4. Final commit: `Complete Minimal Back-end Part 2 submission docs`.
 5. Update Notion portfolio: link to `fastapi-backend/` + one `/docs` screenshot.
 
 ---
@@ -122,10 +122,10 @@ From blank terminal: venv → install → run → open `/docs` → test `/health
 5. Notion portfolio link updated
 6. Short reflection (3 sentences): what `/docs` helped you catch
 
-**Phase 02 checklist:**
+**Part 2 checklist:**
 
 ```text
-[ ] Phase 01 complete (Lesson 6 checklist)
+[ ] Part 1 complete (Lesson 6 checklist)
 [ ] SQLite persistence (Lesson 7) OR teacher waiver
 [ ] SQLModel + Depends (Lesson 8) OR teacher waiver
 [ ] Async POST /ask (Lesson 9)
@@ -158,16 +158,16 @@ From blank terminal: venv → install → run → open `/docs` → test `/health
 
 ## Fast Track Option
 
-Skim [Course 3 CORS module](https://www.coursera.org/specializations/packt-ultimate-guide-to-fast-api-and-backend-development) for Phase 9 preview — do not deploy to AWS in class.
+Skim [Course 3 CORS module](https://www.coursera.org/specializations/packt-ultimate-guide-to-fast-api-and-backend-development) for integration preview — do not deploy to AWS in class.
 
 ---
 
-## After Phase 02
+## After Part 2
 
 Continue in formal course:
 
-- **Phase 8:** RAG + LLM in backend
-- **Phase 9:** Connect `nextjs-frontend/` or `nextjs-practice/` with CORS and typed `fetch`
+- **AI backend:** RAG + LLM in backend
+- **integration:** Connect `nextjs-frontend/` or `nextjs-practice/` with CORS and typed `fetch`
 
 ---
 

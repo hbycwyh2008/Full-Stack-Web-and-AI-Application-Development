@@ -3,8 +3,8 @@
 | | |
 |:---|:---|
 | **Classes** | 10 × 90 min |
-| **Phase 01** | [Next.js + FastAPI](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) — first success |
-| **Phase 02** | [Cursor AI Kanban](https://www.udemy.com/course/cursorai-nextjs/) — vibe workflow |
+| **Part 1** | [Next.js + FastAPI](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) — first success |
+| **Part 2** | [Cursor AI Kanban](https://www.udemy.com/course/cursorai-nextjs/) — vibe workflow |
 | **Evidence** | `full-stack-practice/` · `vibe-coding/` |
 
 **Your repository:** `[studentName]-Full-Stack-Web-and-AI-Application`
@@ -15,11 +15,11 @@
 **Prerequisite:** [Git](../../01-github-notion/) · [FastAPI](../../08-fastapi-backend/fastapi-lessons/) · [React/Next](../../05-react-basics/react-nextjs-lessons/) · [Figma](../../optional-figma/figma-lessons/) recommended
 
 > [!NOTE]
-> Overlaps course **Phase 9–10**. Capstone backend stays **FastAPI** — Kanban uses Postgres/Server Actions for **Cursor practice** only.
+> Overlaps course **integration–10**. Capstone backend stays **FastAPI** — Kanban uses Postgres/Server Actions for **Cursor practice** only.
 
 ```mermaid
 flowchart LR
-  P1["Phase 01<br/>Lessons 1–5<br/>First success"] --> P2["Phase 02<br/>Lessons 6–10<br/>Cursor Kanban"]
+  P1["Part 1<br/>Lessons 1–5<br/>First success"] --> P2["Part 2<br/>Lessons 6–10<br/>Cursor Kanban"]
   P2 --> CAP["Capstone<br/>AI School Assistant"]
 ```
 
@@ -29,8 +29,8 @@ flowchart LR
 
 | Phase | Folder | Classes | Udemy course |
 |---|---|---:|---|
-| **01** | [Phase_01_First_Success/](Phase_01_First_Success/) | 1–5 | [Learn Next.js and FastAPI by Building 2 Full Stack Apps](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) |
-| **02** | [Phase_02_NextJS_Deep_Dive/](Phase_02_NextJS_Deep_Dive/) | 6–10 | [Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App](https://www.udemy.com/course/cursorai-nextjs/) |
+| **01** | [first-success-lessons/](first-success-lessons/) | 1–5 | [Learn Next.js and FastAPI by Building 2 Full Stack Apps](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/) |
+| **02** | [nextjs-deep-dive-lessons/](nextjs-deep-dive-lessons/) | 6–10 | [Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App](https://www.udemy.com/course/cursorai-nextjs/) |
 
 **Optional vibe warm-up (homework):** [Vibe Coding with Cursor AI — Coursera](https://www.coursera.org/learn/vibe-coding-with-cursor-ai) (~1h)
 
@@ -39,20 +39,20 @@ flowchart LR
 ## Student Folders
 
 ```text
-full-stack-practice/     ← Phase 01 Udemy projects (clone or follow-along)
+full-stack-practice/     ← Part 1 Udemy projects (clone or follow-along)
 ├── README.md
 ├── backend/             ← FastAPI (or course layout)
 └── frontend/            ← Next.js
 
-vibe-coding/             ← Phase 02 reflections + Kanban Cursor project
+vibe-coding/             ← Part 2 reflections + Kanban Cursor project
 ├── README.md
 ├── kanban-cursor/       ← Udemy follow-along (materials OK)
 ├── independent-rebuild/ ← Memory-only code every lesson (see INDEPENDENT_REBUILD.md)
 │   └── lesson-06/ … lesson-10/
 ├── cursor-reflection.md
-└── FIRST_SUCCESS.md     ← Lesson 5 checkpoint story (Phase 01)
+└── FIRST_SUCCESS.md     ← Lesson 5 checkpoint story (Part 1)
 
-full-stack-practice/independent-rebuild/  ← Phase 01 memory-only (lesson-01 … lesson-05)
+full-stack-practice/independent-rebuild/  ← Part 1 memory-only (lesson-01 … lesson-05)
 ```
 
 Capstone target (later formal phases): `nextjs-frontend/` + `fastapi-backend/` or `ai-school-assistant/`

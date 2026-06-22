@@ -18,7 +18,7 @@ By the end of this lesson, each student should be able to:
 1. Explain sync vs async routes in plain language (waiting on I/O).
 2. Convert at least one route to `async def`.
 3. Use `await` with a simulated slow operation (e.g. `asyncio.sleep` or httpx call preview).
-4. Connect async to future LLM API calls (course Phase 8).
+4. Connect async to future LLM API calls (course AI backend).
 5. Keep `/docs` working for async routes.
 6. Submit Coursera Module 9 progress and repo evidence.
 
@@ -85,7 +85,7 @@ Our group still needs help with...
 
 1. Change `POST /ask` to `async def`.
 2. Add `await asyncio.sleep(1)` before stub answer (simulate LLM latency).
-3. Add comment in code: `# Phase 8: replace sleep with real API call`.
+3. Add comment in code: `# AI backend: replace sleep with real API call`.
 4. Optional: add `GET /health/async` returning same as health with async handler.
 5. Update README: one bullet on async and future AI integration.
 6. Commit: `Make ask endpoint async with simulated delay`.
@@ -109,7 +109,7 @@ Call `/ask` in `/docs` — notice ~1s delay. Explain orally why real LLM calls n
 1. GitHub link to async route changes
 2. Screenshot of `/ask` response after delay
 3. Coursera Module 9 progress screenshot
-4. README bullet on async + Phase 8
+4. README bullet on async + AI backend
 5. Commit history
 
 ---
@@ -118,7 +118,7 @@ Call `/ask` in `/docs` — notice ~1s delay. Explain orally why real LLM calls n
 
 1. At least one route uses `async def` and `await`.
 2. `/docs` still executes route successfully.
-3. README mentions Phase 8 LLM connection.
+3. README mentions AI backend LLM connection.
 4. Student explains sync vs async simply.
 
 ---

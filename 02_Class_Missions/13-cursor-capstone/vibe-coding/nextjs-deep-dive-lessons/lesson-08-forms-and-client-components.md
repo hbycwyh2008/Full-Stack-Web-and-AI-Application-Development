@@ -20,7 +20,7 @@ By the end of this lesson, each student should be able to:
 2. Run **PostgreSQL** (Docker or local) and connect the Kanban app with **Drizzle ORM**.
 3. Fetch board data server-side and show **loading** while data loads.
 4. Show a clear **error state** when DB is down (stop Docker to demo).
-5. Relate fetch/loading/error patterns to **FastAPI fetch** from Phase 01 (`full-stack-practice/`).
+5. Relate fetch/loading/error patterns to **FastAPI fetch** from Part 1 (`full-stack-practice/`).
 6. **Independent rebuild:** hand-type fetch + loading + error in `vibe-coding/independent-rebuild/lesson-08/` — [INDEPENDENT_REBUILD.md](../INDEPENDENT_REBUILD.md).
 
 ---
@@ -48,7 +48,7 @@ flowchart LR
 
 Complete all **7 lectures** in this section.
 
-**Bridge reading (5 min):** Re-read your Phase 01 CORS/fetch notes in `full-stack-practice/FIRST_SUCCESS.md`.
+**Bridge reading (5 min):** Re-read your Part 1 CORS/fetch notes in `full-stack-practice/FIRST_SUCCESS.md`.
 
 **Individual notes:**
 
@@ -92,11 +92,11 @@ Our group still needs help with...
 1. Complete §3 with Cursor — database schema + fetch wired to UI.
 2. Verify **loading** state during slow fetch (throttle or refresh).
 3. Stop DB — capture **error** UI screenshot.
-4. Add to `vibe-coding/README.md` section **Phase 01 vs Phase 02 backend**:
+4. Add to `vibe-coding/README.md` section **Part 1 vs Part 2 backend**:
 
    ```text
-   Phase 01: Next.js → FastAPI → response
-   Phase 02: Next.js → PostgreSQL (course) → capstone: Next.js → FastAPI → RAG
+   Part 1: Next.js → FastAPI → response
+   Part 2: Next.js → PostgreSQL (course) → capstone: Next.js → FastAPI → RAG
    ```
 
 5. Commit: `Connect Kanban DB fetch with loading and error states`.
@@ -139,7 +139,7 @@ Our group still needs help with...
 
 1. Data from DB renders on follow-along board.
 2. Loading/error visible in follow-along.
-3. Student compares to Phase 01 FastAPI fetch.
+3. Student compares to Part 1 FastAPI fetch.
 4. **Rebuild** fetch pattern hand-typed without materials.
 
 ---

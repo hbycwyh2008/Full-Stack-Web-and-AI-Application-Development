@@ -1,10 +1,10 @@
-# Phase 3: JavaScript — Class Missions
+# JavaScript: JavaScript — Class Missions
 
 **Your repository for these classes:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 Open **one mission file per class** and follow it from top to bottom. Each lesson has **one required resource** — do not browse extra playlists during class.
 
-> **Prerequisite:** [Phase 1 Notion Portfolio](../../01-github-notion/) and [Phase 2 Web Basics](../../03-html-css-basics/web-basics-lessons/) complete.
+> **Prerequisite:** [Notion portfolio Notion Portfolio](../../01-github-notion/) and [AI literacy Web Basics](../../03-html-css-basics/web-basics-lessons/) complete.
 
 > [!TIP]
 > **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../../shared/mission-display-guide.md) (adjust `../` depth if needed).
@@ -66,7 +66,7 @@ javascript-interactive-profile/
 
 ## Next Block
 
-[Phase 4: React & Next.js](../../05-react-basics/react-nextjs-lessons/)
+[React and Next.js: React & Next.js](../../05-react-basics/react-nextjs-lessons/)
 
 ---
 

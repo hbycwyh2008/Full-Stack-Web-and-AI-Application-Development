@@ -100,7 +100,7 @@ Our group still needs help with...
 
 ### 70–80 min: Independent Rebuild / Exit Check
 
-Without notes, say the four screens aloud. Add one sentence to README: **“Phase 6 Next.js will implement this design.”**
+Without notes, say the four screens aloud. Add one sentence to README: **“Next.js frontend Next.js will implement this design.”**
 
 ---
 

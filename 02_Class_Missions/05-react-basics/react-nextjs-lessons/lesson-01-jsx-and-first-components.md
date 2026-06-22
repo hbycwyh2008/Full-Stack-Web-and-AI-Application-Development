@@ -18,7 +18,7 @@ By the end of this lesson, each student should be able to:
 1. Explain why React uses components and JSX.
 2. Set up a Vite + React project in `react-practice/`.
 3. Write and render a first React component.
-4. Link the project README to Phase 4 goals.
+4. Link the project README to React and Next.js goals.
 5. Make at least one meaningful commit.
 6. Submit Coursera Module 1 progress and repo evidence.
 
@@ -85,7 +85,7 @@ Our group still needs help with...
 ### 45–70 min: Mission Task
 
 1. Create `react-practice/` with Vite + React (follow Module 1 / teacher command).
-2. Replace default app with a component that shows your name and course phase: `Phase 4 React & Next.js`.
+2. Replace default app with a component that shows your name and course unit: `React and Next.js React & Next.js`.
 3. Add `README.md`: what the folder is for, how to run `npm run dev`.
 4. Commit: `Start react-practice with first component`.
 

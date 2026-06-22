@@ -1,4 +1,4 @@
-# Lesson 10: Client vs Server Components and Phase 4 Submission
+# Lesson 10: Client vs Server Components and React and Next.js Submission
 
 
 | | |
@@ -18,9 +18,9 @@ By the end of this lesson, each student should be able to:
 1. Explain client vs server components in beginner terms.
 2. Mark an interactive component with `'use client'` and use `useState` in Next.js.
 3. Add one dynamic route or dynamic segment (Module 3 concept).
-4. Complete Phase 4 evidence checklist in repo and Notion.
-5. Orally explain the path from Phase 4 → course Phase 5 TypeScript → Phase 6 `nextjs-frontend/`.
-6. Submit all Phase 4 evidence including both Coursera courses progress.
+4. Complete React and Next.js evidence checklist in repo and Notion.
+5. Orally explain the path from React and Next.js → course TypeScript support TypeScript → Next.js frontend `nextjs-frontend/`.
+6. Submit all React and Next.js evidence including both Coursera courses progress.
 
 ---
 
@@ -53,7 +53,7 @@ Reference: [Client vs server aside](https://www.coursera.org/learn/learn-nextjs/
 Server components run...
 Client components need 'use client' when...
 Dynamic routes use...
-After Phase 4 I will learn TypeScript in...
+After React and Next.js I will learn TypeScript in...
 The AI School Assistant frontend will live in...
 One thing I still do not understand is...
 ```
@@ -62,14 +62,14 @@ One thing I still do not understand is...
 
 ### 15–27 min: Talk Robin / Group Discussion
 
-**Share:** when you need `'use client'`; one dynamic route idea; one question about Phase 6.
+**Share:** when you need `'use client'`; one dynamic route idea; one question about Next.js frontend.
 
 ---
 
 ### 27–37 min: Group Answer
 
 ```text
-Phase 4 prepared us for Next.js because...
+React and Next.js prepared us for Next.js because...
 Our group still needs help with...
 ```
 
@@ -77,7 +77,7 @@ Our group still needs help with...
 
 ### 37–45 min: Entry Points Check
 
-**Teacher checks:** Both `react-practice/` and `nextjs-practice/` run; students know folder names for Phase 6.
+**Teacher checks:** Both `react-practice/` and `nextjs-practice/` run; students know folder names for Next.js frontend.
 
 ---
 
@@ -87,7 +87,7 @@ Our group still needs help with...
 2. Import it into a server page (default `page.jsx`).
 3. Add one dynamic route, e.g. `app/projects/[id]/page.jsx`, showing project id from params (static array lookup is fine).
 4. Update root `README.md` or add `phase-4-evidence.md` with links to both folders + Coursera screenshots list.
-5. Commit: `Add client component and dynamic route for Phase 4`.
+5. Commit: `Add client component and dynamic route for React and Next.js`.
 
 ---
 
@@ -96,15 +96,15 @@ Our group still needs help with...
 **Independent rebuild (oral if called):**
 
 1. Without notes, explain: JSX → props → state → fetch → Next layout → client component.
-2. Point to where FastAPI will connect in Phase 6–7.
+2. Point to where FastAPI will connect in Next.js frontend–7.
 
-Update Notion portfolio with Phase 4 block: links to GitHub folders + one screenshot.
+Update Notion portfolio with React and Next.js block: links to GitHub folders + one screenshot.
 
 ---
 
 ### 80–90 min: Submission of Evidence
 
-Submit **Phase 4 completion checklist** (below).
+Submit **React and Next.js completion checklist** (below).
 
 ---
 
@@ -114,9 +114,9 @@ Submit **Phase 4 completion checklist** (below).
 2. Screenshot: client component interaction on Next page
 3. Screenshot: dynamic route showing different `id`
 4. Coursera progress: Learn React (modules completed in this track) + Learn Next.js (Modules 1–3)
-5. Notion portfolio update with Phase 4 section
-6. Written answer (5–8 sentences): “Phase 4 → Phase 5 TS → Phase 6 Next AI UI”
-7. Commit history across Phase 4 (teacher may require **8+** meaningful commits total)
+5. Notion portfolio update with React and Next.js section
+6. Written answer (5–8 sentences): “React and Next.js → TypeScript support TS → Next.js frontend Next AI UI”
+7. Commit history across React and Next.js (teacher may require **8+** meaningful commits total)
 
 ---
 
@@ -138,11 +138,11 @@ You are successful if:
 |---|---|
 | `useState` error in page | Move interactivity to `'use client'` file. |
 | Dynamic route 404 | Folder `[id]` spelling; export default page component. |
-| Missing Phase 3 skills | Review Phase 3 fetch lesson before demo. |
+| Missing JavaScript skills | Review JavaScript fetch lesson before demo. |
 
 ---
 
-## Phase 4 Completion Checklist
+## React and Next.js Completion Checklist
 
 ```text
 [ ] react-practice/ runs — components, props, map, state, fetch
@@ -150,20 +150,20 @@ You are successful if:
 [ ] Coursera Learn React modules 1,2,4,5,7,8,9,12,13 (+ optional 10) done
 [ ] Coursera Learn Next.js modules 1,2,3 done
 [ ] Notion updated
-[ ] Can explain path to nextjs-frontend/ (course Phase 6)
+[ ] Can explain path to nextjs-frontend/ (course Next.js frontend)
 ```
 
 ---
 
 ## Fast Track Option
 
-Students who finish early may read `06_Starter_Code/nextjs-frontend/README.md` preview only — do not start the full AI app until course Phase 6.
+Students who finish early may read `06_Starter_Code/nextjs-frontend/README.md` preview only — do not start the full AI app until course Next.js frontend.
 
 ---
 
-## After Phase 4
+## After React and Next.js
 
-**Course track (not class missions folder numbering):** [TypeScript teacher reference](../../../09_Teacher_Planning/Phase_Overviews/Phase_5_TypeScript_Basics.md) → [Next.js Frontend teacher reference](../../../09_Teacher_Planning/Phase_Overviews/Phase_6_NextJS_Frontend.md) with `nextjs-frontend/`.
+**Course track (not class missions folder numbering):** TypeScript support teacher reference → Next.js Frontend teacher reference in `09_Teacher_Planning/Phase_Overviews/` with `nextjs-frontend/`.
 
 ---
 

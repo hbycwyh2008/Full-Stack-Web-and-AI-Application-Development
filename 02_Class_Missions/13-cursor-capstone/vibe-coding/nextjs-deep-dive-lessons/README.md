@@ -1,4 +1,4 @@
-# Phase 02: Vibe Code a Full-Stack Next.js 15 App (Cursor AI)
+# Part 2: Vibe Code a Full-Stack Next.js 15 App (Cursor AI)
 
 **Udemy course:** [Complete Cursor AI: Vibe Code a Full-Stack Next.js 15 App](https://www.udemy.com/course/cursorai-nextjs/)
 
@@ -35,7 +35,7 @@
 
 ## Previous Block
 
-[Phase 01: First Success](../Phase_01_First_Success/)
+[Part 1: First Success](../first-success-lessons/)
 
 ---
 

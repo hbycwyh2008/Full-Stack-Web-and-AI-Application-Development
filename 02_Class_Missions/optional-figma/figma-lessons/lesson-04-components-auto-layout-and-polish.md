@@ -72,7 +72,7 @@ One thing I still do not understand is...
 ### 27–37 min: Group Answer
 
 ```text
-We use components so Phase 6 Next.js can map...
+We use components so Next.js frontend Next.js can map...
 Source styling differs from answer because...
 Our group still needs help with...
 ```
@@ -103,7 +103,7 @@ Our group still needs help with...
 
 Change primary button label in component — confirm instances update.
 
-**Oral check:** What will you name the matching React component in Phase 6?
+**Oral check:** What will you name the matching React component in Next.js frontend?
 
 ---
 
@@ -141,7 +141,7 @@ Change primary button label in component — confirm instances update.
 
 ## Fast Track Option
 
-Dark mode variant frame `04-result-dark` (extension from formal Phase 4).
+Dark mode variant frame `04-result-dark` (extension from formal React and Next.js).
 
 ---
 

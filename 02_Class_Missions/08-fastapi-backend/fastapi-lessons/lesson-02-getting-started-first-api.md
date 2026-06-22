@@ -142,7 +142,7 @@ Stop the server, start again from memory. Open `/docs`, execute `/health`, scree
 
 ## Fast Track Option
 
-Add `GET /` returning your name and course phase — commit separately.
+Add `GET /` returning your name and course unit — commit separately.
 
 ---
 

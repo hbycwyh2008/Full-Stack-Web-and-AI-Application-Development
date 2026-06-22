@@ -1,4 +1,4 @@
-# Lesson 6: Pydantic Models and Phase 01 Checkpoint
+# Lesson 6: Pydantic Models and Part 1 Checkpoint
 
 
 | | |
@@ -19,8 +19,8 @@ By the end of this lesson, each student should be able to:
 2. Replace raw dicts with typed schemas on POST/PUT routes.
 3. Add a preview `POST /ask` body schema `{ "question": "..." }` (stub answer for now).
 4. Validate empty questions with clear 422/400 errors.
-5. Pass **course Phase 7 checkpoint**: running app + `/docs` + POST tested.
-6. Submit Coursera Module 6 progress, `/docs` screenshot, and Phase 01 checklist.
+5. Pass **course FastAPI backend checkpoint**: running app + `/docs` + POST tested.
+6. Submit Coursera Module 6 progress, `/docs` screenshot, and Part 1 checklist.
 
 ---
 
@@ -91,7 +91,7 @@ Our group still needs help with...
 3. Add `POST /ask`: if question empty → HTTPException; else return stub:
 
    ```json
-   {"answer": "Stub: we will connect RAG in course Phase 8.", "source": null}
+   {"answer": "Stub: we will connect RAG in course AI backend.", "source": null}
    ```
 
 4. Add `.env.example` with `OPENAI_API_KEY=your-key-here` (no real key).
@@ -117,9 +117,9 @@ Test invalid body (missing `question`) in `/docs` — confirm validation error. 
 2. Screenshot of `/docs` showing `POST /ask` success
 3. Screenshot of validation error for bad input
 4. Coursera Module 6 progress screenshot
-5. Phase 01 checklist (below) pasted in Notion or PR description
+5. Part 1 checklist (below) pasted in Notion or PR description
 
-**Phase 01 checklist:**
+**Part 1 checklist:**
 
 ```text
 [ ] fastapi-backend/ runs with uvicorn
@@ -138,7 +138,7 @@ Test invalid body (missing `question`) in `/docs` — confirm validation error. 
 1. Pydantic models used on at least POST routes.
 2. `/ask` stub runs with validation.
 3. Meets course **C6: FastAPI in `/docs`**.
-4. Phase 01 checklist complete.
+4. Part 1 checklist complete.
 
 ---
 
@@ -154,7 +154,7 @@ Test invalid body (missing `question`) in `/docs` — confirm validation error. 
 
 ## Fast Track Option
 
-Continue to [Phase 02 Lesson 7](../database-lessons/lesson-07-sql-database-sqlite.md). Lightweight track may stop here and join course Phase 8 RAG.
+Continue to [Part 2 Lesson 7](../database-lessons/lesson-07-sql-database-sqlite.md). Lightweight track may stop here and join course AI backend RAG.
 
 ---
 

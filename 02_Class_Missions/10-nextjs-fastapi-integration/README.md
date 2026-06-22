@@ -4,7 +4,7 @@ Use this folder for class missions that connect the Next.js frontend to the Fast
 
 Current phase overview:
 
-[Phase 9: Full Stack Integration](../../09_Teacher_Planning/Phase_Overviews/Phase_9_Full_Stack_Integration.md)
+Full Stack Integration teacher overview in `09_Teacher_Planning/Phase_Overviews/`
 
 Students should submit evidence that the frontend can call backend endpoints and display real responses.
 

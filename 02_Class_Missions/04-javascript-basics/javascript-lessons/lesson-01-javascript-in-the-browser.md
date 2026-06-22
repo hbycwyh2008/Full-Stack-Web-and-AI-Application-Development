@@ -136,7 +136,7 @@ Our group still needs help with...
 console.log("JavaScript is connected to my profile page.");
 
 const studentName = "Your Name";
-const coursePhase = "Phase 3 JavaScript";
+const coursePhase = "JavaScript JavaScript";
 console.log("Student:", studentName, "|", coursePhase);
 
 const skillLevel = 2; // change to a number that fits you
@@ -178,7 +178,7 @@ Students repeat independently **without opening Scrimba**.
 
 **Independent rebuild task:**
 
-1. Add a new function `describePhase(phase)` that returns a short string about Phase 3.
+1. Add a new function `describePhase(phase)` that returns a short string about JavaScript.
 2. Call it and log the result with `console.log`.
 3. Change one value in the `goals` array and confirm the loop output updates.
 4. Commit: `Add describePhase function and update goals`.

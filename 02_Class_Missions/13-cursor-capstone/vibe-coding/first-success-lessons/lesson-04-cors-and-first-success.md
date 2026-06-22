@@ -46,7 +46,7 @@ flowchart LR
 
 Same course — sections on **CORS**, connecting frontend to backend, troubleshooting (teacher assigns exact lectures).
 
-Review: [Phase 9 integration pattern](../../../../09_Teacher_Planning/Phase_Overviews/Phase_9_Full_Stack_Integration.md) (concept only).
+Review: full-stack integration pattern in `09_Teacher_Planning/Phase_Overviews/` (concept only).
 
 **Individual notes:**
 

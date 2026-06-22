@@ -1,14 +1,14 @@
-# Phase 02: Figma — Class Missions
+# Part 2: Figma — Class Missions
 
 **Parent track:** [01 Web Tools](../README.md)
 
 **Your repository for these classes:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
-**Goal:** Design the **AI School Assistant** UI in Figma **before** TypeScript and Next.js — aligned with **course Phase 4**.
+**Goal:** Design the **AI School Assistant** UI in Figma **before** TypeScript and Next.js — aligned with **course React and Next.js**.
 
 Open **one mission file per class** and follow it from top to bottom.
 
-> **Prerequisite:** [Phase 01 Git](../../01-github-notion/) + [Phase 1 Notion](../../01-github-notion/) (repo + portfolio). **AI Literacy** recommended but not required before Figma.
+> **Prerequisite:** [Part 1 Git](../../01-github-notion/) + [Notion portfolio Notion](../../01-github-notion/) (repo + portfolio). **AI Literacy** recommended but not required before Figma.
 
 > **No “Figma Crash Course” on Coursera** — this track uses **short Guided Projects** + **Figma official intro** + **capstone screens** in class.
 
@@ -25,7 +25,7 @@ Open **one mission file per class** and follow it from top to bottom.
 | 2 | [lesson-02-wireframe-guided-project.md](lesson-02-wireframe-guided-project.md) | Coursera GP: [Create a Digital Wireframe with Figma](https://www.coursera.org/projects/create-digital-wireframe-figma) |
 | 3 | [lesson-03-ai-assistant-wireframes.md](lesson-03-ai-assistant-wireframes.md) | Class rebuild — 4 capstone wireframes |
 | 4 | [lesson-04-components-auto-layout-and-polish.md](lesson-04-components-auto-layout-and-polish.md) | Figma official — components & Auto Layout + Coursera GP: [Weather App UI](https://www.coursera.org/projects/ui-design-using-figma-create-a-weather-app-interface) *(optional sections)* |
-| 5 | [lesson-05-prototype-handoff-and-submission.md](lesson-05-prototype-handoff-and-submission.md) | Coursera GP: [High-Fidelity Prototype with Figma](https://www.coursera.org/projects/create-high-fidelity-prototype-figma) + Phase 4 checklist |
+| 5 | [lesson-05-prototype-handoff-and-submission.md](lesson-05-prototype-handoff-and-submission.md) | Coursera GP: [High-Fidelity Prototype with Figma](https://www.coursera.org/projects/create-high-fidelity-prototype-figma) + React and Next.js checklist |
 
 **Optional certificate path (homework only):** [Beginner: Figma UI / UX Design Essentials](https://www.coursera.org/specializations/beginnerfigmauiuxdesignessentials) — Pt.3 handoff; not required for regular class sign-off.
 
@@ -75,12 +75,12 @@ Details: [classroom-flow.md](../../shared/classroom-flow.md)
 ## Connection to the Full Course
 
 ```text
-Class missions Figma     →  course Phase 4 (design before code)
-Course Phase 5           →  TypeScript
-Course Phase 6           →  nextjs-frontend/ implements your Figma
+Class missions Figma     →  course React and Next.js (design before code)
+Course TypeScript support           →  TypeScript
+Course Next.js frontend           →  nextjs-frontend/ implements your Figma
 ```
 
-Formal overview: [Phase_4_Figma_UI_Design.md](../../../09_Teacher_Planning/Phase_Overviews/Phase_4_Figma_UI_Design.md)
+Formal overview: see `09_Teacher_Planning/Phase_Overviews/`
 
 ---
 

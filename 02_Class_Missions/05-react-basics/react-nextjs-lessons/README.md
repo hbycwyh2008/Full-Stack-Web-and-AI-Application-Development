@@ -1,12 +1,12 @@
-# Phase 4: React & Next.js — Class Missions
+# React and Next.js: React & Next.js — Class Missions
 
 **Your repository for these classes:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
-**Goal:** Learn **React foundations**, then **Next.js basics**, as a bridge to the course **Phase 6 Next.js + TypeScript AI School Assistant** (formal phase). This block is **not** the final product — it builds skills and Coursera evidence.
+**Goal:** Learn **React foundations**, then **Next.js basics**, as a bridge to the course **Next.js frontend Next.js + TypeScript AI School Assistant** (formal phase). This block is **not** the final product — it builds skills and Coursera evidence.
 
 Open **one mission file per class** and follow it from top to bottom. Each lesson has **one required Coursera module** (or module section).
 
-> **Prerequisite:** [Phase 3 JavaScript](../../04-javascript-basics/javascript-lessons/) complete (DOM, events, `async`/`fetch`).
+> **Prerequisite:** [JavaScript JavaScript](../../04-javascript-basics/javascript-lessons/) complete (DOM, events, `async`/`fetch`).
 
 > **Coursera access:** Enroll in [Learn React](https://www.coursera.org/learn/learn-react) and [Learn Next.js](https://www.coursera.org/learn/learn-nextjs). Use school Coursera for Campus if available; otherwise audit or Financial Aid.
 
@@ -66,16 +66,16 @@ nextjs-practice/         ← Lessons 8–10 (create-next-app)
 └── README.md
 ```
 
-**Note:** Formal AI app frontend lives in `nextjs-frontend/` during course **Phase 6** — do not confuse with `nextjs-practice/`.
+**Note:** Formal AI app frontend lives in `nextjs-frontend/` during course **Next.js frontend** — do not confuse with `nextjs-practice/`.
 
 ---
 
 ## Connection to the Full Course
 
 ```text
-Class missions Phase 4  →  React + Next.js skills + Coursera evidence
-Course Phase 5          →  TypeScript
-Course Phase 6          →  nextjs-frontend/ + Figma + FastAPI UI
+Class missions React and Next.js  →  React + Next.js skills + Coursera evidence
+Course TypeScript support          →  TypeScript
+Course Next.js frontend          →  nextjs-frontend/ + Figma + FastAPI UI
 ```
 
 ---

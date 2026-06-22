@@ -18,7 +18,7 @@ By the end of this lesson, each student should be able to:
 1. Explain how Next.js relates to React (framework on top of React).
 2. Create `nextjs-practice/` with `create-next-app` and App Router.
 3. Run `npm run dev` and open the default Next.js page.
-4. Replace the home page with your name and Phase 4 heading.
+4. Replace the home page with your name and React and Next.js heading.
 5. Commit first Next.js project with meaningful message.
 6. Submit [Learn Next.js Module 1](https://www.coursera.org/learn/learn-nextjs/home/module/1) evidence.
 
@@ -81,8 +81,8 @@ Our group still needs help with...
 
 ### 45–70 min: Mission Task
 
-1. Create `nextjs-practice/` using `create-next-app` (JavaScript is OK for Phase 4; TypeScript comes in course Phase 5).
-2. Edit `app/page.jsx` (or `.js`): show your name + “Phase 4 — Next.js practice”.
+1. Create `nextjs-practice/` using `create-next-app` (JavaScript is OK for React and Next.js; TypeScript comes in course TypeScript support).
+2. Edit `app/page.jsx` (or `.js`): show your name + “React and Next.js — Next.js practice”.
 3. Add `README.md`: how to run dev server; link to `react-practice/` as prior step.
 4. Commit: `Initialize nextjs-practice with App Router`.
 

@@ -71,7 +71,7 @@ Our group still needs help with...
 
 ### 37–45 min: Entry Points Check
 
-**Teacher checks:** Phase 3 array/loop skills still accessible; `key` not equal to array index when possible (teacher explains if needed).
+**Teacher checks:** JavaScript array/loop skills still accessible; `key` not equal to array index when possible (teacher explains if needed).
 
 ---
 
@@ -99,7 +99,7 @@ Add one project to the array and confirm UI updates with one code change. Commit
 1. Screenshot of three+ cards from one array
 2. GitHub link showing `.map()` and `key` in App or list component
 3. Coursera Module 5 progress screenshot
-4. One sentence: “Using map in React is like Phase 3 loops because...”
+4. One sentence: “Using map in React is like JavaScript loops because...”
 
 ---
 

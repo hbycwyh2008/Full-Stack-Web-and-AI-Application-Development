@@ -20,7 +20,7 @@ By the end of this lesson, each student should be able to:
 3. Name the three `name` attributes and explain what data the form would send.
 4. Add folder `README.md` documenting the project.
 5. Make at least two meaningful commits across Lessons 1–2.
-6. Submit complete Phase 2 evidence on GitHub.
+6. Submit complete AI literacy evidence on GitHub.
 
 ---
 
@@ -132,7 +132,7 @@ Point to one HTML tag, one CSS rule, and three `name` attributes without notes.
 
 1. Screenshot of styled form
 2. GitHub folder with `index.html`, CSS, `README.md`
-3. Two+ meaningful commits across Phase 2 lessons
+3. Two+ meaningful commits across AI literacy lessons
 4. Written answer: three name/value pairs your form sends
 5. One sentence: “This form is like our AI app because...”
 
@@ -159,10 +159,10 @@ Point to one HTML tag, one CSS rule, and three `name` attributes without notes.
 
 ## Fast Track Option
 
-Preview [Phase 3 JavaScript](../../04-javascript-basics/javascript-lessons/) if Phase 2 evidence is complete and teacher approves.
+Preview [JavaScript JavaScript](../../04-javascript-basics/javascript-lessons/) if AI literacy evidence is complete and teacher approves.
 
 ---
 
-## After Phase 2
+## After AI literacy
 
-Next: [Phase 3: JavaScript](../../04-javascript-basics/javascript-lessons/)
+Next: [JavaScript: JavaScript](../../04-javascript-basics/javascript-lessons/)

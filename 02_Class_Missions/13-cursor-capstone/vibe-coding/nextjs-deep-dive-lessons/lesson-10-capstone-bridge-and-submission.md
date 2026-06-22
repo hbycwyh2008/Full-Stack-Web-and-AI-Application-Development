@@ -91,11 +91,11 @@ Our group still needs help with...
    ```markdown
    # Kanban Practice → AI School Assistant
 
-   ## Reuse from Phase 01 (full-stack-practice)
+   ## Reuse from Part 1 (full-stack-practice)
    - CORS + fetch POST pattern
    - FIRST_SUCCESS story
 
-   ## Reuse from Phase 02 (kanban-cursor)
+   ## Reuse from Part 2 (kanban-cursor)
    - Cursor Rules + Notepads workflow
    - Loading / error UI patterns
    - Plan → prompt → diff → test → commit
@@ -105,7 +105,7 @@ Our group still needs help with...
    |---|---|
    | PostgreSQL + Drizzle | FastAPI + DB/RAG store |
    | Server Actions | FastAPI routes (e.g. POST /ask) |
-   | Cursor Agent | Cursor on capstone repo only (Phase 10 policy) |
+   | Cursor Agent | Cursor on capstone repo only (Notion portfolio0 policy) |
 
    ## Figma screens → routes
    - Ask page → ...
@@ -113,7 +113,7 @@ Our group still needs help with...
 
    ## Next self-study (optional)
    - Finish Udemy Kanban if any lectures remain
-   - Phase 01 Project 2 (FastAPI bridge course)
+   - Part 1 Project 2 (FastAPI bridge course)
    ```
 
 4. Update Notion; link GitHub folders.
@@ -152,10 +152,10 @@ Our group still needs help with...
 <summary><strong>05 Vibe Coding checklist</strong></summary>
 
 ```text
-[ ] Phase 01: FIRST_SUCCESS.md + working Project 1
-[ ] Phase 01: independent-rebuild/lesson-01 … lesson-05 each with REBUILD.md
-[ ] Phase 02: Kanban follow-along UI + DB + mutation
-[ ] Phase 02: independent-rebuild/lesson-06 … lesson-10 each with REBUILD.md
+[ ] Part 1: FIRST_SUCCESS.md + working Project 1
+[ ] Part 1: independent-rebuild/lesson-01 … lesson-05 each with REBUILD.md
+[ ] Part 2: Kanban follow-along UI + DB + mutation
+[ ] Part 2: independent-rebuild/lesson-06 … lesson-10 each with REBUILD.md
 [ ] vibe-coding/cursor-reflection.md (plan-first workflow)
 [ ] CAPSTONE_BRIDGE.md
 [ ] Udemy both courses progress (screenshots)
@@ -181,9 +181,9 @@ Our group still needs help with...
 ## Success Criteria
 
 1. Kanban follow-along runs with UI + data + mutation.
-2. **Ten** independent rebuild folders (Phase 01 + 02) with honest `REBUILD.md`.
+2. **Ten** independent rebuild folders (Part 1 + 02) with honest `REBUILD.md`.
 3. Clear bridge to FastAPI capstone.
-4. Phase 01 first success still reproducible from rebuild folders.
+4. Part 1 first success still reproducible from rebuild folders.
 
 ---
 
@@ -193,13 +193,13 @@ Our group still needs help with...
 |---|---|
 | Behind on §6–§7 | Demo minimum feature; assign rest as homework. |
 | Thinks capstone uses Postgres | Re-read CAPSTONE_BRIDGE stack table. |
-| Skipped Phase 01 | Must show FastAPI fetch before sign-off. |
+| Skipped Part 1 | Must show FastAPI fetch before sign-off. |
 
 ---
 
 ## After 05 Vibe Coding
 
-**Formal course:** Phase 8 RAG · Phase 9 integration · Phase 10 Cursor capstone on **AI School Assistant**
+**Formal course:** AI backend RAG · integration integration · Notion portfolio0 Cursor capstone on **AI School Assistant**
 
 **Optional homework:** Project 2 in [Learn Next.js and FastAPI](https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/)
 

@@ -4,7 +4,7 @@ Use this folder for FastAPI backend class missions.
 
 Current phase overview:
 
-[Phase 7: FastAPI Backend](../../09_Teacher_Planning/Phase_Overviews/Phase_7_FastAPI_Backend.md)
+FastAPI Backend teacher overview in `09_Teacher_Planning/Phase_Overviews/`
 
 Students should build a lightweight API before adding AI features.
 

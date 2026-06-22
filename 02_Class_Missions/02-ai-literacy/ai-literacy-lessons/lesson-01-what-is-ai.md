@@ -81,7 +81,7 @@ Our group still needs help with...
 
 ### 37–45 min: Entry Points Check
 
-**Teacher checks:** Repo from Phase 0 exists; Notion link in root README; students enrolled in AI for Everyone.
+**Teacher checks:** Repo from GitHub setup exists; Notion link in root README; students enrolled in AI for Everyone.
 
 ---
 

@@ -20,7 +20,7 @@ By the end of this lesson, each student should be able to:
 3. Publish **view link** in `figma-design/figma-link.md` with teacher access instructions.
 4. Write `README.md` design decisions (fonts, components, responsible AI UX).
 5. Update Notion portfolio with Figma link.
-6. Pass **course Phase 4** oral check and checklist.
+6. Pass **course React and Next.js** oral check and checklist.
 
 ---
 
@@ -61,7 +61,7 @@ One thing I still do not understand is...
 
 ### 15–27 min: Talk Robin / Group Discussion
 
-**Share:** Demo one prototype path; how a developer uses your Figma in Phase 6; one design change after peer feedback.
+**Share:** Demo one prototype path; how a developer uses your Figma in Next.js frontend; one design change after peer feedback.
 
 ---
 
@@ -100,7 +100,7 @@ Our group still needs help with...
 3. Expand `README.md`: screen list, components list, **why source is shown**, planned Next.js mapping.
 4. Export final PNGs for all four screens into `screenshots/`.
 5. Update Notion portfolio — **Projects** or **Design** section with Figma link.
-6. Commit: `Complete Figma Phase 4 prototype and handoff docs`.
+6. Commit: `Complete Figma React and Next.js prototype and handoff docs`.
 
 ---
 
@@ -115,7 +115,7 @@ Teacher oral quiz (pick 2):
 - Which screen will you build first in Next.js?
 - How does design show responsible AI?
 
-Sign Phase 4 checklist (below).
+Sign React and Next.js checklist (below).
 
 ---
 
@@ -132,7 +132,7 @@ Sign Phase 4 checklist (below).
 5. Notion link updated
 6. Completed checklist pasted in PR or Notion
 
-**Phase 4 checklist:**
+**React and Next.js checklist:**
 
 ```text
 [ ] figma-design/ on GitHub with README + figma-link.md
@@ -149,9 +149,9 @@ Sign Phase 4 checklist (below).
 
 ## Success Criteria
 
-1. Meets formal [Phase 4 Figma](../../../09_Teacher_Planning/Phase_Overviews/Phase_4_Figma_UI_Design.md) evidence table.
+1. Meets formal Figma teacher overview in `09_Teacher_Planning/Phase_Overviews/` evidence table.
 2. Prototype runs without broken links on main path.
-3. Handoff README helps a coder in Phase 6.
+3. Handoff README helps a coder in Next.js frontend.
 4. Responsible AI visible in Result design.
 
 ---
@@ -174,9 +174,9 @@ Optional homework: [Figma UI/UX Essentials Pt.3 — Handoff](https://www.courser
 
 ## After Figma
 
-**Formal course:** [Phase 5: TypeScript Basics](../../../09_Teacher_Planning/Phase_Overviews/Phase_5_TypeScript_Basics.md)
+**Formal course:** TypeScript support teacher overview in `09_Teacher_Planning/Phase_Overviews/`
 
-**Class missions:** Continue [Front-end Phase 4 React & Next.js](../../05-react-basics/react-nextjs-lessons/) or teacher cohort map.
+**Class missions:** Continue [Front-end React and Next.js React & Next.js](../../05-react-basics/react-nextjs-lessons/) or teacher cohort map.
 
 ---
 

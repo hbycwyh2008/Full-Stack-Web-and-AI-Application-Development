@@ -97,7 +97,7 @@ Our group still needs help with...
 
 ### 70–80 min: Independent Rebuild / Exit Check
 
-Without re-opening Coursera, add one bullet to README: **“Evidence: commits + /docs screenshots from Phase 01.”**
+Without re-opening Coursera, add one bullet to README: **“Evidence: commits + /docs screenshots from Part 1.”**
 
 **Oral check:** What does REST stand for in plain words?
 

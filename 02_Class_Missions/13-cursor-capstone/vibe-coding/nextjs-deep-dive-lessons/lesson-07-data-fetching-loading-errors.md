@@ -48,7 +48,7 @@ flowchart LR
 
 Complete all **5 lectures** in this section (expand in Udemy sidebar).
 
-Cross-check [Figma Phase 02](../../../optional-figma/figma-lessons/) — layout, spacing, and loading placeholders.
+Cross-check [Figma Part 2](../../../optional-figma/figma-lessons/) — layout, spacing, and loading placeholders.
 
 **Individual notes:**
 

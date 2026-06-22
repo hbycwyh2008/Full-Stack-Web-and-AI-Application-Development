@@ -6,7 +6,7 @@
 
 ## Two Folders (Do Not Mix)
 
-| Purpose | Phase 01 path | Phase 02 path |
+| Purpose | Part 1 path | Part 2 path |
 |---|---|---|
 | Follow-along (Udemy, Cursor, notes OK) | `full-stack-practice/` | `vibe-coding/kanban-cursor/` |
 | **Independent rebuild (this rule)** | `full-stack-practice/independent-rebuild/lesson-0X/` | `vibe-coding/independent-rebuild/lesson-0X/` |

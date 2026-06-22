@@ -86,7 +86,7 @@ Our group still needs help with...
 
 **Teacher checks:**
 
-1. Phase 1 Notion portfolio link still in your README?
+1. Notion portfolio Notion portfolio link still in your README?
 2. Editor + browser ready?
 3. Can students explain label/input connection?
 

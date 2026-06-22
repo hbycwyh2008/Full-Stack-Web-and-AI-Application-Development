@@ -1,10 +1,10 @@
-# Phase 01: FastAPI — Class Missions (Lessons 1–6)
+# Part 1: FastAPI — Class Missions (Lessons 1–6)
 
 **Coursera course:** [Introduction to FastAPI and Backend Development Fundamentals](https://www.coursera.org/learn/packt-introduction-to-fastapi-and-backend-development-fundamentals-7zg6w)
 
 **Student folder:** `fastapi-backend/`
 
-**Goal:** Running FastAPI service with GET/POST routes, Pydantic validation, and Swagger UI at `/docs` — matches **course Phase 7**.
+**Goal:** Running FastAPI service with GET/POST routes, Pydantic validation, and Swagger UI at `/docs` — matches **course FastAPI backend**.
 
 > [!TIP]
 > **Easier reading:** Markdown preview (`Ctrl+Shift+V`) or GitHub. See [mission-display-guide.md](../../shared/mission-display-guide.md) (adjust `../` depth if needed).
@@ -22,13 +22,13 @@
 | 5 | [lesson-05-crud-operations.md](lesson-05-crud-operations.md) | Module 5 — CRUD Operations |
 | 6 | [lesson-06-pydantic-models-and-phase-checkpoint.md](lesson-06-pydantic-models-and-phase-checkpoint.md) | Module 6 — Pydantic Model |
 
-**After Lesson 6:** You meet **course Phase 7 checkpoint C6** (FastAPI in `/docs`). Phase 02 (lessons 7–10) is optional for lightweight track.
+**After Lesson 6:** You meet **course FastAPI backend checkpoint C6** (FastAPI in `/docs`). Part 2 (lessons 7–10) is optional for lightweight track.
 
 ---
 
 ## Next Block
 
-[Phase 02: Database](../database-lessons/)
+[Part 2: Database](../database-lessons/)
 
 ---
 

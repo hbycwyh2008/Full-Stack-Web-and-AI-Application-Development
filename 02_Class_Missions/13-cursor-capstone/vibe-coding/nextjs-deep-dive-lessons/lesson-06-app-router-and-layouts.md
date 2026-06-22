@@ -85,7 +85,7 @@ Our group still needs help with...
 
 ### 37–45 min: Entry Points Check
 
-**Teacher checks:** Udemy enrolled; Cursor opens; `node -v` works; Phase 01 `FIRST_SUCCESS.md` exists.
+**Teacher checks:** Udemy enrolled; Cursor opens; `node -v` works; Part 1 `FIRST_SUCCESS.md` exists.
 
 ---
 

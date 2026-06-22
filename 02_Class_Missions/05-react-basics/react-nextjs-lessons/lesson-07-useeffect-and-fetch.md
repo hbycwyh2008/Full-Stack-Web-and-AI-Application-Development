@@ -16,7 +16,7 @@
 By the end of this lesson, each student should be able to:
 
 1. Explain why data fetching in React often uses `useEffect`.
-2. Fetch JSON on button click with `async`/`await` inside a handler (Phase 3 skill).
+2. Fetch JSON on button click with `async`/`await` inside a handler (JavaScript skill).
 3. Optionally preview `useEffect` for load-on-mount (Module 13).
 4. Show loading and error states in the UI.
 5. Document how this connects to a future FastAPI call in README.
@@ -52,7 +52,7 @@ Optional if time: Module 10 API integration scrims (skip Sound pads challenges).
 
 ```text
 useEffect runs when...
-fetch in React is similar to Phase 3 because...
+fetch in React is similar to JavaScript because...
 Loading state matters because...
 This will connect to our AI app when...
 One thing I still do not understand is...
@@ -77,7 +77,7 @@ Our group still needs help with...
 
 ### 37–45 min: Entry Points Check
 
-**Teacher checks:** Phase 3 `async/await` understood; CORS explained for public API vs local backend later.
+**Teacher checks:** JavaScript `async/await` understood; CORS explained for public API vs local backend later.
 
 ---
 
@@ -85,7 +85,7 @@ Our group still needs help with...
 
 1. Add button “Load quote” that `fetch`es `https://jsonplaceholder.typicode.com/todos/1` and displays `title` in state.
 2. Show “Loading...” while fetching; show error message on failure.
-3. Add to `react-practice/README.md` one bullet: “Next step: call FastAPI from Next.js in course Phase 6–7.”
+3. Add to `react-practice/README.md` one bullet: “Next step: call FastAPI from Next.js in course Next.js frontend–7.”
 4. Commit: `Add fetch demo with loading state in React`.
 
 ---
@@ -129,7 +129,7 @@ Change endpoint to `/users/1` and display `name`. Optional: one `useEffect` on m
 
 ## Fast Track Option
 
-Complete `react-practice/README.md` Phase 4 summary section before Lesson 8.
+Complete `react-practice/README.md` React and Next.js summary section before Lesson 8.
 
 ---
 

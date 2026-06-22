@@ -5,12 +5,12 @@
 | **Classes** | 6 × 90 min |
 | **Resource** | [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone) |
 | **Evidence** | `ai-literacy/` |
-| **Course phase** | Phase 2 · Checkpoint **C3** |
+| **Course unit** | AI literacy · Checkpoint **C3** |
 
 **Your repository:** `[studentName]-Full-Stack-Web-and-AI-Application`
 
 > [!NOTE]
-> **Prerequisite:** [Phase 01 Git](../../01-github-notion/) + [Notion Portfolio](../../01-github-notion/)
+> **Prerequisite:** [Part 1 Git](../../01-github-notion/) + [Notion Portfolio](../../01-github-notion/)
 
 Open **one mission file per class**. Each lesson maps to one block of AI for Everyone plus a GitHub writing task.
 
@@ -70,7 +70,7 @@ ai-literacy/
 ## What comes next
 
 ```text
-AI Literacy (this block)  →  Phase 3 AI Math Bridge  →  Front-end / Back-end / Vibe Coding (teacher map)
+AI Literacy (this block)  →  JavaScript AI Math Bridge  →  Front-end / Back-end / Vibe Coding (teacher map)
 ```
 
 Every lesson connects to the **AI School Assistant** capstone.

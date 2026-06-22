@@ -68,7 +68,7 @@ Details: [classroom-flow.md](../shared/classroom-flow.md)
 Extended unit, rubrics, and daily lesson plans live in:
 
 - `05_Resources/Git_GitHub_Unit/` — teacher supplement
-- `09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/` — legacy teacher session scripts
+- `09_Teacher_Planning/Daily_Lesson_Plans/legacy-git-github-overview/` — legacy teacher session scripts
 
 Students use **only** the assigned mission files in this folder during class.
 
@@ -76,7 +76,7 @@ Students use **only** the assigned mission files in this folder during class.
 
 ## Phase Overview (Teachers)
 
-[Git/GitHub teacher overview](../../09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md)
+Git/GitHub teacher overview in `09_Teacher_Planning/Phase_Overviews/`
 
 ---
 

@@ -57,6 +57,17 @@ Phase overviews: [09_Teacher_Planning/Phase_Overviews/](09_Teacher_Planning/Phas
 
 ---
 
+## Middle School and High School Tracks
+
+Both grade bands use the **same repository, learning pathway, missions, and professional tools**. The difference is the expected level of scaffolding, independence, technical depth, debugging, and mastery.
+
+- **Middle School — Guided Full-Stack Development:** **Build · Modify · Explain**
+- **High School — Independent Full-Stack AI Development:** **Rebuild · Debug · Integrate · Transfer**
+
+See **[Grade-Band Expectations](00_Course_Overview/Grade_Band_Expectations.md)** for the detailed requirements, mastery targets, and final-project differentiation.
+
+---
+
 ## Evidence and Mastery
 
 | Concept | Document |
@@ -93,4 +104,3 @@ Educational materials, including course documents, lesson guides, class missions
 Source code, including starter code, demo code, example applications, project scaffolds, frontend code, backend code, and scripts, is licensed under the MIT License.
 
 See `LICENSE.md` and `LICENSE_SUMMARY.md` for details.
-

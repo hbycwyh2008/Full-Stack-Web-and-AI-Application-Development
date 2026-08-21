@@ -10,7 +10,7 @@ This repository is organized **student-first**. Students begin at [STUDENT_START
 
 | Layer | Folder | Purpose |
 |---|---|---|
-| Student entry | [STUDENT_START_HERE.md](STUDENT_START_HERE.md) | Share with every student on day 1 |
+| Student entry | [STUDENT_START_HERE.md](STUDENT_START_HERE.md) | Share with every student |
 | Student setup | [01_Student_Start/](01_Student_Start/) | GitHub, Notion, evidence, AI policy |
 | In-class (students) | [02_Class_Missions/](02_Class_Missions/README.md) | Students open **today’s mission** during class |
 | Templates | [03_Templates/](03_Templates/) | README, reflections, portfolio, submission |
@@ -25,15 +25,40 @@ This repository is organized **student-first**. Students begin at [STUDENT_START
 
 ---
 
-## Run Phase 0 First
+## Day 1 — Course Orientation
 
-1. Share [STUDENT_START_HERE.md](STUDENT_START_HERE.md) with students.
-2. Teach from [Daily Lesson Plans — Phase 0](09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/README.md) (80-minute sessions).
-3. Students follow [Class Missions — 01 GitHub Notion](02_Class_Missions/01-github-notion/README.md) in class.
-4. Grade Phase 0 with [Student_GitHub_Assessment.md](04_Assessment/Student_GitHub_Assessment.md).
-5. Supplement: [Git GitHub Unit](05_Resources/Git_GitHub_Unit/README.md) — handouts, rubrics, parent overview.
+Before GitHub setup or coding, teach the dedicated first-day orientation:
 
-Print or link posters: [08_Public_Documents/posters/](08_Public_Documents/posters/README.md)
+**Teacher lesson:** [Course Orientation — Poster Quest and Learning Pathway](09_Teacher_Planning/Daily_Lesson_Plans/Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md)
+
+**Student mission:** [Mission 00 — Course Orientation: Poster Quest](02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md)
+
+Day 1 introduces:
+
+- course destination and final-project direction;
+- the four official classroom posters;
+- classroom flow and mastery;
+- responsible AI use;
+- competition pathways as optional enrichment;
+- the full learning pathway;
+- Middle School vs High School expectations.
+
+**Grade-band expectations:** [Grade_Band_Expectations.md](00_Course_Overview/Grade_Band_Expectations.md)
+
+Print or display posters: [08_Public_Documents/posters/](08_Public_Documents/posters/README.md)
+
+---
+
+## Then Begin GitHub and Notion
+
+After the orientation lesson:
+
+1. Begin with [Daily Lesson Plans — Phase 0 Git & GitHub](09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/README.md).
+2. Students follow [Class Missions — 01 GitHub Notion](02_Class_Missions/01-github-notion/README.md) in class.
+3. Grade GitHub evidence with [Student_GitHub_Assessment.md](04_Assessment/Student_GitHub_Assessment.md).
+4. Supplement as needed with [Git GitHub Unit](05_Resources/Git_GitHub_Unit/README.md).
+
+Because Day 1 already establishes the course culture, the culture section in the first GitHub lesson can be treated as a short review rather than a full introduction.
 
 ---
 
@@ -41,7 +66,7 @@ Print or link posters: [08_Public_Documents/posters/](08_Public_Documents/poster
 
 **Location:** [09_Teacher_Planning/Daily_Lesson_Plans/](09_Teacher_Planning/Daily_Lesson_Plans/README.md)
 
-Teacher-facing session scripts with timing, talk tracks, and classroom management. Phase 0 is complete (15 sessions).
+Teacher-facing session scripts with timing, talk tracks, differentiation, and classroom management.
 
 How to use: [how-to-use-daily-lesson-plans.md](09_Teacher_Planning/Daily_Lesson_Plans/teacher-notes/how-to-use-daily-lesson-plans.md)
 
@@ -51,7 +76,7 @@ How to use: [how-to-use-daily-lesson-plans.md](09_Teacher_Planning/Daily_Lesson_
 
 **Location:** [02_Class_Missions/](02_Class_Missions/README.md)
 
-Student-facing task sheets — one per class session. Students open the mission your assign; you do not read these aloud as a script.
+Student-facing task sheets — one per class session. Students open the mission you assign; you do not read these aloud as a script.
 
 Teacher notes: [02_Class_Missions/teacher-notes/](02_Class_Missions/teacher-notes/)
 
@@ -61,9 +86,9 @@ Teacher notes: [02_Class_Missions/teacher-notes/](02_Class_Missions/teacher-note
 
 **Location:** [09_Teacher_Planning/Phase_Overviews/](09_Teacher_Planning/Phase_Overviews/)
 
-Phase-level requirements, evidence checklists, and submission lists (Phases 0–11). Share or assign when starting each new phase.
+Phase-level requirements, evidence checklists, and submission lists. Share or assign when starting each new phase.
 
-Before Phase 10: [Teacher Demo Walkthrough](09_Teacher_Planning/Phase_Overviews/Teacher_Demo_Walkthrough.md)
+Before the Cursor capstone: [Teacher Demo Walkthrough](09_Teacher_Planning/Phase_Overviews/Teacher_Demo_Walkthrough.md)
 
 ---
 
@@ -96,4 +121,5 @@ Before Phase 10: [Teacher Demo Walkthrough](09_Teacher_Planning/Phase_Overviews/
 - [Course_Overview.md](00_Course_Overview/Course_Overview.md)
 - [Course_Pacing_Guide.md](00_Course_Overview/Course_Pacing_Guide.md)
 - [Learning_Pathway_Map.md](00_Course_Overview/Learning_Pathway_Map.md)
+- [Grade_Band_Expectations.md](00_Course_Overview/Grade_Band_Expectations.md)
 - [Video_Resource_List.md](00_Course_Overview/Video_Resource_List.md)

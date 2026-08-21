@@ -8,6 +8,28 @@ Your grade and growth depend on **what you can do**, not only what you watched.
 
 > **Running code once is not mastery.** You must explain, rebuild, debug, modify, and submit evidence. See Levels 0–5 below.
 
+## Grade-Band Mastery Targets
+
+Middle School and High School students use the **same mastery scale**, but the expected target is different.
+
+### Middle School — Guided Full-Stack Development
+
+- Most topics: **Level 2–3**
+- Selected core skills: **Level 3 consistently**
+- Level 4–5: encouraged for advanced students, but not required across the entire course
+
+**Core expectation:** Build · Modify · Explain
+
+### High School — Independent Full-Stack AI Development
+
+- Most core topics: **minimum Level 3**
+- Major programming and application-development skills: **target Level 4**
+- Capstone and selected core skills: **target Level 4–5**
+
+**Core expectation:** Rebuild · Debug · Integrate · Transfer
+
+See [Grade-Band Expectations](../../00_Course_Overview/Grade_Band_Expectations.md) for the complete track requirements.
+
 ---
 
 ## Level 0: Exposure

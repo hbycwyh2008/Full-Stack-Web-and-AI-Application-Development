@@ -2,6 +2,15 @@
 
 The course is organized into **numbered units (00–15)** plus optional Figma. Students build workflow and portfolio habits first, then frontend foundations, backend and AI integration, data / ML workflow, Cursor-supported capstone work, and final showcase.
 
+## Grade-Band Differentiation
+
+Middle School and High School students follow the **same learning pathway and use the same repository**. The difference is the expected level of scaffolding, independence, technical depth, debugging, and mastery.
+
+- **Middle School — Guided Full-Stack Development:** Build · Modify · Explain
+- **High School — Independent Full-Stack AI Development:** Rebuild · Debug · Integrate · Transfer
+
+See [Grade-Band Expectations](Grade_Band_Expectations.md) for detailed requirements and final-project differentiation.
+
 ```text
 00: Course overview
 01: GitHub and Notion

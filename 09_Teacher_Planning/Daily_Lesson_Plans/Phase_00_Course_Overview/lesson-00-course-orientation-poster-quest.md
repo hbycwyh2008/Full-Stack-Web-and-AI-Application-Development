@@ -2,24 +2,51 @@
 
 **Unit:** 00 — Course Overview  
 **Duration:** 90 minutes  
-**Purpose:** First-day orientation before GitHub setup or coding begins
+**Purpose:** First-day orientation before GitHub setup or coding begins  
+**Student mission:** `02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md`
 
 ---
 
 ## Lesson Goal
 
-Students understand **what this course is, how learning works in this class, how AI may be used, what mastery means, and how Middle School and High School expectations differ**.
+Students learn **what this course is by experiencing the course learning process**.
 
-This is an orientation lesson, not a syllabus lecture. Students should discover the course through the posters, pathway map, discussion, and short evidence tasks.
+This is **not** a syllabus lecture and should **not** become a teacher-led question-and-answer session. Students should discover the course expectations through individual observation, partner discussion, group sorting, scenario decisions, and individual transfer evidence.
 
 By the end of class, students should be able to explain:
 
-1. what they will eventually build in this course;
-2. the class learning cycle: **learn → practice → rebuild → share**;
-3. why working code once is not the same as mastery;
-4. how AI may support learning without replacing thinking;
-5. what their grade-band expectation means;
-6. one personal course goal or question.
+1. the classroom learning cycle;
+2. why working code once is not the same as mastery;
+3. how AI may support learning without replacing thinking;
+4. that competition pathways are optional enrichment;
+5. the broad course pathway;
+6. what their grade-band expectation means.
+
+---
+
+## Non-Negotiable Pedagogy for This Lesson
+
+Use this sequence:
+
+```text
+individual evidence
+→ partner discussion
+→ group claim
+→ targeted clarification only where needed
+→ applied group task
+→ individual transfer evidence
+```
+
+Do **not** use this sequence:
+
+```text
+teacher asks question
+→ student answers
+→ teacher explains
+→ teacher asks next question
+```
+
+The mission file already contains the prompts. The teacher's job is to organize the activity, observe thinking, identify misconception patterns, and give short diagnosis-based clarification.
 
 ---
 
@@ -29,317 +56,289 @@ By the end of class, students should be able to explain:
 
 **Core Goal:** Build · Modify · Explain
 
-Students should be able to identify the main message of each poster, explain it in their own words, and connect it to one expected classroom behavior.
+Students identify, sort, and explain the main expectations with sentence-level evidence.
 
-**Target mastery for this lesson:** Level 2 — explain while looking.
+**Target mastery for this lesson:** Level 2 — explain while looking at evidence.
 
 ### High School — Independent Full-Stack AI Development
 
 **Core Goal:** Rebuild · Debug · Integrate · Transfer
 
-Students should be able to explain each poster, justify why the expectation matters, and apply the expectation to a realistic course scenario.
+Students justify decisions and apply the expectations to a new situation without copying poster wording.
 
-**Target mastery for this lesson:** Level 2–3 — explain and apply with a short checklist.
-
-See: `00_Course_Overview/Grade_Band_Expectations.md`.
+**Target mastery for this lesson:** Level 2–3 — explain and transfer with limited scaffolding.
 
 ---
 
-## Resources
+## Required Resource
 
-### Required classroom visuals
+Students use **one required resource** during Individual Learning:
 
-Use the four official posters in `08_Public_Documents/posters/`:
+- `08_Public_Documents/posters/README.md`
 
-1. **Our Classroom Flow** — `classroom-flow.png`
-2. **Mastery Level** — `mastery-level.png`
-3. **AI Use Policy** — `ai-use-policy.png`
-4. **CS Competition Pathways** — `cs-competition-pathways.png`
+This page contains the four official course posters:
 
-### Course documents
+1. Our Classroom Flow
+2. Mastery Level
+3. AI Use Policy
+4. CS Competition Pathways
+
+Later mission-task materials may include:
 
 - `00_Course_Overview/Learning_Pathway_Map.md`
 - `00_Course_Overview/Grade_Band_Expectations.md`
-- `07_Final_Project/Final_Project_Specification.md`
-- `02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md`
-
-### Teacher preparation
-
-Before class:
-
-- display or print the four posters in four different areas of the room;
-- prepare students in groups of 3–4;
-- project the Learning Pathway Map;
-- open the AI School Assistant final-project specification for a short preview;
-- share the student mission digitally or print one copy per student.
 
 ---
 
-## 90-Minute Lesson Flow
+## Preparation
 
-| Time | Block | Purpose |
-|---|---|---|
-| 0–10 min | Entry Point Check | Surface prior ideas and misconceptions |
-| 10–20 min | Course Destination Preview | Show where the course is going |
-| 20–45 min | Poster Quest | Students discover course expectations |
-| 45–55 min | Talk Round + Debrief | Compare interpretations |
-| 55–65 min | Learning Pathway Map | See the full course sequence |
-| 65–75 min | Grade-Band Expectations | Clarify MS vs HS success criteria |
-| 75–85 min | Personal Course Map | Students summarize expectations and goals |
-| 85–90 min | Exit Evidence | Individual proof of understanding |
+Before class:
+
+- display or print the four official posters around the room if using a physical gallery;
+- prepare students for partner work and groups of 3–4;
+- provide one shared group board / large sheet / collaborative slide per group;
+- open the student mission;
+- prepare the Learning Pathway Map for the Mission Task block.
+
+No lecture slides are required for the main lesson.
+
+---
+
+## 90-Minute Class Flow
+
+| Time | Block | Student activity | Teacher role |
+|---|---|---|---|
+| **0–10 min** | Entry Point Check | Individual Agree / Disagree / Unsure sort | Observe baseline only; do not correct yet |
+| **10–25 min** | Individual Learning | Silent poster gallery scan and evidence notes | Keep students on the one required resource |
+| **25–40 min** | Talk Round 1 | Partner evidence exchange; agreement + disagreement | Listen for misconception patterns |
+| **40–55 min** | Entry Points Check / Teacher Diagnosis | Group claim board and cross-group comparison | Clarify only unresolved or incorrect patterns |
+| **55–75 min** | Guided Practice / Mission Task | Scenario challenge + Learning Pathway activity | Circulate; scaffold only when groups are stuck |
+| **75–85 min** | Exit Check | Individual recheck and transfer scenario | No group copying; collect independent evidence |
+| **85–90 min** | Submission | Submit individual + group evidence | Verify completeness, not perfection |
 
 ---
 
 ## 0–10 min — Entry Point Check
 
-**Individual. No discussion yet.**
+Students complete the mission's **Quick Sort** individually:
 
-Students answer three quick questions:
+- working code once = mastery;
+- AI error explanation can support learning;
+- tutorial following = independent rebuilding;
+- full-stack applications connect layers;
+- competitions are required.
 
-1. What do you think a **full-stack AI application** is?
-2. If code runs successfully once, does that prove you understand it? Why or why not?
-3. When do you think using AI for schoolwork is helpful, and when might it become a shortcut?
+Students mark **Agree / Disagree / Unsure** and identify the statement they are least sure about.
 
-Do not correct answers immediately. Collect a few ideas and tell students they will revisit these questions by the end of class.
+### Teacher move
 
-### Middle School support
+Do not ask students to report answers one by one. Scan the room or collect a quick visual count if useful, but leave the disagreement unresolved for now.
 
-Allow sentence starters:
-
-- “I think a full-stack app…”
-- “Working code does / does not prove mastery because…”
-- “AI can help when…”
-
-### High School extension
-
-Ask students to identify one possible risk of relying on AI-generated code they cannot explain.
+The goal is to create a baseline that students can later revise using evidence.
 
 ---
 
-## 10–20 min — Course Destination Preview
+## 10–25 min — Individual Learning: Poster Gallery Scan
 
-Show the **AI School Assistant** final project at a high level.
+Students independently explore the official poster gallery and complete the four-row evidence table in the mission.
 
-Do not teach the technical details yet.
+For each poster, they record:
 
-Display the architecture:
+- one phrase or idea that matters;
+- one student behavior the poster implies.
+
+They then connect two posters and explain the relationship.
+
+### Teacher move
+
+Circulate silently or with brief logistical prompts. Do not explain each poster as students reach it.
+
+If a student asks, “What does this mean?”, redirect first to visible evidence:
+
+- poster heading;
+- example;
+- comparison;
+- rule or action shown.
+
+Give content explanation only if the resource itself is genuinely inaccessible or unclear.
+
+---
+
+## 25–40 min — Talk Round 1: Evidence Exchange
+
+Students work in pairs using the mission protocol.
+
+### Round A
+
+Each student gets an uninterrupted 60-second evidence share.
+
+The listener records one idea they did not originally write.
+
+### Round B
+
+The pair produces:
+
+- one agreement;
+- one disagreement or uncertainty.
+
+### Round C
+
+The pair writes a two-sentence explanation of how learning works in the course.
+
+### Teacher move
+
+Do not conduct a whole-class oral review after every prompt.
+
+Instead, circulate with a small diagnostic note sheet. Record recurring patterns such as:
+
+- “rebuild = repeat the same steps”;
+- “AI is completely banned”;
+- “working output = mastery”;
+- “competitions are required.”
+
+These notes determine what receives clarification in the next block.
+
+---
+
+## 40–55 min — Entry Points Check / Teacher Diagnosis
+
+Students move into groups of 3–4 and create the **Group Claim Board** from the mission.
+
+The four boxes are:
+
+1. Classroom Flow — arrange `learn → practice → rebuild → share` and explain rebuild.
+2. Mastery — sort examples into weak or strong evidence.
+3. AI Use — sort scenarios into supports learning / replaces thinking / needs context.
+4. Unresolved Point — record one issue the group cannot settle.
+
+Groups then compare their board with one nearby group.
+
+### Teacher diagnosis protocol
+
+Use the first 10 minutes for group construction and comparison.
+
+Use the final 5 minutes **only if needed** for a short clarification of recurring unresolved patterns.
+
+Good clarification format:
 
 ```text
-Next.js frontend
-        ↓
-FastAPI backend
-        ↓
-AI / RAG service
-        ↓
-documents / vector store
-        ↓
-LLM API
+I noticed several groups classified ______ differently.
+Here is the course rule / evidence that resolves it: ______.
+Now revise your board if needed.
 ```
 
-Tell students:
-
-> “You are not expected to understand all of this today. This is the destination. During the course, we will learn the pieces one at a time.”
-
-Students write:
-
-- one part they recognize;
-- one part that is completely new;
-- one question they have about the final project.
-
-**Teacher emphasis:** The final goal is not simply to make an app work. Students must be able to explain what they built and how the pieces connect.
+Avoid calling on students one at a time to answer a chain of teacher questions. The evidence should come from the group board and poster comparison.
 
 ---
 
-## 20–45 min — Poster Quest
+## 55–75 min — Guided Practice / Mission Task
 
-Place students into groups of 3–4. Each group begins at a different poster.
+Students complete two applied activities.
 
-Spend about **6 minutes per poster** and rotate.
+### Activity A — Scenario Challenge
 
-At every station, students answer:
+Groups decide what to do in three situations:
 
-1. **What is the main message?**
-2. **What does this mean for you as a student?**
-3. **What is one question or scenario connected to this poster?**
+1. tutorial-following code works;
+2. AI explains an error and the student owns the fix;
+3. AI produces a solution the student cannot explain.
 
-### Station 1 — Our Classroom Flow
+For every situation, the group must identify:
 
-Students identify the cycle:
+- the course principle;
+- the next student action;
+- the poster evidence supporting the decision.
 
-**learn → practice → rebuild → share**
+This turns course rules into **applied decisions**, not recall questions.
 
-Prompt:
+### Activity B — Learning Pathway Map
 
-> Why is “rebuild” included after practice?
+Students inspect `00_Course_Overview/Learning_Pathway_Map.md`.
 
-Middle School: explain the cycle in one sentence.  
-High School: explain why independent rebuilding gives stronger evidence than following a demonstration.
+Individually they identify:
 
-### Station 2 — Mastery Level
+- three familiar topics;
+- three new topics;
+- one topic of highest interest.
 
-Scenario:
+Then the group writes one sentence showing how the course progresses across stages.
 
-> You copied the teacher’s code, ran it, and it worked. What does that prove? What would you need to do next to show stronger mastery?
+### Teacher move
 
-Middle School: identify why “working” is only the beginning.  
-High School: identify what evidence would demonstrate Level 3, 4, or 5 mastery.
+Circulate and use prompts that return ownership to the group, for example:
 
-### Station 3 — AI Use Policy
+- “Which poster is your evidence?”
+- “What changed in this scenario?”
+- “Can everyone in the group explain this decision?”
 
-Classify each scenario as **Allowed / Not Allowed / Depends**, then justify the choice.
-
-A. “I ask AI to explain an error message.”  
-B. “I ask AI to complete the entire assignment and submit the answer.”  
-C. “AI suggests code. I test it, change it, and can explain what it does.”  
-D. “I use AI but hide that I used it when the assignment asks for disclosure.”
-
-Teacher does not need students to memorize rules. The goal is the principle:
-
-> **AI supports learning; AI does not replace thinking, ownership, or explanation.**
-
-### Station 4 — CS Competition Pathways
-
-Students choose one pathway that sounds interesting and write why.
-
-Emphasize:
-
-- competitions are optional enrichment;
-- they are not required for normal course credit;
-- students may use them to extend skills, portfolios, and personal interests.
+These are facilitation prompts used at the point of need, not a whole-class interrogation sequence.
 
 ---
 
-## 45–55 min — Talk Round and Debrief
+## 75–85 min — Exit Check: Individual Transfer
 
-Pairs or groups discuss:
+Students work individually again.
 
-1. Which poster will affect how you work in this class the most?
-2. What does **mastery** mean in this course?
-3. What is one responsible way to use AI?
+They:
 
-Cold call 3–4 students.
+1. revisit the opening Quick Sort;
+2. change any answer they now see differently;
+3. explain one change using evidence;
+4. respond to a new transfer scenario about completing a task once with notes and then facing a changed version without examples;
+5. identify one familiar and one unfamiliar layer in the simplified final-project architecture.
 
-Teacher closes this block with four statements:
+### Teacher move
 
-- **Watching is not mastery.**
-- **Copying is not mastery.**
-- **Running code once is not mastery.**
-- **AI help is allowed when the student still owns the thinking and can explain the result.**
-
----
-
-## 55–65 min — Learning Pathway Map
-
-Project `00_Course_Overview/Learning_Pathway_Map.md`.
-
-Walk through the course quickly:
-
-```text
-Course Overview
-→ GitHub + Notion
-→ AI Literacy
-→ HTML/CSS
-→ JavaScript
-→ React
-→ Next.js
-→ Python
-→ FastAPI
-→ AI Backend
-→ Full-Stack Integration
-→ Data / ML
-→ Cursor Capstone
-→ Final AI Web App
-→ Portfolio Showcase
-```
-
-Students mark:
-
-- **3 topics they have seen before**;
-- **3 topics that are new**;
-- **1 topic they are most interested in learning**.
-
-Do not explain every technology. The purpose is orientation.
+Do not let groups produce a shared exit answer. This block checks whether each student can transfer the course expectations independently.
 
 ---
 
-## 65–75 min — Grade-Band Expectations
+## 85–90 min — Submission
 
-Explain that both Middle School and High School students use the **same repository, professional tools, and overall pathway**, but the expected level of independence is different.
+Students submit the evidence listed in the mission.
 
-### Middle School
+### Individual evidence
 
-> **Build · Modify · Explain**
+- Entry Point Quick Sort;
+- poster evidence table;
+- partner agreement/disagreement notes;
+- Individual Transfer exit check;
+- grade-band success sentence.
 
-Students receive more scaffolding, starter code, checklists, and guided debugging. Success means they can build with support, make meaningful changes, and explain what they did.
+### Group evidence
 
-### High School
+- one completed Group Claim Board.
 
-> **Rebuild · Debug · Integrate · Transfer**
-
-Students receive progressively less scaffolding. Success means they can rebuild patterns, debug more independently, connect systems, and apply skills in new situations.
-
-Students complete the sentence:
-
-> “In my class, success means I can…”
-
-### Important teacher note
-
-Do not present the Middle School track as the “easy version.” Both groups use authentic tools. The difference is **scaffolding, independence, depth, and mastery expectation**.
+A complete submission is more important than polished writing on Day 1.
 
 ---
 
-## 75–85 min — Personal Course Map
+## Success Criteria
 
-Students complete a short individual summary:
+A student is ready to move on when their activity evidence shows they can distinguish:
 
-### Part A — How this class works
+- practice from mastery;
+- following from rebuilding;
+- AI support from AI replacement;
+- required course work from optional competition enrichment;
+- individual understanding from copied group wording.
 
-Finish each statement:
+### Middle School evidence
 
-- In this class, practice is not finished when ________.
-- If I use AI, I still need to ________.
-- Evidence of learning can include ________.
+The student can identify and explain the major expectations in their own words with visible scaffolds.
 
-### Part B — My pathway
+### High School evidence
 
-- The topic I am most interested in is ________ because ________.
-- One skill I already have is ________.
-- One skill I want to improve is ________.
-
-### Grade-band requirement
-
-**Middle School:** one clear sentence for each response.  
-**High School:** include one example showing how independent work will look different from copying or following a tutorial.
-
----
-
-## 85–90 min — Exit Evidence
-
-Students submit five short responses:
-
-1. What is the main goal of this course?
-2. Why is working code once **not** mastery?
-3. Give one example of responsible AI use in this class.
-4. What does your grade-band expectation mean?
-5. What is one question you still have about the course?
-
-### Success criteria
-
-A student is ready to move on when they can explain:
-
-- the course destination;
-- the classroom learning cycle;
-- the basic mastery principle;
-- the basic AI-use principle;
-- their MS or HS expectation.
+The student can justify a decision and transfer the expectation to a new scenario with less scaffolding.
 
 ---
 
 ## What Not to Do on Day 1
 
-- Do not spend the whole class reading a syllabus aloud.
-- Do not explain every tool in the technology stack.
-- Do not begin a long GitHub account-setup process unless substantial time remains.
+- Do not read the syllabus aloud for most of class.
+- Do not explain all four posters before students investigate them.
+- Do not run the lesson as repeated teacher question → student answer → teacher correction.
+- Do not explain every technology in the final stack.
 - Do not turn competition pathways into required course content.
 - Do not frame the AI policy as “AI is banned.”
 - Do not require students to understand RAG, vector stores, or APIs on the first day.
@@ -348,8 +347,8 @@ A student is ready to move on when they can explain:
 
 ## Next Lesson
 
-Proceed to the Git/GitHub onboarding lesson:
+Proceed to:
 
 `09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md`
 
-Because Day 1 now establishes course culture and expectations, the teacher may shorten the course-culture section of Lesson 1 and spend more time on the first GitHub workflow.
+Because Mission 00 already establishes course culture, Lesson 1 should spend most of its time on the first authentic GitHub workflow rather than repeating orientation content.

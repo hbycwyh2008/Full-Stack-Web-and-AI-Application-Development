@@ -4,6 +4,19 @@
 
 ---
 
+## First Teaching Session — Unit 00 Orientation
+
+Before GitHub setup or coding, use the dedicated Day 1 orientation:
+
+- **Teacher plan:** `09_Teacher_Planning/Daily_Lesson_Plans/Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md`
+- **Student mission:** `02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md`
+
+Day 1 focuses on course destination, the four classroom posters, mastery, responsible AI use, the learning pathway, and Middle School vs High School expectations.
+
+After Day 1, continue into GitHub and Notion.
+
+---
+
 ## Unit-to-Week Mapping (16-week standard)
 
 | Unit | Topic | Weeks |

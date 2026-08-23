@@ -2,39 +2,46 @@
 
 ## Big Goal
 
-Students learn **how to make software responsibly and systematically**, not simply how to write code.
+Students learn **what computer science studies** and **how software is made responsibly and systematically**.
+
+Computer science is broader than coding. It includes the study of computation, information and representation, algorithms, abstraction, computer systems and networks, human-computer interaction, artificial intelligence, security, software engineering, and the effects of computing on people and society.
+
+Programming is important because it lets us express computational ideas and build systems, but programming is not the whole discipline.
 
 ## Core Competencies
 
+### Computer Science Identity
+Students can distinguish computer science from computer use, computer repair, and programming alone. They can connect course experiences to larger CS areas.
+
 ### Software Development
-Students can explain and perform discovery, research, requirements, design, planning, implementation, review, testing, deployment, maintenance, and iteration.
+Students perform discovery, research, requirements, design, planning, implementation, review, testing, deployment, maintenance, and iteration.
 
 ### GitHub
-Students use GitHub issues, branches, meaningful commits, pull requests, review, merge, and releases as the normal development workflow.
+Students use issues, branches, meaningful commits, pull requests, review, merge, and releases as normal development practice.
 
 ### HCI
-Students identify stakeholders, plan ethical research, interview/observe users, separate evidence from assumptions, synthesize findings, build user profiles/journeys, define problems, write requirements, test with users, and iterate.
+Students identify stakeholders, conduct ethical user research, separate evidence from assumptions, synthesize findings, define problems, write requirements, test with users, and iterate.
 
 ### Figma
-Students create user flows, information architecture, low-fidelity wireframes, reusable components, responsive high-fidelity prototypes, accessibility decisions, critique logs, and handoff evidence.
-
-### AI Literacy
-Students read and discuss Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_ and connect its claims about AI capabilities and limits to product decisions.
+Students create user flows, information architecture, wireframes, reusable components, responsive high-fidelity prototypes, accessibility decisions, critique logs, and handoff evidence.
 
 ### Programming
-Students use HTML, CSS, and JavaScript to implement their designed product. Programming is important but subordinate to the end-to-end software process.
+Students use HTML, CSS, and JavaScript to implement designed products and practice algorithms, abstraction, data structures, code analysis, and debugging.
+
+### AI Literacy
+Students complete a concentrated four-lesson unit using Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_. The goal is to evaluate AI capability, learning, generalization, language, understanding, and limitations without forcing the reading to justify a web-project decision.
 
 ### Python
 Optional extension only when core outcomes are complete.
 
+## AP CSP Foundation
+
+Lesson 00 includes a 10–15 minute AP CSP CED discovery. Students identify what this course prepares them for and what AP CSP will still teach. The course is AP CSP preparation, not an AP CSP replacement.
+
 ## Teaching Principle
 
-Students learn through artifacts and discussion:
-
-**inspect → compare → decide → build → critique/test → revise → ship evidence**.
-
-The class should not default to teacher question → student answer → teacher question. Teacher mini-lessons are short interventions at common bottlenecks.
+Students learn through artifacts and discussion: **inspect → compare → decide → build → critique/test → revise → preserve evidence**. Activity format changes with the content.
 
 ## Capstone
 
-A released user-centered website/product with complete lifecycle evidence. AI is optional and must be justified rather than assumed.
+A released user-centered software product with complete lifecycle evidence. AI is optional.

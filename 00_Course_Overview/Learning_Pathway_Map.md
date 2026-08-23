@@ -1,10 +1,23 @@
 # Learning Pathway Map
 
+## First: What Is Computer Science?
+
+```text
+COMPUTATION + INFORMATION
+        ↓
+algorithms / abstraction / data
+systems / networks / security
+HCI / software engineering / AI
+theory / impacts of computing
+```
+
+Programming is one way computer scientists express and test computational ideas; it is not the complete definition of computer science.
+
 ## The Course Loop
 
 ```text
-DISCOVER
-user + problem
+UNDERSTAND
+user + problem + context
    ↓
 RESEARCH
 interview / observe / collect evidence
@@ -25,33 +38,33 @@ REVIEW + TEST
 PR review / usability / accessibility / QA
    ↓
 RELEASE
-GitHub Pages or approved deployment
+approved deployment
    ↓
 LEARN + ITERATE
 feedback / maintenance / next version
    ↺
 ```
 
-GitHub supports the entire loop. AI literacy runs beside the loop and shapes how students evaluate claims, risks, and whether an AI feature belongs in a product.
-
 ## Lesson Sequence
 
 ```text
-00–01  Software lifecycle orientation
+00–01  CS orientation + software lifecycle
 02–04  GitHub development workflow
-05–08  HCI user research
-09–13  Figma product design
-14–18  HTML/CSS implementation
-19–23  JavaScript interaction + debugging
-24–26  Usability, QA, release + maintenance
+05–07  HCI user research
+08–11  Figma product design
+12–15  HTML/CSS implementation
+16–20  JavaScript + computational thinking
+21–24  AI literacy — concentrated Mitchell unit
+25–26  Usability, QA, release + maintenance
 27–32  Capstone full lifecycle
 
-Cross-cutting: 6 Mitchell AI literacy studios
-Optional:      3 Python lessons
+Optional: Python / small AI-application extensions
 ```
+
+## AP CSP Bridge
+
+The first class includes a short discovery activity using the AP CSP CED. Students should leave understanding both the overlap and the gaps: this course builds strong preparation for creative development and programming practices, but AP CSP still contains substantial content that this course does not explicitly teach.
 
 ## Priority Rule
 
-If time is limited, preserve the lifecycle, GitHub, HCI/Figma, AI literacy, and enough HTML/CSS/JavaScript to implement and test the product. Cut optional frameworks and Python before cutting the primary outcomes.
-
-See [Class Missions](../02_Class_Missions/README.md) for the canonical lesson files.
+If time is limited, preserve the lifecycle, GitHub, HCI/Figma, JavaScript fundamentals, AI literacy, testing, and capstone. Cut optional frameworks and extensions first.

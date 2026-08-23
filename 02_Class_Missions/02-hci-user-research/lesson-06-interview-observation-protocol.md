@@ -1,35 +1,41 @@
-# Lesson 06 — Interview and Observation Protocol
+# Lesson 06 — Interview and Observation Lab
 
-## Mission
-Create research questions that reveal behavior and context instead of asking users to design the product for you.
+**Mission:** Collect usable user evidence without turning the session into a sales pitch or interrogation.
 
-## Core Artifact
-`research/interview-guide.md`
+## Question Quality Sort (0–15)
 
-## Launch Challenge — 0–10
-Sort prompts into **open, closed, leading, hypothetical, behavior-based**. Rewrite two leading prompts.
+Teams sort sample questions into **behavior-based, open, closed, leading, hypothetical, double-barreled**. They rewrite the weakest three.
 
-## Evidence / Resource Scan — 10–25
-Compare a weak interview transcript with a stronger one. Highlight where the interviewer learns about actual past behavior rather than opinions about imagined features.
+## Interview Demonstration (15–25)
 
-## Team Sensemaking — 25–40
-Teams agree on interview principles: neutral wording, follow-up prompts, silence, note-taking, observation, consent, and avoiding personal data that is not needed.
+Two short contrasting demonstrations are enough: one poor interview that leads the participant and one neutral interview that follows evidence. Students record differences in interviewer behavior.
 
-## Studio Build — 40–65
-Write an interview guide with:
+## Protocol Rehearsal (25–40)
 
-- opening and consent language;
-- context questions;
-- 6–8 core questions;
-- follow-up probes such as “Tell me about the last time...”;
-- observation notes to capture;
-- closing question.
+Pairs rehearse the protocol from Lesson 05. One student interviews, one observes the interviewer. Feedback focuses on follow-up questions, silence, neutrality, and note quality.
 
-## Critique / Test — 65–80
-Run a 7-minute pilot interview in triads: interviewer, participant, observer. Observer marks leading questions and missed follow-ups.
+## Research Round (40–65)
 
-## Ship Evidence — 80–90
-Revise and commit the guide with a note explaining at least two changes from the pilot.
+Students conduct a short interview and, when appropriate, an observation/task walkthrough. Notes must distinguish:
+
+- participant quote/behavior;
+- researcher interpretation;
+- follow-up question.
+
+Do not let students collapse those into one column.
+
+## Evidence Quality Check (65–78)
+
+Teams highlight notes that are vague (`user likes simplicity`) and rewrite them using concrete evidence (`participant skipped two settings screens and said...`). Remove unsupported interpretations.
+
+## Research Round 2 / Improvement (78–87)
+
+Students apply one improvement from the quality check in a second short interaction or follow-up.
+
+## Ship Evidence (87–90)
+
+Store anonymized notes plus a short reflection: **one interviewing habit that improved the evidence**.
 
 ## Success Evidence
-Questions generate evidence about users' goals, behaviors, environment, and pain points.
+
+Students can collect behavior-rich evidence and separate what the participant actually did/said from what the researcher inferred.

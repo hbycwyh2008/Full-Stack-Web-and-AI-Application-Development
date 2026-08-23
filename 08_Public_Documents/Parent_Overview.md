@@ -1,45 +1,42 @@
-# Parent Overview
-
-**Classroom posters:** [Classroom Flow](posters/classroom-flow.png) · [Mastery Level](posters/mastery-level.png) · [AI Use Policy](posters/ai-use-policy.png) · [CS Competition Pathways](posters/cs-competition-pathways.png) (optional)
+# Parent Overview — Software Design, Development & AI
 
 ## Course Value
 
-This course teaches students to build real full-stack web applications using professional tools. Students start with **Git & GitHub**, then **AI literacy**, then portfolio and design (Notion, Figma), then coding (Next.js, TypeScript, lightweight FastAPI), and finish with the **AI School Assistant**.
+This course teaches computer science through the **complete process of creating software**, not through a long list of frameworks.
 
-This is not only an AI literacy course. It is an **AI application engineering** course built on top of AI literacy.
+Students begin by investigating what computer science actually studies and why programming is only one part of the discipline. They then learn to research real users, define requirements, design in Figma, collaborate through GitHub, implement with HTML/CSS/JavaScript, test, release, and improve a product.
 
-## Student Outcomes
+## Core Student Outcomes
 
-By the end of the course, your student will have:
+By the end of the course, students should be able to:
 
-- A GitHub portfolio repo with AI literacy evidence (`ai-literacy/`).
-- A solid AI literacy foundation with responsible AI practices.
-- A professional online portfolio and Figma mockups.
-- Multiple documented projects on GitHub.
-- A working full-stack AI application (AI School Assistant).
-- The ability to explain how their software works and how AI is used.
+- explain computer science as broader than coding;
+- use GitHub issues, branches, commits, pull requests, reviews, and releases;
+- conduct ethical user research and turn evidence into requirements;
+- design and test interactive prototypes in Figma;
+- implement responsive websites with HTML/CSS and meaningful JavaScript;
+- debug and test software systematically;
+- evaluate AI claims critically using Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_;
+- complete a capstone through the full software-development lifecycle.
 
-## Portfolio and GitHub Evidence
+## Relationship to AP CSP
 
-Every project produces visible evidence:
+The course provides a strong foundation for parts of AP Computer Science Principles, especially creative development and programming/computational-thinking practices. It does not replace the AP CSP course; students still need explicit AP CSP content and AP-specific assessment preparation later.
 
-- A **portfolio page** that presents the project clearly.
-- A **GitHub repository** with the actual code and documentation.
+## AI Literacy
 
-This creates a real record of your student's skills that can support college and career applications.
+AI literacy is taught as a focused four-lesson unit. Students learn to distinguish capability from hype, benchmark performance from generalization, fluent behavior from evidence of understanding, and technical performance from social/ethical consequences.
+
+The final project does **not** have to contain AI.
+
+## Evidence and Assessment
+
+Students are assessed on evidence such as research, Figma revisions, GitHub history, code understanding, debugging, usability/QA results, and iteration — not only on the appearance of a final website.
+
+A simpler product with a strong development process is stronger evidence than a technology-heavy product the student cannot explain.
 
 ## Responsible AI Use
 
-![AI Use Policy](posters/ai-use-policy.png)
-
-We treat AI as a learning accelerator, not a shortcut. Students must:
-
-- Complete GitHub and AI literacy foundations before major application coding.
-- Use Cursor only after understanding the development stack.
-- Disclose how they used AI in every project.
-- Understand and test the code they submit.
-- Be able to explain their work in their own words.
-
-> Our core rule: AI can help generate code, but the student is responsible for understanding, testing, debugging, and presenting the project.
+Students may use generative AI according to the course AI usage policy, but they remain responsible for understanding, testing, debugging, and explaining submitted work.
 
 Policy: [AI_Usage_Policy.md](../04_Assessment/AI_Usage_Policy.md)

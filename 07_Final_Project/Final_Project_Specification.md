@@ -2,38 +2,41 @@
 
 ## Goal
 
-Design, build, test, release, and explain a useful website/product for a **real researched user problem**.
+Design, build, test, release, and explain a useful software/web product for a **real researched user problem**.
+
+The capstone demonstrates the complete development process. It is not a contest to use the most technologies.
 
 ## Required Evidence
 
 ### 1. Discovery and HCI Research
-- stakeholder map;
-- research plan and ethical/privacy boundary;
+- stakeholder/assumption map;
+- research plan and ethical/privacy boundaries;
 - interviews/observation or another justified method;
-- anonymized notes;
+- anonymized evidence;
 - affinity synthesis;
 - evidence-backed problem statement.
 
-### 2. Requirements
-- user stories;
-- must/should/could/not-now scope;
-- acceptance criteria;
-- measurable success criteria.
+### 2. Requirements and Scope
+- functional requirements;
+- non-functional requirements/constraints;
+- MVP / later / out-of-scope decisions;
+- acceptance criteria for major features;
+- observable success criteria.
 
 ### 3. Figma Design
 - user flow;
 - information architecture;
-- low-fidelity wireframes;
+- low-fidelity alternatives/wireframes;
 - reusable components/design system;
 - high-fidelity responsive prototype;
 - accessibility decisions;
-- critique/test revisions.
+- critique/prototype-test revisions.
 
 ### 4. GitHub Workflow
 - project README;
 - milestone/backlog;
 - useful issues;
-- feature branches;
+- feature/fix branches;
 - meaningful commits;
 - pull requests;
 - peer review and response;
@@ -43,16 +46,17 @@ Design, build, test, release, and explain a useful website/product for a **real 
 Required core stack:
 
 - semantic HTML;
-- maintainable CSS;
+- maintainable, responsive CSS;
 - JavaScript for meaningful interaction where the product requires it.
 
-The project should implement the design and requirements; adding a framework does not increase the score by itself.
+The project should implement the researched requirements and tested design. Adding a framework does not increase the score by itself.
 
 ### 6. Testing and Iteration
 - usability tasks and observations;
 - accessibility/technical QA;
 - reproducible bug reports;
 - prioritized fixes;
+- regression checks;
 - evidence that at least one important design or implementation decision changed after testing.
 
 ### 7. Release
@@ -61,15 +65,25 @@ The project should implement the design and requirements; adding a framework doe
 - known limitations;
 - maintenance/next-iteration plan.
 
-### 8. AI Literacy Decision
-Submit `ai-product-decision.md` explaining:
+### 8. Retrospective
+Students reconstruct at least three moments where evidence changed the product:
 
-- whether AI is needed for this user's problem;
-- evidence for that decision;
-- likely limitations, failure modes, bias/privacy implications, and user impact if AI is used.
+```text
+original belief/design → evidence → decision/change → result
+```
 
-**A well-supported decision not to use AI fully satisfies this requirement.**
+They also explain the most important process lesson they would carry into a future software project.
+
+## AI Is Optional
+
+The capstone does **not** have to contain an AI feature, and students do not submit a forced Mitchell/product connection.
+
+If a team chooses to use AI, that feature must be tested like any other feature. The team should document relevant reliability, failure, privacy, bias, or user-impact concerns where they materially affect the product.
 
 ## Final Demo
 
-The demo begins with the **user and problem**, then shows research → requirements → Figma → GitHub workflow → implementation → tests → changes → release. Technology names are supporting evidence, not the story.
+Start with the **user and problem**, then show the evidence chain:
+
+**research → requirements → Figma → GitHub workflow → implementation → tests → revisions → release**.
+
+Prefer letting visitors use the product over a long slide presentation.

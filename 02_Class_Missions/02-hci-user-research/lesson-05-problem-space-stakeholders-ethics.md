@@ -1,36 +1,41 @@
-# Lesson 05 — Problem Space, Stakeholders, and Research Ethics
+# Lesson 05 — Problem Space, Stakeholders, and Research Questions
 
-## Mission
-Turn a broad product idea into a researchable problem space without pretending assumptions are facts.
+**Mission:** Turn a vague product request into a researchable problem without jumping directly to a solution.
 
-## Core Artifact
-`research/research-plan.md`
+## Launch — Assumption Trap (0–15)
 
-## Launch Challenge — 0–10
-Students receive a vague idea such as “make school communication better.” Individually separate statements into **fact / assumption / question to investigate**.
+Give every team the same request: **“Build something that helps students study better.”** Teams have five minutes to sketch a solution. Then stop them and label every design decision as either **evidence** or **assumption**.
 
-## Evidence / Resource Scan — 10–25
-Inspect a short scenario containing several possible stakeholders. Mark primary users, secondary users, affected people, and missing perspectives.
+Most will discover that nearly everything is an assumption.
 
-## Team Sensemaking — 25–40
-Teams compare stakeholder maps and identify whose voice would be easiest to ignore. Discuss privacy, consent, respectful data collection, and what information should not be collected.
+## Stakeholder Mapping (15–30)
 
-## Studio Build — 40–65
-Define:
+Teams identify primary users, secondary users, decision-makers, affected non-users, and possible excluded users. For each stakeholder, record what the team knows and what it does not know.
 
-- problem space;
-- target user groups;
-- 4–6 research questions;
-- research method for each question;
-- recruitment plan;
-- privacy/consent boundaries;
-- what evidence would change the team's current assumptions.
+## Ethics + Research Constraints (30–40)
 
-## Critique / Test — 65–80
-Another team marks any research question that already assumes a solution or asks for sensitive/unnecessary data. Revise.
+Provide short scenarios involving privacy, recording, minors, sensitive information, and leading questions. Teams sort them into **acceptable / revise / unacceptable** and justify one disputed case.
 
-## Ship Evidence — 80–90
-Commit the research plan and open an issue for the next research session.
+Teacher clarification is brief: informed participation, collect only necessary data, avoid deception unless explicitly approved, protect identifying information, and do not pressure participants.
+
+## Research Question Studio (40–65)
+
+Students convert assumptions into research questions. Strong questions investigate behavior/context rather than asking users to approve a proposed feature.
+
+Weak: `Would you use a study reminder app?`
+
+Stronger: `Walk me through the last time you forgot or delayed a study task.`
+
+Each team produces 5–7 questions covering current behavior, pain points, context, workarounds, goals, and constraints.
+
+## Critique (65–80)
+
+Teams exchange protocols and mark questions that are leading, hypothetical, double-barreled, or solution-first. Revise.
+
+## Ship Evidence (80–90)
+
+Commit a short research plan containing stakeholders, assumptions, research questions, participant criteria, and ethical safeguards.
 
 ## Success Evidence
-Students distinguish a product idea from a research question and can justify whose needs they are studying.
+
+Students can explain why solution ideas are hypotheses until supported by evidence.

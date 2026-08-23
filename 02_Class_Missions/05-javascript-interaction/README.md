@@ -1,15 +1,15 @@
-# 05 — JavaScript: Make the Interface Behave
+# 05 — JavaScript + Computational Thinking
 
-JavaScript is the deepest programming unit in the core course. Students learn enough language and browser programming to implement meaningful interaction and debug behavior independently.
+JavaScript is taught as the main programming layer of the course. Students practice state, algorithms, control flow, abstraction, data structures, events, forms, APIs, and debugging while making the designed product interactive.
 
 ## Lessons
 
-- [Lesson 19 — Values, Variables, Conditions, and Functions](lesson-19-values-variables-functions.md)
-- [Lesson 20 — DOM and Events](lesson-20-dom-events.md)
-- [Lesson 21 — Arrays, Objects, and Rendering Data](lesson-21-arrays-objects-rendering.md)
-- [Lesson 22 — Forms, Validation, State, and localStorage](lesson-22-forms-validation-state.md)
-- [Lesson 23 — JavaScript Feature Sprint and Debugging](lesson-23-javascript-feature-sprint-debugging.md)
+- [Lesson 16 — Values, State, Functions, and Input→Process→Output](lesson-16-values-state-functions.md)
+- [Lesson 17 — Conditions, Iteration, and Algorithm Tracing](lesson-17-control-flow-algorithms.md)
+- [Lesson 18 — Arrays, Objects, and Abstraction](lesson-18-arrays-objects-abstraction.md)
+- [Lesson 19 — DOM, Events, and Interactive Interfaces](lesson-19-dom-events.md)
+- [Lesson 20 — Forms, Persistence, APIs, and Debugging](lesson-20-forms-state-api-debugging.md)
 
-## Core Outcomes
+## Core Output
 
-Students can decompose an interaction into input → processing → output, write functions, manipulate the DOM, work with arrays/objects, validate forms, maintain simple state, use DevTools, and debug from evidence.
+A working interactive feature implemented and reviewed through GitHub, plus trace/debug evidence showing understanding rather than copy/paste execution.

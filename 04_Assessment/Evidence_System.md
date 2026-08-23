@@ -1,141 +1,79 @@
 # Evidence System
 
-**For students:** This course grades **learning evidence**, not only whether code runs once.
-
-**For teachers:** Use with rubrics in `04_Assessment/` and phase overviews in `09_Teacher_Planning/Phase_Overviews/`.
-
-Student guide: [03_How_To_Submit_Evidence.md](../01_Student_Start/03_How_To_Submit_Evidence.md)
-
----
+This course assesses **evidence of thinking, development, testing, and revision**, not only whether code runs once.
 
 ## Core Principle
 
 ```text
-Running code once is NOT enough.
-Real mastery = explain + rebuild + debug + modify + apply.
+working output alone ≠ mastery
+mastery = explain + build + debug + test + revise + transfer
 ```
 
-A project that works but cannot be explained is **incomplete evidence**.
+## What Counts as Evidence
 
----
-
-## What Counts as Learning Evidence
-
-| Evidence type | What it is | Where it lives |
-|---|---|---|
-| **Certificate / completion screenshot** | Proof you finished a module (DeepLearning.AI, etc.) | `certificates/` in your repo |
-| **Program code** | Your code with meaningful commits | GitHub repo folders per phase |
-| **Program report** | README or report explaining design, data flow, decisions | Project `README.md` or `docs/` |
-| **Reflection** | What you learned, what was hard, what you fixed | `reflections/`, `learning-log.md`, phase notes |
-| **Revision record** | Commits or notes showing fixes after feedback | GitHub **commit history** |
-| **GitHub commit history** | Timeline of your work — messages matter | Commits tab on your repo |
-| **AI usage note** | Honest disclosure when AI helped | Per [AI Usage Policy](AI_Usage_Policy.md) |
-| **Notion portfolio update** | Public showcase of best work | Notion link in README |
-| **Screenshot** | UI, terminal, commit tab, certificate | Submitted with phase evidence |
-| **Oral explanation** | You explain your work when called | In class — not optional if asked |
-
----
-
-## Required Evidence for Every Project
-
-Every project (phase mini-project or final capstone) must include:
-
-1. **Working artifact** — code, site, or documented deliverable you can demonstrate
-2. **Program report** — what it does, how it works, key decisions (usually `README.md`)
-3. **Reflection** — what you learned, what was hard, what you would improve
-4. **Revision record** — at least one commit or note showing you fixed something after testing or feedback
-5. **GitHub commit history** — multiple meaningful commits (not one `final` commit)
-6. **AI usage note** — if AI was used; if not used, state “No AI used” or N/A per teacher rule
-
-Optional but recommended:
-
-- Certificate screenshot for external courses
-- Notion project page link
-- Screenshot of running app
-
-Template: [AI Usage Reflection](../03_Templates/AI_Usage_Reflection_Template.md)
-
----
-
-## What Does NOT Count as Enough Evidence
-
-| Not enough | Why |
+| Evidence | Examples |
 |---|---|
-| “I watched the video” | Watching = Level 0 Exposure |
-| Code runs once, no commits | No timeline of learning |
-| Single commit message `update` or `final` | No readable **revision record** |
-| Copied README or code you cannot explain | Copying ≠ **mastery** |
-| AI-generated work with no revision or disclosure | Policy violation |
-| Empty files committed for credit | No real content |
-| Partner’s repo link as yours | Must be your work |
-| Screenshot only, no repo change | Evidence must match your GitHub |
+| **CS understanding** | Lesson 00 field map, CS definition reflection, AP CSP preparation/gap map |
+| **Research evidence** | stakeholder map, protocol, anonymized notes, affinity map |
+| **Product definition** | problem statement, requirements, constraints, success criteria |
+| **Design evidence** | user flow, IA, wireframes, Figma prototype, critique/test revisions |
+| **GitHub evidence** | issues, branches, meaningful commits, PRs, reviews, merge/release history |
+| **Programming evidence** | HTML/CSS/JavaScript implementation, trace tables, feature explanations |
+| **Debugging evidence** | observed/expected behavior, hypothesis, test, fix, verification |
+| **Testing evidence** | usability observations, QA results, accessibility findings, regression checks |
+| **AI literacy evidence** | claim-evidence analysis, generalization/failure analysis, comparison map, understanding position memo |
+| **Reflection** | retrospective showing how evidence changed a decision |
+| **AI-use disclosure** | short disclosure when generative AI assisted work |
 
----
+## Required Evidence for Major Software Projects
 
-## Mastery Standard
+A major software project should include:
 
-You demonstrate **mastery** when you can:
+1. **Problem/evidence basis** — why the product exists;
+2. **Requirements/design evidence** — what was decided before implementation and why;
+3. **Working artifact** — code/site/product that can be demonstrated;
+4. **GitHub history** — multiple meaningful changes, not one final commit;
+5. **Testing + revision** — evidence that feedback/bugs caused changes;
+6. **Explanation** — student can explain key design and code decisions;
+7. **AI-use disclosure when applicable** — assistance must be understood, tested, and revised by the student.
 
-| Skill | What we look for |
-|---|---|
-| **Explain** | Describe how your code or project works without reading AI text verbatim |
-| **Rebuild** | Recreate the core pattern — **independent rebuild** with checklist (L3) or without notes (L4) |
-| **Debug** | Read errors, try fixes, record what you tried |
-| **Modify** | Change the project for a new requirement |
-| **Apply** | Use the same pattern in a later phase |
+Not every small lesson artifact requires the complete list. Use the lesson's `Success Evidence` and `Ship Evidence` sections.
 
-**Level 3** = minimum target for phase completion with checklist.  
-**Level 4–5** = strong **mastery** — **independent rebuild**, help others debug.
+## What Is Not Enough
 
-Levels: [mastery-levels](../02_Class_Missions/shared/mastery-levels.md)
+- `I watched the video.`
+- code that runs but cannot be explained;
+- a single `final` commit;
+- screenshots with no underlying work/evidence;
+- copied or AI-generated work the student cannot modify/debug;
+- research conclusions with no raw evidence;
+- a polished Figma screen with no task flow or testing;
+- a final website with no testing or revision history.
 
----
+## Mastery Checks
 
-## Evidence by Location
+A student demonstrates strong mastery when they can:
+
+- **Explain** — describe purpose, data flow, design rationale, and limitations;
+- **Rebuild** — recreate a core pattern without line-by-line copying;
+- **Debug** — reproduce, hypothesize, test, fix, verify;
+- **Modify** — adapt work to a changed requirement;
+- **Test** — choose evidence that can reveal whether the solution works;
+- **Transfer** — reuse the reasoning/process in a later project.
+
+## AI Literacy Evidence
+
+AI literacy is assessed from Lessons 21–24 as its own learning outcome. It is **not dependent on adding AI to the capstone**.
+
+Use [AI_Literacy_Checklist.md](AI_Literacy_Checklist.md) for unit sign-off.
+
+## Teacher Assessment Lens
+
+Look for the evidence chain:
 
 ```text
-GitHub personal repo     →  code, commits, notes, certificates, reflections
-Notion portfolio         →  public showcase of best projects
-Class submission         →  links, screenshots, sentences per class mission checklist
-Oral explanation         →  in class when teacher calls on you
+research → requirement → design → GitHub plan/PR → implementation
+→ test → revision → release → retrospective
 ```
 
----
-
-## Phase and Class Checklists
-
-Phase requirements: [09_Teacher_Planning/Phase_Overviews/](../09_Teacher_Planning/Phase_Overviews/) — **Submission Checklist** and **Required Evidence** per phase.
-
-Class missions: [02_Class_Missions/](../02_Class_Missions/) — **Exit Evidence** per session.
-
-Summative rubrics: [Assessment_Rubric.md](Assessment_Rubric.md), [Presentation_Rubric.md](Presentation_Rubric.md)
-
----
-
-## AI Usage Note (Required When AI Is Used)
-
-Short form:
-
-```text
-AI Help Used:
-What I asked AI:
-How it helped me:
-What I did on my own:
-```
-
-Full form: [AI_Usage_Reflection_Template.md](../03_Templates/AI_Usage_Reflection_Template.md)
-
-Poster: [ai-use-policy.png](../08_Public_Documents/posters/ai-use-policy.png)
-
----
-
-## Teacher Sign-Off
-
-Use phase checklists plus:
-
-- [Student_GitHub_Assessment.md](Student_GitHub_Assessment.md) — Phase 0
-- [AI_Literacy_Checklist.md](AI_Literacy_Checklist.md) — Phase 2
-- [AI_Math_Bridge_Checklist.md](AI_Math_Bridge_Checklist.md) — Phase 3
-- [Assessment_Rubric.md](Assessment_Rubric.md) — projects and final
-
-Evidence quality matters more than polish. Look for **process**, **explanation**, and **revision record** — not only a running demo.
+A simpler product with a strong evidence chain should outperform a framework-heavy product with weak reasoning and testing.

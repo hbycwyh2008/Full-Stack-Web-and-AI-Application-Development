@@ -1,36 +1,59 @@
-# Classroom Flow — Activity, Discussion, Studio, Evidence
+# Classroom Design — Activity, Discussion, Studio, Evidence
 
-Every core lesson is a **90-minute studio**. The class is not organized as a teacher-led question-and-answer sequence.
+The course is not organized as teacher question → student answer → teacher question. Students should encounter evidence, make decisions, build, test, and revise.
 
-## Default Flow
+## Common Reasoning Backbone
 
-| Time | Block | Student action |
-|---|---|---|
-| 0–10 | Launch Challenge | Sort, inspect, test, annotate, or make an initial decision individually |
-| 10–25 | Evidence / Resource Scan | Use one required artifact, short reading, example, dataset, interface, or code sample |
-| 25–40 | Team Sensemaking | Compare evidence; every student speaks; identify agreements and disagreements |
-| 40–65 | Studio Build | Create the research, design, code, GitHub, testing, or planning artifact |
-| 65–80 | Critique / Test | Peer review, usability test, code review, design critique, or debugging exchange |
-| 80–90 | Ship Evidence | Improve the artifact, commit/publish it, and record what changed and why |
+Most lessons contain some version of:
+
+```text
+encounter evidence
+→ make sense of it
+→ decide or build
+→ critique/test
+→ revise
+→ preserve evidence
+```
+
+This is a **backbone, not a mandatory six-block script**.
+
+## Vary the Activity Structure
+
+Choose the structure that fits the learning goal.
+
+| Activity type | Good use |
+|---|---|
+| Card sort / classification | CS identity, concepts, requirement categories |
+| Reverse engineering | lifecycle, product structure, code behavior |
+| Investigation | Git history, bugs, responsive failures |
+| Role simulation | PR review, stakeholder conflicts |
+| Interview / observation | HCI evidence collection |
+| Affinity mapping | research synthesis |
+| Design studio | flows, wireframes, Figma systems |
+| Gallery/structured critique | design comparison and revision |
+| Predict → run → explain → modify | programming/control flow |
+| Debugging lab | evidence-based troubleshooting |
+| Jigsaw / case analysis | AI literacy and systems topics |
+| Usability lab | product testing |
+| Development sprint | implementation/capstone |
 
 ## Teacher Role
 
-The teacher facilitates the environment rather than driving the lesson through serial questions.
+- set the challenge, constraints, evidence source, and deliverable;
+- observe before explaining;
+- give short just-in-time instruction when a shared barrier appears;
+- redirect claims toward evidence, users, tests, code behavior, or Git history;
+- avoid turning discussion into a teacher-controlled interrogation;
+- vary grouping and activity format so the course does not feel repetitive.
 
-- Set the challenge, constraints, evidence source, and deliverable.
-- Observe teams and collect recurring misconceptions.
-- Give a **5–8 minute micro-lesson only when a shared barrier appears**.
-- Redirect students to evidence, users, tests, or artifacts before giving an answer.
-- Require each student to explain one decision and one revision.
+## Student Discussion Norms
 
-## Student Discussion Rules
-
-1. Everyone speaks before anyone speaks twice.
-2. Claims must point to evidence: a user quote, observation, design principle, test result, code behavior, or Git history.
-3. Disagreement is recorded, not hidden.
-4. The group must make a decision and explain the trade-off.
-5. A working artifact is not finished until it has been reviewed or tested.
+- everyone contributes before a small number of students dominate;
+- claims should point to evidence where evidence is available;
+- disagreement may remain visible until testing/evidence resolves it;
+- teams make a decision and record trade-offs;
+- a working artifact should normally be reviewed, tested, or explained before it is considered complete.
 
 ## Evidence Rule
 
-Every lesson produces at least one durable artifact in GitHub or Figma. Typical evidence includes an issue, commit, branch, pull request, research note, affinity map, user flow, prototype, code change, test report, release note, or retrospective.
+Not every lesson needs the same artifact. Durable evidence may live in GitHub, Figma, research notes, test logs, trace tables, comparison maps, or short reflections.

@@ -2,26 +2,24 @@
 
 ## Primary — Students must leave able to do these
 
-1. **Run a software project through the full development lifecycle**: discover a problem, define requirements, design, implement, test, release, evaluate, and maintain.
-2. **Use GitHub as a real development workflow**: repositories, issues, branches, commits, pull requests, review, merge, releases, and project evidence.
-3. **Run the HCI process end to end**: identify users, plan and conduct research, synthesize findings, define problems, create user flows, prototype in Figma, test with users, and iterate.
-4. **Design websites in Figma** from low-fidelity structure to high-fidelity interactive prototypes with accessibility and responsive thinking.
-5. **Develop AI literacy through Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_**, using reading, discussion, evidence, and product-design connections rather than isolated AI demos.
+1. **Explain computer science beyond coding**: computation, information, algorithms, abstraction, systems, HCI, software engineering, AI, and impacts.
+2. **Run a software project through the full development lifecycle**: discover, research, define, design, implement, test, release, evaluate, maintain.
+3. **Use GitHub as a real development workflow**: repositories, issues, branches, commits, pull requests, review, merge, releases, project evidence.
+4. **Run HCI end to end**: users, research, synthesis, requirements, usability testing, iteration.
+5. **Design in Figma** from low-fidelity structure to high-fidelity interactive prototypes with accessibility and responsive thinking.
+6. **Develop AI literacy through Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_** in a coherent concentrated unit.
 
-## Secondary — Implementation fluency
+## Secondary — Implementation Fluency
 
-Students should become increasingly independent with:
+Students become increasingly independent with semantic HTML, CSS layout/responsive design/accessibility, and JavaScript fundamentals, algorithms, data structures, DOM/events, forms, state, APIs, and debugging.
 
-- semantic HTML;
-- CSS layout, responsive design, and accessibility;
-- JavaScript fundamentals, DOM events, forms, data structures, state, and debugging.
-
-Programming serves the software-development process; the course is not organized as a sequence of framework tutorials.
+Programming serves the broader computer-science and software-development goals.
 
 ## Optional — Only if time remains
 
-- Python foundations and a small utility project.
+- Python foundations;
+- small AI API/application extensions.
 
 ## Not Core
 
-React, Next.js, FastAPI, MongoDB, RAG, Kaggle, machine-learning model training, Cursor-specific workflows, Notion portfolio building, and other frameworks/tools may be used as enrichment, but they are **not required curriculum outcomes**.
+React, Next.js, FastAPI, MongoDB, RAG, Kaggle, machine-learning model training, Cursor-specific workflows, Notion portfolio building, and similar frameworks/tools are enrichment only.

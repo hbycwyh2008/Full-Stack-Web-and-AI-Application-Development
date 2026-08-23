@@ -1,76 +1,82 @@
-# Assessment Rubric
+# Course Assessment Rubric
 
-Use this rubric to grade student projects. Adjust weights to match your school context if needed.
+Use these weights as the default course model; adjust only when school policy requires a different weighting.
 
 ## Weighting
 
 | Category | Weight |
 |---|---:|
-| AI literacy + math bridge evidence | 10% |
-| Portfolio organization | 12% |
-| GitHub + README quality | 13% |
-| Frontend functionality | 18% |
-| Backend API functionality | 17% |
-| Full-stack integration | 12% |
-| AI-assisted development reflection | 10% |
-| Presentation / demo | 8% |
+| GitHub Development Practice | 15% |
+| HCI User Research | 15% |
+| Figma Product Design | 15% |
+| HTML/CSS/JavaScript + Computational Thinking | 20% |
+| AI Literacy | 10% |
+| Capstone Full Cycle | 25% |
+| **Total** | **100%** |
 
----
+## 1. GitHub Development Practice — 15%
 
-## Category Descriptions
+Strong evidence includes useful issues, appropriate branches, meaningful commits, PRs, substantive review, revision after review, merge/release history, and ability to explain the workflow.
 
-### AI literacy + math bridge evidence (10%)
-Phase 2 AI literacy and Phase 3 `ai-math-bridge/` — conceptual clarity, labs, reflection; **not** proof-based algebra.
+A repository with many commits but no meaningful development history is not automatically strong evidence.
 
-### Portfolio organization (12%)
-Notion structure, Figma link, clear sections.
+## 2. HCI User Research — 15%
 
-### GitHub + README quality (13%)
-Organized personal repo per `Student_GitHub_Repository_Guide.md`; root README; folder structure; commit/branch/PR history; project READMEs in `ai-literacy/`, `ai-math-bridge/`, and project folders. See `04_Assessment/Student_GitHub_Assessment.md`. Assess **organization, documentation, and evidence** — not only code.
+Assess stakeholder/assumption analysis, ethical research planning, quality of interviews/observation, separation of evidence from interpretation, synthesis, problem definition, requirements, and traceability from evidence to decisions.
 
-### Frontend functionality (18%)
-Next.js + TypeScript runs; matches Figma plan.
+## 3. Figma Product Design — 15%
 
-### Backend API functionality (17%)
-Lightweight FastAPI; `/docs`; error handling.
+Assess task flow/IA, exploration of alternatives, wireframes, component/system thinking, responsive behavior, accessibility, prototype quality, critique/testing, and evidence-based revision.
 
-### Full-stack integration (12%)
-Frontend ↔ backend; loading/error states.
+Visual polish alone is insufficient.
 
-### AI-assisted development reflection (10%)
-Honest, specific reflection on AI usage; clear distinction between AI-generated and student work; evidence of reading, debugging, and questioning — not passive copy-paste.
+## 4. HTML/CSS/JavaScript + Computational Thinking — 20%
 
-### Presentation / demo (8%)
-Clear demo; student can explain architecture, data flow, math/AI connections, and how they debugged at least one significant issue.
+Assess semantic/accessibility quality, maintainable CSS, responsive behavior, JavaScript fundamentals, algorithms/control flow, functions/abstraction, arrays/objects, DOM/events, forms/state, debugging, and ability to trace/explain code.
 
----
+## 5. AI Literacy — 10%
+
+Assess the concentrated Lessons 21–24:
+
+- capability vs claim;
+- learning/generalization/failure boundaries;
+- comparison of AI performance across domains;
+- evidence-based reasoning about understanding/abstraction/analogy;
+- responsible use of evidence when discussing AI.
+
+Do **not** award this category based on whether the capstone uses AI.
+
+## 6. Capstone Full Cycle — 25%
+
+Assess the complete evidence chain:
+
+```text
+research → requirements/scope → Figma → GitHub workflow
+→ implementation → usability/QA → revision → release → retrospective
+```
+
+The final product matters, but process evidence and iteration are part of the product standard.
+
+## Performance Levels
+
+### 4 — Independent / Strong
+Evidence is complete and coherent; decisions trace to evidence; student explains and adapts work independently; testing changes the product; GitHub history shows authentic development.
+
+### 3 — Competent
+Core requirements are met with minor gaps; student explains most decisions/code; evidence generally supports decisions; revisions occur after feedback/testing.
+
+### 2 — Developing
+Some working artifacts exist, but evidence chain is incomplete; decisions are often preference-based; student needs substantial help to explain/debug/modify work.
+
+### 1 — Insufficient
+Work is mostly copied/generated/unexplained, major lifecycle evidence is missing, or the student cannot demonstrate ownership/understanding.
 
 ## Key Assessment Questions
 
-```text
-Can the student explain vectors/matrices as data and connect them to AI/ML/CV?
-Can the student explain what AI and generative AI are, and what they cannot do?
-Can the student apply responsible AI ideas to the AI School Assistant?
-Can the student explain the architecture and data flow (including RAG)?
-Can the student read and explain key parts of their own code (not only run it)?
-Can the student debug basic issues using error messages and a systematic approach?
-Can the student complete NumPy/image labs and explain them in own words?
-Can the student distinguish AI-generated code from their own decisions?
-Can the student reflect on what they learned, what failed, and what remains unclear?
-```
-
-See also: `04_Assessment/Student_Learning_Expectations.md`
-
----
-
-## Phase 2 Evidence (AI Literacy)
-
-- Study notes (A1, A2); AI Lens responses
-- Responsible AI Checklist (`05_Resources/AI_Literacy/Responsible_AI_Checklist.md`)
-- `ai-literacy/` on GitHub
-
-## Phase 3 Evidence (AI Math Bridge)
-
-- `ai-math-bridge/` with README, labs, reflection
-- `04_Assessment/AI_Math_Bridge_Checklist.md` complete
-- Explains vector, matrix, X/y, dot product, image-as-matrix in own words
+- What evidence justified this problem and requirement?
+- What changed after user research, critique, code review, or testing?
+- Can the student trace important JavaScript behavior?
+- Can the student reproduce and verify a bug fix?
+- Does GitHub history show collaboration and iteration?
+- Can the student distinguish AI capability from unsupported claims?
+- Can the student explain what they would change in the next version and why?

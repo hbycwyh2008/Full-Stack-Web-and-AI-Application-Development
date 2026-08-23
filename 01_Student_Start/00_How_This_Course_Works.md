@@ -1,89 +1,76 @@
 # How This Course Works
 
-This course is **portfolio-first**, **evidence-based**, and **mastery-focused**.
+This course is **evidence-based, activity-driven, and process-first**.
 
----
-
-## Three Places for Your Work
+## Where Your Work Lives
 
 | Place | Role |
 |---|---|
-| **Course repository** (this repo) | Instructions, class missions, templates — read only |
-| **Your GitHub repository** | **Learning evidence** — code, commits, reflections, certificates |
-| **Your Notion portfolio** | Public **portfolio** — your best finished projects |
+| **Course repository** | lesson missions, guides, templates — mainly read/reference |
+| **Your project GitHub repository** | issues, branches, commits, PRs, code, research/design/testing evidence |
+| **Figma** | flows, wireframes, components, prototypes, design revisions |
+
+A separate public portfolio may be created if your teacher wants one, but it is not a core course requirement.
+
+## Canonical Course Path
 
 ```text
-Course repo tells you what to do.
-Your GitHub shows how you learned.
-Notion shows your best work to the world.
+00  What is Computer Science? + Software Lifecycle
+01  GitHub Development Workflow
+02  HCI User Research
+03  Figma Product Design
+04  HTML + CSS
+05  JavaScript + Computational Thinking
+06  AI Literacy — Melanie Mitchell
+07  Testing + Release
+08  Capstone Full Cycle
+09  Optional Python / extensions
 ```
 
----
+Open [Class Missions](../02_Class_Missions/README.md) for the current lesson.
 
-## What You Do Every Class
+## How Class Works
 
-Open [today’s class mission](../02_Class_Missions/README.md) and follow the **90-minute** classroom flow:
+There is no single rigid routine used every day. Activities change with the skill:
 
-1. **Entry Point Check** — answer short questions before the required resource
-2. **Individual Learning** — use the **one required resource**; complete required notes
-3. **Talk Round 1** — discuss notes with a partner
-4. **Entry Points Check / Teacher Diagnosis** — group answer; teacher explains what you are stuck on
-5. **Guided Practice / Mission Task** — complete today’s main task
-6. **Exit Check** — review what you finished
-7. **Submission** — submit evidence listed in the mission file
+- card sort / classification;
+- reverse engineering;
+- research interview;
+- affinity mapping;
+- Figma design studio;
+- code tracing;
+- debugging investigation;
+- code review;
+- AI case analysis/discussion;
+- usability test;
+- development sprint.
 
-![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
+The common expectation is:
 
-Full details: [classroom-flow](../02_Class_Missions/shared/classroom-flow.md)
+> **Use evidence, make a decision or build something, test/critique it, then revise.**
 
----
-
-## Numbered Course Path
-
-```text
-00  Course overview
-01  GitHub and Notion
-02  AI literacy
-03  HTML/CSS basics
-04  JavaScript basics
-05  React basics
-06  Next.js frontend
-07  Python foundations
-08  FastAPI backend
-09  FastAPI AI backend
-10  Next.js + FastAPI integration
-11  Kaggle data processing
-12  Machine learning workflow
-13  Cursor capstone
-14  Final AI web app projects
-15  Final portfolio showcase
-optional  Figma
-```
-
-Class missions: [02_Class_Missions](../02_Class_Missions/README.md) (your teacher will assign the folder for each numbered unit).
-
-Study resources: [05_Resources/](../05_Resources/)
-
----
+The teacher may give short explanations when the class hits a shared bottleneck, but the course is not a long teacher-question/student-answer sequence.
 
 ## What Counts as Success
 
-**Not enough:** watching a video, copying code, or running something once.
+A product that runs once is not enough. You should be able to:
 
-**Required:** visible **learning evidence** — see [Evidence System](../04_Assessment/Evidence_System.md).
+- explain why it exists;
+- show research/design evidence;
+- explain important code and data flow;
+- debug problems systematically;
+- test with users/technical checks;
+- show revisions after evidence;
+- explain your GitHub history.
 
-**Mastery** means you can **explain, rebuild, debug, modify, and apply** the core pattern.
+See [Evidence System](../04_Assessment/Evidence_System.md).
 
-![Mastery Level](../08_Public_Documents/posters/mastery-level.png)
+## AI Use
 
-Levels 0–5: [mastery-levels](../02_Class_Missions/shared/mastery-levels.md)
-
----
+AI tools may support explanation, debugging, feedback, and practice according to the [AI Usage Policy](../04_Assessment/AI_Usage_Policy.md). You remain responsible for understanding and testing submitted work.
 
 ## Next Steps
 
-1. [Set Up Your GitHub Repo](01_Set_Up_Your_GitHub_Repo.md)
-2. [Set Up Your Notion Portfolio](02_Set_Up_Your_Notion_Portfolio.md) (during 01 GitHub Notion)
-3. Open [01 GitHub Notion — Lesson 1](../02_Class_Missions/01-github-notion/lesson-01-course-workflow-and-first-repo.md)
-
-Back to [STUDENT_START_HERE.md](../STUDENT_START_HERE.md)
+1. Start with [Lesson 00 — What Is Computer Science?](../02_Class_Missions/00-course-orientation/lesson-00-what-is-computer-science.md).
+2. Set up the project GitHub repository when your teacher assigns the GitHub unit.
+3. Keep durable evidence as the course progresses.

@@ -1,33 +1,36 @@
-# Lesson Template
+# Lesson Design Template — Flexible
 
-Use this structure when adding or revising a class mission.
+Use this as a planning aid, **not a required visible routine**. Delete sections that do not fit and replace them with a better activity structure.
 
 ## Mission
-One sentence describing the decision, artifact, or capability students must produce.
+What capability, decision, or artifact should students produce by the end?
 
-## Core Artifact
-The thing students will create and keep.
+## Learning Evidence
+What would convince you that students understand rather than merely completed steps?
 
-## Launch Challenge — 0–10
-A short individual task that creates something worth comparing. Avoid teacher-led recall questions.
+## Starting Activity
+Choose an activity that creates a problem/evidence worth thinking about: sort, predict, inspect, attempt, reverse engineer, test, compare, or research.
 
-## Evidence / Resource Scan — 10–25
-Exactly one required resource or artifact. Students annotate, sort, test, or extract evidence.
+## Evidence / Input
+What short resource, example, user evidence, code, design, dataset, reading, or system behavior will students use?
 
-## Team Sensemaking — 25–40
-Each student contributes. The team records one agreement, one disagreement, and one decision.
+## Sensemaking
+How will students compare interpretations or construct a model? This may be pair discussion, jigsaw, mapping, annotation, tracing, or critique — not necessarily a whole-class Q&A.
 
-## Studio Build — 40–65
-Students create the main artifact. Teacher micro-teaching is allowed only at common bottlenecks.
+## Main Work
+What will students build, decide, investigate, design, code, or test?
 
-## Critique / Test — 65–80
-Another student or team tests/reviews the artifact using explicit criteria.
+## Feedback / Test
+What evidence can reveal weaknesses? Possible forms: user test, PR review, design critique, automated/manual test, counterexample, peer explanation, changed requirement.
 
-## Ship Evidence — 80–90
-Students revise, commit/publish, and record what changed and why.
+## Revision
+What should students improve after feedback/evidence?
+
+## Durable Evidence
+What should be preserved: commit/PR, research note, Figma link, trace table, test log, comparison map, reflection, release note?
+
+## Teacher Intervention
+Plan only the micro-lessons likely to be needed. Do not pre-fill the lesson with teacher questions when students can discover the idea through an activity.
 
 ## Success Evidence
-- artifact exists;
-- evidence supports the decision;
-- revision is visible;
-- student can explain the trade-off.
+State the observable standard in 2–4 bullets.

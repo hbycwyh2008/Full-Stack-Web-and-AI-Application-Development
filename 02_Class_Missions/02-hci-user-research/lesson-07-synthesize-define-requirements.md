@@ -1,46 +1,67 @@
-# Lesson 07 — Synthesize Evidence into Requirements
+# Lesson 07 — Synthesize Research, Define the Problem, Write Requirements
 
-**Mission:** Convert messy research evidence into a defensible product definition.
+**Length:** 90 minutes  
+**Mission:** Turn raw user-research evidence into patterns, a focused problem definition, and evidence-backed requirements.  
+**One Required Resource / Evidence Source:** anonymized team research notes/interview evidence  
+**Durable Evidence:** affinity map + problem statement + prioritized requirements
 
-## Evidence Wall (0–15)
+## 0–10 min — Entry Point Check
 
-Teams place individual observations/quotes on separate notes. One note = one evidence unit. No solution ideas yet.
+Individually review five sample research notes and label each as **observation / user quote / interpretation / solution idea**. Circle one item that should not yet be treated as a requirement.
 
-## Affinity Mapping (15–35)
+## 10–25 min — Individual Learning
 
-Without pre-naming categories, students cluster evidence by similarity. Only after clustering do they name patterns. Require each pattern to contain multiple pieces of evidence or mark it as tentative.
+Review the team's anonymized research evidence. Create one note per meaningful observation/quote. Mark:
 
-## From Pattern to Need (35–50)
+- repeated behaviors;
+- workarounds;
+- frustrations;
+- goals;
+- constraints;
+- contradictions;
+- outliers worth preserving.
 
-For each strong pattern, teams write:
+Do not begin with features.
 
-```text
-evidence → pattern → user need
-```
+## 25–40 min — Talk Round 1
 
-Example: repeated context switching and forgotten locations may support a need for a single visible place for current tasks. It does not automatically justify a specific app feature.
+Pairs cluster notes into provisional themes and give each theme a descriptive label. Compare with another pair and identify one cluster that changed after discussion.
 
-## Problem Statement (50–60)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Write a concise statement containing user/context, observed problem, consequence, and evidence basis. Avoid embedding the solution.
+Groups build an affinity map and display:
 
-## Requirements Studio (60–78)
+1. two strong themes supported by multiple pieces of evidence;
+2. one weak theme with insufficient evidence;
+3. one contradiction/outlier;
+4. one unresolved question.
 
-Teams convert evidence-backed needs into:
+Teacher gives brief clarification only on shared problems such as theme labels that are actually feature ideas, over-generalizing from one participant, or mixing evidence with assumptions.
 
-- **functional requirements** — what the product must enable;
-- **non-functional requirements** — accessibility, performance, privacy, usability, reliability;
-- **constraints** — time, platform, data, school policy;
-- **success criteria** — observable evidence that the solution works.
+## 55–75 min — Guided Practice / Mission Task
 
-## Evidence Traceability Test (78–86)
+From the affinity map, produce:
 
-A reviewing team chooses three requirements and asks: **What research evidence justifies this?** Unsupported requirements are revised, removed, or labeled as assumptions to test.
+- concise user/problem statement;
+- 3–5 evidence-backed needs;
+- functional requirements;
+- non-functional requirements/constraints where appropriate;
+- success criteria;
+- priority labels such as Must / Should / Could;
+- traceability: each important requirement points back to user evidence.
 
-## Ship Evidence (86–90)
+## 75–85 min — Exit Check
 
-Create the Product Definition Brief: evidence themes, user need, problem statement, requirements, success criteria.
+Individually evaluate this requirement:
+
+> `The app must use AI to recommend a study plan.`
+
+State whether it is evidence-backed, solution-first, or insufficiently justified, and rewrite it as a user need/requirement if necessary.
+
+## 85–90 min — Submission
+
+Submit affinity map, problem statement, prioritized requirement set, evidence links, and individual exit response.
 
 ## Success Evidence
 
-Students can trace important requirements backward to research rather than preference.
+Students can explain the chain **raw evidence → pattern/theme → user need → requirement**, and can distinguish evidence-backed requirements from unsupported feature ideas.

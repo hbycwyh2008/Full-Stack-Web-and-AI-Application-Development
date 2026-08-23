@@ -1,35 +1,46 @@
-# Lesson 17 — Conditions, Iteration, and Algorithm Tracing
+# Lesson 17 — Control Flow and Algorithms
 
-**Mission:** Predict and explain algorithms before depending on the computer to tell you whether they work.
+**Length:** 90 minutes  
+**Mission:** Express a step-by-step algorithm with sequence, selection, and iteration, then test whether it works across cases.  
+**One Required Resource / Evidence Source:** teacher-provided pseudocode/JavaScript algorithm examples  
+**Durable Evidence:** algorithm trace + JavaScript implementation + test cases
 
-## Predict → Run (0–15)
+## 0–10 min — Entry Point Check
 
-Students trace short code containing Boolean expressions and conditionals. Record predicted output first, then run it.
+Individually follow a short everyday algorithm containing one decision and one repeated step. Mark where the procedure could fail for an unusual input.
 
-## Decision Logic (15–30)
+## 10–25 min — Individual Learning
 
-Build truth tables or concrete cases for compound Boolean expressions. Students identify boundary cases where conditions overlap or leave a gap.
+Inspect the algorithm examples. Record evidence for:
 
-## Iteration Investigation (30–47)
+- sequence;
+- Boolean condition;
+- `if / else` selection;
+- loops/iteration;
+- termination;
+- edge cases;
+- how pseudocode and JavaScript represent the same logic differently.
 
-Compare repeated copy/paste code with a loop. Trace loop state by hand using a table containing iteration number, relevant variables, condition result, and output.
+## 25–40 min — Talk Round 1
 
-## Algorithm Build (47–66)
+Pairs trace one algorithm by hand for normal and edge-case inputs. Compare results, then run the code. Explain any difference between predicted and actual behavior.
 
-Implement a small requirement requiring both selection and repetition. Students first write language-neutral steps or pseudocode, then JavaScript.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Bug Hunt (66–78)
+Groups receive an algorithm with a logic bug or missing case. Build a trace and identify the first point where behavior diverges from the requirement. Teacher clarifies only common barriers such as boundary conditions, loop conditions, or nested decisions.
 
-Teams diagnose off-by-one errors, wrong loop conditions, and incorrect branch order. They must state the expected invariant/condition before changing code.
+## 55–75 min — Guided Practice / Mission Task
 
-## Transfer Challenge (78–88)
+Implement one project-relevant algorithm, such as validation rules, filtering, scoring, eligibility, ordering, or repeated processing. Before coding, write the logic in pseudocode. Then create at least four test cases including one edge case.
 
-Change the input data or requirement. Students predict whether the algorithm still works and why.
+## 75–85 min — Exit Check
 
-## Ship (88–90)
+Individually modify the algorithm for one changed requirement and explain which condition/loop must change and why.
 
-Save algorithm, trace table, and one identified edge case.
+## 85–90 min — Submission
+
+Commit pseudocode, implementation, test cases/results, and individual exit response.
 
 ## Success Evidence
 
-Students can reason about control flow without trial-and-error editing.
+Students can trace and implement sequence/selection/iteration and use test cases to reason about algorithm correctness rather than judging from one successful run.

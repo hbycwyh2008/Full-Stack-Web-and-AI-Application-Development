@@ -1,67 +1,36 @@
-# Classroom Flow — What Happens Every Class
+# Classroom Flow — Activity, Discussion, Studio, Evidence
 
-Each class follows the same **90-minute** structure. Your **class mission** file has lesson-specific tasks; this guide shows the **time blocks**.
+Every core lesson is a **90-minute studio**. The class is not organized as a teacher-led question-and-answer sequence.
 
-![Our Classroom Flow — We learn. Practice. Rebuild. Share.](../../08_Public_Documents/posters/classroom-flow.png)
+## Default Flow
 
----
-
-## The Seven Blocks
-
-| Time | Block | What you do |
+| Time | Block | Student action |
 |---|---|---|
-| **0–10 min** | Entry Point Check | Answer short questions **individually** — reveal what you already know and what confuses you |
-| **10–25 min** | Individual Learning | Use the **one required resource** — take required notes |
-| **25–40 min** | Talk Round 1 | Discuss notes with partner — **each student speaks** |
-| **40–55 min** | Entry Points Check / Teacher Diagnosis | Group shared answer; teacher explains **only what students are stuck on** |
-| **55–75 min** | Guided Practice / Mission Task | Complete the **main task** with support, then less help |
-| **75–85 min** | Exit Check | What you finished, what is confusing, what evidence you submit |
-| **85–90 min** | Submission | Submit evidence listed in the mission guide |
+| 0–10 | Launch Challenge | Sort, inspect, test, annotate, or make an initial decision individually |
+| 10–25 | Evidence / Resource Scan | Use one required artifact, short reading, example, dataset, interface, or code sample |
+| 25–40 | Team Sensemaking | Compare evidence; every student speaks; identify agreements and disagreements |
+| 40–65 | Studio Build | Create the research, design, code, GitHub, testing, or planning artifact |
+| 65–80 | Critique / Test | Peer review, usability test, code review, design critique, or debugging exchange |
+| 80–90 | Ship Evidence | Improve the artifact, commit/publish it, and record what changed and why |
 
----
+## Teacher Role
 
-## One Required Path
+The teacher facilitates the environment rather than driving the lesson through serial questions.
 
-Every mission guide includes:
+- Set the challenge, constraints, evidence source, and deliverable.
+- Observe teams and collect recurring misconceptions.
+- Give a **5–8 minute micro-lesson only when a shared barrier appears**.
+- Redirect students to evidence, users, tests, or artifacts before giving an answer.
+- Require each student to explain one decision and one revision.
 
-- **One Required Resource** — the only main video, doc, or repo section for Individual Learning
-- **What to Focus On** — exactly what to note (not everything in the resource)
-- **Optional Support Resources** — at most 1–2, only if stuck
-- **Teacher Reference Only** — not for students to choose from during class
+## Student Discussion Rules
 
-Do **not** browse playlists or “pick a clip” during class.
+1. Everyone speaks before anyone speaks twice.
+2. Claims must point to evidence: a user quote, observation, design principle, test result, code behavior, or Git history.
+3. Disagreement is recorded, not hidden.
+4. The group must make a decision and explain the trade-off.
+5. A working artifact is not finished until it has been reviewed or tested.
 
----
+## Evidence Rule
 
-## Entry Point Check vs Entry Points Check
-
-| Block | When | Purpose |
-|---|---|---|
-| **Entry Point Check** (0–10) | **Before** Individual Learning | What you bring in; baseline confusion |
-| **Entry Points Check** (40–55) | **After** Talk Round 1 | Teacher uses **group answers** to decide what to teach |
-
-Neither block is mainly for grading.
-
----
-
-## Guided Practice / Mission Task (55–75 min)
-
-This is where you **do the work** — create files, commits, folders, or mastery answers.
-
-Running through steps once with help is **not mastery**. You must show you can **explain** and **repeat** the pattern.
-
-See `../../shared/ai-use-during-practice.md` during independent parts.
-
----
-
-## Submission (85–90 min)
-
-Submit what **What You Must Submit** lists in today’s mission file.
-
-See `exit-evidence-checklist.md` for evidence types.
-
----
-
-## Homework
-
-No heavy homework if you finish in class. Unfinished mission output = **unfinished evidence**, not optional extra credit.
+Every lesson produces at least one durable artifact in GitHub or Figma. Typical evidence includes an issue, commit, branch, pull request, research note, affinity map, user flow, prototype, code change, test report, release note, or retrospective.

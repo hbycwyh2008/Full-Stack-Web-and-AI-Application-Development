@@ -1,106 +1,88 @@
-# Full-Stack Web and AI Application Development
+# Software Design, Development & AI
 
-## Course Summary
+> Repository name retained for continuity: `Full-Stack-Web-and-AI-Application-Development`.
 
-A **portfolio-first**, **evidence-based**, **mastery-focused** course in full-stack web and AI application development. Students build real projects, document learning on GitHub and Notion, and prove they can **explain, rebuild, debug, modify, and apply** each core pattern — not just watch, copy, or run code once.
+## Course Purpose
 
-**Final project:** AI School Assistant — a document-grounded Q&A web app with sources.
+Students learn the **complete software-development process**, not a stack of frameworks.
 
----
+By the end of the core course, students should be able to take a real user problem through:
+
+```text
+problem discovery
+→ HCI research
+→ synthesis + requirements
+→ Figma design + prototype
+→ GitHub planning/collaboration
+→ HTML/CSS/JavaScript implementation
+→ usability + technical testing
+→ release
+→ feedback + iteration
+```
+
+## Priority
+
+### Primary
+- complete software-development lifecycle;
+- GitHub workflow: issues, branches, commits, pull requests, review, merge, release;
+- HCI research end to end;
+- Figma web/product design end to end;
+- AI literacy using Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_.
+
+### Secondary
+- HTML;
+- CSS;
+- JavaScript.
+
+### Optional if time remains
+- Python foundations.
+
+React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML training, Cursor-specific workflows, Notion portfolio work, and similar tools are **enrichment, not core outcomes**.
 
 ## Start Here
 
-### For Students
+- Students: [STUDENT_START_HERE.md](STUDENT_START_HERE.md)
+- Teachers: [TEACHER_START_HERE.md](TEACHER_START_HERE.md)
+- Canonical lessons: [02_Class_Missions/](02_Class_Missions/README.md)
+- Course pathway: [00_Course_Overview/Learning_Pathway_Map.md](00_Course_Overview/Learning_Pathway_Map.md)
+- Final project: [07_Final_Project/Final_Project_Specification.md](07_Final_Project/Final_Project_Specification.md)
 
-**→ [STUDENT_START_HERE.md](STUDENT_START_HERE.md)**
+## Lesson Path
 
-Then: [01_Student_Start/](01_Student_Start/) · [02_Class_Missions/](02_Class_Missions/README.md) (open during class)
+**33 core lessons (00–32)** plus **6 integrated AI reading/discussion studios** and **3 optional Python extensions**.
 
-### For Teachers
-
-**→ [TEACHER_START_HERE.md](TEACHER_START_HERE.md)**
-
-Then: [Course Implementation Checklist](00_Course_Overview/Course_Implementation_Checklist.md)
-
----
-
-## Repository Map
-
-```text
-├── STUDENT_START_HERE.md       ← students begin here
-├── TEACHER_START_HERE.md       ← teachers begin here
-├── 00_Course_Overview/         ← course overview, pacing, pathway
-├── 01_Student_Start/           ← setup: GitHub, Notion, evidence, AI policy
-├── 02_Class_Missions/          ← open during class (student task sheets)
-├── 03_Templates/               ← copy into your personal repo
-├── 04_Assessment/              ← evidence system, rubrics, AI policy
-├── 05_Resources/               ← AI Literacy, Math Bridge, Git unit
-├── 06_Starter_Code/            ← teacher demo + full RAG app
-├── 07_Final_Project/           ← capstone specification
-├── 08_Public_Documents/        ← student overview, posters
-└── 09_Teacher_Planning/        ← daily lesson plans, phase overviews
-    ├── Daily_Lesson_Plans/
-    └── Phase_Overviews/
-```
-
----
-
-## Learning Flow
-
-```text
-Git & GitHub → Notion Portfolio → AI Literacy → AI Math Bridge
-→ Figma → TypeScript → Next.js → FastAPI → RAG Concepts
-→ Full-Stack Integration → Cursor Capstone → AI School Assistant
-```
-
-Phase overviews: [09_Teacher_Planning/Phase_Overviews/](09_Teacher_Planning/Phase_Overviews/)
-
----
-
-## Middle School and High School Tracks
-
-Both grade bands use the **same repository, learning pathway, missions, and professional tools**. The difference is the expected level of scaffolding, independence, technical depth, debugging, and mastery.
-
-- **Middle School — Guided Full-Stack Development:** **Build · Modify · Explain**
-- **High School — Independent Full-Stack AI Development:** **Rebuild · Debug · Integrate · Transfer**
-
-See **[Grade-Band Expectations](00_Course_Overview/Grade_Band_Expectations.md)** for the detailed requirements, mastery targets, and final-project differentiation.
-
----
-
-## Evidence and Mastery
-
-| Concept | Document |
+| Unit | Core Focus |
 |---|---|
-| **Learning evidence** | [Evidence System](04_Assessment/Evidence_System.md) |
-| **Class mission** | [02_Class_Missions/](02_Class_Missions/README.md) |
-| **Mastery** (explain · rebuild · debug · modify · apply) | [mastery-levels](02_Class_Missions/shared/mastery-levels.md) |
-| **AI usage note** | [AI Use Policy for Students](01_Student_Start/04_AI_Use_Policy_For_Students.md) |
+| 00 | Software lifecycle orientation |
+| 01 | GitHub development workflow |
+| 02 | HCI user research |
+| 03 | Figma product design |
+| 04 | HTML/CSS implementation |
+| 05 | JavaScript interaction and debugging |
+| 06 | Usability, QA, release, maintenance |
+| 07 | Capstone: repeat the full lifecycle |
+| 08 | Cross-cutting AI literacy reading thread |
+| 09 | Optional Python |
+
+## Classroom Method
+
+Lessons are activity/discussion studios, not teacher-led interrogation:
 
 ```text
-Course repo  →  what to do
-Your GitHub  →  learning evidence (code, reflection, revision record)
-Notion       →  public portfolio
+Launch Challenge
+→ Evidence / Resource Scan
+→ Team Sensemaking
+→ Studio Build
+→ Critique / Test
+→ Ship Evidence
 ```
 
----
+Students repeatedly create evidence and make decisions. The teacher gives short targeted explanations only where common barriers appear.
 
 ## Final Project
 
-**AI School Assistant** — answers questions from school documents with sources.
-
-Spec: [07_Final_Project/Final_Project_Specification.md](07_Final_Project/Final_Project_Specification.md)
-
-Starter code: [06_Starter_Code/](06_Starter_Code/)
-
----
+The capstone is a **user-centered software product**. AI is optional. Students are assessed on the quality of the lifecycle evidence — research, requirements, Figma, GitHub process, implementation, testing, release, and iteration — not on how many technologies they add.
 
 ## License
 
-This repository uses a dual-license structure.
-
-Educational materials, including course documents, lesson guides, class missions, templates, rubrics, posters, project instructions, and explanatory teaching text, are copyright © 2026 Wang Morgan. All Rights Reserved. These materials may not be copied, redistributed, adapted, translated, republished, sold, or incorporated into another course, book, curriculum, training product, website, or commercial product without written permission.
-
-Source code, including starter code, demo code, example applications, project scaffolds, frontend code, backend code, and scripts, is licensed under the MIT License.
-
-See `LICENSE.md` and `LICENSE_SUMMARY.md` for details.
+Educational materials are copyright © 2026 Wang Morgan. All Rights Reserved. Source code remains subject to the repository's MIT licensing terms where specified. See `LICENSE.md` and `LICENSE_SUMMARY.md`.

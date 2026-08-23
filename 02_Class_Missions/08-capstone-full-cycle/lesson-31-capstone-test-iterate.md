@@ -1,31 +1,55 @@
-# Lesson 31 — Capstone: Code Review, Usability Test, and Iterate
+# Lesson 31 — Capstone Test, Triage, and Iterate
 
-**Mission:** Stop adding features long enough to find out what is actually wrong.
+**Length:** 90 minutes  
+**Mission:** Use usability, accessibility, and technical evidence to decide what must change before release.  
+**One Required Resource / Evidence Source:** current capstone build + capstone requirements/test criteria  
+**Durable Evidence:** test matrix + bug/usability findings + prioritized revision PR
 
-## Code/Technical Review (0–20)
+## 0–10 min — Entry Point Check
 
-Review core paths for correctness, maintainability, accessibility, responsive behavior, console errors, and state/data problems. Convert findings into issues.
+Individually inspect three sample findings and classify each as **technical bug / usability problem / accessibility issue / requirement mismatch / unclear**. Rank which should be fixed first and explain your criterion.
 
-## Usability Test (20–48)
+## 10–25 min — Individual Learning
 
-Run the primary task with participants who did not build the product. Designers do not coach. Collect observable evidence.
+Audit the current capstone build against:
 
-## Triage (48–60)
+- primary user tasks;
+- acceptance criteria;
+- responsive behavior;
+- form/error states;
+- keyboard/focus/contrast basics;
+- browser console/errors;
+- known usability findings.
 
-Combine usability and technical findings. Rank release blockers/high-impact issues above nice-to-have features.
+Record evidence in a simple test matrix.
 
-## Fix Sprint (60–78)
+## 25–40 min — Talk Round 1
 
-Fix through branches/PRs. Each fix includes reproduction/evidence and verification.
+Pairs compare findings and severity. For one disagreement, use **user impact / frequency / workaround / release risk / effort** to reach or document a decision.
 
-## Regression + Success Criteria (78–86)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Retest core requirements and compare current evidence against the success criteria written in Lesson 28.
+Groups run a short cross-team test: one team attempts another team's primary task without coaching. The product team records failures and questions. Teacher addresses only common issues that block multiple teams from testing or debugging effectively.
 
-## Release Decision (86–90)
+## 55–75 min — Guided Practice / Mission Task
 
-Teams decide **ready / ready with documented limitations / not ready**, with evidence.
+Triage and iterate:
 
-## Deliverable
+- convert findings into GitHub issues or update existing ones;
+- prioritize release blockers and high-impact usability/accessibility problems;
+- fix selected issues on branches;
+- retest changed behavior;
+- update Figma if the interaction/design itself changes;
+- open/update PRs with before/after evidence.
 
-Test evidence + prioritized fixes + release decision.
+## 75–85 min — Exit Check
+
+Individually choose one finding you **did not** fix today. Explain why it was deferred and what evidence would cause you to raise its priority.
+
+## 85–90 min — Submission
+
+Submit test matrix, prioritized issue list, revision PR(s), retest evidence, and individual exit response.
+
+## Success Evidence
+
+Students can use test evidence to prioritize changes and can show that iteration is a controlled response to user/technical evidence rather than random polishing.

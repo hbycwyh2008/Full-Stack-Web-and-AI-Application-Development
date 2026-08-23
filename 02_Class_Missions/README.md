@@ -2,21 +2,33 @@
 
 This is the **canonical lesson pathway**.
 
-The course begins by answering a foundational question:
+## Before Lesson 00: Required Four-Poster Orientation
 
-> **What is computer science, and why is coding only one part of it?**
+The course does **not** begin with a definition of computer science, AP CSP, GitHub, or coding.
 
-Students then learn how software moves from a human problem through research, design, implementation, testing, release, and iteration.
+Students first complete:
+
+- [Required Orientation — Learn the Course Through the Four Posters](00-course-orientation/required-orientation-four-posters.md)
+
+The four posters establish the rules students will use in every later lesson:
+
+1. **Our Classroom Flow**
+2. **Mastery Level**
+3. **AI Use Policy**
+4. **CS Competition Pathways**
+
+Only after students understand those four posters does Lesson 00 ask **What is computer science?** and explore the AP CSP connection.
 
 ## Priority Order
 
 ### Primary outcomes
-1. Understand computer science as a broad discipline
-2. Complete software-development lifecycle
-3. GitHub development and collaboration workflow
-4. HCI user research
-5. Figma product design
-6. AI literacy through Melanie Mitchell
+1. Understand and use the course learning culture defined by the four posters
+2. Understand computer science as a broad discipline
+3. Complete the software-development lifecycle
+4. GitHub development and collaboration workflow
+5. HCI user research
+6. Figma product design
+7. AI literacy through Melanie Mitchell
 
 ### Secondary outcomes
 - HTML
@@ -29,8 +41,9 @@ Students then learn how software moves from a human problem through research, de
 
 ## Core Learning Path
 
-| Unit | Focus | Lessons |
+| Stage / Unit | Focus | Lessons |
 |---|---|---:|
+| [Required Orientation](00-course-orientation/required-orientation-four-posters.md) | Four posters + how this class works | prerequisite session |
 | [00 CS Orientation + Lifecycle](00-course-orientation/README.md) | What CS studies; AP CSP discovery; software lifecycle | 00–01 |
 | [01 GitHub Development Workflow](01-github-development-workflow/README.md) | Repo, issues, branches, commits, PRs, review, merge | 02–04 |
 | [02 HCI User Research](02-hci-user-research/README.md) | Stakeholders, interviews/observation, synthesis, requirements | 05–07 |
@@ -42,7 +55,7 @@ Students then learn how software moves from a human problem through research, de
 | [08 Capstone Full Cycle](08-capstone-full-cycle/README.md) | Repeat the complete process independently | 27–32 |
 | [09 Optional Python](09-optional-python/README.md) | Python transfer and small utility | optional |
 
-**Core total: 33 lessons (00–32).**
+**Canonical sequence: one required poster-orientation session + 33 numbered core lessons (00–32).**
 
 ## What Students Repeatedly Do
 
@@ -52,17 +65,23 @@ understand → research → define → design → plan → build → review/test
 
 GitHub supports the workflow throughout the course.
 
-## Classroom Method
+## Canonical Classroom Method
 
-Do not force every lesson into the same routine. Match the activity to the content: card sorts, reverse engineering, investigations, user research, affinity mapping, design studios, critique, code tracing, debugging, case analysis, structured discussion, usability labs, and development sprints.
+Every 90-minute canonical lesson follows the exact seven-block structure shown on the **Our Classroom Flow** poster:
 
-Common principle:
+1. **Entry Point Check** — 0–10 min
+2. **Individual Learning** — 10–25 min
+3. **Talk Round 1** — 25–40 min
+4. **Entry Points Check / Teacher Diagnosis** — 40–55 min
+5. **Guided Practice / Mission Task** — 55–75 min
+6. **Exit Check** — 75–85 min
+7. **Submission** — 85–90 min
 
-```text
-evidence → sensemaking → decision/build → test/critique → revision → preserved evidence
-```
+See [shared/classroom-flow.md](shared/classroom-flow.md).
 
-The teacher does not lead the class through a long sequence of questions.
+The seven blocks are fixed; the activity inside them should vary. Use card sorts, reverse engineering, user research, affinity mapping, design studios, Figma critique, code tracing, debugging, jigsaw reading, usability labs, PR review, and development sprints as appropriate.
+
+The teacher does **not** lead the class through a long sequence of questions. Students first work with evidence, discuss, make/build/test something, and show learning evidence. Teacher explanation is short and diagnostic when a shared barrier appears.
 
 ## Final Product Standard
 

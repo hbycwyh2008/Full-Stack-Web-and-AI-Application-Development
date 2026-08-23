@@ -1,28 +1,52 @@
 # Lesson 04 — Pull Requests, Review, and Merge
 
-## Mission
-Use a pull request as a design and engineering conversation before work enters `main`.
+**Length:** 90 minutes  
+**Mission:** Use a pull request as a structured review and collaboration checkpoint before merging work.  
+**One Required Resource / Evidence Source:** one teacher-selected pull request example  
+**Durable Evidence:** PR + peer review + merge record
 
-## Core Artifact
-A reviewed and merged pull request tied to an issue.
+## 0–10 min — Entry Point Check
 
-## Launch Challenge — 0–10
-Students compare two pull requests: one says only “done,” another explains purpose, screenshots/tests, and trade-offs. Individually mark what a reviewer can verify.
+Individually inspect a small code/design change and choose: **merge immediately / review first / need more context**. Annotate what evidence you would want before approving it.
 
-## Evidence / Resource Scan — 10–25
-Inspect a sample PR diff and review comments. Categorize comments as **bug, clarity, maintainability, UX, requirement, or optional suggestion**.
+## 10–25 min — Individual Learning
 
-## Team Sensemaking — 25–40
-Teams write a five-item PR review checklist. Every student contributes one criterion.
+Inspect the selected pull request. Record evidence for:
 
-## Studio Build — 40–65
-Open a PR from the previous feature branch. Include linked issue, summary, test evidence, screenshots when relevant, and known limitations. A teammate reviews the diff and leaves at least one substantive comment.
+- what the PR is trying to change;
+- how the issue/context is referenced;
+- how the diff shows the exact change;
+- what reviewers comment on;
+- what happens before and after merge.
 
-## Critique / Test — 65–80
-Author responds to feedback, changes the branch if needed, and explains whether each comment was accepted or rejected.
+## 25–40 min — Talk Round 1
 
-## Ship Evidence — 80–90
-Merge only after acceptance criteria are met. Close the issue and record the merge as release evidence.
+Pairs compare review criteria and classify sample comments as **useful / vague / personal / actionable**. Rewrite two weak comments into specific evidence-based review comments.
+
+## 40–55 min — Entry Points Check / Teacher Diagnosis
+
+Groups simulate a PR review decision using a short change set. They must produce **approve / request changes / ask a question** plus evidence. Teacher clarifies only shared problems such as reviewing the person instead of the work, approving without checking acceptance criteria, or treating review as fault-finding.
+
+## 55–75 min — Guided Practice / Mission Task
+
+Students:
+
+1. push the feature branch;
+2. open a PR linked to the issue;
+3. summarize what changed and how it was tested;
+4. exchange PRs with a peer;
+5. leave at least one specific review comment;
+6. revise when needed;
+7. merge only after the completion criteria are satisfied.
+
+## 75–85 min — Exit Check
+
+Individually respond to a changed scenario: a PR works visually but does not meet one issue requirement. Decide what the reviewer should do and explain why.
+
+## 85–90 min — Submission
+
+Submit issue link, PR link, review evidence, merge commit/record, and individual exit response.
 
 ## Success Evidence
-Students can explain why review happens before merge and why disagreement can improve a product.
+
+Students can explain how PRs connect planning, implementation, review, revision, and merge into one visible development workflow.

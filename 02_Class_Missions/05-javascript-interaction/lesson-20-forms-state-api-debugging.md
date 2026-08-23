@@ -1,46 +1,54 @@
-# Lesson 20 — Forms, Persistence, APIs, and Debugging
+# Lesson 20 — Forms, State, External Data, and Debugging
 
-**Mission:** Build a small data-driven feature and debug it systematically.
+**Length:** 90 minutes  
+**Mission:** Build a robust user-input interaction, manage state, and debug failures using evidence rather than guessing.  
+**One Required Resource / Evidence Source:** teacher-provided form/debugging example; external API/data is optional  
+**Durable Evidence:** validated interaction + debug log + tests
 
-## Form/Data Flow (0–15)
+## 0–10 min — Entry Point Check
 
-Students map one form through:
+Individually test a deliberately flawed form. Record at least three failure cases: empty input, invalid input, repeated submission, unclear feedback, or another observed issue.
 
-```text
-input → validation → normalized data → state/storage → feedback/output
-```
+## 10–25 min — Individual Learning
 
-## Build (15–42)
+Inspect the example and record:
 
-Implement form handling and validation. Add local persistence (`localStorage`) or JSON-based state when appropriate.
+- reading form values;
+- preventing/default submission behavior where relevant;
+- validation;
+- state update;
+- user feedback;
+- console/error messages;
+- network/request evidence if an external API/data source is used.
 
-## API Extension (42–55)
+## 25–40 min — Talk Round 1
 
-If the product benefits from external data, demonstrate `fetch()` and JSON with a safe public/teacher-provided endpoint. If not, use the time for deeper persistence/state work. APIs are useful context, not a required framework.
+Pairs convert observed failures into test cases with **input → expected behavior → actual behavior**. Compare debugging strategies and identify which evidence source should be checked first for each failure.
 
-## Debugging Investigation (55–75)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Introduce several faults. Students maintain a log:
+Groups debug one broken form/data interaction using DevTools. They must show the first reliable evidence locating the problem rather than listing random fixes. Teacher clarifies only shared barriers such as validation order, stale state, asynchronous requests, or reading console/network errors.
 
-```text
-observed behavior
-expected behavior
-hypothesis
-experiment/evidence
-fix
-verification
-```
+## 55–75 min — Guided Practice / Mission Task
 
-Require console/dev-tools evidence before random edits.
+Implement or improve a project form/interaction:
 
-## Regression Check (75–84)
+- read and validate input;
+- update state;
+- show useful success/error feedback;
+- prevent invalid actions;
+- optionally fetch/use external data if it genuinely supports the product;
+- test at least four cases;
+- record one bug and the evidence used to fix it.
 
-After each fix, retest the original feature and one related behavior. Discuss why a fix can create a new bug.
+## 75–85 min — Exit Check
 
-## PR + Explanation (84–90)
+Individually diagnose a new failure from a short console/network/output trace. State the likely cause, the next evidence you would inspect, and one fix hypothesis.
 
-Open a PR containing feature behavior, validation cases, test steps, and the most important debugging finding.
+## 85–90 min — Submission
+
+Commit code, test cases/results, debug log, and individual exit response.
 
 ## Success Evidence
 
-Students can explain both how the feature works and how they proved a bug was fixed.
+Students can build a validated interaction and use observable program/browser evidence to debug instead of changing code randomly.

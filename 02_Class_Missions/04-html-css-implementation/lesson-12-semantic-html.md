@@ -1,38 +1,53 @@
-# Lesson 12 — Semantic HTML from a Design
+# Lesson 12 — Semantic HTML from the Figma Structure
 
-**Mission:** Describe the information structure of a page before styling it.
+**Length:** 90 minutes  
+**Mission:** Convert a designed page structure into meaningful HTML before styling.  
+**One Required Resource / Evidence Source:** one approved Figma screen + teacher-provided semantic HTML example  
+**Durable Evidence:** semantic `index.html` + structure explanation
 
-## Structure Before Code (0–15)
+## 0–10 min — Entry Point Check
 
-Show a Figma screen with styling visible but no code. Students label regions by meaning: header, navigation, main, section, article, form, list, button/link, footer. Compare disagreements.
+Individually inspect a page screenshot and sketch its structural regions without using visual-style words. Label likely header, navigation, main content, sections, lists, forms, buttons, and footer.
 
-## Semantic Reconstruction (15–30)
+## 10–25 min — Individual Learning
 
-Students build a text-only outline of headings, landmarks, links, controls, images, and form labels. Discuss why `<div>` is not the default answer to every structure problem.
+Inspect the semantic HTML example and record:
 
-## Implementation (30–62)
+- document structure;
+- heading hierarchy;
+- `header`, `nav`, `main`, `section`, `article`, `footer` where appropriate;
+- lists/links/buttons/forms;
+- why `div` is sometimes correct but should not replace meaningful structure automatically.
 
-Create the HTML for the primary page/flow. Requirements:
+## 25–40 min — Talk Round 1
 
-- logical heading hierarchy;
-- semantic landmarks/elements where appropriate;
-- meaningful link/button distinction;
-- alt text decisions for images;
-- explicit labels for form controls;
-- no CSS used to fake missing semantic structure.
+Pairs compare how they would translate one Figma screen into HTML structure. Resolve one disputed element by explaining its purpose, not its appearance.
 
-## Accessibility Inspection (62–75)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Navigate with keyboard only and inspect the document outline/accessible names using available browser tools. Record two issues.
+Groups receive short HTML snippets and classify them as **semantic / works but weak structure / invalid or misleading**. Display one disputed choice. Teacher gives a brief clarification only on shared misconceptions such as heading order, link vs button, or overusing `div`.
 
-## Peer Structure Review (75–84)
+## 55–75 min — Guided Practice / Mission Task
 
-Another student reviews meaning, not appearance. They should be able to describe the page from the markup structure.
+Implement the selected Figma screen in semantic HTML:
 
-## Revise + Commit (84–90)
+- valid document shell;
+- meaningful landmarks;
+- correct heading hierarchy;
+- links/buttons chosen by behavior;
+- accessible labels/alt text where relevant;
+- content order that remains understandable without CSS.
 
-Fix issues and commit with a message describing the structural improvement.
+Run browser/validator checks and fix structural errors.
+
+## 75–85 min — Exit Check
+
+Individually choose semantic elements for a new mini-layout and explain two choices. Include one case where a generic `div` is reasonable.
+
+## 85–90 min — Submission
+
+Commit `index.html`, include validation evidence, and submit the individual exit response.
 
 ## Success Evidence
 
-The page still communicates a sensible structure before CSS is applied.
+Students can translate interface structure into meaningful HTML and explain element choices in terms of content/behavior rather than visual styling.

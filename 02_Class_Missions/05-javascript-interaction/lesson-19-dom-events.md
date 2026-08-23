@@ -1,35 +1,57 @@
-# Lesson 19 — DOM, Events, and Interactive Interfaces
+# Lesson 19 — DOM and Events
 
-**Mission:** Connect user actions to program state and visible interface changes.
+**Length:** 90 minutes  
+**Mission:** Connect user actions to JavaScript behavior by selecting DOM elements, listening for events, and updating the interface.  
+**One Required Resource / Evidence Source:** teacher-provided interactive page + short DOM/event code example  
+**Durable Evidence:** working interaction + event-flow explanation
 
-## Interaction Trace (0–12)
+## 0–10 min — Entry Point Check
 
-Choose one prototype interaction. Students diagram:
+Individually use a simple interactive page and write a predicted chain for one action:
 
-```text
-user event → event handler → state/data change → DOM/output update
-```
+`user action → event → code → state/content/style change`
 
-## DOM Investigation (12–28)
+Do not inspect the source yet.
 
-Use browser tools to inspect elements and compare HTML source with the live DOM. Practice selecting elements and reading/changing content or attributes.
+## 10–25 min — Individual Learning
 
-## Event Lab (28–48)
+Inspect the code example and record:
 
-Students implement click/input/change events. Require meaningful handler functions rather than large anonymous blocks.
+- DOM element selection;
+- event listener;
+- event type;
+- callback/function;
+- reading/changing text/classes/attributes;
+- distinction between HTML structure and JavaScript behavior.
 
-## State-to-UI Build (48–66)
+## 25–40 min — Talk Round 1
 
-A user action changes program state and then renders the new state. Students distinguish **changing a variable** from **updating what the user sees**.
+Pairs trace one click/input event from user action through code to visible result. Then alter one prediction and test it. Explain any mismatch.
 
-## Event Bug Hunt (66–78)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Diagnose common failures: wrong selector, listener attached too early, event on wrong element, stale state, duplicate listeners.
+Groups debug an interaction where the event does not produce the expected UI change. Use console/DevTools evidence to identify the failure. Teacher clarifies only common barriers such as wrong selectors, timing, event type, or calling vs passing a function.
 
-## Feature PR (78–90)
+## 55–75 min — Guided Practice / Mission Task
 
-Implement one real interaction from the Figma prototype on a feature branch and open a PR with test steps.
+Implement one Figma-defined interaction in the project:
+
+- select relevant elements;
+- attach event listener(s);
+- update UI state/content/classes;
+- include visible feedback;
+- test normal and changed user actions.
+
+Keep behavior understandable and tied to a real requirement.
+
+## 75–85 min — Exit Check
+
+Individually trace a new event-handler snippet and predict the page change. Then explain one debugging step if nothing changes when the user clicks.
+
+## 85–90 min — Submission
+
+Commit interaction code, event-flow explanation/test evidence, and individual exit response.
 
 ## Success Evidence
 
-Students can trace an interaction from event through state to output.
+Students can explain and implement the chain from DOM selection and user event to JavaScript behavior and visible interface change.

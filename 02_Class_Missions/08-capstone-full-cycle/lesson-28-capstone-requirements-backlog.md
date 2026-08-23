@@ -1,31 +1,60 @@
-# Lesson 28 — Capstone: Define, Scope, and Build the Backlog
+# Lesson 28 — Capstone Synthesis, Requirements, and Backlog
 
-**Mission:** Convert research into a feasible MVP and GitHub plan.
+**Length:** 90 minutes  
+**Mission:** Turn capstone research evidence into a focused problem definition, prioritized requirements, and an actionable GitHub backlog.  
+**One Required Resource / Evidence Source:** capstone research notes/evidence from Lesson 27  
+**Durable Evidence:** synthesis map + requirements + GitHub issues/backlog
 
-## Synthesis (0–20)
+## 0–10 min — Entry Point Check
 
-Cluster evidence and identify patterns, user needs, and the strongest evidence-backed problem statement.
+Individually select five research notes and label each as **fact/observation / interpretation / user need / possible feature**. Mark any feature that currently lacks evidence.
 
-## Requirements (20–38)
+## 10–25 min — Individual Learning
 
-Write functional requirements, non-functional requirements/constraints, and measurable/observable success criteria.
+Review all capstone research evidence and identify:
 
-## Scope Negotiation (38–55)
+- repeated behaviors/problems;
+- goals;
+- workarounds;
+- constraints;
+- contradictions/outliers;
+- strongest evidence for the problem;
+- evidence that challenges the original idea.
 
-Sort ideas into **MVP / later / no evidence / out of scope**. Teams must explicitly list what they will not build.
+## 25–40 min — Talk Round 1
 
-## Backlog (55–72)
+Pairs cluster evidence and compare theme labels. Produce one draft problem statement and challenge it with: **Who has this problem? In what context? What evidence proves it matters?**
 
-Create GitHub issues that are small enough to assign/review. Link issues to requirements where possible. Add acceptance criteria to major feature issues.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Dependency + Risk Review (72–82)
+Groups display a chain:
 
-Identify dependencies, unknown technologies, data/privacy risks, and schedule risks. Reduce scope rather than hiding impossible work.
+`research evidence → theme/need → requirement → success criterion`
 
-## Gate (82–90)
+Peers identify any requirement that jumps directly to a preferred technology or feature. Teacher clarifies only shared synthesis/scope problems.
 
-Peer/teacher review approves problem, requirements, MVP scope, success criteria, and backlog before high-fidelity design proceeds.
+## 55–75 min — Guided Practice / Mission Task
 
-## Deliverable
+Create:
 
-Product Definition Brief + prioritized GitHub backlog.
+- final problem statement;
+- 3–5 prioritized user needs;
+- functional requirements;
+- non-functional/accessibility constraints;
+- measurable success criteria;
+- MVP boundary;
+- GitHub issues/backlog with acceptance criteria and priorities.
+
+Every high-priority issue should trace back to a requirement or necessary technical work.
+
+## 75–85 min — Exit Check
+
+Individually review one backlog item and explain whether it belongs in the MVP. Use user evidence, risk, effort, and dependency reasoning.
+
+## 85–90 min — Submission
+
+Submit synthesis map, requirements document, GitHub backlog/issues, and individual exit response.
+
+## Success Evidence
+
+Students can trace capstone work from research evidence to requirements and a scoped development backlog rather than building a wish list of features.

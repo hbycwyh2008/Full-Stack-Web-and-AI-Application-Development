@@ -1,21 +1,14 @@
-# 03 — Figma Product Design: From Requirements to Testable Prototype
+# 03 — Figma Product Design
 
-Figma is a **core course tool**. Students translate research into flows, wireframes, visual systems, prototypes, critique, and developer-ready design evidence.
+Figma is used as a medium for product reasoning, not as a button-learning unit. Students move from requirements to task flow, information architecture, wireframes, reusable components, high-fidelity prototypes, critique, and revision.
 
 ## Lessons
 
-- [Lesson 09 — Requirements, User Stories, and User Flow](lesson-09-requirements-user-stories-flow.md)
-- [Lesson 10 — Information Architecture and Low-Fidelity Wireframes](lesson-10-information-architecture-wireframes.md)
-- [Lesson 11 — Figma Frames, Auto Layout, and Components](lesson-11-figma-frames-auto-layout-components.md)
-- [Lesson 12 — High-Fidelity Prototype and Accessibility](lesson-12-high-fidelity-prototype-accessibility.md)
-- [Lesson 13 — Design Critique, Iteration, and Handoff](lesson-13-design-critique-iteration-handoff.md)
+- [Lesson 08 — User Flow and Information Architecture](lesson-08-user-flow-information-architecture.md)
+- [Lesson 09 — Wireframing: Explore Before Polishing](lesson-09-wireframing-explore.md)
+- [Lesson 10 — Components, Design Systems, and Accessibility](lesson-10-components-design-system.md)
+- [Lesson 11 — High-Fidelity Prototype, Critique, and Handoff](lesson-11-high-fidelity-prototype-critique.md)
 
 ## Core Outputs
 
-- user stories and acceptance criteria;
-- user flow;
-- information architecture;
-- low-fidelity wireframes;
-- reusable Figma components;
-- responsive high-fidelity prototype;
-- critique log and design handoff notes.
+user flow + IA → multiple low-fi alternatives → component/design system → responsive high-fi prototype → critique log → revision/handoff evidence.

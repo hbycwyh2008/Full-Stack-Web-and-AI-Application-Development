@@ -1,20 +1,23 @@
-# 02 — HCI User Research: From Assumptions to Evidence
+# 02 — HCI User Research
 
-Students do not begin by drawing screens. They first identify people, contexts, goals, frustrations, and evidence.
+Students learn to investigate a problem before designing a solution. The unit is deliberately evidence-first: assumptions are made visible, research is conducted ethically, and findings are converted into requirements.
 
 ## Lessons
 
-- [Lesson 05 — Problem Space, Stakeholders, and Research Ethics](lesson-05-problem-space-stakeholders-ethics.md)
-- [Lesson 06 — Interview and Observation Protocol](lesson-06-interview-observation-protocol.md)
-- [Lesson 07 — Conduct User Research](lesson-07-conduct-user-research.md)
-- [Lesson 08 — Synthesize Findings and Define the Problem](lesson-08-synthesize-define-problem.md)
+- [Lesson 05 — Problem Space, Stakeholders, and Research Questions](lesson-05-problem-space-stakeholders-ethics.md)
+- [Lesson 06 — Interview and Observation Lab](lesson-06-interview-observation-protocol.md)
+- [Lesson 07 — Synthesize Evidence into Requirements](lesson-07-synthesize-define-requirements.md)
 
 ## Core Outputs
 
-- research plan;
-- interview/observation protocol;
-- research notes;
+- stakeholder/assumption map;
+- research plan and protocol;
+- interview/observation evidence;
 - affinity map;
-- persona or user profile;
-- journey / task analysis;
-- evidence-backed problem statement.
+- problem statement;
+- functional/non-functional requirements;
+- success criteria.
+
+## Standard
+
+Students may not justify a design choice with “I think users want...” when user evidence is available.

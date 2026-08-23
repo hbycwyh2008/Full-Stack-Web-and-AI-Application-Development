@@ -1,45 +1,61 @@
-# Lesson 11 — High-Fidelity Prototype, Critique, and Handoff
+# Lesson 11 — High-Fidelity Prototype, Accessibility, and Critique
 
-**Mission:** Turn the tested structure into a coherent high-fidelity prototype, then improve it through critique.
+**Length:** 90 minutes  
+**Mission:** Turn the validated low-fi structure into a testable high-fidelity prototype and improve it through structured critique.  
+**One Required Resource / Evidence Source:** team low-fi wireframes + component/design system  
+**Durable Evidence:** high-fi prototype + accessibility check + critique/revision log
 
-## Build to Fidelity (0–35)
+## 0–10 min — Entry Point Check
 
-Students apply their design system to the complete primary flow. Require responsive reasoning for at least two viewport sizes rather than a single fixed desktop frame.
+Individually inspect a polished interface screenshot. Mark three places where visual polish does **not** guarantee good usability or accessibility. Examples may include contrast, unclear focus, tiny targets, missing feedback, or confusing hierarchy.
 
-## Prototype (35–48)
+## 10–25 min — Individual Learning
 
-Connect the main task, including success and at least one error/recovery state.
+Review the team's current design and a teacher-selected high-fi/accessibility example. Record evidence for:
 
-## Structured Critique (48–65)
+- visual hierarchy;
+- readable typography;
+- contrast;
+- keyboard/focus considerations;
+- clear labels;
+- interaction feedback;
+- prototype connections;
+- what still needs user testing rather than designer opinion.
 
-Reviewers use:
+## 25–40 min — Talk Round 1
 
-```text
-observation → likely impact → evidence/requirement → recommendation
-```
+Pairs conduct a pre-critique using **requirement / evidence / risk / suggestion**. Each student must identify one issue that is not merely personal taste.
 
-Avoid `I like` / `I don't like` feedback.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Critique lenses: hierarchy, task clarity, consistency, accessibility, responsive behavior, requirement coverage.
+Groups run a gallery critique. Visitors leave evidence-based comments tied to user goals, requirements, accessibility, or interaction clarity. Teams sort comments into **act now / test first / not supported**. Teacher only clarifies common issues that appear across designs.
 
-## Prioritize (65–73)
+## 55–75 min — Guided Practice / Mission Task
 
-Designers classify feedback as:
+Build/revise the high-fidelity Figma prototype:
 
-- must fix before implementation;
-- should test;
-- preference/no evidence.
+- key screens from the primary flow;
+- component instances and states;
+- realistic content;
+- clickable transitions;
+- success/error states;
+- accessible color/typography/target choices;
+- annotations needed for implementation handoff.
 
-They are not required to accept every suggestion.
+Apply at least two critique-driven changes and record why.
 
-## Revision (73–84)
+## 75–85 min — Exit Check
 
-Implement the highest-value changes and document before/after evidence.
+Individually choose one design decision and answer:
 
-## Handoff Readiness (84–90)
+1. what user requirement/evidence supports it;
+2. what accessibility/usability risk remains;
+3. how you would test it with a user.
 
-Confirm components, states, spacing/typography system, assets, interaction notes, and responsive expectations are clear enough to implement.
+## 85–90 min — Submission
+
+Submit Figma prototype link, accessibility checklist, critique notes, revision log, and individual exit response.
 
 ## Success Evidence
 
-A different student can understand what to build and why without the designer narrating every screen.
+Students can produce a coherent high-fi prototype while distinguishing visual polish from validated usability, and can revise design decisions based on evidence rather than taste.

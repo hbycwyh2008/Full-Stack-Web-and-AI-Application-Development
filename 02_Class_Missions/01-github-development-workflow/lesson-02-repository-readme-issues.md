@@ -1,28 +1,53 @@
 # Lesson 02 — Repository, README, and Issues
 
-## Mission
-Set up a software project so another developer can understand the problem, current work, and next tasks.
+**Length:** 90 minutes  
+**Mission:** Treat a repository as a project workspace, not a file dump.  
+**One Required Resource / Evidence Source:** one teacher-selected public GitHub repository  
+**Durable Evidence:** project repo + README + first issue
 
-## Core Artifact
-A project repository with `README.md` and at least four useful GitHub issues.
+## 0–10 min — Entry Point Check
 
-## Launch Challenge — 0–10
-Compare two sample repositories: one organized, one confusing. Individually mark what makes work visible or invisible.
+Individually inspect a screenshot/listing of two repositories: one poorly organized and one well organized. Mark which repo you would trust more and annotate three visible reasons.
 
-## Evidence / Resource Scan — 10–25
-Inspect a strong README and issue. Extract the minimum information a teammate needs before starting work.
+## 10–25 min — Individual Learning
 
-## Team Sensemaking — 25–40
-Teams create criteria for a useful README and a useful issue. Test those criteria against the samples and revise them.
+Inspect the selected GitHub repository. Record evidence for:
 
-## Studio Build — 40–65
-Create the repository. README must include **problem, users, current goal, project structure, how to run/open the project, and evidence links**. Create issues with a clear title, context, acceptance criteria, and definition of done.
+- what the project is;
+- how a new person knows what to do;
+- how files/folders communicate structure;
+- how issues represent unfinished work;
+- what information belongs in a README.
 
-## Critique / Test — 65–80
-Another team selects one issue and attempts to explain exactly what work is expected without asking the author. Rewrite ambiguous issues.
+## 25–40 min — Talk Round 1
 
-## Ship Evidence — 80–90
-Commit README changes and close or label one setup issue with evidence.
+Pairs compare evidence and produce a short **Repository Quality Checklist** with five criteria. Each student must defend one criterion with evidence from the inspected repo.
+
+## 40–55 min — Entry Points Check / Teacher Diagnosis
+
+Groups classify sample README sections and issue examples into **useful / vague / missing context**. Display one disagreement and one unresolved point. Teacher gives only short clarification on shared problems such as vague issue titles, missing acceptance criteria, or README-as-decoration thinking.
+
+## 55–75 min — Guided Practice / Mission Task
+
+Create or improve the team/project repository:
+
+- clear repository name;
+- concise README with purpose, users/problem, current status, setup/use notes, and evidence links;
+- sensible initial folder structure;
+- one actionable GitHub issue with context, task, and completion criteria.
+
+## 75–85 min — Exit Check
+
+Individually rewrite this weak issue into a useful one:
+
+> `Fix website`
+
+Then explain in 2–3 sentences why a good issue improves software-development workflow.
+
+## 85–90 min — Submission
+
+Submit the repository link, README commit, issue link, and individual exit rewrite.
 
 ## Success Evidence
-A teammate can determine what the project is, why it exists, and what task to do next.
+
+Students can explain how repository structure, README documentation, and issues reduce ambiguity and support collaborative development.

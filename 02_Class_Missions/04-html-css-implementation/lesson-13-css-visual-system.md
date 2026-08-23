@@ -1,36 +1,55 @@
-# Lesson 13 — CSS Visual System
+# Lesson 13 — CSS Visual System: Typography, Color, Spacing
 
-**Mission:** Translate Figma's visual decisions into maintainable CSS rather than isolated one-off rules.
+**Length:** 90 minutes  
+**Mission:** Reproduce the Figma visual system with deliberate, reusable CSS rather than random one-off styling.  
+**One Required Resource / Evidence Source:** approved Figma design-system decisions + current semantic HTML  
+**Durable Evidence:** `style.css` visual tokens/rules + comparison evidence
 
-## Pattern Hunt (0–12)
+## 0–10 min — Entry Point Check
 
-Students inspect their Figma file and list repeated typography, spacing, colors, radii, and component patterns.
+Individually compare two CSS snippets: one repeats arbitrary font sizes/colors/spacing; the other uses a small consistent system. Predict which will be easier to change and mark three reasons.
 
-## System Setup (12–30)
+## 10–25 min — Individual Learning
 
-Create CSS custom properties/tokens for repeated values where appropriate. Establish base typography, spacing logic, and box sizing.
+Inspect the Figma design system and teacher-provided CSS example. Record:
 
-## Style Translation (30–60)
+- typography roles;
+- color roles;
+- spacing rhythm;
+- CSS cascade/specificity observations;
+- reusable classes/custom properties where appropriate;
+- accessibility constraints such as contrast.
 
-Implement typography, color, spacing, controls, and component styles. Prioritize reusable class/component patterns over element-by-element patches.
+## 25–40 min — Talk Round 1
 
-## Cascade Debugging (60–72)
+Pairs map Figma design decisions to CSS rules. Compare one typography choice, one color choice, and one spacing choice. Identify one place where copying pixel values blindly would create a brittle implementation.
 
-Provide or introduce three common CSS conflicts: specificity, inherited value, and later rule override. Students diagnose using browser dev tools rather than adding random `!important` rules.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Figma Comparison (72–84)
+Groups debug a small stylesheet containing duplicate rules, conflicting selectors, and inconsistent spacing. Display the cause of one issue and the proposed fix. Teacher clarifies only shared barriers such as cascade, inheritance, specificity, or unit confusion.
 
-Compare implementation with design and classify discrepancies:
+## 55–75 min — Guided Practice / Mission Task
 
-- intentional adaptation;
-- CSS bug;
-- design ambiguity;
-- accessibility improvement.
+Implement the visual system:
 
-## Ship (84–90)
+- base typography;
+- heading/text hierarchy;
+- color variables/roles;
+- spacing rules;
+- link/button appearance;
+- focus/hover states where relevant;
+- accessible contrast.
 
-Commit the CSS system plus a short discrepancy note.
+Compare the browser result against the approved Figma design and document two intentional differences if exact translation is inappropriate.
+
+## 75–85 min — Exit Check
+
+Individually explain how you would change the whole site's accent color or spacing scale with minimal edits. Point to the CSS organization that makes this possible.
+
+## 85–90 min — Submission
+
+Commit stylesheet changes, Figma/browser comparison evidence, and individual exit response.
 
 ## Success Evidence
 
-Students can explain how repeated design decisions map into a maintainable CSS system.
+Students can translate design-system decisions into reusable CSS and explain cascade/organization choices that support consistency and maintainability.

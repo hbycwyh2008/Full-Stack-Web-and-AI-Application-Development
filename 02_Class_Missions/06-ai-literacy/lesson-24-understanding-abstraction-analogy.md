@@ -1,41 +1,55 @@
-# Lesson 24 — Understanding, Abstraction, Analogy, and the Limits of AI
+# Lesson 24 — Understanding, Abstraction, Analogy, and Limits
 
-**Reading focus:** selected sections from Chapters 14–16.  
-**Mission:** Develop an evidence-based position on what would count as understanding in an AI system.
+**Length:** 90 minutes  
+**Mission:** Use Mitchell's discussion of abstraction, analogy, and conceptual understanding to evaluate what present AI systems may still lack.  
+**One Required Resource:** teacher-assigned selected Mitchell reading on abstraction/analogy/understanding  
+**Durable Evidence:** analogy/abstraction analysis + final AI literacy position memo
 
-## Understanding Criteria (0–18)
+## 0–10 min — Entry Point Check
 
-Individually, students list 3–5 behaviors that would make them more confident a system understands a concept. Teams compare criteria and classify them: language behavior, transfer, causal reasoning, abstraction, analogy, embodiment/context, self-correction, or other.
+Individually solve a simple transfer/analogy task, then write what knowledge you used that was not explicitly present in the surface wording. Predict why a pattern-matching system might succeed or fail on a changed version.
 
-## Counterexample Test (18–35)
+## 10–25 min — Individual Learning
 
-For each proposed criterion, another team constructs a possible system that could pass the test without satisfying the deeper property the criterion was meant to measure. Revise weak criteria.
+Read the assigned Mitchell selection. Record:
 
-## Abstraction + Analogy Cases (35–55)
+- one claim about abstraction, concepts, analogy, or understanding;
+- one example supporting the claim;
+- one limitation of current AI described or implied;
+- one connection to an earlier AI literacy lesson.
 
-Students examine tasks requiring transfer of relational structure rather than surface matching. They identify what changes while the abstract relation stays the same.
+## 25–40 min — Talk Round 1
 
-## Evidence Hearing (55–73)
+Pairs compare notes and create an **surface pattern / deeper relation** comparison using two examples. Explain what must remain invariant for an analogy to transfer.
 
-Teams receive a hypothetical claim: **“System X understands concept Y.”** They prepare either the strongest case for or the strongest skeptical response, using the book's themes and explicit evidence standards.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Position Memo (73–86)
+Groups analyze a novel analogy/transfer case and predict where a system trained only on surface patterns might fail. Display one reasoning chain and one unresolved question. Teacher clarifies only shared conceptual barriers from the reading.
 
-Students write a short independent memo:
+## 55–75 min — Guided Practice / Mission Task
 
-- working definition of understanding;
-- evidence that would increase confidence;
-- evidence that would reduce confidence;
-- one unresolved question.
+Students draft a concise AI literacy position memo answering:
 
-They are not graded on choosing a teacher-approved philosophical answer.
+- What can modern AI systems do impressively?
+- What does strong performance not prove?
+- Why do generalization, abstraction, and context matter?
+- How should a responsible software team evaluate an AI feature claim?
+- Give one example where **not using AI** may be the better product decision.
 
-## Unit Exit (86–90)
+Use evidence from at least two Mitchell lessons.
 
-Complete:
+## 75–85 min — Exit Check
 
-> The most important distinction I now make when evaluating AI is ________ because ________.
+Individually complete:
+
+> **Before this unit, I tended to think AI ____________________. Now my more precise view is ____________________ because ____________________.**
+
+Then write one question you still think is genuinely open.
+
+## 85–90 min — Submission
+
+Submit reading notes, analogy analysis, position memo, and individual exit response.
 
 ## Success Evidence
 
-Students make claims about AI using explicit criteria and evidence rather than fluency, branding, or intuition alone.
+Students can make nuanced evidence-based claims about AI capability and limits, and can evaluate whether AI is justified in a product without assuming it is automatically necessary or intelligent in a human sense.

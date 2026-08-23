@@ -1,75 +1,75 @@
-# Final Project Specification
+# Final Project Specification — User-Centered Software Product
 
-## Project
+## Goal
 
-```text
-AI School Assistant
-```
+Design, build, test, release, and explain a useful website/product for a **real researched user problem**.
 
-A web application that lets students, teachers, or parents ask questions based on school documents, course materials, or a student handbook.
+## Required Evidence
 
----
+### 1. Discovery and HCI Research
+- stakeholder map;
+- research plan and ethical/privacy boundary;
+- interviews/observation or another justified method;
+- anonymized notes;
+- affinity synthesis;
+- evidence-backed problem statement.
 
-## Project Goal
+### 2. Requirements
+- user stories;
+- must/should/could/not-now scope;
+- acceptance criteria;
+- measurable success criteria.
 
-Build a working full-stack AI application that answers questions from a defined set of school documents, with a clear frontend, a FastAPI backend, and an LLM-powered response.
+### 3. Figma Design
+- user flow;
+- information architecture;
+- low-fidelity wireframes;
+- reusable components/design system;
+- high-fidelity responsive prototype;
+- accessibility decisions;
+- critique/test revisions.
 
----
+### 4. GitHub Workflow
+- project README;
+- milestone/backlog;
+- useful issues;
+- feature branches;
+- meaningful commits;
+- pull requests;
+- peer review and response;
+- merge/release history.
 
-## User Stories
+### 5. Implementation
+Required core stack:
 
-- As a **student**, I want to ask about homework or exam policies so I can find answers quickly.
-- As a **teacher**, I want to point the assistant at course materials so students get consistent answers.
-- As a **parent**, I want to ask about school rules so I understand expectations.
+- semantic HTML;
+- maintainable CSS;
+- JavaScript for meaningful interaction where the product requires it.
 
----
+The project should implement the design and requirements; adding a framework does not increase the score by itself.
 
-## Required Features
+### 6. Testing and Iteration
+- usability tasks and observations;
+- accessibility/technical QA;
+- reproducible bug reports;
+- prioritized fixes;
+- evidence that at least one important design or implementation decision changed after testing.
 
-- Chat-style interface for asking questions.
-- Text input and a way to submit a question.
-- A backend API endpoint that receives the question.
-- A document source the assistant draws answers from.
-- AI-generated answers grounded in the provided documents.
-- Source-based explanation (which document or section the answer came from).
-- Basic error handling for empty input or failed requests.
+### 7. Release
+- deployed product (GitHub Pages or approved equivalent);
+- release notes;
+- known limitations;
+- maintenance/next-iteration plan.
 
----
+### 8. AI Literacy Decision
+Submit `ai-product-decision.md` explaining:
 
-## Technical Architecture
+- whether AI is needed for this user's problem;
+- evidence for that decision;
+- likely limitations, failure modes, bias/privacy implications, and user impact if AI is used.
 
-```text
-Next.js frontend
-        ↓
-FastAPI backend
-        ↓
-Python AI / RAG service
-        ↓
-ChromaDB (vector store)
-        ↓
-LLM API
-```
+**A well-supported decision not to use AI fully satisfies this requirement.**
 
-Reference implementation: `06_Starter_Code/ai-school-assistant/` (migrated from the course author's working RAG app).
+## Final Demo
 
----
-
-## Deliverables
-
-- GitHub repository with clean code and a complete README.
-- Working frontend (Next.js) and backend (FastAPI).
-- A documented API endpoint.
-- A Notion portfolio page for the project.
-- An AI usage reflection.
-- A live or recorded demo.
-
----
-
-## Assessment Criteria
-
-Graded using `04_Assessment/Assessment_Rubric.md` and `04_Assessment/Presentation_Rubric.md`. Key questions:
-
-- Does the application work end to end?
-- Can the student explain the architecture and data flow?
-- Is AI usage disclosed and understood?
-- Is the project documented and presentable?
+The demo begins with the **user and problem**, then shows research → requirements → Figma → GitHub workflow → implementation → tests → changes → release. Technology names are supporting evidence, not the story.

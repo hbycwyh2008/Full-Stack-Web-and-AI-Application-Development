@@ -1,100 +1,121 @@
-# Class Missions
+# Class Missions — Software Design, Development & AI
 
-**Open this folder during class.**
+This is the **canonical lesson pathway** for the course.
 
-Each **class mission** is a student task sheet for one session. Your teacher will tell you which file to open today.
+The course is organized around one idea:
 
----
+> **Students learn how software is created from a human problem all the way to research, requirements, design, implementation, testing, release, feedback, and iteration. Coding is necessary, but coding is not the whole course.**
 
-## How to Use
+## Priority Order
 
-1. Start at [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) if this is your first day.
-2. Open the mission folder your teacher assigns from the numbered course path below.
-3. Follow each block in order.
-4. Submit **learning evidence** before class ends (see Exit Evidence in each mission).
+### Primary outcomes
 
----
+1. Complete software-development lifecycle
+2. GitHub development and collaboration workflow
+3. HCI user research from planning through synthesis
+4. Figma website/product design from low-fi through tested high-fi prototype
+5. AI literacy using Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_
 
-## Classroom Flow (Every Mission)
+### Secondary outcomes
 
-Each **90-minute** class mission follows this flow:
+- HTML
+- CSS
+- JavaScript
 
-1. **Entry Point Check** (0–10 min)
-2. **Individual Learning** — **one required resource** (10–25 min)
-3. **Talk Round 1** (25–40 min)
-4. **Entry Points Check / Teacher Diagnosis** (40–55 min)
-5. **Guided Practice / Mission Task** (55–75 min)
-6. **Exit Check** (75–85 min)
-7. **Submission** (85–90 min)
+### Optional only if time remains
 
-![Classroom Flow](../08_Public_Documents/posters/classroom-flow.png)
+- Python
 
-Details: [classroom-flow.md](shared/classroom-flow.md)
+### Not core curriculum
 
-> Each mission file lists **one required resource**, focus notes, optional support (max 1–2), and exact submission — no browsing playlists during class.
+React, Next.js, FastAPI, RAG, MongoDB, Kaggle, ML model training, Cursor-specific workflows, Notion portfolio building, and other frameworks/tools are enrichment only. They must not displace the core outcomes above.
 
 ---
 
-## Numbered Course Path
+## Core Learning Path
 
-Do not create duplicate numbered folders. Use this sequence:
+| Unit | Focus | Lessons |
+|---|---|---:|
+| [00 Course Orientation + Lifecycle](00-course-orientation/README.md) | Software is more than code; trace the lifecycle | 00–01 |
+| [01 GitHub Development Workflow](01-github-development-workflow/README.md) | Repo, issues, branches, commits, PRs, review, merge | 02–04 |
+| [02 HCI User Research](02-hci-user-research/README.md) | Stakeholders, interviews, observation, synthesis, requirements | 05–08 |
+| [03 Figma Product Design](03-figma-product-design/README.md) | User flow, IA, wireframes, components, prototype, critique | 09–13 |
+| [04 HTML + CSS Implementation](04-html-css-implementation/README.md) | Semantic HTML, CSS system, layout, responsive implementation | 14–18 |
+| [05 JavaScript Interaction](05-javascript-interaction/README.md) | Functions, DOM/events, data, forms/state, debugging | 19–23 |
+| [06 Testing + Release](06-testing-release-maintenance/README.md) | Usability, QA/accessibility, iteration, deployment, maintenance | 24–26 |
+| [07 Capstone Full Cycle](07-capstone-full-cycle/README.md) | Repeat the complete process independently | 27–32 |
+| [08 AI Literacy Reading Thread](08-ai-literacy-reading-thread/README.md) | Six Mitchell reading/discussion studios inserted across units | cross-cutting |
+| [09 Optional Python](09-optional-python/README.md) | Python transfer and small utility | optional |
 
-| Folder | Focus |
-|---|---|
-| [00-course-overview](00-course-overview/README.md) | Course map and classroom flow |
-| [01-github-notion](01-github-notion/README.md) | GitHub, Git, Notion portfolio, and Coursera Git/GitHub sprint |
-| [02-ai-literacy](02-ai-literacy/README.md) | AI literacy foundation |
-| [03-html-css-basics](03-html-css-basics/README.md) | HTML/CSS digital business card |
-| [04-javascript-basics](04-javascript-basics/README.md) | JavaScript interactive profile |
-| [05-react-basics](05-react-basics/README.md) | React component portfolio |
-| [06-nextjs-frontend](06-nextjs-frontend/README.md) | Next.js frontend |
-| [07-python-foundations](07-python-foundations/README.md) | Python foundations |
-| [08-fastapi-backend](08-fastapi-backend/README.md) | FastAPI backend |
-| [09-fastapi-ai-backend](09-fastapi-ai-backend/README.md) | FastAPI AI backend |
-| [10-nextjs-fastapi-integration](10-nextjs-fastapi-integration/README.md) | Next.js + FastAPI integration |
-| [11-kaggle-data-processing](11-kaggle-data-processing/README.md) | Kaggle and data processing |
-| [12-machine-learning-workflow](12-machine-learning-workflow/README.md) | Machine learning workflow |
-| [13-cursor-capstone](13-cursor-capstone/README.md) | Cursor capstone |
-| [14-final-ai-web-app-projects](14-final-ai-web-app-projects/README.md) | Final AI web app projects |
-| [15-final-portfolio-showcase](15-final-portfolio-showcase/README.md) | Final portfolio showcase |
-| [optional-figma](optional-figma/README.md) | Optional Figma UI design |
-| [shared](shared/) | Shared classroom routines and checklists |
+**Core total: 33 lessons (00–32).**  
+**AI literacy: 6 integrated reading/discussion studios.**  
+**Optional Python: 3 extension lessons.**
+
+---
+
+## What Students Repeatedly Do
+
+```text
+observe a problem
+   ↓
+research real users
+   ↓
+define requirements + success criteria
+   ↓
+design flows + prototype in Figma
+   ↓
+plan work in GitHub
+   ↓
+implement with HTML/CSS/JavaScript
+   ↓
+review + test with users
+   ↓
+fix + release
+   ↓
+collect evidence + iterate
+```
+
+GitHub is used through the whole loop, not as a final upload step.
+
+---
+
+## Classroom Method
+
+Every lesson follows [the activity/discussion studio flow](shared/classroom-flow.md):
+
+```text
+Launch Challenge
+→ Evidence / Resource Scan
+→ Team Sensemaking
+→ Studio Build
+→ Critique / Test
+→ Ship Evidence
+```
+
+The teacher does **not** lead the class through a long sequence of questions. Students first create/inspect evidence, discuss it, make a decision, build something, test it, and revise it. Teacher explanation is short and targeted to common bottlenecks.
+
+---
+
+## Final Product Standard
+
+The capstone does **not** need to be an AI application. It must demonstrate:
+
+- evidence-backed user problem;
+- HCI research and synthesis;
+- Figma design/prototype;
+- GitHub planning and collaboration history;
+- HTML/CSS/JavaScript implementation;
+- usability/accessibility/technical testing;
+- deployed release;
+- iteration and retrospective;
+- an AI literacy memo explaining whether AI is actually justified for this problem.
+
+A strong decision that **AI is not needed** is acceptable when supported by evidence.
 
 ---
 
 ## Shared Guides
 
-- [classroom-flow.md](shared/classroom-flow.md) — how each block works
-- [mastery-levels.md](shared/mastery-levels.md) — **mastery** Levels 0–5
-- [talk-robin-rules.md](shared/talk-robin-rules.md) — pair discussion rules
-- [exit-evidence-checklist.md](shared/exit-evidence-checklist.md) — what counts as **learning evidence**
-- [ai-use-during-practice.md](shared/ai-use-during-practice.md) — **AI usage note** rules in class
-
-Posters: [08_Public_Documents/posters/](../08_Public_Documents/posters/README.md)
-
----
-
-## Course Principles (Every Mission)
-
-- Watching is not **mastery**.
-- Copying is not **mastery**.
-- Running something once is not enough **learning evidence**.
-- You must **rebuild**, **debug**, **explain**, and submit evidence.
-- AI helps you learn — it does not replace **Independent Rebuild**.
-- You may be asked to explain your work **orally**.
-
----
-
-## Related Materials
-
-| Need | Location |
-|---|---|
-| Setup guides | [01_Student_Start/](../01_Student_Start/) |
-| Templates | [03_Templates/](../03_Templates/) |
-| Evidence requirements | [04_Assessment/Evidence_System.md](../04_Assessment/Evidence_System.md) |
-| Phase requirements | [09_Teacher_Planning/Phase_Overviews/](../09_Teacher_Planning/Phase_Overviews/) |
-| GitHub setup | [03_Templates/Student_GitHub_Repository_Guide.md](../03_Templates/Student_GitHub_Repository_Guide.md) |
-
----
-
-Educational materials in this folder are copyright © 2026 Wang Morgan. All Rights Reserved.
+- [Course priorities](shared/course-priorities.md)
+- [Classroom flow](shared/classroom-flow.md)
+- [Lesson template](shared/lesson-template.md)

@@ -1,95 +1,39 @@
-# Course Pacing Guide
+# Course Pacing Guide — 33 Core Sessions
 
-**Numbered course path (00–15 + optional Figma).** Adjust weeks to your schedule.
+Assumption: approximately **90 minutes per core lesson**. Adjust studio depth rather than adding framework units.
 
----
-
-## First Teaching Session — Unit 00 Orientation
-
-Before GitHub setup or coding, use the dedicated Day 1 orientation:
-
-- **Teacher plan:** `09_Teacher_Planning/Daily_Lesson_Plans/Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md`
-- **Student mission:** `02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md`
-
-Day 1 focuses on course destination, the four classroom posters, mastery, responsible AI use, the learning pathway, and Middle School vs High School expectations.
-
-After Day 1, continue into GitHub and Notion.
-
----
-
-## Unit-to-Week Mapping (16-week standard)
-
-| Unit | Topic | Weeks |
+| Sessions | Lessons | Focus |
 |---|---|---|
-| 00 | Course overview | 1 |
-| 01 | GitHub and Notion | 1–2 |
-| 02 | AI Literacy | 3 |
-| 03 | HTML/CSS Basics | 4 |
-| 04 | JavaScript Basics | 5–6 |
-| 05 | React Basics | 7 |
-| 06 | Next.js Frontend | 8 |
-| 07 | Python Foundations | 9 |
-| 08 | FastAPI Backend | 10 |
-| 09 | FastAPI AI Backend | 11 |
-| 10 | Next.js + FastAPI Integration | 12 |
-| 11 | Kaggle Data Processing | 13 |
-| 12 | Machine Learning Workflow | 13 |
-| 13 | Cursor Capstone | 14 |
-| 14 | Final AI Web App Projects | 15 |
-| 15 | Final Portfolio Showcase | 16 |
+| 1–2 | 00–01 | Software lifecycle + product teardown |
+| 3–5 | 02–04 | GitHub workflow |
+| 6–9 | 05–08 | HCI research |
+| 10–14 | 09–13 | Figma design |
+| 15–19 | 14–18 | HTML/CSS implementation |
+| 20–24 | 19–23 | JavaScript interaction/debugging |
+| 25–27 | 24–26 | Usability, QA, release/maintenance |
+| 28–33 | 27–32 | Capstone full cycle |
 
-**Optional Figma:** insert before `06-nextjs-frontend` if students need more UI design time.
+## AI Literacy Insertions
 
----
+Use the six 20–30 minute Mitchell reading/discussion studios inside selected sessions:
 
-## 8-Week Compressed (outline)
+- Studio A after Lesson 00;
+- Studio B after Lesson 04;
+- Studio C after Lesson 08;
+- Studio D after Lesson 13;
+- Studio E after Lesson 23;
+- Studio F after Lesson 26 or during capstone scope decisions.
 
-| Week | Units | Focus |
-|---|---|---|
-| 1 | 00–01 | Course overview + GitHub + Notion |
-| 2 | 02–03 | AI Literacy + HTML/CSS |
-| 3 | 04 | JavaScript basics |
-| 4 | 05–06 | React + Next.js frontend |
-| 5 | 07–09 | Python + FastAPI + AI backend |
-| 6 | 10–12 | Integration + data + ML workflow |
-| 7 | 13–14 | Cursor + final AI web app build |
-| 8 | 15 | Final portfolio showcase |
+On an AI-studio day, shorten the build block or extend the lesson across two meetings if the class needs more design/implementation time.
 
----
+## If Time Is Short
 
-## Checkpoints
+**Do not cut:** GitHub core workflow, research/synthesis, Figma prototype/testing, usability testing, capstone release/retrospective.
 
-| ID | Requirement |
-|---|---|
-| C1 | GitHub `[studentName]-Full-Stack-Web-and-AI-Application` repo |
-| C2 | Notion portfolio published |
-| C3 | AI Literacy evidence |
-| C4 | HTML/CSS digital business card |
-| C5 | JavaScript interactive profile |
-| C6 | React / Next.js frontend runnable |
-| C7 | FastAPI backend and AI backend evidence |
-| C8 | Full-stack connected |
-| C9 | Data / ML workflow evidence |
-| C10 | Final AI web app demo and portfolio showcase |
+Compress HTML/CSS/JS examples but retain enough implementation for students to build the tested product.
 
----
+**Cut first:** optional Python, legacy framework/AI-engineering extensions, extra portfolio/certification work.
 
-## Teacher Demo
+## If Time Remains
 
-- **When:** After `12-machine-learning-workflow`, before `13-cursor-capstone`.
-- **Files:** `Teacher_Demo_Walkthrough.md`, `06_Starter_Code/teacher-demo-ai-school-assistant/`, `TESTING.md`.
-
----
-
-## Data And ML Notes
-
-- Do **not** skip GitHub, Notion, AI Literacy, and frontend basics before data / ML work.
-- Keep the machine learning workflow practical: problem, data, baseline, evaluation, reflection.
-- Assess **concept + data processing + reflection**, not proofs.
-
----
-
-## Homework Principles
-
-- One clear deliverable per week when possible.
-- **Cursor capstone only from `13-cursor-capstone`.**
+Use the 3 optional Python lessons or a deeper second design/build iteration. Prefer a stronger full lifecycle over adding more technologies.

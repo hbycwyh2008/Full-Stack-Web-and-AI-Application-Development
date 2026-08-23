@@ -1,37 +1,54 @@
 # Lesson 08 — User Flow and Information Architecture
 
-**Mission:** Design the structure of a product before designing screens.
+**Length:** 90 minutes  
+**Mission:** Translate research-backed requirements into a clear task flow and information structure before visual styling.  
+**One Required Resource / Evidence Source:** the team's problem statement + prioritized requirements  
+**Durable Evidence:** user-flow diagram + information-architecture map
 
-## Task Reconstruction (0–15)
+## 0–10 min — Entry Point Check
 
-Give teams a familiar product goal such as submitting an assignment or booking a study room. They reconstruct the minimum steps a user must complete. Compare flows and identify unnecessary decisions.
+Individually arrange a shuffled set of screens/actions for a simple task such as submitting homework or booking a school event. Mark where a user could get lost or make an error.
 
-## Requirements to Tasks (15–30)
+## 10–25 min — Individual Learning
 
-Using the Product Definition Brief, teams convert requirements into user goals/tasks. Separate **what the user wants to accomplish** from interface screens.
+Review the team's problem statement and requirements. Identify:
 
-## Flow Studio (30–50)
+- primary user goal;
+- entry point;
+- required decisions/actions;
+- information users need at each step;
+- success state;
+- likely error/empty states.
 
-Create a user flow for the primary task. Include entry point, actions, system responses, decisions, success state, and at least one error/recovery path.
+## 25–40 min — Talk Round 1
 
-## Information Architecture (50–68)
+Pairs compare task sequences and discuss where alternative paths, backtracking, or failure states are needed. Produce one shared flow with at least one branch.
 
-Students group content/functions into an IA. Use card sorting when categories are ambiguous. Require labels that make sense to users, not only to developers.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Complexity Challenge (68–80)
+Groups create a quick wall/board version of the user flow and IA. Another group attempts to follow the flow without verbal explanation. Record where the structure becomes ambiguous. Teacher clarifies only shared problems such as confusing navigation labels, missing states, or organizing content around developer structure instead of user goals.
 
-Teams swap flows and identify:
+## 55–75 min — Guided Practice / Mission Task
 
-- unnecessary steps;
-- missing recovery paths;
-- unclear labels;
-- dead ends;
-- assumptions not supported by requirements.
+Build the actual design foundation:
 
-## Revise + Ship (80–90)
+- primary user flow;
+- one secondary/error path;
+- sitemap/information architecture;
+- page/screen hierarchy;
+- content labels;
+- traceability to requirements.
 
-Revise the user flow and IA and link each major flow step to at least one requirement.
+Use Figma/FigJam or the approved diagramming format.
+
+## 75–85 min — Exit Check
+
+Individually inspect a new mini-flow and identify one navigation/IA problem. Propose a revision and explain which user goal it supports.
+
+## 85–90 min — Submission
+
+Submit user-flow diagram, IA map, requirement links, and individual exit response.
 
 ## Success Evidence
 
-Students can explain the product structure without relying on visual styling.
+Students can explain how user flows and information architecture translate user goals/requirements into a structure that can be prototyped and tested.

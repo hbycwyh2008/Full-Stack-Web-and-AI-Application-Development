@@ -1,52 +1,51 @@
-# Lesson 23 — Games, Language, and Apparent Intelligence
+# Lesson 23 — Games, Language, and What Counts as Intelligence
 
-**Reading focus:** selected sections from Chapters 8–13.  
-**Mission:** Compare different forms of impressive AI performance without treating them as the same kind of intelligence.
+**Length:** 90 minutes  
+**Mission:** Compare narrow success in games/language tasks with broader claims about reasoning, meaning, and intelligence.  
+**One Required Resource:** teacher-assigned selected Mitchell reading on game-playing and/or language AI  
+**Durable Evidence:** capability-vs-claim comparison + structured discussion record
 
-## Three-Domain Jigsaw (0–30)
+## 0–10 min — Entry Point Check
 
-Assign teams or subgroups one domain:
+Individually rank these as strongest evidence of “intelligence”: winning a strategy game, producing fluent language, explaining a novel analogy, adapting to a new task, or another teacher-provided example. Record your criterion before reading.
 
-- game playing / reinforcement learning;
-- computer vision;
-- language / translation / question answering.
+## 10–25 min — Individual Learning
 
-Each subgroup prepares:
+Read the selected Mitchell section. Record:
 
-1. task the system performs;
-2. training or feedback signal;
-3. evidence of success;
-4. known limitation;
-5. what a human may be tempted to infer beyond the evidence.
+- the system/task being discussed;
+- what it demonstrably does well;
+- what knowledge/understanding is assumed by observers;
+- one limitation or counterexample;
+- one question about what the performance means.
 
-Reform teams with one representative from each domain.
+## 25–40 min — Talk Round 1
 
-## Comparison Matrix (30–48)
+Pairs compare criteria for intelligence and reading evidence. Build a continuum from **task competence** to **broader understanding**, placing examples with reasons. Disagreement is allowed if evidence is recorded.
 
-Students build a matrix comparing state/input representation, objective, feedback, generalization demands, and failure modes. The point is to expose differences hidden by the generic label `AI`.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Language Evidence Challenge (48–66)
+Groups conduct a jigsaw claim check: each group receives one statement such as `If a system uses language fluently, it understands language the way humans do.` Produce **supporting evidence / counterevidence / what remains unknown**. Teacher clarifies only shared reading/context barriers.
 
-Provide short examples of fluent but potentially ungrounded, inconsistent, or context-insensitive responses. Students decide what fluency demonstrates and what it does not establish by itself.
+## 55–75 min — Guided Practice / Mission Task
 
-## Debate Without Slogans (66–82)
+Teams analyze a current-style AI product claim using the reading framework:
 
-Prompt:
+- observed capability;
+- benchmark/task success;
+- implied human-like ability;
+- evidence supporting the implication;
+- evidence missing;
+- safer/more precise claim wording.
 
-> Does successful behavior in a task provide evidence of intelligence? If yes, what kind and how much?
+## 75–85 min — Exit Check
 
-Rules:
+Individually revisit your Entry Point ranking. State one criterion you changed, strengthened, or rejected and cite the idea/example that caused the change.
 
-- every claim needs an example/evidence;
-- students may distinguish types/degrees of intelligence;
-- `yes` and `no` are both insufficient without qualification.
+## 85–90 min — Submission
 
-## Exit Evidence (82–90)
-
-Create a comparison statement using this frame:
-
-> System A demonstrates ________ more clearly than ________; however, this does not establish ________ because ________.
+Submit reading notes, continuum/claim-check evidence, product-claim analysis, and individual exit response.
 
 ## Success Evidence
 
-Students compare AI systems by task, evidence, and limitations rather than treating all AI capability as one scale.
+Students can distinguish high performance on a task from stronger claims about understanding and can argue from evidence without reducing the discussion to “AI is smart” or “AI is fake.”

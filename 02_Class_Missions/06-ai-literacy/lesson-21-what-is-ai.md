@@ -1,49 +1,57 @@
-# Lesson 21 — What Is AI? History, Learning, and Claims
+# Lesson 21 — What Is AI? Claims, Definitions, and History
 
-**Reading focus:** selected sections from Chapters 1–3 of Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_.  
-**Mission:** Build a historically grounded definition of AI and separate demonstrated capability from claims about intelligence.
+**Length:** 90 minutes  
+**Mission:** Use Melanie Mitchell's arguments and historical examples to build a careful working model of what people mean by “AI.”  
+**One Required Resource:** teacher-assigned selected reading from Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
+**Durable Evidence:** claim-evidence map + individual definition/reflection
 
-## Before Class
+## 0–10 min — Entry Point Check
 
-Students annotate the reading with:
+Individually classify familiar systems as **AI / not AI / depends on the definition**. Examples may include calculator, chess engine, recommendation system, face recognition, autocomplete, route planner, and chatbot. Write one reason for the most debatable item.
 
-- one claim about what AI is or has tried to achieve;
-- one historical example;
-- one question or uncertainty.
+## 10–25 min — Individual Learning
 
-## Capability Card Sort (0–18)
+Read only the assigned Mitchell selection. Record:
 
-Teams receive descriptions of systems from different AI eras: symbolic reasoning, expert systems, neural networks, modern machine learning, language/vision systems. They sort them by **what the system actually does**, not by decade or prestige.
+- one claim about how AI has been defined or pursued;
+- one historical/example case;
+- one distinction Mitchell makes that complicates a simple definition;
+- one sentence or idea you disagree with or remain unsure about.
 
-## Timeline Reconstruction (18–32)
+Do not summarize the whole chapter.
 
-Students build a short AI timeline using evidence from the reading: goals, dominant methods, periods of optimism, limitations, and changes in the meaning of `AI`.
+## 25–40 min — Talk Round 1
 
-## Claim vs Evidence Lab (32–55)
+Pairs compare claim-evidence notes. Each student must explain one claim using a specific example from the reading. Together revise the original AI classification list and mark any item whose status depends on definition/context.
 
-Provide statements such as:
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-- `The system recognizes objects.`
-- `The system understands visual scenes.`
-- `The system learns from examples.`
-- `The system thinks like a person.`
+Groups create a **Definition Tension Board**:
 
-Teams classify each as **directly demonstrated / plausible interpretation / unsupported from available evidence** and identify what evidence would be needed for a stronger claim.
+- one useful definition/criterion;
+- one counterexample or limitation;
+- one historical shift in what counted as AI;
+- one unresolved question.
 
-## Structured Discussion (55–72)
+Teacher clarifies only shared reading misconceptions or historical context that blocks discussion.
 
-Each student contributes one claim-evidence pair before open discussion. The goal is not consensus on a perfect definition of intelligence; the goal is disciplined use of evidence.
+## 55–75 min — Guided Practice / Mission Task
 
-## Build an AI Definition (72–84)
+Teams analyze three new AI claims from products/media. For each:
 
-Teams write a working definition of AI that is broad enough to include multiple historical approaches but specific enough to avoid `anything a computer does`.
+1. identify what capability is actually demonstrated;
+2. identify what stronger conclusion is being implied;
+3. decide whether the claim is justified, exaggerated, or underspecified;
+4. support the decision with Mitchell-based reasoning.
 
-## Exit Evidence (84–90)
+## 75–85 min — Exit Check
 
-Complete:
+Individually write a 3–5 sentence working definition of AI that includes at least one limitation/caution. Then explain why “it uses AI” is not, by itself, an informative product description.
 
-> A system can demonstrate ________ without necessarily demonstrating ________, because ________.
+## 85–90 min — Submission
+
+Submit reading notes, group Definition Tension Board, claim analysis, and individual exit response.
 
 ## Success Evidence
 
-Students distinguish observable capability from anthropomorphic inference.
+Students can discuss AI without treating it as one fixed magic category and can separate demonstrated capability from stronger claims about intelligence.

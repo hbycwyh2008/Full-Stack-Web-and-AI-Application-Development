@@ -1,97 +1,61 @@
-# Student Overview
+# Student Overview — Software Design, Development & AI
 
-**Start here first:** [STUDENT_START_HERE.md](../STUDENT_START_HERE.md) · **Evidence requirements:** [Evidence System](../04_Assessment/Evidence_System.md)
+## What This Course Is About
 
-## What You Will Build
+This is a computer science course about **how computational products are understood, designed, built, tested, and improved**.
 
-In this course, you will build real web applications — not just demos. You will:
+You will not begin by memorizing a framework. You will begin by investigating **what computer science actually studies** and why programming is only one part of the field.
 
-- Start with **Git & GitHub** — create your **personal portfolio repository** (not this course repo). See [Student GitHub Repository Guide](../03_Templates/Student_GitHub_Repository_Guide.md).
-- Publish a **Notion portfolio** (Phase 1).
-- Build a **unified AI literacy foundation** (Phase 2).
-- Complete **AI Math Bridge** — vectors, matrices, NumPy, images as data (Phase 3).
-- Design in **Figma**, learn **TypeScript**, build **Next.js**.
-- Build a **lightweight FastAPI** backend.
-- Learn how **AI APIs and RAG** power your final project.
-- Connect everything into a full-stack app.
-- Use **Cursor** responsibly after you understand the stack.
-- Finish with an **AI School Assistant**.
-
-## What Tools You Will Learn
-
-- **Git / GitHub** — version control first
-- **DeepLearning.AI** — AI for Everyone, Generative AI for Everyone
-- **Notion** — portfolio website
-- **Figma** — UI design before coding
-- **Next.js / React + TypeScript** — frontend
-- **FastAPI** — lightweight backend
-- **Cursor** — AI-assisted coding (late in the course)
-- **LLM APIs + RAG** — source-based AI answers
-
-## Learning Order
+## Core Path
 
 ```text
-Git → Notion → AI Literacy → AI Math Bridge → Figma → TypeScript → Next.js → FastAPI → …
+What is Computer Science?
+→ Software Lifecycle
+→ GitHub
+→ HCI User Research
+→ Figma Product Design
+→ HTML/CSS
+→ JavaScript + Computational Thinking
+→ AI Literacy
+→ Testing + Release
+→ Capstone
 ```
 
-This is not only an AI literacy course — it is an **AI application engineering** course built on top of AI literacy.
+## What You Will Learn
 
-## Why a Portfolio Matters
+### Computer Science
+Algorithms, information, abstraction, systems, HCI, software engineering, AI, and computing impacts as parts of a larger discipline.
 
-Your portfolio is how you show what you can do. Each project becomes evidence: a working app, a GitHub repo, and a clear explanation. This is what colleges, programs, and employers want to see.
+### GitHub
+Issues, branches, commits, pull requests, review, merge, and release workflows.
 
-## How Every Class Works
+### HCI + Figma
+Research real users, define requirements, create flows and wireframes, build prototypes, critique them, test them, and revise from evidence.
 
-![Our Classroom Flow](posters/classroom-flow.png)
+### Programming
+Use HTML, CSS, and JavaScript to implement interactive web products. Practice functions, conditions, loops, data structures, events, state, algorithms, debugging, and code analysis.
 
-Each class follows a clear cycle: warm-up → discuss → check understanding → learn the core pattern → practice → **independent rebuild** → share **learning evidence**. See [Class Missions](../02_Class_Missions/README.md) for your daily **class mission**.
+### AI Literacy
+Study selected parts of Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_ in a focused four-lesson unit. Analyze what AI systems demonstrate, how they fail, and what words such as learning, intelligence, and understanding should mean.
 
-![Mastery Level — Real understanding, not just running code](posters/mastery-level.png)
+## Relationship to AP CSP
 
-Success means you can **rebuild, explain, modify, and debug** your work — not only copy or run code once.
+This course prepares you for important parts of AP Computer Science Principles, especially creative development and programming/computational-thinking practices. It does not replace AP CSP. You will discover the overlap and the gaps in the first class.
 
-## Optional: CS Competition Pathways
+## Final Project
 
-Want challenges beyond class? See pathways for programming, cybersecurity, AI, and robotics:
-
-![CS Competition Pathways](posters/cs-competition-pathways.png)
-
-Details: [posters/README.md](posters/README.md). Competitions are **optional** — not required for course credit.
-
-## AI Use Policy
-
-![AI Use Policy — Use AI as a learning tool, not a shortcut](posters/ai-use-policy.png)
-
-You **may** use AI to explain concepts, debug, get hints, review work, and practice. You **may not** submit AI work you do not understand, copy without learning, or use AI to complete entire tasks. You **must** explain your work, rebuild independently, and disclose AI help.
-
-Policy: [AI_Usage_Policy.md](../04_Assessment/AI_Usage_Policy.md) · Class rules: [ai-use-during-practice.md](../02_Class_Missions/shared/ai-use-during-practice.md)
-
-## Final Project: AI School Assistant
-
-You will build a web app that answers real questions like:
+You will complete a full software-development cycle for a researched user problem:
 
 ```text
-What is the late homework policy?
-What should I review for the final exam?
-Where can I find the project submission requirements?
+research → define → design → plan → build → review/test → release → iterate
 ```
 
-You will learn not just to use AI, but to understand and build with it — and to explain exactly what you made.
+The capstone does **not** have to use AI.
 
----
+## Optional Extensions
 
-## What We Expect From You
+If the class completes the core pathway with time remaining, extensions may include Python foundations or a small AI-powered feature/API exercise.
 
-This course (CS1) is **not** about watching, copying, or using AI to finish tasks without learning. You must practice actively, debug your own code, explain your work, and show evidence of your thinking.
+## Standard for Success
 
-The five core principles:
-
-1. **Understanding ≠ writing** — you must be able to write code yourself, not only follow demos.
-2. **Copying ≠ mastery** — you must explain, modify, and recreate code without pasting answers.
-3. **Debugging is learning** — errors are expected; read messages, test small parts, improve step by step.
-4. **Practice and patterns** — reuse ideas like input-process-output, loops, if/else, functions, and debugging steps across many problems.
-5. **AI supports thinking; it does not replace it** — use AI for hints and feedback, not to skip the work; understand and revise anything AI helped with.
-
-You may be asked to **explain your code orally** — how it works, how you debugged it, or how you used AI — especially when tools assisted your work.
-
-Full details: [STUDENT_START_HERE.md](../STUDENT_START_HERE.md), [Evidence System](../04_Assessment/Evidence_System.md), [Student Learning Expectations](../04_Assessment/Student_Learning_Expectations.md), and [Course Overview](../00_Course_Overview/Course_Overview.md).
+Success is not “the page runs.” You should be able to explain your evidence, decisions, code, debugging, testing, collaboration, and revisions.

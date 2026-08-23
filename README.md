@@ -4,29 +4,30 @@
 
 ## Course Purpose
 
-Students learn the **complete software-development process**, not a stack of frameworks.
+This course introduces students to **computer science through the real process of creating software**. Programming matters, but computer science is larger than programming: it studies computation, information, algorithms, abstraction, systems, human-computer interaction, artificial intelligence, security, and the consequences of computing.
 
-By the end of the core course, students should be able to take a real user problem through:
+Students repeatedly move through:
 
 ```text
-problem discovery
-→ HCI research
-→ synthesis + requirements
-→ Figma design + prototype
-→ GitHub planning/collaboration
-→ HTML/CSS/JavaScript implementation
-→ usability + technical testing
+understand a problem
+→ research users and context
+→ define requirements
+→ design in Figma
+→ plan and collaborate in GitHub
+→ implement with HTML/CSS/JavaScript
+→ review and test
 → release
-→ feedback + iteration
+→ learn and iterate
 ```
 
 ## Priority
 
 ### Primary
+- understand computer science as a broad discipline, not a synonym for coding;
 - complete software-development lifecycle;
 - GitHub workflow: issues, branches, commits, pull requests, review, merge, release;
 - HCI research end to end;
-- Figma web/product design end to end;
+- Figma product design end to end;
 - AI literacy using Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_.
 
 ### Secondary
@@ -35,9 +36,10 @@ problem discovery
 - JavaScript.
 
 ### Optional if time remains
-- Python foundations.
+- Python foundations;
+- small AI-application/API extensions.
 
-React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML training, Cursor-specific workflows, Notion portfolio work, and similar tools are **enrichment, not core outcomes**.
+React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, Cursor-specific workflows, Notion portfolio work, and similar tools are enrichment, not core outcomes.
 
 ## Start Here
 
@@ -47,41 +49,32 @@ React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML training, Cursor-specific work
 - Course pathway: [00_Course_Overview/Learning_Pathway_Map.md](00_Course_Overview/Learning_Pathway_Map.md)
 - Final project: [07_Final_Project/Final_Project_Specification.md](07_Final_Project/Final_Project_Specification.md)
 
-## Lesson Path
+## Canonical 33-Lesson Path
 
-**33 core lessons (00–32)** plus **6 integrated AI reading/discussion studios** and **3 optional Python extensions**.
+| Unit | Lessons | Core Focus |
+|---|---:|---|
+| 00 | 00–01 | What is computer science? Course orientation + software lifecycle |
+| 01 | 02–04 | GitHub development workflow |
+| 02 | 05–07 | HCI user research |
+| 03 | 08–11 | Figma product design |
+| 04 | 12–15 | HTML/CSS implementation |
+| 05 | 16–20 | JavaScript + computational thinking |
+| 06 | 21–24 | AI literacy: Melanie Mitchell concentrated unit |
+| 07 | 25–26 | Usability, QA, release, maintenance |
+| 08 | 27–32 | Capstone: full software-development cycle |
+| 09 | optional | Python / AI application extensions |
 
-| Unit | Core Focus |
-|---|---|
-| 00 | Software lifecycle orientation |
-| 01 | GitHub development workflow |
-| 02 | HCI user research |
-| 03 | Figma product design |
-| 04 | HTML/CSS implementation |
-| 05 | JavaScript interaction and debugging |
-| 06 | Usability, QA, release, maintenance |
-| 07 | Capstone: repeat the full lifecycle |
-| 08 | Cross-cutting AI literacy reading thread |
-| 09 | Optional Python |
+AI literacy is intentionally taught as a **coherent unit**, not forced into unrelated web-development lessons.
 
 ## Classroom Method
 
-Lessons are activity/discussion studios, not teacher-led interrogation:
+Students learn through activities, evidence, discussion, building, critique, and testing. The exact activity structure varies by lesson; the teacher does not run the course as a long sequence of teacher questions.
 
-```text
-Launch Challenge
-→ Evidence / Resource Scan
-→ Team Sensemaking
-→ Studio Build
-→ Critique / Test
-→ Ship Evidence
-```
+## AP CSP Relationship
 
-Students repeatedly create evidence and make decisions. The teacher gives short targeted explanations only where common barriers appear.
+This course is a **foundation for AP Computer Science Principles, not a replacement for it**. Lesson 00 includes a short student discovery activity using the AP CSP Course and Exam Description (CED). Students identify areas of strong preparation and areas AP CSP will still teach explicitly.
 
-## Final Project
-
-The capstone is a **user-centered software product**. AI is optional. Students are assessed on the quality of the lifecycle evidence — research, requirements, Figma, GitHub process, implementation, testing, release, and iteration — not on how many technologies they add.
+Official AP CSP course page: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
 
 ## License
 

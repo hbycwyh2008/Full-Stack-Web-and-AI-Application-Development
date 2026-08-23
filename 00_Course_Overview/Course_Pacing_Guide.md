@@ -1,39 +1,42 @@
 # Course Pacing Guide — 33 Core Sessions
 
-Assumption: approximately **90 minutes per core lesson**. Adjust studio depth rather than adding framework units.
+Assumption: approximately **90 minutes per core lesson**.
 
 | Sessions | Lessons | Focus |
 |---|---|---|
-| 1–2 | 00–01 | Software lifecycle + product teardown |
+| 1–2 | 00–01 | What is computer science? + software lifecycle/product teardown |
 | 3–5 | 02–04 | GitHub workflow |
-| 6–9 | 05–08 | HCI research |
-| 10–14 | 09–13 | Figma design |
-| 15–19 | 14–18 | HTML/CSS implementation |
-| 20–24 | 19–23 | JavaScript interaction/debugging |
-| 25–27 | 24–26 | Usability, QA, release/maintenance |
+| 6–8 | 05–07 | HCI research |
+| 9–12 | 08–11 | Figma product design |
+| 13–16 | 12–15 | HTML/CSS implementation |
+| 17–21 | 16–20 | JavaScript + computational thinking/debugging |
+| 22–25 | 21–24 | Concentrated AI literacy unit — Melanie Mitchell |
+| 26–27 | 25–26 | Usability, QA, release, maintenance |
 | 28–33 | 27–32 | Capstone full cycle |
 
-## AI Literacy Insertions
+## Lesson 00 Orientation Balance
 
-Use the six 20–30 minute Mitchell reading/discussion studios inside selected sessions:
+Lesson 00 is not an AP CSP lecture. Recommended allocation:
 
-- Studio A after Lesson 00;
-- Studio B after Lesson 04;
-- Studio C after Lesson 08;
-- Studio D after Lesson 13;
-- Studio E after Lesson 23;
-- Studio F after Lesson 26 or during capstone scope decisions.
+- 0–20: What counts as computer science? evidence/card-sort investigation;
+- 20–35: build a map of the CS discipline;
+- 35–55: software-development lifecycle challenge;
+- 55–70: **10–15 minute AP CSP CED discovery**;
+- 70–85: course pathway/evidence setup;
+- 85–90: exit reflection.
 
-On an AI-studio day, shorten the build block or extend the lesson across two meetings if the class needs more design/implementation time.
+## AI Literacy Placement
+
+Lessons 21–24 form one coherent unit. Do not insert Mitchell reading fragments into unrelated GitHub, Figma, HTML/CSS, or JavaScript lessons.
+
+Recommended reading rhythm: assign selected sections before class; use class time for evidence analysis, comparison, argument, and discussion rather than chapter summary.
 
 ## If Time Is Short
 
-**Do not cut:** GitHub core workflow, research/synthesis, Figma prototype/testing, usability testing, capstone release/retrospective.
+**Do not cut:** CS orientation, GitHub core workflow, research/synthesis, Figma prototype/testing, JavaScript fundamentals, AI literacy core, usability testing, capstone release/retrospective.
 
-Compress HTML/CSS/JS examples but retain enough implementation for students to build the tested product.
-
-**Cut first:** optional Python, legacy framework/AI-engineering extensions, extra portfolio/certification work.
+**Cut first:** optional Python, optional AI API work, legacy framework units, extra portfolio/certification work.
 
 ## If Time Remains
 
-Use the 3 optional Python lessons or a deeper second design/build iteration. Prefer a stronger full lifecycle over adding more technologies.
+Prefer a deeper second design/build iteration, then optional Python or a small evaluated AI-application extension.

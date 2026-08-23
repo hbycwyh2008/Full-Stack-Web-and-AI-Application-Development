@@ -7,9 +7,9 @@
 
 ### Course Thesis
 
-Students should leave this course understanding **how software products are actually developed**, from discovering a user problem through research, requirements, design, implementation, testing, release, maintenance, and iteration.
+Students should leave this course understanding both **what computer science is** and **how software products are actually developed**. Computer science is not identical to programming; programming is one tool used to study and build computational systems.
 
-The course is therefore **process-first and user-centered**, not framework-first.
+The course is process-first, user-centered, evidence-driven, and activity-based.
 
 ---
 
@@ -19,13 +19,14 @@ The course is therefore **process-first and user-centered**, not framework-first
 
 Students can independently or collaboratively:
 
-1. run an iterative software-development lifecycle;
-2. use GitHub for planning, version control, collaboration, review, and release;
-3. plan and conduct HCI research ethically;
-4. synthesize user evidence into problem statements, requirements, and success criteria;
-5. create user flows, information architecture, wireframes, reusable components, responsive prototypes, and testable high-fidelity designs in Figma;
-6. run design critique and usability testing, then revise based on evidence;
-7. reason critically about AI using Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_.
+1. explain computer science as the study of computation, information, algorithms, abstraction, systems, and their interaction with people and society;
+2. run an iterative software-development lifecycle;
+3. use GitHub for planning, version control, collaboration, review, and release;
+4. plan and conduct HCI research ethically;
+5. synthesize user evidence into problem statements, requirements, and success criteria;
+6. create user flows, information architecture, wireframes, reusable components, responsive prototypes, and testable high-fidelity designs in Figma;
+7. run design critique and usability testing, then revise based on evidence;
+8. reason critically about AI using Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_.
 
 ### Secondary Outcomes — Programming
 
@@ -33,28 +34,17 @@ Students develop practical implementation fluency in:
 
 - semantic HTML;
 - CSS typography, spacing, layout, Flexbox, Grid, responsive design, and accessibility;
-- JavaScript values, conditions, functions, DOM/events, arrays/objects, forms, state, persistence, and debugging.
+- JavaScript values, variables, conditions, loops, functions, arrays/objects, DOM/events, forms, state, persistence, APIs, and debugging.
 
-### Optional Outcome
+### Optional Outcomes
 
-Python foundations may be taught after the core pathway if time remains.
+Python foundations and small AI-application/API extensions may be taught after the core pathway if time remains.
 
 ---
 
 ## 3. What Is Not Core
 
-The following may appear in enrichment resources but are not required outcomes:
-
-- React / Next.js;
-- FastAPI;
-- MongoDB;
-- RAG / LLM application architecture;
-- Kaggle;
-- machine-learning model training;
-- Cursor-specific workflows;
-- Notion portfolios.
-
-They should never displace HCI, Figma, GitHub workflow, core web programming, testing, or the capstone lifecycle.
+React/Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, Cursor-specific workflows, and Notion portfolio work are enrichment only. They must never displace HCI, Figma, GitHub workflow, core web programming, testing, AI literacy, or the capstone lifecycle.
 
 ---
 
@@ -62,66 +52,65 @@ They should never displace HCI, Figma, GitHub workflow, core web programming, te
 
 | Lessons | Unit | Main Evidence |
 |---|---|---|
-| 00–01 | Course Orientation + Software Lifecycle | lifecycle map, product teardown |
+| 00–01 | CS Orientation + Software Lifecycle | CS field map, AP CSP discovery, lifecycle map, product teardown |
 | 02–04 | GitHub Development Workflow | issues, branches, commits, PR/review/merge |
-| 05–08 | HCI User Research | research plan, interviews/observation, affinity synthesis, requirements |
-| 09–13 | Figma Product Design | user flow, IA, wireframes, components, high-fi prototype, critique/handoff |
-| 14–18 | HTML/CSS Implementation | semantic/responsive implementation from Figma |
-| 19–23 | JavaScript Interaction | functions, DOM/events, data, forms/state, feature PR/debugging |
-| 24–26 | Testing + Release | usability study, QA/accessibility fixes, deployed release |
+| 05–07 | HCI User Research | research plan, interview/observation evidence, synthesis + requirements |
+| 08–11 | Figma Product Design | user flow/IA, wireframes, components, high-fi prototype + critique |
+| 12–15 | HTML/CSS Implementation | semantic/responsive implementation from Figma |
+| 16–20 | JavaScript + Computational Thinking | algorithms, functions, data structures, DOM/events, forms/state, debugging |
+| 21–24 | AI Literacy | claim-evidence analysis, failure/generalization analysis, comparison map, understanding position |
+| 25–26 | Testing + Release | usability findings, QA/accessibility fixes, deployed release |
 | 27–32 | Capstone Full Cycle | research → design → build → test → release → retrospective |
 
-Six AI literacy reading/discussion studios are inserted across this pathway. Three Python lessons are optional after the core.
+Three Python lessons and short AI-application extensions are optional after the core.
 
 ---
 
-## 5. AI Literacy Spine
+## 5. AI Literacy Unit
 
 **Primary text:** Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_.
 
-The purpose is not to memorize AI vocabulary. Students practice distinguishing:
+AI literacy is a **four-lesson concentrated unit after JavaScript and before final testing/capstone work**. It is not scattered through unrelated development lessons and does not need to produce artificial product-design connections.
 
-- demonstrated capability from marketing/anthropomorphic claims;
+Students practice distinguishing:
+
+- demonstrated capability from anthropomorphic or marketing claims;
 - pattern learning from human-like understanding;
 - benchmark/demo success from general reliability;
 - fluent output from evidence of meaning or grounding;
-- useful AI features from unnecessary AI features;
+- narrow competence from general intelligence;
 - technical performance from bias, privacy, access, and social consequences.
 
-Each AI studio ends with a **software/product design implication**.
+---
+
+## 6. AP CSP Relationship
+
+The course prepares students strongly for parts of AP CSP, especially Creative Development, Algorithms and Programming, Computational Solution Design, Abstraction, Code Analysis, collaboration, and responsible computing. It provides partial preparation for Data and Impact of Computing.
+
+It does **not** replace AP CSP. Topics such as binary representation, data compression, Internet protocols, fault tolerance, distributed computing, AP pseudocode conventions, Create task requirements, and AP-specific exam practice remain for the AP CSP course.
+
+Lesson 00 contains a short CED discovery activity so students find this relationship themselves.
+
+Official source: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
 
 ---
 
-## 6. Classroom Design
+## 7. Classroom Design
 
-Each 90-minute mission uses:
+Lessons use varied activity structures: card sorting, reverse engineering, investigation, role simulation, research, affinity mapping, design studios, critique, code tracing, debugging, case analysis, structured discussion, usability labs, and development sprints.
+
+A common reasoning backbone is:
 
 ```text
-Launch Challenge (individual)
-→ Evidence / Resource Scan
-→ Team Sensemaking
-→ Studio Build
-→ Critique / Test
-→ Ship Evidence
+encounter evidence → make sense of it → decide/build → test/critique → revise → preserve evidence
 ```
 
-The teacher is a facilitator and technical/HCI coach. Teacher explanation is brief, just-in-time, and triggered by common barriers observed in student work.
+The teacher is a facilitator and technical/HCI coach. Explanation is brief and just-in-time.
 
 ---
 
-## 7. Final Project
+## 8. Final Project
 
-Students release a website/product for a researched user problem. Required evidence includes:
+Students release a user-centered software product for a researched problem. Required evidence includes user research, synthesis, requirements, Figma design, GitHub history, HTML/CSS/JavaScript implementation, usability/technical QA, release notes, deployment, iteration, and retrospective.
 
-- user research;
-- synthesis and problem statement;
-- user stories/requirements/success criteria;
-- Figma flow, wireframes, high-fidelity prototype, accessibility and critique;
-- GitHub backlog, branches, commits, PRs, review and release history;
-- HTML/CSS/JavaScript implementation;
-- usability and technical QA;
-- deployed release and release notes;
-- iteration evidence and retrospective;
-- AI product-decision memo.
-
-**AI implementation is optional.** A reasoned decision that AI is unnecessary is a successful AI literacy outcome.
+**AI implementation is optional.** The AI literacy unit is assessed independently; students do not have to force AI into the capstone.

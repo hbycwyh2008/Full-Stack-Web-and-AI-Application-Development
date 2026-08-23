@@ -1,40 +1,56 @@
-# Lesson 26 — QA, Accessibility, Release, and Maintenance
+# Lesson 26 — QA, Release, and Maintenance
 
-**Mission:** Decide whether a product is ready to release, fix the highest-risk defects, deploy it, and plan what happens next.
+**Length:** 90 minutes  
+**Mission:** Decide whether software is ready to release, document known risks, deploy it, and plan what happens after launch.  
+**One Required Resource / Evidence Source:** current product + teacher-provided release checklist/bug examples  
+**Durable Evidence:** QA checklist + release record + maintenance plan
 
-## Release-Candidate Checklist (0–15)
+## 0–10 min — Entry Point Check
 
-Teams define must-pass checks for core functionality, responsive behavior, accessibility, data/state behavior, major browsers/devices available, and known constraints.
+Individually inspect a short bug list before release. Classify each item as **release blocker / fix soon / acceptable known issue / need more evidence** and write one reason.
 
-## QA Rotation (15–38)
+## 10–25 min — Individual Learning
 
-Run systematic tests. Every defect becomes a GitHub issue with reproduction steps, expected behavior, observed behavior, severity, and evidence.
+Inspect the release checklist and current build. Record evidence for:
 
-## Accessibility Pass (38–50)
+- core task completion;
+- broken links/interactions;
+- responsive behavior;
+- accessibility basics;
+- error states;
+- browser/device checks where relevant;
+- known issues;
+- release notes/version information;
+- what must continue after launch.
 
-Check keyboard access, focus, labels/names, heading structure, color contrast, zoom/reflow, error messaging, and non-color cues.
+## 25–40 min — Talk Round 1
 
-## Bug Triage (50–62)
+Pairs compare release decisions and create a severity rubric using user impact, frequency, workaround availability, and risk. Reclassify one bug after discussion.
 
-Classify defects:
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-- release blocker;
-- high priority;
-- can defer with documented limitation;
-- not reproducible / needs evidence.
+Groups run a release-readiness review and produce **ship / ship with known issues / do not ship yet** plus evidence. Teacher addresses only shared QA/deployment barriers or unsafe release reasoning.
 
-## Fix + Regression (62–77)
+## 55–75 min — Guided Practice / Mission Task
 
-Students fix the highest-priority issues through branches/PRs and retest related behavior after each fix.
+Complete the release cycle:
 
-## Release (77–86)
+- run the final QA checklist;
+- fix release-blocking issues;
+- document remaining known issues;
+- deploy through the approved method;
+- verify the deployed version, not only local code;
+- create release notes/version tag where appropriate;
+- write a simple maintenance plan covering feedback, bugs, updates, and ownership.
 
-Deploy the approved version and write release notes containing shipped features, fixes, known limitations, and version/date.
+## 75–85 min — Exit Check
 
-## Maintenance Plan (86–90)
+Individually respond to a post-release scenario: users report a problem that affects a small group but blocks their main task. Explain how you would triage, investigate, communicate, and decide priority.
 
-Record what feedback/data should be monitored and which deferred issue is most likely to enter the next version.
+## 85–90 min — Submission
+
+Submit QA checklist, deployed URL, release notes/record, known-issue list, maintenance plan, and individual exit response.
 
 ## Success Evidence
 
-Students treat release as an evidence-based decision and maintenance as part of the lifecycle.
+Students can explain that release is an evidence-based decision rather than “the code runs,” and that software development continues through monitoring, maintenance, and iteration after launch.

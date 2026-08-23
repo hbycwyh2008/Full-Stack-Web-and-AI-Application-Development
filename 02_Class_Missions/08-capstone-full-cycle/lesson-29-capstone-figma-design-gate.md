@@ -1,31 +1,62 @@
-# Lesson 29 — Capstone: Design and Pass the Prototype Gate
+# Lesson 29 — Capstone Figma Design Gate
 
-**Mission:** Validate the primary experience before implementation.
+**Length:** 90 minutes  
+**Mission:** Prove the capstone interaction and interface are coherent enough to implement by passing a design gate before coding.  
+**One Required Resource / Evidence Source:** capstone requirements/backlog + current Figma prototype  
+**Durable Evidence:** design-gate checklist + revised prototype + implementation-ready decisions
 
-## Flow + IA (0–18)
+## 0–10 min — Entry Point Check
 
-Create the primary task flow, recovery/error path, and information architecture from requirements.
+Individually compare one capstone requirement with the current Figma prototype. Mark where the requirement is clearly represented, missing, or ambiguous.
 
-## Wireframe Exploration (18–35)
+## 10–25 min — Individual Learning
 
-Produce more than one structural approach for the key task and select using user/research evidence.
+Audit the prototype against:
 
-## High-Fidelity Prototype (35–62)
+- primary user flow;
+- information architecture;
+- required states;
+- error/empty/success states;
+- reusable components;
+- responsive considerations;
+- accessibility basics;
+- traceability to requirements.
 
-Build the primary flow using reusable components, accessible states, and responsive reasoning.
+Record the three biggest implementation risks if coding began today.
 
-## Prototype Test (62–76)
+## 25–40 min — Talk Round 1
 
-A different team/student attempts the main task without designer explanation. Record success, errors, hesitation, and comments.
+Pairs conduct a requirement-to-frame review. Each partner must identify one unsupported screen/feature and one requirement that needs a clearer design state.
 
-## Revise (76–84)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Fix the highest-priority issues and update design annotations.
+Groups run a design-gate critique. Reviewers attempt the primary flow using only the prototype and requirements. Teams receive **pass / revise before implementation** with evidence. Teacher clarifies only common design-readiness barriers.
 
-## Design Gate (84–90)
+## 55–75 min — Guided Practice / Mission Task
 
-Implementation begins only when the prototype covers the MVP task, requirements, major states, and enough detail for handoff.
+Revise the prototype until the implementation handoff includes:
 
-## Deliverable
+- complete primary flow;
+- key alternate/error states;
+- component/state definitions;
+- content labels;
+- responsive notes;
+- accessibility considerations;
+- requirement links;
+- explicit out-of-scope items.
 
-Validated Figma prototype + test/critique evidence.
+Do not begin major implementation work until the design gate is satisfied.
+
+## 75–85 min — Exit Check
+
+Individually answer:
+
+> What is one design decision you changed because of evidence, and what implementation problem would the old design have caused?
+
+## 85–90 min — Submission
+
+Submit Figma link, design-gate checklist, revision evidence, and individual exit response.
+
+## Success Evidence
+
+Students can show that implementation is starting from an evidence-backed, testable design rather than from an unfinished idea.

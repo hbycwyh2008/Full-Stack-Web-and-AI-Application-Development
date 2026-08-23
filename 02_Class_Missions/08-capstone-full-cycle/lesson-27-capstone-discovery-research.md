@@ -1,31 +1,60 @@
-# Lesson 27 — Capstone: Discover and Research
+# Lesson 27 — Capstone Discovery and Research
 
-**Mission:** Select a real, researchable problem and collect evidence before proposing the product.
+**Length:** 90 minutes  
+**Mission:** Select a defensible capstone problem and plan/launch research before proposing a solution.  
+**One Required Resource / Evidence Source:** capstone brief + approved research evidence sources/participant access  
+**Durable Evidence:** problem-space brief + stakeholder map + research plan
 
-## Problem Candidates (0–15)
+## 0–10 min — Entry Point Check
 
-Each student/team generates several problem spaces from observed school/community/user contexts. Reject ideas that are only technologies (`make an AI app`) rather than problems.
+Individually list three possible software problems you could work on. For each, mark what evidence you currently have that the problem actually exists. Eliminate any idea supported only by “I think this would be cool.”
 
-## Assumption Audit (15–28)
+## 10–25 min — Individual Learning
 
-For the top candidate, list what is known, assumed, and unknown. Identify stakeholders and people who could provide evidence.
+Review the capstone requirements and prior HCI evidence standards. For your strongest problem candidate, record:
 
-## Research Plan (28–40)
+- target users/stakeholders;
+- current behavior/workaround;
+- what is known;
+- what is assumed;
+- ethical/privacy constraints;
+- what evidence must be collected before design.
 
-Define research questions, participants, method, ethical safeguards, and what evidence would change the team's current belief.
+## 25–40 min — Talk Round 1
 
-## Research Sprint (40–72)
+Pairs challenge each other's problem choices using **evidence / assumption / feasibility / user value**. Each student revises or defends one problem statement.
 
-Conduct available interviews/observations or analyze prepared evidence if outside participants are scheduled later. Preserve anonymized notes.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Evidence Check (72–84)
+Groups present one problem-space claim and one evidence gap. Peers identify whether the team is already jumping to a solution. Teacher intervenes only on common issues such as overbroad scope, inaccessible participants, unsafe data collection, or solution-first framing.
 
-Another team challenges unsupported conclusions and identifies missing perspectives.
+## 55–75 min — Guided Practice / Mission Task
 
-## Gate (84–90)
+Create the capstone research package:
 
-To proceed, teams need a credible problem space plus an explicit plan for any remaining research. No feature list is approved yet.
+- problem-space statement;
+- stakeholder map;
+- assumption list;
+- 5–7 research questions;
+- participant/evidence plan;
+- ethics/privacy safeguards;
+- scope constraints;
+- success evidence for deciding whether the problem is worth solving.
 
-## Deliverable
+Begin the first approved research activity if time/access allows.
 
-Capstone research evidence package.
+## 75–85 min — Exit Check
+
+Individually answer:
+
+> What evidence would cause you to abandon or substantially change your current capstone idea?
+
+List at least two concrete findings.
+
+## 85–90 min — Submission
+
+Submit problem-space brief, stakeholder map, research plan, and individual exit response.
+
+## Success Evidence
+
+Students can justify a capstone problem with evidence needs and stakeholder reasoning before committing to features or technology.

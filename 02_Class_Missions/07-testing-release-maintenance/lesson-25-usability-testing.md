@@ -1,42 +1,59 @@
-# Lesson 25 — Usability Testing and Evidence-Based Iteration
+# Lesson 25 — Usability Testing with Real Tasks
 
-**Mission:** Observe whether users can actually complete key tasks without the designer rescuing them.
+**Length:** 90 minutes  
+**Mission:** Observe users attempting realistic tasks and turn observed friction into evidence-backed product changes.  
+**One Required Resource / Evidence Source:** current working prototype/build + teacher-provided usability-test protocol  
+**Durable Evidence:** task script + observation notes + prioritized findings
 
-## Test Design (0–18)
+## 0–10 min — Entry Point Check
 
-Teams choose 2–3 high-value tasks based on requirements. Write neutral task prompts and define success criteria. Do not write instructions that reveal the interface path.
+Individually inspect a short usability-test transcript. Mark each statement as **observation / interpretation / suggestion**. Circle one place where the moderator accidentally helped the participant.
 
-## Moderator Practice (18–28)
+## 10–25 min — Individual Learning
 
-Students rehearse one rule: **do not teach the participant how to use the design during the test**. Practice neutral follow-ups such as `What are you thinking now?`
+Inspect the test protocol and current product. Record:
 
-## Usability Rounds (28–58)
+- target task;
+- success criteria;
+- what the moderator may say;
+- what the moderator should not explain;
+- observable evidence such as hesitation, wrong path, error, recovery, completion, or abandonment;
+- how to protect participant privacy.
 
-Run cross-team tests. Collect:
+## 25–40 min — Talk Round 1
 
-- task success/failure;
-- wrong turns/errors;
-- hesitation/confusion;
-- notable comments;
-- time only when it is meaningful;
-- observer notes.
+Pairs turn product goals into 2–3 realistic task prompts without telling participants exactly what to click. Compare prompts and remove leading language.
 
-## Evidence vs Interpretation (58–68)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Separate raw observation (`participant clicked Settings three times`) from interpretation (`navigation label is unclear`). Both matter, but they are not the same.
+Groups rehearse one five-minute usability session. Observers record where the moderator leads, where evidence is missing, and whether success criteria are measurable. Teacher clarifies only common testing mistakes.
 
-## Prioritize Findings (68–80)
+## 55–75 min — Guided Practice / Mission Task
 
-Rank issues by severity, frequency, and impact on core requirements. Avoid fixing cosmetic preferences before task-blocking problems.
+Run usability tests with peers or approved participants. For each task, capture:
 
-## Iterate (80–88)
+- task result;
+- observed behavior;
+- quotes when useful;
+- friction/error points;
+- severity;
+- evidence, not guesses.
 
-Fix or redesign the highest-priority issue and document before/after evidence.
+Do not explain the interface while the participant is attempting the task.
 
-## Ship (88–90)
+## 75–85 min — Exit Check
 
-Store usability findings and prioritized revision list.
+Individually choose one finding and write:
+
+1. the observation;
+2. the interpretation;
+3. one proposed change;
+4. what evidence would confirm the change worked.
+
+## 85–90 min — Submission
+
+Submit task script, observation notes, prioritized findings, and individual exit response.
 
 ## Success Evidence
 
-Students can show how observed behavior caused a specific product revision.
+Students can run a basic usability test without coaching the participant and can separate observed behavior from interpretation and design suggestions.

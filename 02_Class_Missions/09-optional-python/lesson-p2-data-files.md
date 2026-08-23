@@ -1,9 +1,45 @@
-# Optional Python 2 — Lists, Dictionaries, Files, and Data
+# Optional Python P2 — Data and Files
 
-## Mission
-Use Python collections and files to process a small real dataset or structured text file.
+**Length:** 90 minutes  
+**Mission:** Use Python to read, transform, and write simple structured data/files.  
+**One Required Resource / Evidence Source:** teacher-provided small CSV/text dataset + Python file-processing example  
+**Durable Evidence:** data-processing script + input/output evidence
 
-Students map JavaScript arrays/objects to Python lists/dictionaries, then read a local CSV/JSON/text file, clean or summarize selected fields, and write a result. The task emphasizes data shape, iteration, edge cases, and verification.
+## 0–10 min — Entry Point Check
 
-## Evidence
-Commit the script, sample input/output, and a note describing one data-quality issue.
+Individually inspect a small table/file and write the transformations needed to produce a requested summary or cleaned output.
+
+## 10–25 min — Individual Learning
+
+Inspect the Python example and record:
+
+- opening/reading a file;
+- splitting/parsing values at a beginner level;
+- lists/dictionaries used for records;
+- loops and conditions for transformation;
+- writing output;
+- preserving original data and handling bad/missing values carefully.
+
+## 25–40 min — Talk Round 1
+
+Pairs compare transformation plans and identify one edge case such as blank data, malformed values, or duplicate records. Predict how the script should respond.
+
+## 40–55 min — Entry Points Check / Teacher Diagnosis
+
+Groups trace a small file-processing script and diagnose one incorrect output. Teacher clarifies only common file-path, parsing, type-conversion, or loop issues.
+
+## 55–75 min — Guided Practice / Mission Task
+
+Write a Python script that reads the provided data, performs at least two meaningful transformations or summaries, and writes/displays a clear result. Include at least one validation/error-handling decision appropriate to the dataset.
+
+## 75–85 min — Exit Check
+
+Individually explain the data flow from input file to final output and identify one case that could break the program if not handled.
+
+## 85–90 min — Submission
+
+Submit script, sample input/output, tests/edge-case note, and exit response.
+
+## Success Evidence
+
+Students can reason about file/data processing as a sequence of input, representation, transformation, validation, and output steps.

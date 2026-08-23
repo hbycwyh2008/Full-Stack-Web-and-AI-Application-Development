@@ -1,39 +1,57 @@
 # Lesson 14 — Layout and Responsive Design
 
-**Mission:** Build layouts that respond to content and viewport changes rather than only matching one screenshot.
+**Length:** 90 minutes  
+**Mission:** Build responsive layouts that preserve user priorities across viewport sizes.  
+**One Required Resource / Evidence Source:** approved Figma desktop/mobile frames or teacher-provided responsive examples  
+**Durable Evidence:** responsive layout implementation + viewport test log
 
-## Broken Layout Investigation (0–15)
+## 0–10 min — Entry Point Check
 
-Students inspect layouts that fail because of fixed widths, overflow, incorrect Flexbox assumptions, or an inappropriate grid. They predict the cause before opening dev tools.
+Individually inspect a desktop layout squeezed into a narrow viewport. Mark what breaks first and rank the three most important things the user must still be able to do on a small screen.
 
-## Layout Toolkit (15–30)
+## 10–25 min — Individual Learning
 
-Short targeted instruction: normal flow, box model, Flexbox for one-dimensional relationships, Grid for two-dimensional structure, intrinsic sizing, gaps, wrapping, and media/container decisions.
+Inspect responsive examples and record evidence for:
 
-## Responsive Build (30–62)
+- normal flow;
+- box model;
+- Flexbox vs Grid use;
+- flexible widths;
+- wrapping;
+- breakpoints driven by content failure rather than device names;
+- image/text behavior;
+- mobile content priority.
 
-Implement the Figma layout at narrow and wide viewports. Students must make an explicit choice for navigation, content columns, images, and spacing when the viewport changes.
+## 25–40 min — Talk Round 1
 
-## Stress Test (62–76)
+Pairs predict how one Figma layout should change as width decreases. Sketch a responsive strategy and compare it with another pair. Identify one element that should reflow rather than simply shrink.
 
-Test:
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-- narrow phone width;
-- medium tablet width;
-- wide desktop;
-- 200% text zoom;
-- long content strings.
+Groups debug a deliberately broken responsive page. They must identify the failure cause using DevTools evidence. Teacher clarifies only common barriers such as fixed widths, overflow, Flexbox/Grid misunderstandings, or ineffective media queries.
 
-Record failures before fixing them.
+## 55–75 min — Guided Practice / Mission Task
 
-## Peer Debugging (76–86)
+Implement responsive behavior for the project:
 
-Partners choose one responsive failure and explain the layout model causing it before proposing code.
+- layout using Flexbox/Grid where appropriate;
+- flexible containers;
+- readable line lengths;
+- navigation behavior;
+- images/media that do not overflow;
+- breakpoints based on observed layout failure;
+- test at multiple widths.
 
-## Ship (86–90)
+Record each failure discovered and the fix applied.
 
-Commit the responsive fix and note the failure mode it addresses.
+## 75–85 min — Exit Check
+
+Individually inspect a new responsive bug and state whether the likely fix belongs to width sizing, layout mode, wrapping, or a breakpoint. Explain the evidence.
+
+## 85–90 min — Submission
+
+Commit responsive changes, viewport test log/screenshots, and individual exit response.
 
 ## Success Evidence
 
-The layout behaves sensibly outside the exact Figma frame dimensions.
+Students can make a layout adapt to changing space and explain responsive decisions in terms of content/user needs rather than memorized device sizes.

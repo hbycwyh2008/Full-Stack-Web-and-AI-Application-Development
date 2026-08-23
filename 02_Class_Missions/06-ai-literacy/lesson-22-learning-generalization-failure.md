@@ -1,48 +1,56 @@
-# Lesson 22 — Vision, Learning, Generalization, and Failure
+# Lesson 22 — Learning, Generalization, and Failure
 
-**Reading focus:** selected sections from Chapters 4–7.  
-**Mission:** Understand why strong machine-learning performance does not automatically imply robust understanding or reliability.
+**Length:** 90 minutes  
+**Mission:** Understand why strong performance on examples or benchmarks does not automatically mean broad understanding or reliable generalization.  
+**One Required Resource:** teacher-assigned selected Mitchell reading on machine learning/deep learning, pattern recognition, and limits  
+**Durable Evidence:** generalization case analysis + failure checklist
 
-## Before Class
+## 0–10 min — Entry Point Check
 
-Students bring one example from the reading where an AI system succeeds impressively and one where performance reveals a limitation.
+Individually predict whether a model that performs extremely well on one dataset will necessarily work well for new users/environments. Mark **yes / no / depends** and list the conditions your answer depends on.
 
-## Success/Failure Pair Analysis (0–20)
+## 10–25 min — Individual Learning
 
-Teams compare paired cases: strong benchmark performance versus changed context, unusual input, distribution shift, adversarial/noisy case, or biased data. Record exactly what changed.
+Read the assigned Mitchell selection. Record:
 
-## Learning Model (20–35)
+- what the system learns from;
+- what success is measured on;
+- one example of impressive pattern-learning performance;
+- one generalization/failure limitation;
+- one reason humans may overinterpret the result.
 
-Without deriving deep-learning mathematics, students build a conceptual model:
+## 25–40 min — Talk Round 1
 
-```text
-training data → learned statistical/representational patterns → prediction → evaluation on new cases
-```
+Pairs compare notes and create a two-column table: **evidence that the system learned something useful / evidence that its competence is limited or context-dependent**. Each student contributes at least one item.
 
-Discuss why `learned` does not mean `learned in the same way a human learns`.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Generalization Spectrum (35–55)
+Groups analyze a short train/test/deployment scenario and identify where distribution shift, narrow evaluation, spurious patterns, or missing cases could cause failure. Display one claim and one uncertainty. Teacher clarifies only shared conceptual barriers.
 
-Teams place cases on a spectrum from **memorization-like behavior → interpolation/pattern generalization → robust transfer to meaningfully new situations**. They must defend placement with evidence.
+## 55–75 min — Guided Practice / Mission Task
 
-## Reliability Case Study (55–72)
+Teams evaluate 2–3 AI deployment cases. For each, record:
 
-Students analyze one hypothetical deployment and identify:
+1. training/evidence context;
+2. intended deployment context;
+3. likely mismatch or hidden assumption;
+4. failure that matters to users;
+5. evidence/test needed before trusting the system.
 
-- expected inputs;
-- out-of-distribution inputs;
-- possible false positive/false negative harms;
-- data/bias risks;
-- what testing evidence would be needed before trusting the system.
+Build a short **Generalization and Failure Checklist** for later AI claims.
 
-This is an AI reliability exercise, not a web-project requirement.
+## 75–85 min — Exit Check
 
-## Synthesis (72–85)
+Individually respond:
 
-Create a four-column board:
+> A model scores 98% on a benchmark. What would you need to know before calling it reliable for a real product?
 
-**Capability | Evidence | Failure Boundary | What We Still Cannot Claim**
+Give at least three concrete questions.
 
-## Exit Evidence (85–90)
+## 85–90 min — Submission
 
-Write one sentence explaining why benchmark accuracy and general intelligence are different claims.
+Submit reading notes, case analysis, checklist, and individual exit response.
+
+## Success Evidence
+
+Students can explain why benchmark performance is evidence about a defined task/context rather than proof of general intelligence or universal reliability.

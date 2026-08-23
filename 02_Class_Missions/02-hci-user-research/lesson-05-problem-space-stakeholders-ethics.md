@@ -1,41 +1,71 @@
-# Lesson 05 — Problem Space, Stakeholders, and Research Questions
+# Lesson 05 — Problem Space, Stakeholders, and Research Ethics
 
-**Mission:** Turn a vague product request into a researchable problem without jumping directly to a solution.
+**Length:** 90 minutes  
+**Mission:** Turn a vague product request into a researchable problem without jumping directly to a solution.  
+**One Required Resource / Evidence Source:** teacher-provided stakeholder + research-ethics scenario sheet  
+**Durable Evidence:** stakeholder map + assumption list + ethical research constraints
 
-## Launch — Assumption Trap (0–15)
+## 0–10 min — Entry Point Check
 
-Give every team the same request: **“Build something that helps students study better.”** Teams have five minutes to sketch a solution. Then stop them and label every design decision as either **evidence** or **assumption**.
+Individually respond to this request:
 
-Most will discover that nearly everything is an assumption.
+> “Build something that helps students study better.”
 
-## Stakeholder Mapping (15–30)
+Sketch a solution for three minutes, then label every decision in your sketch as **evidence / assumption / unsure**.
 
-Teams identify primary users, secondary users, decision-makers, affected non-users, and possible excluded users. For each stakeholder, record what the team knows and what it does not know.
+## 10–25 min — Individual Learning
 
-## Ethics + Research Constraints (30–40)
+Inspect the stakeholder and ethics scenarios. Record:
 
-Provide short scenarios involving privacy, recording, minors, sensitive information, and leading questions. Teams sort them into **acceptable / revise / unacceptable** and justify one disputed case.
+- primary users;
+- secondary users;
+- decision-makers;
+- affected non-users;
+- potentially excluded users;
+- privacy/consent risks;
+- what the team still does not know.
 
-Teacher clarification is brief: informed participation, collect only necessary data, avoid deception unless explicitly approved, protect identifying information, and do not pressure participants.
+## 25–40 min — Talk Round 1
 
-## Research Question Studio (40–65)
+Pairs compare stakeholder maps and classify ethics scenarios as **acceptable / revise / unacceptable**. Each student must defend one disputed decision with evidence from the scenario.
 
-Students convert assumptions into research questions. Strong questions investigate behavior/context rather than asking users to approve a proposed feature.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Weak: `Would you use a study reminder app?`
+Groups create an **Assumption + Stakeholder Board** with:
 
-Stronger: `Walk me through the last time you forgot or delayed a study task.`
+1. three assumptions currently driving the product idea;
+2. at least four stakeholder categories;
+3. two ethical risks;
+4. one unresolved research question.
 
-Each team produces 5–7 questions covering current behavior, pain points, context, workarounds, goals, and constraints.
+Teacher gives a brief clarification only where groups show shared confusion about consent, minors, sensitive information, recording, pressure, or collecting unnecessary personal data.
 
-## Critique (65–80)
+## 55–75 min — Guided Practice / Mission Task
 
-Teams exchange protocols and mark questions that are leading, hypothetical, double-barreled, or solution-first. Revise.
+Convert assumptions into a short research plan:
 
-## Ship Evidence (80–90)
+- problem space;
+- stakeholder map;
+- 5–7 research questions focused on current behavior/context;
+- participant criteria;
+- data to collect;
+- data **not** to collect;
+- ethical safeguards.
 
-Commit a short research plan containing stakeholders, assumptions, research questions, participant criteria, and ethical safeguards.
+Avoid solution-first questions such as `Would you use my app?`.
+
+## 75–85 min — Exit Check
+
+Individually rewrite this weak question into a stronger research question:
+
+> `Would a reminder app help you study more?`
+
+Then explain why the original question could bias the research.
+
+## 85–90 min — Submission
+
+Submit stakeholder map, assumption list, research-plan draft, and individual exit rewrite.
 
 ## Success Evidence
 
-Students can explain why solution ideas are hypotheses until supported by evidence.
+Students can separate evidence from assumptions, identify multiple stakeholders, and explain why ethical user research begins before design decisions are treated as facts.

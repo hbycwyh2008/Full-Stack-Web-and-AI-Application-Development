@@ -1,37 +1,51 @@
-# Lesson 16 — Values, State, Functions, and Input → Process → Output
+# Lesson 16 — Values, Variables, State, and Functions
 
-**Mission:** Explain program behavior as transformations of input and state, not as a sequence of mysterious lines.
+**Length:** 90 minutes  
+**Mission:** Use variables and functions to model changing application state and reusable behavior.  
+**One Required Resource / Evidence Source:** teacher-provided JavaScript trace examples  
+**Durable Evidence:** small state/function program + trace table
 
-## Predict Before Vocabulary (0–15)
+## 0–10 min — Entry Point Check
 
-Students receive a tiny interactive script. Without running it, they mark what looks like input, stored information, processing, and output. Then run and revise predictions.
+Individually predict the final values in a short JavaScript snippet with variables and function calls. Do not run it yet. Record each prediction.
 
-## Core Model (15–25)
+## 10–25 min — Individual Learning
 
-Use the shared reasoning frame:
+Inspect the trace examples and record:
 
-```text
-precondition → input/state → processing → output → postcondition
-```
+- value vs variable;
+- assignment/change over time;
+- function input/parameter;
+- return value;
+- local vs external state at a beginner level;
+- why functions reduce repeated logic.
 
-Introduce values, variables, expressions, assignment, functions, parameters, and return values as tools inside that model.
+## 25–40 min — Talk Round 1
 
-## Function Reconstruction (25–48)
+Pairs compare trace tables, then run the code and explain any mismatch between prediction and result. Each student must explain one state change in order.
 
-Students receive several small behaviors written inline repeatedly. They identify repeated logic and refactor it into named functions. Require function names that describe purpose.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Modify Challenge (48–65)
+Groups receive a broken or confusing function and build a trace showing where the state becomes incorrect. Display one diagnosis. Teacher clarifies only shared barriers such as assignment vs comparison, return values, parameter use, or scope.
 
-Change one requirement. Students predict which inputs/state/functions must change before editing code.
+## 55–75 min — Guided Practice / Mission Task
 
-## Explain-to-Partner (65–76)
+Build a small interaction model for the project using functions and state, such as score, selected filter, count, current step, or theme preference. Requirements:
 
-Partners trace one function call using concrete argument and return values. The listener checks whether the explanation describes data movement rather than reading syntax aloud.
+- at least two variables representing state;
+- at least two functions;
+- one function with a parameter;
+- one returned/computed value;
+- console tests covering at least three cases.
 
-## Independent Feature (76–88)
+## 75–85 min — Exit Check
 
-Implement a small feature using at least two purposeful functions.
+Individually trace a changed function and explain what it returns for two inputs. Then state one reason a function is preferable to repeating the same statements.
 
-## Ship (88–90)
+## 85–90 min — Submission
 
-Commit and include a two-sentence explanation of input, processing, and output.
+Commit code, trace table/tests, and individual exit response.
+
+## Success Evidence
+
+Students can trace changing values, explain function inputs/outputs, and use functions to organize reusable behavior rather than copying code repeatedly.

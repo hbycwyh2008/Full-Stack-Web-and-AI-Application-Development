@@ -1,76 +1,41 @@
-# Lesson 00 — What Is Computer Science?
+# Lesson 00 — What Is Computer Science? + AP CSP Discovery
 
+**Prerequisite:** [Required Orientation — Learn the Course Through the Four Posters](required-orientation-four-posters.md)  
 **Length:** 90 minutes  
-**Essential idea:** Computer science is the study of computation and information; programming is one important method inside a much broader discipline.
+**Mission:** Build a broader model of computer science and discover how this course overlaps with AP CSP without turning the lesson into an AP CSP lecture.  
+**One Required Resource:** [AP CSP CED Discovery Handout](ap-csp-ced-discovery-handout.md) plus the teacher-provided CS example cards  
+**Durable Evidence:** CS field map + AP CSP preparation/gap map + individual exit reflection
 
-## Learning Evidence
+The four course posters come first. This lesson assumes students already understand the classroom flow, mastery expectations, AI-use expectations, and the optional role of competition pathways.
 
-By the end, students can:
+---
 
-- distinguish computer science from simply using computers, repairing hardware, or writing code;
-- name several major areas of CS and explain what kind of problem each studies;
-- explain why software development includes research, design, testing, and iteration in addition to implementation;
-- identify several AP CSP areas this course prepares them for and several areas that remain for AP CSP.
+## 0–10 min — Entry Point Check
 
-## Materials
+**Work individually.**
 
-Prepare cards or slides containing examples such as:
+Sort these examples into **Definitely Computer Science / Maybe / Not Primarily Computer Science**:
 
-- prove whether an algorithm always terminates;
-- design an accessible interface for a student with low vision;
-- compress a photo without losing too much information;
-- route packets across a network when one route fails;
 - write a JavaScript function;
-- investigate why a recommendation model produces biased results;
-- design a database representation;
-- analyze how quickly two algorithms scale;
+- design an accessible interface;
 - repair a cracked laptop screen;
-- create a spreadsheet formula;
+- analyze how fast two algorithms scale;
 - train an image classifier;
+- route packets when one route fails;
+- create a spreadsheet formula;
 - review a pull request for correctness.
 
-Do **not** label the categories in advance.
+Choose one item you are unsure about and write a short reason.
+
+Do not define computer science yet.
 
 ---
 
-## Activity 1 — What Counts as Computer Science? (0–15)
+## 10–25 min — Individual Learning
 
-In teams, students sort the example cards into:
+Use the teacher-provided **CS field/evidence cards**.
 
-- **Definitely Computer Science**
-- **Maybe / Depends**
-- **Not Primarily Computer Science**
-
-Teams must attach a short reason to any two disputed cards. Do not resolve disagreements yet.
-
-### Teacher role
-Listen for the misconception **“CS = programming”**. Do not correct each group immediately.
-
----
-
-## Evidence Reveal — Build a Definition of CS (15–25)
-
-Give a short, explicit mini-lesson after the sort.
-
-Working definition:
-
-> **Computer science studies computation and information: what can be computed, how information can be represented and processed, how algorithms and computational systems work, how efficiently/reliably they work, and how those systems interact with people and society.**
-
-Clarify:
-
-- programming = expressing computational procedures and building systems;
-- software engineering = disciplined development of software systems;
-- computer engineering = stronger emphasis on hardware/electrical systems;
-- IT = operation/support of computing infrastructure;
-- these fields overlap, but they are not identical.
-
-Return to three disputed cards and let students revise their classification.
-
----
-
-## Activity 2 — Build the CS Field Map (25–40)
-
-Teams receive these field labels:
+Individually inspect examples from:
 
 - Algorithms & Theory
 - Data & Information
@@ -82,72 +47,128 @@ Teams receive these field labels:
 - Programming Languages / Abstraction
 - Computing & Society
 
-Students place the example cards around the field labels. Cards may connect to more than one field.
+Record:
 
-### Required conclusion
-Each team writes one sentence completing:
-
-> **Programming is part of computer science because ________, but computer science is larger because ________.**
-
----
-
-## Activity 3 — Software Is More Than Code (40–55)
-
-Give teams these lifecycle cards:
-
-**user problem, research, requirements, design, implementation, testing, release, feedback, maintenance**
-
-Students create a plausible model and add loops where work repeats.
-
-Then reveal the course shorthand:
-
-```text
-discover → research → define → design → plan → build → review/test → release → learn → iterate
-```
-
-Students place **HCI, Figma, GitHub, HTML/CSS/JavaScript** onto the model.
-
-Key insight: coding is essential, but implementation is only one part of building useful software.
+1. two examples that clearly involve programming;
+2. two examples that are clearly CS but are not simply “write code”;
+3. one example that connects to more than one field;
+4. one sentence beginning: **“Computer science seems broader than programming because …”**
 
 ---
 
-## Activity 4 — AP CSP CED Alignment Discovery (55–70)
+## 25–40 min — Talk Round 1
 
-Use [ap-csp-ced-discovery-handout.md](ap-csp-ced-discovery-handout.md).
+In pairs, compare classifications from the Entry Point Check and field evidence.
 
-This activity is intentionally short. Students are not studying the CED in depth.
+Each student must explain one disputed example.
 
-1. Give each team eight course-experience cards: user interview, Figma prototype, GitHub PR, JavaScript algorithm, debugging, working with data, usability testing, AI bias discussion.
-2. Give the simplified CED map.
-3. Teams place each card under the strongest likely connection or **No Strong Direct Match**.
-4. Teams identify **two AP CSP areas this course prepares them for** and **two AP CSP areas they expect to learn later**.
+Together produce:
 
-Do not require one-to-one matches.
+- **one working definition of computer science**;
+- **one sentence explaining where programming fits**;
+- **one disagreement or uncertainty** you still have.
 
-### Reveal
-Strong preparation will often include Creative Development, Algorithms and Programming, Computational Solution Design, Abstraction, Code Analysis, collaboration, and Responsible Computing. AP CSP still includes substantial content not centered in this course, including binary representation, compression, networking/fault tolerance, and AP-specific assessment skills.
+Do not aim for a textbook-perfect definition yet.
 
 ---
 
-## Course Pathway Walk (70–83)
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-Teams receive the nine-unit course sequence and predict what evidence they will create in each unit. Compare predictions with the canonical course map.
+Teams of 3–4 build a **CS Field Map** by placing example cards around the field labels. A card may connect to more than one field.
 
-Students should see a progression from **understanding CS → learning a development workflow → building independently**.
+Required group conclusion:
+
+> **Programming is part of computer science because ____________________, but computer science is larger because ____________________.**
+
+Groups display one disputed placement and one unresolved point.
+
+### Teacher diagnosis
+
+Only after seeing the group evidence, give a brief clarification around the shared misconception(s).
+
+A useful working definition is:
+
+> **Computer science studies computation and information: what can be computed, how information is represented and processed, how algorithms and computational systems work, how efficiently and reliably they work, and how computing systems interact with people and society.**
+
+Clarify only as needed:
+
+- programming = expressing computational procedures and building systems;
+- software engineering = disciplined development of software systems;
+- computer engineering = stronger emphasis on hardware/electrical systems;
+- IT = operation/support of computing infrastructure.
+
+Students immediately revise at least one card placement or one sentence after the clarification.
 
 ---
 
-## Exit Evidence (83–90)
+## 55–75 min — Guided Practice / Mission Task: AP CSP CED Discovery
 
-Individually complete four sentences:
+Open [AP CSP CED Discovery Handout](ap-csp-ced-discovery-handout.md).
 
-1. **Computer science is not just ________.**
-2. **Computer science studies ________.**
-3. **One part of this course that prepares me for AP CSP is ________.**
-4. **One AP CSP area I will still need to learn later is ________.**
+This is a **discovery activity**, not an AP CSP content lesson.
 
-Store the response as the first course reflection.
+Teams receive course-experience cards such as:
 
-## Teacher Check
+- user interview;
+- Figma prototype;
+- GitHub PR;
+- JavaScript algorithm;
+- debugging;
+- working with data;
+- usability testing;
+- AI bias discussion.
 
-Do not grade students on memorizing a perfect definition of CS. Look for whether their model has broadened beyond “CS = coding.”
+Teams place each experience under the strongest likely AP CSP connection or **No Strong Direct Match**.
+
+Then record:
+
+- **two AP CSP areas this course helps prepare us for**;
+- **two AP CSP areas we will still need to learn elsewhere/in AP CSP**;
+- **one course experience that connects to more than one AP CSP idea**.
+
+Do not force one-to-one matches.
+
+A short teacher reveal may confirm that this course strongly supports areas such as Creative Development, Algorithms and Programming, Computational Solution Design, Abstraction, Code Analysis, collaboration, and Responsible Computing, while AP CSP also includes substantial content such as binary representation, compression, networking/fault tolerance, and AP-specific assessment skills.
+
+---
+
+## 75–85 min — Exit Check
+
+Work individually.
+
+Complete:
+
+1. **Computer science is not just ____________________.**
+2. **Computer science studies ____________________.**
+3. **Programming matters in CS because ____________________.**
+4. **One part of this course that prepares me for AP CSP is ____________________.**
+5. **One AP CSP area I will still need to learn later is ____________________.**
+
+Then answer one transfer prompt:
+
+> A student says, “This class is basically a web-coding class.” What evidence from today's activity would you use to disagree, qualify, or agree?
+
+---
+
+## 85–90 min — Submission
+
+Submit:
+
+1. individual Entry Point classification;
+2. CS Field Map;
+3. pair working definition;
+4. AP CSP preparation/gap map;
+5. individual Exit Check.
+
+## Success Evidence
+
+Students can:
+
+- explain that programming is important but not the whole of computer science;
+- identify multiple CS fields and connect examples to them;
+- explain several genuine overlaps between this course and AP CSP;
+- identify AP CSP content that this course does not attempt to replace.
+
+## Teacher Note
+
+Do not grade students on memorizing a perfect definition of CS or CED terminology. The important change is that their mental model broadens beyond **CS = coding** and that they discover AP CSP connections through activity evidence.

@@ -1,41 +1,68 @@
-# Lesson 06 — Interview and Observation Lab
+# Lesson 06 — Interview and Observation Protocol
 
-**Mission:** Collect usable user evidence without turning the session into a sales pitch or interrogation.
+**Length:** 90 minutes  
+**Mission:** Design and rehearse a research protocol that gathers useful evidence without leading participants.  
+**One Required Resource / Evidence Source:** teacher-provided sample interview/observation transcript  
+**Durable Evidence:** interview/observation protocol + rehearsal notes
 
-## Question Quality Sort (0–15)
+## 0–10 min — Entry Point Check
 
-Teams sort sample questions into **behavior-based, open, closed, leading, hypothetical, double-barreled**. They rewrite the weakest three.
+Individually mark each question as **strong / leading / hypothetical / too broad / double-barreled**:
 
-## Interview Demonstration (15–25)
+- `Wouldn't a better calendar help you?`
+- `Tell me about the last time you missed a deadline.`
+- `Do you like the app and find it easy to use?`
+- `What usually happens when you begin studying?`
 
-Two short contrasting demonstrations are enough: one poor interview that leads the participant and one neutral interview that follows evidence. Students record differences in interviewer behavior.
+Write one reason for your least-certain classification.
 
-## Protocol Rehearsal (25–40)
+## 10–25 min — Individual Learning
 
-Pairs rehearse the protocol from Lesson 05. One student interviews, one observes the interviewer. Feedback focuses on follow-up questions, silence, neutrality, and note quality.
+Inspect the sample transcript. Highlight evidence of:
 
-## Research Round (40–65)
+- open questions;
+- follow-up probes;
+- concrete past behavior;
+- leading language;
+- participant assumptions;
+- useful observation notes;
+- places where the researcher should have remained silent.
 
-Students conduct a short interview and, when appropriate, an observation/task walkthrough. Notes must distinguish:
+## 25–40 min — Talk Round 1
 
-- participant quote/behavior;
-- researcher interpretation;
-- follow-up question.
+Pairs compare annotations and create a **Do / Avoid** list for interviews and observations. Each pair rewrites two weak questions and identifies one useful probe.
 
-Do not let students collapse those into one column.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Evidence Quality Check (65–78)
+Groups perform a five-minute mock interview. Observers use a checklist for leading questions, interruption, vague probes, and evidence capture. Groups display one mistake they noticed and one technique that improved the interview. Teacher addresses only common barriers.
 
-Teams highlight notes that are vague (`user likes simplicity`) and rewrite them using concrete evidence (`participant skipped two settings screens and said...`). Remove unsupported interpretations.
+## 55–75 min — Guided Practice / Mission Task
 
-## Research Round 2 / Improvement (78–87)
+Teams build the actual protocol:
 
-Students apply one improvement from the quality check in a second short interaction or follow-up.
+- opening/consent language;
+- 5–7 core interview questions;
+- follow-up probes;
+- observation focus points;
+- note-taking roles;
+- privacy rules;
+- closing question;
+- plan for anonymizing evidence.
 
-## Ship Evidence (87–90)
+Run a second short rehearsal and revise the protocol based on observer evidence.
 
-Store anonymized notes plus a short reflection: **one interviewing habit that improved the evidence**.
+## 75–85 min — Exit Check
+
+Individually write one question and one follow-up probe for this goal:
+
+> Understand what students actually do when they become stuck on schoolwork.
+
+Explain why your question seeks behavior evidence rather than feature approval.
+
+## 85–90 min — Submission
+
+Submit final protocol, rehearsal checklist/notes, revisions made, and individual exit response.
 
 ## Success Evidence
 
-Students can collect behavior-rich evidence and separate what the participant actually did/said from what the researcher inferred.
+Students can distinguish strong research questions from leading/hypothetical ones and can run a basic ethical interview/observation protocol that collects behavioral evidence.

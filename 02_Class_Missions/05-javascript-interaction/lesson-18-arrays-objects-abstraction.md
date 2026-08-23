@@ -1,35 +1,51 @@
 # Lesson 18 — Arrays, Objects, and Abstraction
 
-**Mission:** Choose data structures and abstractions that make a program easier to extend.
+**Length:** 90 minutes  
+**Mission:** Represent collections and structured data so the program can process information without duplicating variables and code.  
+**One Required Resource / Evidence Source:** teacher-provided array/object data examples  
+**Durable Evidence:** data model + rendering/processing function + explanation
 
-## Bad Data Model (0–12)
+## 0–10 min — Entry Point Check
 
-Give students code with variables such as `task1Name`, `task1Done`, `task2Name`, `task2Done` repeated many times. Ask them to predict what happens when the product needs 100 tasks.
+Individually compare two ways to represent five project items: separate variables vs an array of objects. Predict which version becomes harder when the number of items grows and explain why.
 
-## Structure the Data (12–30)
+## 10–25 min — Individual Learning
 
-Students remodel the data using arrays and objects. Discuss what belongs in one object and what belongs in a collection.
+Inspect the examples and record:
 
-## Render from Data (30–52)
+- array index/order;
+- object property/value;
+- array of objects;
+- iteration over a collection;
+- accessing/updating data;
+- abstraction: hiding repeated detail behind a useful representation/function.
 
-Write a function that iterates over a collection and produces or updates output. Focus on separating data from repeated UI logic.
+## 25–40 min — Talk Round 1
 
-## Abstraction Test (52–64)
+Pairs design a small data model for project content such as resources, tasks, cards, users, or events. Compare property choices and remove one field that is unnecessary or derived.
 
-Ask: if the internal representation changes, which code should have to change? Students identify useful function boundaries.
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-## Data Challenge (64–80)
+Groups trace code that processes an array of objects and predict output. Display one data-model decision and one bug/misunderstanding. Teacher clarifies only common barriers such as index errors, property access, mutation, or confusing data structure with visual layout.
 
-Filter, find, summarize, or transform a collection to satisfy a product requirement. Students choose the operation and explain why.
+## 55–75 min — Guided Practice / Mission Task
 
-## Review (80–88)
+Represent real project content as an array/object structure and write JavaScript that processes or renders it. Requirements:
 
-Partners inspect whether the chosen structure reduces duplication and supports likely change.
+- at least three objects;
+- meaningful properties;
+- iteration;
+- one reusable function;
+- one data change that updates behavior/output without rewriting repeated HTML/logic.
 
-## Ship (88–90)
+## 75–85 min — Exit Check
 
-Commit the refactor with a before/after explanation.
+Individually redesign a poor data representation for a changed requirement and explain how the abstraction makes the program easier to extend.
+
+## 85–90 min — Submission
+
+Commit data model, processing/rendering code, test evidence, and individual exit response.
 
 ## Success Evidence
 
-Students explain why abstraction and data structures reduce complexity rather than merely naming arrays/objects.
+Students can choose arrays/objects for structured collections and explain how data abstraction reduces repetition and supports scalable program behavior.

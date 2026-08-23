@@ -1,28 +1,51 @@
 # Lesson 03 — Branches and Meaningful Commits
 
-## Mission
-Make changes without treating `main` as a personal scratchpad.
+**Length:** 90 minutes  
+**Mission:** Use a branch to isolate work and create commits that tell a coherent development story.  
+**One Required Resource / Evidence Source:** teacher-provided Git history examples  
+**Durable Evidence:** feature branch + 2–3 meaningful commits
 
-## Core Artifact
-One feature branch with a small sequence of meaningful commits.
+## 0–10 min — Entry Point Check
 
-## Launch Challenge — 0–10
-Given six messy commit messages, sort them into **useful / weak / misleading** and rewrite two weak messages.
+Individually compare two commit histories. One uses messages such as `stuff`, `update`, `final2`; the other uses focused messages tied to distinct changes. Decide which history would be easier to review or debug and annotate why.
 
-## Evidence / Resource Scan — 10–25
-Trace a simple Git history showing `main`, a feature branch, several commits, and a merge. Annotate what problem branching solves.
+## 10–25 min — Individual Learning
 
-## Team Sensemaking — 25–40
-Teams decide when a change deserves its own branch and what “one coherent commit” means. Record one trade-off between very large and very tiny commits.
+Inspect the provided Git history and branch diagram. Record:
 
-## Studio Build — 40–65
-Choose one open issue, create a branch named for the work, make at least two coherent changes, and commit each with a message that describes the change and purpose.
+- what `main` represents;
+- why teams isolate unfinished work on branches;
+- what makes a commit coherent;
+- what information a useful commit message communicates;
+- one risk of putting unrelated changes into one commit.
 
-## Critique / Test — 65–80
-Partner reads only the branch name and commit history, then reconstructs what happened. If the story is unclear, reorganize or improve the history where practical.
+## 25–40 min — Talk Round 1
 
-## Ship Evidence — 80–90
-Push the branch and link it to the issue.
+Pairs receive a mixed list of file changes. Group them into sensible commits and propose commit messages. Compare with another pair and note one different but defensible grouping.
+
+## 40–55 min — Entry Points Check / Teacher Diagnosis
+
+Groups build a simple branch/commit model for a small feature. Display one choice about where to branch and one choice about commit boundaries. Teacher clarifies only shared misconceptions such as “branch = copy of the whole project forever” or “commit every keystroke.”
+
+## 55–75 min — Guided Practice / Mission Task
+
+From an existing issue:
+
+1. create a feature branch;
+2. make a small change;
+3. commit it with a focused message;
+4. make a second related change;
+5. commit again;
+6. inspect the branch history and verify that each commit has one understandable purpose.
+
+## 75–85 min — Exit Check
+
+Individually split this change set into sensible commits: add navigation, fix a typo, change button spacing, add form validation. Write the commit messages you would use and justify one boundary.
+
+## 85–90 min — Submission
+
+Submit branch name, commit SHAs/links, screenshot or text history, and individual exit response.
 
 ## Success Evidence
-The Git history communicates development decisions, not just timestamps.
+
+Students can explain why branches isolate work and why meaningful commits improve review, rollback, debugging, and collaboration.

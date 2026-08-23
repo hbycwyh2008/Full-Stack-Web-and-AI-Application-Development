@@ -1,52 +1,48 @@
-# AI Literacy Checklist
+# AI Literacy Checklist — Lessons 21–24
 
-Use this checklist to confirm **Phase 2: AI Literacy Foundation** (after Phases 0–1) before **Phase 3 AI Math Bridge**.
+Use this checklist to assess the concentrated Melanie Mitchell unit. It is independent of whether the student's capstone uses AI.
 
-> This checklist connects directly to the final project: **AI School Assistant**.
+## 1. AI as a Field and Historical Project
 
----
+- [ ] Can explain why `AI` has included different approaches across its history.
+- [ ] Can describe an AI system's demonstrated task/capability without automatically attributing human-like intelligence.
+- [ ] Can separate an observable result from an interpretation or marketing claim.
 
-## 1. Core AI Concepts
+## 2. Learning, Generalization, and Failure
 
-- [ ] Can explain what AI is in plain language.
-- [ ] Can explain what machine learning means.
-- [ ] Can explain what generative AI and an LLM are.
-- [ ] Can describe the difference between traditional software and AI.
+- [ ] Can describe machine learning conceptually as learning patterns/representations from data or feedback rather than being explicitly programmed for every case.
+- [ ] Can explain why strong training/benchmark performance does not guarantee robust performance in new contexts.
+- [ ] Can identify at least one failure boundary, distribution shift, bias, or reliability concern from evidence.
 
-## 2. Capabilities and Limits
+## 3. Comparing AI Systems
 
-- [ ] Can give examples of what AI does well.
-- [ ] Can give examples of what AI does poorly or cannot do.
-- [ ] Can explain what a hallucination is.
-- [ ] Understands why "AI can do anything" is a false belief.
+- [ ] Can compare systems in domains such as games, vision, and language by task, input/representation, objective/feedback, evidence of success, and failure mode.
+- [ ] Can explain why fluent or impressive behavior is evidence of some capability but not automatically evidence of general intelligence.
 
-## 3. Prompting Basics
+## 4. Understanding, Abstraction, and Analogy
 
-- [ ] Can write a clear, specific prompt.
-- [ ] Can ask AI to stay within a given source or topic.
-- [ ] Knows when to rewrite a weak prompt instead of accepting a bad answer.
+- [ ] Has a defensible working criterion for what would count as evidence of understanding.
+- [ ] Can identify weaknesses/counterexamples in simple tests of `understanding`.
+- [ ] Can explain why abstraction/analogy require attention to relationships beyond surface similarity.
+- [ ] Can state an unresolved question without pretending the book settles every philosophical issue.
 
-## 4. Responsible AI
+## 5. Evidence Standard
 
-- [ ] Can explain why the AI School Assistant must use school documents.
-- [ ] Can explain why it should say "I don't know" when unsure.
-- [ ] Can identify a fairness, bias, or privacy concern.
-- [ ] Understands that the student is responsible for the final project, not the AI.
+- [ ] Uses examples/evidence from the reading or analyzed cases to support claims.
+- [ ] Distinguishes `the system did X` from `therefore the system understands/thinks Y`.
+- [ ] Avoids both uncritical AI hype and unsupported blanket dismissal.
 
-## 5. Phase 2 Deliverables
+## Required Unit Evidence
 
-- [ ] Completed study notes for **AI for Everyone**.
-- [ ] Completed study notes for **Generative AI for Everyone**.
-- [ ] Answered at least three **AI Lens Discussion Prompts**.
-- [ ] Completed the **Responsible AI Checklist** for the AI School Assistant.
+- [ ] Lesson 21 claim/evidence analysis + working AI definition
+- [ ] Lesson 22 capability/failure/generalization analysis
+- [ ] Lesson 23 cross-domain comparison map
+- [ ] Lesson 24 understanding position memo
 
----
+## Sign-Off Reflection
 
-## Sign-Off
+Complete:
 
-**Student name:** _______________  
-**Date:** _______________
+> **The most important distinction I now make when evaluating AI is ________ because ________.**
 
-**One sentence: what is the most important thing you learned about using AI responsibly?**
-
-_______________________________________________
+Student: ____________________  Date: ____________________

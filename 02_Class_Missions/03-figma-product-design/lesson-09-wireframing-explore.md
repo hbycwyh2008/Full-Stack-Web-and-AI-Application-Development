@@ -1,40 +1,53 @@
-# Lesson 09 — Wireframing: Explore Before Polishing
+# Lesson 09 — Low-Fidelity Wireframing: Explore Before Polishing
 
-**Mission:** Produce multiple interface approaches before becoming attached to one design.
+**Length:** 90 minutes  
+**Mission:** Generate and compare multiple interface structures before committing to visual polish.  
+**One Required Resource / Evidence Source:** team user flow + information architecture  
+**Durable Evidence:** multiple low-fi alternatives + selected wireframe rationale
 
-## Constraint (0–5)
+## 0–10 min — Entry Point Check
 
-No colors, polished icons, gradients, branding, or visual effects. Today is about hierarchy and interaction.
+Individually sketch two different layouts for the same required screen in five minutes. No color, images, or detailed styling. Mark which layout better supports the primary user goal and why.
 
-## Three-Solution Sprint (5–30)
+## 10–25 min — Individual Learning
 
-Each student creates three substantially different low-fidelity solutions for the same key flow. Differences must involve structure or interaction, not cosmetic changes.
+Review the user flow/IA and inspect teacher-selected low-fi wireframe examples. Record evidence for:
 
-## Evidence-Based Selection (30–45)
+- hierarchy;
+- grouping;
+- navigation;
+- task focus;
+- feedback/error placement;
+- what low-fi wireframes intentionally leave undecided.
 
-Teams compare alternatives against requirements and user research. Select useful parts from more than one design when appropriate.
+## 25–40 min — Talk Round 1
 
-## Wireframe Build (45–65)
+Pairs compare sketches using requirements rather than personal taste. Identify one strength, one risk, and one idea worth combining from each alternative.
 
-Build the selected flow in Figma. Required states:
+## 40–55 min — Entry Points Check / Teacher Diagnosis
 
-- normal/starting state;
-- user action;
-- success/result state;
-- at least one error or empty state.
+Groups run a quick **design studio**: every student produces one thumbnail solution, then the group clusters ideas and selects/combines promising patterns. Display one rejected idea and the evidence-based reason it was rejected. Teacher addresses shared problems such as premature visual polish or missing task states.
 
-## Five-Minute Task Test (65–78)
+## 55–75 min — Guided Practice / Mission Task
 
-A student from another team attempts the main task using the wireframe/prototype. Designers may not explain where to click. Observers record hesitation, errors, and wrong expectations.
+Create a linked low-fidelity wireframe set in Figma covering:
 
-## Revision (78–88)
+- primary path;
+- key decision/action screen;
+- success state;
+- one error/empty state;
+- responsive/alternate layout consideration where relevant.
 
-Prioritize observed problems by severity and revise the wireframe.
+Annotate important requirements beside the relevant frames.
 
-## Ship Evidence (88–90)
+## 75–85 min — Exit Check
 
-Save all three alternatives, rationale for selected direction, test evidence, and revised wireframe.
+Individually compare two new wireframe snippets and choose which better supports a stated requirement. Justify with structure/hierarchy evidence, not aesthetics.
+
+## 85–90 min — Submission
+
+Submit Figma link, alternative thumbnails, selected wireframe set, rationale, and individual exit response.
 
 ## Success Evidence
 
-Students show exploration and evidence-based selection, not immediate polishing of the first idea.
+Students can explore multiple structural ideas, judge them against user evidence/requirements, and explain why low-fi work reduces the cost of changing direction.

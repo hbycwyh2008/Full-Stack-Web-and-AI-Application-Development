@@ -1,56 +1,31 @@
-# AP CSP CED Discovery — Student Handout
+# AP CSP Discovery — Integrated Student Activity
 
-**Purpose:** Discover where this course overlaps with AP Computer Science Principles. This is not an AP CSP lesson or exam review.
+This activity is now integrated into the ready-to-use digital workbook for Lesson 00:
 
-## Part A — Five AP CSP Big Ideas
+**[Lesson 00 Student Workbook Template](lesson-00-student-workbook-template.md)**
 
-1. **Creative Development** — creating computational solutions and collaborating during development
-2. **Data** — representing, processing, and extracting information from data
-3. **Algorithms and Programming** — algorithms, program logic, abstraction, and program development
-4. **Computer Systems and Networks** — computing systems, the Internet, networks, reliability
-5. **Impact of Computing** — effects of computing innovations on people and society
+Students should copy that complete template into their own learning repository as:
 
-## Part B — Computational Thinking Practices
+```text
+reflections/lesson-00-what-is-computer-science.md
+```
 
-1. Computational Solution Design
-2. Algorithms and Program Development
-3. Abstraction in Program Development
-4. Code Analysis
-5. Computing Innovations
-6. Responsible Computing
+Then complete **Section 6 — AP CSP Discovery** directly in their own Markdown file.
 
-Official reference: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
+The integrated workbook already contains:
 
-## Part C — Course Experience Cards
+- the simplified AP CSP Big Ideas;
+- the simplified Computational Thinking Practices;
+- the official College Board reference link;
+- Course Experience Bank S1–S8;
+- the AP CSP mapping table;
+- the AP CSP gap checklist;
+- the final AP CSP conclusion prompts.
 
-Place each under the **strongest** CED connection. `No Strong Direct Match` is allowed.
+No separate printed handout or paper cards are required.
 
-- Interview users before designing
-- Build and test a Figma prototype
-- Use GitHub branches and pull requests
-- Write a JavaScript algorithm
-- Debug a program using evidence
-- Process data in a web application
-- Run a usability test
-- Analyze AI bias and limitations
+Teacher guidance and suggested mappings are in:
 
-## Part D — Find the Gap
+**[Lesson 00 Teacher Key](lesson-00-teacher-key.md)**
 
-From the simplified list below, circle topics you think this course does **not** teach deeply enough to replace AP CSP:
-
-- binary representation
-- data compression
-- Internet protocols
-- fault tolerance
-- distributed computing
-- AP pseudocode conventions
-- Create performance task requirements
-- AP exam practice
-
-## Team Conclusion
-
-Complete:
-
-> **This course is a foundation for AP CSP because ________. It is not a replacement for AP CSP because ________.**
-
-Do not try to force every course activity into a CED category.
+The AP CSP activity is intentionally a **discovery task**, not an AP CSP lecture or exam review. Students should identify both genuine overlap and genuine gaps; they should not force every course activity into an AP CSP category.

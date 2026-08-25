@@ -1,75 +1,114 @@
-# Lesson 23 — Rewards, Games, and Language
+# Lesson 23 — Rewards, Games, and Words
 
-**Delivery:** two 45-minute class meetings: **23A** and **23B**  
-**Only required content source:** teacher-selected passages from Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
+**Students:** Grade 7  
+**Delivery:** three 45-minute class meetings: **23A, 23B, and 23C**  
+**Only required content source:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
 **Student preparation:** none  
 **Regular homework:** none  
-**Flow:** [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md)  
-**Durable evidence:** game/reward claim audit, language-capability comparison, and two Learning Log entries
+**Flow:** [Grade 7 AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md)  
+**Reading locations:** [Required In-Class Reading Map](required-reading-map.md)
 
 ## Lesson Purpose
 
-Students examine two areas that invite especially strong claims about machine intelligence: game-playing success and fluent language. In both meetings, the goal is to identify the real capability, the evidence for it, and the larger interpretation that remains unproved.
+Students study three tempting signs of intelligence: learning from reward, mastering games, and processing language. For each, they identify the genuine achievement and then test the boundary of the stronger claim.
 
 ## Required Mastery
 
-By the end of Meeting 23B, students can:
+By the end of Meeting 23C, students can:
 
-1. explain why a specified reward or game objective is not identical to a human intention;
-2. distinguish success in a bounded game from broad real-world transfer;
-3. distinguish fluent or correct language output from grounded meaning and understanding;
-4. support these distinctions with cases from the assigned book selections.
+1. trace a simple state–action–reward learning loop;
+2. explain why earning reward is not identical to understanding a human intention;
+3. distinguish success in a bounded game from transfer to a changed task;
+4. identify background knowledge a reader adds to a short story;
+5. explain that word-pattern representations can be useful while still inheriting limits or bias.
 
-## Teacher Setup
+## Teacher Setup for All Three Meetings
 
-Select and record two short passages:
-
-- **23A:** one passage from Chapters 8–10 that connects reward, game-playing success, or the limits of transfer beyond games;
-- **23B:** one passage from Chapters 11–13 that connects word representation, translation, question answering, fluency, or the problem of meaning.
-
-Do not use a live game agent, chatbot, current product claim, or secondary explainer as an additional content input.
-
----
-
-## Meeting 23A — Rewards, Games, and Transfer
-
-**Essential question:** What does success in rewards and games actually prove?
-
-| Time | Classroom-flow block | Required student action |
-|---:|---|---|
-| 0–4 | **Entry Point Check** | Individually rank three claims from weakest to strongest evidence of broad intelligence: maximizing a score, mastering one game, adapting to a changed task. State the ranking criterion. |
-| 4–14 | **Individual Learning** | Read the assigned Chapters 8–10 passage. Mark the goal or reward, demonstrated performance, environment conditions, and one transfer limitation. |
-| 14–19 | **Talk Round 1** | Partners reconstruct the case as `objective → action/performance → result → interpretation`. Identify where a human observer may add meaning not demonstrated by the result. |
-| 19–25 | **Entry Points Check / Teacher Diagnosis** | Groups display one supported claim and one overextension. Teacher clarifies only shared confusion about rewards, games, search, learning, or transfer. |
-| 25–37 | **Guided Practice / Mission Task** | Complete a **Game/Reward Claim Audit** based on the book case: specified objective, bounded environment, measured success, hidden design choices, likely transfer boundary, and unsupported general-intelligence claim. |
-| 37–43 | **Exit Check** | Independently explain why maximizing the written objective does not prove understanding of the designer's intention. Complete Meeting 23A in the Learning Log. |
-| 43–45 | **Submission** | Submit the claim audit and Learning Log entry. |
-
-### Meeting 23A Success Evidence
-
-The student can praise genuine game or optimization success while stating why it does not automatically transfer beyond the demonstrated environment.
+- Locate and record exact page ranges using the [Required In-Class Reading Map](required-reading-map.md).
+- Keep each reading within the listed **300–450-word** range.
+- Display only the four listed vocabulary terms and pronounce them before reading.
+- Prepare one half-page organizer per meeting.
+- Do not use a live agent, game demo, chatbot, product claim, article, video, or online summary as additional input.
 
 ---
 
-## Meeting 23B — Language, Fluency, and Meaning
+## Meeting 23A — Rosie's Reward Loop
 
-**Essential question:** What does fluent language demonstrate—and what does it not demonstrate?
+**Essential question:** Does maximizing reward mean understanding the goal?
+
+**Required in-class reading — 350–450 words:** the Chapter 8 passage beginning with Rosie's robot-dog soccer task, continuing through state, action, reward, and repeated learning, and ending after exploration/exploitation and accidental or “superstitious” reward-earning behavior. Use the exact anchor and exclusions in [23A of the reading map](required-reading-map.md#23a--rosies-reward-loop).
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–4 | **Entry Point Check** | Individually decide whether a fluent, correct answer is sufficient evidence of understanding. Record what additional evidence would be needed. |
-| 4–14 | **Individual Learning** | Read the assigned Chapters 11–13 passage. Mark the language task, demonstrated success, information or patterns used, and one challenge involving ambiguity, reference, common sense, grounding, or meaning. |
-| 14–19 | **Talk Round 1** | Partners compare `linguistic performance` with `understanding`. Each partner must cite one detail from the passage and one stronger claim it does not establish. |
-| 19–25 | **Entry Points Check / Teacher Diagnosis** | Groups produce one statement in the form: `Fluent output is evidence of ___, but it is insufficient evidence of ___ because ___.` Teacher clarifies only shared reading barriers. |
-| 25–37 | **Guided Practice / Mission Task** | Build a **Language-Capability Comparison** from book cases: word association/representation, translation, question answering, fluent generation, contextual reasoning, and grounded understanding. Add the evidence and boundary for each level represented in the passage. |
-| 37–43 | **Exit Check** | Independently explain how an answer can be useful or correct while still providing insufficient evidence of human-like understanding. Complete Meeting 23B in the Learning Log. |
-| 43–45 | **Submission** | Submit the comparison and Learning Log entry. |
+| 0–3 | **Entry Point Check** | Choose: “If an agent earns the highest reward, it must understand what the person wanted.” Agree, disagree, or unsure; add one reason. |
+| 3–17 | **Individual Learning** | Read the assigned Chapter 8 passage in two chunks. Mark S (state), A (action), R (reward), and U (unexpected behavior). After each chunk, paraphrase one step of the learning process. |
+| 17–22 | **Talk Round 1** | Partners retell one loop using: “In state ___, Rosie can ___; the reward tells it ___.” Then name one way reward and human purpose can differ. |
+| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one complete loop and one mismatch. Teacher clarifies only shared confusion about agent, state, action, reward, or the exploration choice. |
+| 28–38 | **Guided Practice / Mission Task** | Complete a **Rosie State–Action–Reward Loop** with four steps and one boundary box. Teacher models the starting state; students use the passage to fill action, result, reward/update, and possible unintended strategy. |
+| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 23A. The boundary line must distinguish receiving reward from understanding the human purpose. |
+| 43–45 | **Submission** | Submit the Reward Loop and Learning Log entry. |
 
-### Meeting 23B Success Evidence
+### Rosie State–Action–Reward Loop
 
-The student avoids both extremes: fluent output is not treated as proof of full understanding, and the absence of human-like understanding is not treated as proof of uselessness.
+| Starting state | Possible action | Result | Reward / next update | Possible unintended strategy |
+|---|---|---|---|---|
+| one book detail | one action | what changes | positive/negative + learning | one boundary |
+
+**Success evidence:** The student can trace the loop and explain why the written reward may be an incomplete stand-in for human intention.
+
+---
+
+## Meeting 23B — Game Mastery and Transfer
+
+**Essential question:** What does mastery of one game prove?
+
+**Required in-class reading — 300–400 words:** two chunks: (1) Chapter 9's AlphaGo passage, from the Go task/training setup through the demonstrated match result and why it mattered; (2) the Chapter 10 passage testing what happens outside that game or after the task changes. Use the exact anchors and exclusions in [23B of the reading map](required-reading-map.md#23b--game-mastery-and-transfer).
+
+| Time | Classroom-flow block | Required student action |
+|---:|---|---|
+| 0–3 | **Entry Point Check** | Rank the stronger evidence of broad ability: winning the trained game, winning after a rule changes, or learning a new game. Give one reason. |
+| 3–17 | **Individual Learning** | Read both assigned chunks. In Chapter 9 mark task, training condition, and result. In Chapter 10 mark changed setting and transfer limit. Write one short paraphrase per chunk. |
+| 17–22 | **Talk Round 1** | Partners complete: “The system was highly successful at ___; transfer would require ___; the passage shows/does not show ___.” Cite a page from each chapter. |
+| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs display one supported success claim and one unsupported transfer claim. Teacher clarifies only shared confusion about specialized, environment, generalize, or transfer. |
+| 28–38 | **Guided Practice / Mission Task** | Complete a **Game Success / Transfer Audit**. Teacher models the defined game; students fill demonstrated success, fixed conditions, changed-task test, observed/likely boundary, and justified conclusion. |
+| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 23B. The boundary line must name a change the reported evidence did not test. |
+| 43–45 | **Submission** | Submit the Transfer Audit and Learning Log entry. |
+
+### Game Success / Transfer Audit
+
+| Defined game/task | Demonstrated success | Fixed conditions | Changed-task test | What the evidence justifies | What remains unproved |
+|---|---|---|---|---|---|
+| short phrase | exact book result | one condition | one possible change | bounded claim | transfer claim |
+
+**Success evidence:** The student praises the genuine game result while keeping it separate from untested broad adaptability.
+
+---
+
+## Meeting 23C — Words, Context, and Common Sense
+
+**Essential question:** What is missing when words are processed without everyday background knowledge?
+
+**Required in-class reading — 300–400 words:** two Chapter 11 chunks: (1) the burned-hamburger story through Mitchell's explanation of the unstated knowledge a reader supplies; (2) the introductory word-representation passage, from learning patterns among neighboring words through one capability and one limit or inherited bias. Use the exact anchors and exclusions in [23C of the reading map](required-reading-map.md#23c--words-context-and-common-sense).
+
+| Time | Classroom-flow block | Required student action |
+|---:|---|---|
+| 0–3 | **Entry Point Check** | Read one two-sentence mini-story and underline one fact the story never says directly but a reader normally infers. |
+| 3–17 | **Individual Learning** | Read both Chapter 11 chunks. In the story mark explicit fact E and reader inference I. In the word-pattern passage mark capability C and limit/bias B. Write one paraphrase per chunk. |
+| 17–22 | **Talk Round 1** | Partners use: “The words explicitly tell us ___; we infer ___ because we know ___.” Then connect this gap to one capability or limit of word patterns from the second chunk. |
+| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one explicit/inferred pair and its missing background knowledge. Teacher clarifies only shared confusion about common sense, context, word vector, or bias. |
+| 28–38 | **Guided Practice / Mission Task** | Complete an **Explicit vs. Inferred Meaning Table** with two story rows and one word-pattern boundary row. Teacher models one explicit fact; students supply inference, knowledge needed, text evidence, and what pattern evidence cannot settle. |
+| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 23C. The evidence line uses the burned-hamburger case or word-pattern example and includes a page. |
+| 43–45 | **Submission** | Submit the Meaning Table and Learning Log entry. |
+
+### Explicit vs. Inferred Meaning Table
+
+| What the words state | What a reader infers | Background knowledge needed | Book evidence/page | What word patterns alone do not settle |
+|---|---|---|---|---|
+| story detail 1 | short inference | short phrase | page | one boundary |
+| story detail 2 | short inference | short phrase | page | one boundary |
+
+**Success evidence:** The student identifies a reasonable unstated inference and explains why co-occurrence patterns are useful evidence without being complete evidence of common-sense understanding.
 
 ## Finish-Up Rule
 
-All reading and mission work is completed during class. If time is lost, only the unfinished Learning Log or Exit Check may be completed later, normally within five minutes.
-
+All required reading and mission work happen during class. If time is lost, only unfinished Learning Log lines may be completed later, normally within five minutes.

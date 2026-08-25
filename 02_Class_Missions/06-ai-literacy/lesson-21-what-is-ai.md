@@ -1,57 +1,81 @@
-# Lesson 21 — What Is AI? Claims, Definitions, and History
+# Lesson 21 — Definitions, History, and Learning
 
-**Length:** 90 minutes  
-**Mission:** Use Melanie Mitchell's arguments and historical examples to build a careful working model of what people mean by “AI.”  
-**One Required Resource:** teacher-assigned selected reading from Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
-**Durable Evidence:** claim-evidence map + individual definition/reflection
+**Delivery:** two 45-minute class meetings: **21A** and **21B**  
+**Only required content source:** teacher-selected passages from Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
+**Student preparation:** none  
+**Regular homework:** none  
+**Flow:** [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md)  
+**Durable evidence:** definition-boundary map, evidence–expectation timeline, and two Learning Log entries
 
-## 0–10 min — Entry Point Check
+## Lesson Purpose
 
-Individually classify familiar systems as **AI / not AI / depends on the definition**. Examples may include calculator, chess engine, recommendation system, face recognition, autocomplete, route planner, and chatbot. Write one reason for the most debatable item.
+Students begin with the book itself: first by examining the difficulty of defining intelligence and AI, then by tracing how learning methods, technical evidence, promises, and expectations shaped the field.
 
-## 10–25 min — Individual Learning
+## Required Mastery
 
-Read only the assigned Mitchell selection. Record:
+By the end of Meeting 21B, students can:
 
-- one claim about how AI has been defined or pursued;
-- one historical/example case;
-- one distinction Mitchell makes that complicates a simple definition;
-- one sentence or idea you disagree with or remain unsure about.
+1. explain that AI is a field containing multiple approaches rather than one fixed technology;
+2. separate observable machine behaviour from claims about understanding or consciousness;
+3. distinguish hand-written rules from patterns or parameters learned from data;
+4. explain an AI cycle as an interaction among technical evidence, promises, limitations, and expectations.
 
-Do not summarize the whole chapter.
+## Teacher Setup
 
-## 25–40 min — Talk Round 1
+Select and record two short passages:
 
-Pairs compare claim-evidence notes. Each student must explain one claim using a specific example from the reading. Together revise the original AI classification list and mark any item whose status depends on definition/context.
+- **21A:** one passage from the Prologue or Chapter 1 in which Mitchell complicates a simple definition of AI or intelligence;
+- **21B:** one passage from Chapters 2–3 that connects neural networks or machine learning with changing confidence and expectations.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+For each meeting, provide only:
 
-Groups create a **Definition Tension Board**:
+- chapter, section title, and page range;
+- three to five vocabulary terms;
+- a blank organizer or the [Learning Log](learning-log-template.md).
 
-- one useful definition/criterion;
-- one counterexample or limitation;
-- one historical shift in what counted as AI;
-- one unresolved question.
+Do not assign advance reading or introduce a video, article, chatbot demonstration, or second AI text.
 
-Teacher clarifies only shared reading misconceptions or historical context that blocks discussion.
+---
 
-## 55–75 min — Guided Practice / Mission Task
+## Meeting 21A — What Counts as Intelligence?
 
-Teams analyze three new AI claims from products/media. For each:
+**Essential question:** What evidence is required before a machine should be described as intelligent?
 
-1. identify what capability is actually demonstrated;
-2. identify what stronger conclusion is being implied;
-3. decide whether the claim is justified, exaggerated, or underspecified;
-4. support the decision with Mitchell-based reasoning.
+| Time | Classroom-flow block | Required student action |
+|---:|---|---|
+| 0–4 | **Entry Point Check** | Individually classify four teacher-provided claims as `demonstrated behaviour`, `claim about understanding`, `claim about consciousness`, or `unclear`. Record one reason. |
+| 4–14 | **Individual Learning** | Read the assigned Prologue/Chapter 1 passage. Mark one author claim (`C`), one supporting example (`E`), and one unresolved point (`?`). |
+| 14–19 | **Talk Round 1** | Partners compare marked evidence and agree on one sentence: `Mitchell argues ___ because ___.` They must also identify one stronger conclusion the passage does not establish. |
+| 19–25 | **Entry Points Check / Teacher Diagnosis** | Pairs display their claim and boundary. Teacher clarifies only a shared misunderstanding about AI as a field, intelligent behaviour, understanding, or consciousness. |
+| 25–37 | **Guided Practice / Mission Task** | Build a **Definition-Boundary Map** using only concepts and cases from the selection. Include: observed behaviour, possible interpretation, evidence required, and unsupported extension. |
+| 37–43 | **Exit Check** | Independently write a 3–4 sentence working definition of AI and explain one limitation of that definition. Complete Meeting 21A in the Learning Log. |
+| 43–45 | **Submission** | Submit the Definition-Boundary Map and Learning Log entry. |
 
-## 75–85 min — Exit Check
+### Meeting 21A Success Evidence
 
-Individually write a 3–5 sentence working definition of AI that includes at least one limitation/caution. Then explain why “it uses AI” is not, by itself, an informative product description.
+The student distinguishes what a system demonstrably does from an unproved claim about its inner state.
 
-## 85–90 min — Submission
+---
 
-Submit reading notes, group Definition Tension Board, claim analysis, and individual exit response.
+## Meeting 21B — Learning Methods and AI Expectations
 
-## Success Evidence
+**Essential question:** How did technical methods and public expectations shape one another?
 
-Students can discuss AI without treating it as one fixed magic category and can separate demonstrated capability from stronger claims about intelligence.
+| Time | Classroom-flow block | Required student action |
+|---:|---|---|
+| 0–4 | **Entry Point Check** | Individually respond: `What is the difference between following a programmed rule and learning from examples?` Add one uncertainty. |
+| 4–14 | **Individual Learning** | Read the assigned Chapters 2–3 passage. Mark one technical development, one promise or expectation, one limitation, and one consequence. |
+| 14–19 | **Talk Round 1** | Partners explain the selected development without saying only that the system “got smarter.” They compare technical evidence with the larger prediction attached to it. |
+| 19–25 | **Entry Points Check / Teacher Diagnosis** | Groups produce one causal chain: `technical result → expectation → hidden limitation → response`. Teacher corrects only shared confusion about learned parameters, neural networks, machine learning, or AI cycles. |
+| 25–37 | **Guided Practice / Mission Task** | Construct an **Evidence–Expectation Timeline** from the assigned book selection. Put demonstrated results on one track and promises, funding, confidence, or disappointment on the other. Connect them with evidence-based arrows. |
+| 37–43 | **Exit Check** | Independently explain why a major technical success may justify optimism without proving that general intelligence is near. Complete Meeting 21B in the Learning Log. |
+| 43–45 | **Submission** | Submit the timeline and Learning Log entry. |
+
+### Meeting 21B Success Evidence
+
+The student can connect a technical result to changing expectations while keeping the demonstrated result separate from the broader forecast.
+
+## Finish-Up Rule
+
+All reading and mission work is completed during class. If time is lost, only the unfinished Learning Log or Exit Check may be completed later, normally within five minutes.
+

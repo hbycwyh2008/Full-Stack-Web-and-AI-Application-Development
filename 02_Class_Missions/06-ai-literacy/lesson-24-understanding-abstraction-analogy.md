@@ -1,55 +1,86 @@
-# Lesson 24 — Understanding, Abstraction, Analogy, and Limits
+# Lesson 24 — Understanding, Abstraction, Analogy, and Synthesis
 
-**Length:** 90 minutes  
-**Mission:** Use Mitchell's discussion of abstraction, analogy, and conceptual understanding to evaluate what present AI systems may still lack.  
-**One Required Resource:** teacher-assigned selected Mitchell reading on abstraction/analogy/understanding  
-**Durable Evidence:** analogy/abstraction analysis + final AI literacy position memo
+**Delivery:** two 45-minute class meetings: **24A** and **24B**  
+**Only required content source:** teacher-selected passages from Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
+**Student preparation:** none  
+**Regular homework:** none  
+**Flow:** [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md)  
+**Durable evidence:** relation map with failure boundary, Thinking Human's AI Brief, and two Learning Log entries
 
-## 0–10 min — Entry Point Check
+## Lesson Purpose
 
-Individually solve a simple transfer/analogy task, then write what knowledge you used that was not explicitly present in the surface wording. Predict why a pattern-matching system might succeed or fail on a changed version.
+Students use Mitchell's final arguments to examine common sense, grounding, abstraction, analogy, and understanding. They then synthesize the unit into a defensible position that separates demonstrated AI capabilities from stronger claims that the book evidence does not establish.
 
-## 10–25 min — Individual Learning
+## Required Mastery
 
-Read the assigned Mitchell selection. Record:
+By the end of Meeting 24B, students can:
 
-- one claim about abstraction, concepts, analogy, or understanding;
-- one example supporting the claim;
-- one limitation of current AI described or implied;
-- one connection to an earlier AI literacy lesson.
+1. distinguish surface similarity from a relation that transfers across situations;
+2. explain why abstraction, analogy, common sense, or grounding matters to claims about understanding;
+3. connect at least three book cases to capability claims and evidence boundaries;
+4. defend a precise overall judgement and state what evidence could change it.
 
-## 25–40 min — Talk Round 1
+## Teacher Setup
 
-Pairs compare notes and create an **surface pattern / deeper relation** comparison using two examples. Explain what must remain invariant for an analogy to transfer.
+Select and record two short passages:
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+- **24A:** one passage from Chapters 14–15 that develops understanding, grounding, abstraction, common sense, or analogy;
+- **24B:** one passage from Chapter 16 that supports whole-book synthesis, plus access to students' earlier Learning Log entries.
 
-Groups analyze a novel analogy/transfer case and predict where a system trained only on surface patterns might fail. Display one reasoning chain and one unresolved question. Teacher clarifies only shared conceptual barriers from the reading.
+The final meeting uses the book and students' own prior book-based evidence. Do not add a current article, product page, video, or live chatbot demonstration.
 
-## 55–75 min — Guided Practice / Mission Task
+---
 
-Students draft a concise AI literacy position memo answering:
+## Meeting 24A — Common Sense, Abstraction, and Analogy
 
-- What can modern AI systems do impressively?
-- What does strong performance not prove?
-- Why do generalization, abstraction, and context matter?
-- How should a responsible software team evaluate an AI feature claim?
-- Give one example where **not using AI** may be the better product decision.
+**Essential question:** What additional abilities are involved in human-like understanding?
 
-Use evidence from at least two Mitchell lessons.
+| Time | Classroom-flow block | Required student action |
+|---:|---|---|
+| 0–4 | **Entry Point Check** | Individually identify whether a teacher-provided pair shows surface similarity, shared relational structure, both, or neither. State what must remain invariant for transfer. |
+| 4–14 | **Individual Learning** | Read the assigned Chapters 14–15 passage. Mark Mitchell's claim, the example or analogy, the relevant background knowledge, and the boundary or open problem. |
+| 14–19 | **Talk Round 1** | Partners explain the difference between matching appearances and mapping relations. Each partner identifies where the book example transfers and where it breaks. |
+| 19–25 | **Entry Points Check / Teacher Diagnosis** | Groups display one relation map and one unresolved question. Teacher clarifies only a shared barrier involving grounding, common sense, abstraction, analogy, or understanding. |
+| 25–37 | **Guided Practice / Mission Task** | Build a **Relation Map with Failure Boundary** from the book selection: source case, target case, mapped relations, ignored surface details, required background knowledge, and the point where the analogy becomes misleading. |
+| 37–43 | **Exit Check** | Independently distinguish pattern recognition, generalization, abstraction, analogy, and understanding using concise statements grounded in the reading. Complete Meeting 24A in the Learning Log. |
+| 43–45 | **Submission** | Submit the relation map and Learning Log entry. |
 
-## 75–85 min — Exit Check
+### Meeting 24A Success Evidence
 
-Individually complete:
+The student identifies a transferable relation and a genuine failure boundary rather than describing analogy as surface resemblance alone.
 
-> **Before this unit, I tended to think AI ____________________. Now my more precise view is ____________________ because ____________________.**
+---
 
-Then write one question you still think is genuinely open.
+## Meeting 24B — Whole-Book Synthesis: How Intelligent Is AI?
 
-## 85–90 min — Submission
+**Essential question:** Based on this book's evidence, how should a careful thinker judge claims about AI intelligence?
 
-Submit reading notes, analogy analysis, position memo, and individual exit response.
+| Time | Classroom-flow block | Required student action |
+|---:|---|---|
+| 0–4 | **Entry Point Check** | Individually place current AI on four separate continua: task performance, generalization, understanding, and consciousness. Do not collapse them into one score. |
+| 4–14 | **Individual Learning** | Read the assigned Chapter 16 passage. Mark Mitchell's overall claim, one uncertainty she preserves, and one condition that could change the judgement. |
+| 14–19 | **Talk Round 1** | Partners compare Chapter 16 with their earlier Learning Logs. Each selects three book cases that best support, qualify, or challenge an overall position. |
+| 19–25 | **Entry Points Check / Teacher Diagnosis** | Groups display one defensible conclusion and one serious counterargument. Teacher corrects only a shared failure to distinguish capability, evidence, interpretation, and uncertainty. |
+| 25–37 | **Guided Practice / Mission Task** | Independently complete a **Thinking Human's AI Brief** in structured bullet form: overall claim; three book cases; demonstrated capabilities; evidence boundaries; one serious counterargument; and evidence that would change the position. |
+| 37–43 | **Exit Check** | Write a concise final paragraph: `Before this unit... Now my more precise judgement... because... What remains genuinely unresolved is...` Complete Meeting 24B in the Learning Log. |
+| 43–45 | **Submission** | Submit the brief, final paragraph, and Learning Log entry. |
 
-## Success Evidence
+### Thinking Human's AI Brief — Required Fields
 
-Students can make nuanced evidence-based claims about AI capability and limits, and can evaluate whether AI is justified in a product without assuming it is automatically necessary or intelligent in a human sense.
+| Field | Student response requirement |
+|---|---|
+| Overall judgement | precise and bounded; not simply “AI is smart” or “AI is fake” |
+| Book case 1 | capability, evidence, and boundary |
+| Book case 2 | capability, evidence, and boundary |
+| Book case 3 | capability, evidence, and boundary |
+| Counterargument | a serious opposing interpretation, represented fairly |
+| Change condition | specific new evidence that would strengthen, weaken, or revise the judgement |
+
+### Meeting 24B Success Evidence
+
+The student uses book evidence to defend a nuanced position, separates different meanings of intelligence, and identifies what remains uncertain.
+
+## Finish-Up Rule
+
+All required reading and the structured brief are completed during class. If time is lost, only the unfinished Learning Log or final Exit Check may be completed later, normally within five minutes. The Thinking Human's AI Brief is not assigned as a separate take-home essay.
+

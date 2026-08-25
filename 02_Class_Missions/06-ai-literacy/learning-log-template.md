@@ -1,43 +1,36 @@
-# AI Literacy Learning Log
+# Grade 7 AI Literacy Learning Log
 
 **Student:**  
 **Class:**  
 **Book edition:**
 
-Use one copy of the meeting entry below for Meetings 21A–24B. Complete it from the assigned book passage and classroom reasoning. This is not a chapter summary.
+Use one copy of this short entry for Meetings **21A–24C**. Complete it during the five-minute Exit Check. Bullet points are acceptable. Your evidence and thinking matter more than perfect English grammar.
 
 ---
 
 ## Meeting ___ — ____________________
 
-**Chapter and section:**  
-**Pages:**
+**Chapter(s):**  
+**Pages read today:**
 
-### 1. Mitchell's Claim
+1. **Mitchell says...**  
+   *One claim in your own words:*
 
-State the claim in your own words. One precise sentence is enough.
+2. **Her example or evidence is...**  
+   *Name one exact case/detail and add the page:*
 
-### 2. Book Evidence
+3. **This shows..., but it does not prove...**  
+   *State the evidence boundary in one line:*
 
-Name the historical event, system, experiment, result, failure, or example Mitchell uses. Include the page number.
+4. **Now I think... / I still wonder...**  
+   *Choose one frame and complete it:*
 
-### 3. Claim Boundary
+### Quick Submission Check
 
-Complete both statements:
+- [ ] Four short lines are complete.
+- [ ] My evidence comes from today's assigned Mitchell passage.
+- [ ] I included a page number.
+- [ ] I separated what the evidence shows from what it does not prove.
 
-- This evidence supports the conclusion that...
-- This evidence does **not** prove that...
-
-### 4. Revised Judgement or Remaining Question
-
-State one way your initial judgement changed, became more precise, or remains unresolved.
-
-### Submission Check
-
-- [ ] I used the assigned Mitchell selection.
-- [ ] I identified specific book evidence rather than giving only my opinion.
-- [ ] I stated an evidence boundary.
-- [ ] I wrote this entry in my own words.
-
-Generative AI may not replace the assigned reading or draft this entry unless the teacher has explicitly authorized a specific accessibility support.
+The Learning Log **is** the Exit Check; there is no separate exit ticket. Generative AI may not read or draft the entry for the student unless the teacher has approved a specific accessibility accommodation.
 

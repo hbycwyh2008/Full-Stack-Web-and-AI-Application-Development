@@ -56,7 +56,7 @@ Write in **your own words**.
 
 ## Step 5: Follow 01 GitHub Notion Class Missions
 
-Open [01 GitHub Notion class missions](../02_Class_Missions/01-github-notion/README.md) during each Git & GitHub class.
+Open [01 GitHub Foundations class missions](../02_Class_Missions/01-github-foundations/README.md) during each Git & GitHub class.
 
 Full guide: [Student GitHub Repository Guide](../03_Templates/Student_GitHub_Repository_Guide.md)
 

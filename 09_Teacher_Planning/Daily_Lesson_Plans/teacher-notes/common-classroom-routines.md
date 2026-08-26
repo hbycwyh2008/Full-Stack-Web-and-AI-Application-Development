@@ -6,26 +6,45 @@ Reusable routines across daily lesson plans.
 
 ## Start of Class (2 min)
 
-- Display **core pattern** for today (hidden until block 4 if you prefer surprise Entry Check).
-- Reminder: “Evidence due in last 4 minutes.”
+- Display today’s Skill Warm-up resource (Coursera URL + exact clip title).
+- Reminder: “Evidence due in Talk Robin 2 + Evidence.”
+
+---
+
+## Skill Warm-up Routine
+
+- One Coursera clip / reading / short task only (3–8 min of attention)
+- Students write: “I saw ___ / I’m unsure about ___”
+- Do not assign finishing the whole Coursera course in class
+
+---
+
+## Talk Robin 1 Routine
+
+1. Assign pairs (clock partners, row pairs, or random).
+2. Display timer: 45s → 45s → 30s.
+3. Display prompts: what was done / what was confusing.
+4. Cold call 2–3 students: “What did your pair agree was confusing?”
+5. Record one common confusion on board for Core Pattern.
 
 ---
 
 ## Entry Check Routine
 
+- Comes **after** Talk Robin 1 (poster order)
 - Individual work — no devices talking to neighbors
 - Questions on paper or LMS — not graded for perfection, graded for attempt
-- Teacher scans answers while students finish — pick Talk Robin cold-call targets
+- Teacher scans answers while students finish — decide how deep Core Pattern needs to go
 
 ---
 
-## Talk Robin Routine
+## Talk Robin 2 Routine
 
 1. Assign pairs (clock partners, row pairs, or random).
 2. Display timer: 45s → 45s → 30s.
-3. Display prompts on slide.
+3. Display prompts on slide (summarize / explain / evidence).
 4. Cold call 2–3 students: “What did your pair agree on?”
-5. Record one common confusion on board for Pattern Explanation.
+5. Move to Exit Evidence submission.
 
 ---
 

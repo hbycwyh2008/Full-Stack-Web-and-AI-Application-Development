@@ -10,18 +10,21 @@ Every daily lesson in this course follows the **course poster** model. This is n
 
 ---
 
-## The Eight Blocks
+## The Seven Steps (poster order)
 
-| # | Block | Typical time (80 min) | Purpose |
+Matches **Our Classroom Flow**: *We learn. Practice. Rebuild. Share.*
+
+| # | Block | Typical time (80–90 min) | Purpose |
 |---|---|---|---|
-| 1 | **Skill Warm-up** | 0–20 min | Short exposure — video clip, reading, demo. **Not** full resource completion. |
-| 2 | **Entry Check** | 20–30 min | Individual check before discussion. |
-| 3 | **Talk Robin Round 1** | 30–34 min | Pair talk after Entry Check — surface confusion. |
-| 4 | **Teacher Pattern Explanation** | 34–45 min | Name and demo the **core pattern** for today. |
-| 5 | **Guided Practice** | 45–60 min | Students follow with teacher support. |
-| 6 | **Independent Rebuild** | 60–72 min | Students rebuild pattern with checklist — **no full solution copy**. |
-| 7 | **Talk Robin Round 2** | 72–76 min | Summarize pattern before exit. |
-| 8 | **Exit Evidence** | 76–80 min | Submit proof of learning. |
+| 1 | **Skill Warm-up** | 0–12 min | Meet the idea via **one** short Coursera clip, guide, or task. **Not** full course binge. |
+| 2 | **Talk Robin 1** | 12–18 min | Pair discussion: what was done and what was confusing. |
+| 3 | **Entry Check** | 18–28 min | Individual check of basic understanding **before** going deeper. |
+| 4 | **Core Pattern** | 28–40 min | Teacher names and demos today’s key method/pattern. |
+| 5 | **Guided Practice** | 40–55 min | Practice with teacher support; ask questions. |
+| 6 | **Independent Rebuild** | 55–72 min | Recreate the pattern with less help — **no full solution copy**. |
+| 7 | **Talk Robin 2 + Evidence** | 72–80/90 min | Summarize, explain, submit proof of learning. |
+
+**Steps 1–3 (Coursera mapping, prompts, Entry Checks):** see [classroom-flow-steps-1-3-coursera.md](classroom-flow-steps-1-3-coursera.md).
 
 ---
 
@@ -54,16 +57,20 @@ Students submit learning through:
 
 ## Resource Rule
 
-External resources (YouTube, GitHub Docs, GitHub Skills, Oh My Git!) are **support materials**, not the course itself.
+- **Discover → Create:** Coursera (and YouTube, GitHub Docs, etc.) are Skill Warm-up supports, not the course itself.
+- **AI Literacy:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans* is the **sole** content source (in-class passages). Do not substitute Coursera AI courses for the warm-up.
 
 ```text
-Resources introduce the pattern.
-Classroom practice builds the skill.
-Independent rebuild checks mastery.
-Project evidence proves progress.
+Web: Coursera introduces the idea (Step 1).
+AI Literacy: Mitchell passage introduces the idea (Step 1).
+Talk Robin surfaces confusion (Step 2).
+Entry Check proves basics (Step 3).
+Classroom practice builds the skill (Steps 4–5).
+Independent rebuild checks mastery (Step 6).
+Project / reading evidence proves progress (Step 7).
 ```
 
-Students should **not** simply watch videos or complete online exercises without classroom rebuild tasks.
+Canonical resource map: [classroom-flow-steps-1-3-coursera.md](classroom-flow-steps-1-3-coursera.md).
 
 ---
 

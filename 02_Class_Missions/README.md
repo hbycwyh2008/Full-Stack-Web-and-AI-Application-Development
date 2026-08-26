@@ -45,7 +45,8 @@ Only after students understand those four posters does Lesson 00 ask **What is c
 |---|---|---:|
 | [Required Orientation](00-course-orientation/required-orientation-four-posters.md) | Four posters + how this class works | prerequisite session |
 | [00 CS Orientation + Lifecycle](00-course-orientation/README.md) | What CS studies; AP CSP discovery; software lifecycle | 00–01 |
-| [01 GitHub Development Workflow](01-github-development-workflow/README.md) | Repo, issues, branches, commits, PRs, review, merge | 02–04 |
+| [01 GitHub Foundations](01-github-foundations/README.md) | YouTube + GitHub Docs/Skills: repo, README, commits, history | 6 beginner lessons |
+| [01b GitHub Development Workflow](01-github-development-workflow/README.md) | Issues, branches, PRs, review, merge | 02–04 |
 | [02 HCI User Research](02-hci-user-research/README.md) | Stakeholders, interviews/observation, synthesis, requirements | 05–07 |
 | [03 Figma Product Design](03-figma-product-design/README.md) | User flow, IA, wireframes, components, prototype, critique | 08–11 |
 | [04 HTML + CSS Implementation](04-html-css-implementation/README.md) | Semantic HTML, CSS systems, responsive implementation | 12–15 |

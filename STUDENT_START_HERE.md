@@ -20,9 +20,10 @@ Later, you will complete a focused AI literacy unit using Melanie Mitchell's _Ar
 ## Start
 
 1. Open [02_Class_Missions/README.md](02_Class_Missions/README.md).
-2. Your teacher will identify the current lesson.
-3. Keep evidence in your GitHub project/repository as instructed.
-4. Use Figma links and research/testing evidence alongside code.
+2. For GitHub beginners: start at [01-github-foundations](02_Class_Missions/01-github-foundations/README.md) (YouTube + GitHub Docs/Skills).
+3. Your teacher will identify the current lesson.
+4. Keep evidence in your GitHub project/repository as instructed.
+5. Use Figma links and research/testing evidence alongside code.
 
 ## AP CSP
 

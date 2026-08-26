@@ -6,31 +6,47 @@ Curated resources for numbered units **00–15**. Required = core skills; Option
 
 ---
 
-## Git & GitHub (`01-github-notion`)
+## Git & GitHub (`01-github-foundations`)
 
-### Markdown Crash Course — Traversy Media
-- **Link:** https://www.youtube.com/watch?v=HUBNt18RFbo
-- **Status:** Required (`01-github-notion`)
+### GitHub for Beginners Playlist
+- **Link:** https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f
+- **Status:** Required warm-up (one clip per lesson as assigned)
+
+### A brief introduction to Git for beginners
+- **Link:** https://www.youtube.com/watch?v=r8jQ9hVA2qs
+- **Status:** Optional warm-up
+
+### GitHub Docs: Hello World
+- **Link:** https://docs.github.com/en/get-started/start-your-journey/hello-world
+- **Status:** Required guided practice
+
+### GitHub Docs: Quickstart for repositories
+- **Link:** https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+- **Status:** Required guided practice
 
 ### GitHub Skills: Introduction to GitHub
 - **Link:** https://github.com/skills/introduction-to-github
-- **Status:** Required (`01-github-notion`)
+- **Status:** Optional practice / finish-up
+
+### Markdown Crash Course — Traversy Media
+- **Link:** https://www.youtube.com/watch?v=HUBNt18RFbo
+- **Status:** Required for learning-log / Markdown lesson
 
 ### Learn Git Branching
 - **Link:** https://learngitbranching.js.org/
-- **Status:** Recommended (`01-github-notion`)
+- **Status:** Recommended (later workflow unit)
 
-### Git and GitHub for Beginners — freeCodeCamp
-- **Link:** https://www.youtube.com/watch?v=RGOj5yH7evk
-- **Status:** Optional
+### Oh My Git!
+- **Link:** https://ohmygit.org/
+- **Status:** Required selected levels (Lesson 4)
 
 ---
 
-## Notion Portfolio (`01-github-notion`)
+## Notion Portfolio
 
 ### How to Build a Professional Portfolio Website in Notion
 - **Link:** https://www.youtube.com/watch?v=kFxfh8urobU
-- **Status:** Required (`01-github-notion`)
+- **Status:** Optional / portfolio setup
 
 ---
 

@@ -1,6 +1,8 @@
-# 01 — GitHub as the Development Workflow
+# 01b — GitHub as the Development Workflow
 
-GitHub is a **core course skill**, not just a place to upload finished files. Students use issues, branches, commits, pull requests, reviews, merges, and releases throughout every later unit.
+Complete **[01-github-foundations](../01-github-foundations/README.md)** first (YouTube + GitHub Docs / Skills).
+
+This unit builds on that: issues, branches, commits, pull requests, reviews, merges, and releases throughout later units.
 
 ## Lessons
 

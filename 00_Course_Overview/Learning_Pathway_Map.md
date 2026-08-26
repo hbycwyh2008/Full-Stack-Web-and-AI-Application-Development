@@ -1,70 +1,103 @@
 # Learning Pathway Map
 
-## First: What Is Computer Science?
+**Full-Stack Web & AI Application Development**  
+Design · Build · Test · Publish
+
+A browser-based, project-driven computer science course.
+
+## The Learning Journey
+
+Students move through six stages. Each stage produces artifacts that feed the next.
 
 ```text
-COMPUTATION + INFORMATION
-        ↓
-algorithms / abstraction / data
-systems / networks / security
-HCI / software engineering / AI
-theory / impacts of computing
+┌─────────────┐
+│  DISCOVER   │  User needs & HCI questions
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   DESIGN    │  Figma wireframes & interactive prototypes
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    BUILD    │  HTML · CSS · Bootstrap · JavaScript
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ COLLABORATE │  GitHub workflow & peer review
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    TEST     │  HCI experiments, evidence & iteration
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   CREATE    │  Interactive websites & browser games
+└─────────────┘
 ```
 
-Programming is one way computer scientists express and test computational ideas; it is not the complete definition of computer science.
+| Stage | Students learn to… | Typical artifacts |
+|---|---|---|
+| **Discover** | Ask HCI questions; identify users, needs, and context | Research notes, problem statement, success criteria |
+| **Design** | Turn needs into flows, wireframes, and interactive prototypes | Figma wireframes, high-fidelity prototype |
+| **Build** | Implement the design in the browser | HTML / CSS / Bootstrap / JavaScript pages |
+| **Collaborate** | Work like a development team on GitHub | Issues, branches, PRs, review comments |
+| **Test** | Gather evidence and improve the product | Usability tests, heatmaps / feedback, iteration log |
+| **Create** | Ship a polished interactive experience | Published website or browser game |
 
-## The Course Loop
+Collaborate and Test are not “afterthoughts”—they run through Build and Create as normal practice (branches, PRs, peer review, usability checks).
+
+## AI Literacy (parallel track)
+
+AI literacy runs **alongside** the journey, not only as a bolt-on unit. Students read and discuss Melanie Mitchell's *Artificial Intelligence: A Guide for Thinking Humans*, and practice:
+
+| Habit | Meaning |
+|---|---|
+| **Capability** | Understand what AI can and cannot do |
+| **Hallucinations** | Spot confident but wrong outputs |
+| **Responsibility** | Use AI without outsourcing judgment |
+| **Disclosure** | Say when and how AI helped |
+
+A concentrated Mitchell reading block remains in the schedule; responsible-use habits appear whenever students use AI tools during Design, Build, or Create.
+
+## Course Outcomes
 
 ```text
-UNDERSTAND
-user + problem + context
-   ↓
-RESEARCH
-interview / observe / collect evidence
-   ↓
-DEFINE
-synthesize / requirements / success criteria
-   ↓
-DESIGN
-user flow / wireframe / Figma prototype
-   ↓
-PLAN
-GitHub issues / milestone / branch strategy
-   ↓
-BUILD
-HTML / CSS / JavaScript
-   ↓
-REVIEW + TEST
-PR review / usability / accessibility / QA
-   ↓
-RELEASE
-approved deployment
-   ↓
-LEARN + ITERATE
-feedback / maintenance / next version
-   ↺
+Figma prototype  ·  Published web project  ·  GitHub portfolio  ·  HCI evidence
 ```
 
-## Lesson Sequence
+Every student should leave with all four.
+
+## Lesson Sequence (current numbering)
+
+Folders still use the previous unit order. Map them to the journey as follows:
 
 ```text
-00–01  CS orientation + software lifecycle
-02–04  GitHub development workflow
-05–07  HCI user research
-08–11  Figma product design
-12–15  HTML/CSS implementation
-16–20  JavaScript + computational thinking
-21–24  AI literacy — concentrated Mitchell unit
-25–26  Usability, QA, release + maintenance
-27–32  Capstone full lifecycle
+Discover      00–01  CS orientation + course loop
+              05–07  HCI user research
 
-Optional: Python / small AI-application extensions
+Design        08–11  Figma product design
+
+Build         12–15  HTML / CSS / Bootstrap
+              16–20  JavaScript + interaction
+
+Collaborate   02–04  GitHub development workflow
+              (ongoing during Build / Create)
+
+Test          25–26  Usability, QA, release + maintenance
+              (ongoing during Create)
+
+Create        27–32  Capstone: interactive site / browser game
+
+AI Literacy   21–24  Mitchell concentrated unit
+              (habits practiced throughout)
+
+Optional      Python / small AI-application extensions
 ```
 
 ## AP CSP Bridge
 
-The first class includes a short discovery activity using the AP CSP CED. Students should leave understanding both the overlap and the gaps: this course builds strong preparation for creative development and programming practices, but AP CSP still contains substantial content that this course does not explicitly teach.
+Early classes include a short discovery activity using the AP CSP CED. This course builds strong preparation for creative development and programming practices; AP CSP still contains substantial content this course does not explicitly teach.
 
 ## Priority Rule
 
-If time is limited, preserve the lifecycle, GitHub, HCI/Figma, JavaScript fundamentals, AI literacy, testing, and capstone. Cut optional frameworks and extensions first.
+If time is limited, preserve the six-stage journey, GitHub collaboration, HCI/Figma, JavaScript fundamentals, AI literacy, testing evidence, and the published Create project. Cut optional frameworks and extensions first.

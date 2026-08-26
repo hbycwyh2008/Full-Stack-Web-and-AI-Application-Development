@@ -52,7 +52,7 @@ When you finish a strong project:
 2. Link to the GitHub folder for that project
 3. Include a short summary — this is part of your **program report** for the public
 
-Class missions: [01 GitHub Notion](../02_Class_Missions/01-github-notion/README.md)
+Class missions: [01 GitHub Foundations](../02_Class_Missions/01-github-foundations/README.md)
 
 ---
 

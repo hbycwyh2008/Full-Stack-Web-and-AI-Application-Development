@@ -1,6 +1,6 @@
 # Git & GitHub Beginner Unit
 
-> **Students:** Use [02_Class_Missions/01-github-notion/](../../02_Class_Missions/01-github-notion/README.md) during class — **one required resource per lesson**. This folder is a **teacher supplement** (handouts, rubrics, duplicate lesson copies). Do not choose from all links here during class.
+> **Students:** Use [02_Class_Missions/01-github-foundations/](../../02_Class_Missions/01-github-foundations/README.md) during class — **one required resource per lesson**. This folder is a **teacher supplement** (handouts, rubrics, duplicate lesson copies). Do not choose from all links here during class.
 
 **Course:** Full-Stack Web and AI Application Development  
 **Unit focus:** GitHub as learning evidence — not advanced Git internals  

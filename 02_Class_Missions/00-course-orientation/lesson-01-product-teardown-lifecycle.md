@@ -8,21 +8,7 @@
 
 ---
 
-## 0–4 min — Entry Point Check
-
-Work individually.
-
-Choose one familiar digital product and record:
-
-- three visible interface decisions;
-- the user problem you think each decision is trying to solve;
-- one thing you cannot know just by looking at the finished product.
-
-Mark each claim as **Observation / Inference / Unsure**.
-
----
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Use only the live product/screenshots as today's required evidence source.
 
@@ -41,7 +27,7 @@ Examples of question types: user need, requirement, design, implementation, test
 
 ---
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 In pairs, compare observations.
 
@@ -65,7 +51,21 @@ Be prepared to defend the classification with product evidence, not with teacher
 
 ---
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Work individually.
+
+Choose one familiar digital product and record:
+
+- three visible interface decisions;
+- the user problem you think each decision is trying to solve;
+- one thing you cannot know just by looking at the finished product.
+
+Mark each claim as **Observation / Inference / Unsure**.
+
+---
+
+## 14–19 min — Core Pattern
 
 Groups of 3–4 build a **Lifecycle Evidence Map** using the sequence:
 
@@ -95,7 +95,7 @@ Clarify only common misconceptions. Emphasize that the lifecycle is **iterative*
 
 ---
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Create `research/product-teardown.md` with:
 
@@ -114,7 +114,7 @@ For every inference, include the evidence that led to it or label it explicitly 
 
 ---
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Work individually.
 
@@ -130,14 +130,14 @@ Then complete:
 
 ---
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit/commit:
 
 1. individual Entry Point notes;
 2. group Lifecycle Evidence Map;
 3. `research/product-teardown.md`;
-4. individual Exit Check.
+4. Independent Rebuild / Talk Robin 2 + Evidence.
 
 ## Success Evidence
 

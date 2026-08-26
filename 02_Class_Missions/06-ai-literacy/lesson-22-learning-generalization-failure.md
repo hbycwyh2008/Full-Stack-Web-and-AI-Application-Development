@@ -40,13 +40,13 @@ By the end of Meeting 22C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Read two short statements about the same image: one visible detail and one inferred story. Label each visible or inferred and explain one choice. |
-| 3–17 | **Individual Learning** | Read the assigned Chapter 4 passage. Mark V beside a directly visible detail, I beside an inference, C beside Mitchell's claim, and ? beside one difficult point. Pause halfway to paraphrase the difference. |
-| 17–22 | **Talk Round 1** | Partners compare one V and one I using: “We can see ___; we infer ___ because ___.” Add the page number for the book detail. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one visible/inferred pair. Teacher clarifies only a shared confusion among classification, perception, context, and inference by pointing back to the assigned passage. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a **Visible vs. Inferred Scene Table** with three rows. Teacher models one visible detail; students add the related inference, background knowledge, and whether an object label alone supports it. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 22A. The boundary must state what labels alone do not establish. |
-| 43–45 | **Submission** | Submit the Scene Table and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Read two short statements about the same image: one visible detail and one inferred story. Label each visible or inferred and explain one choice. |
+| 3–17 | **Guided Practice** | Read the assigned Chapter 4 passage. Mark V beside a directly visible detail, I beside an inference, C beside Mitchell's claim, and ? beside one difficult point. Pause halfway to paraphrase the difference. |
+| 17–22 | **Talk Robin 1** | Partners compare one V and one I using: “We can see ___; we infer ___ because ___.” Add the page number for the book detail. |
+| 22–28 | **Core Pattern** | Pairs show one visible/inferred pair. Teacher clarifies only a shared confusion among classification, perception, context, and inference by pointing back to the assigned passage. |
+| 28–38 | **Guided Practice** | Complete a **Visible vs. Inferred Scene Table** with three rows. Teacher models one visible detail; students add the related inference, background knowledge, and whether an object label alone supports it. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 22A. The boundary must state what labels alone do not establish. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Scene Table and Learning Log entry. |
 
 ### Visible vs. Inferred Scene Table
 
@@ -68,13 +68,13 @@ By the end of Meeting 22C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Complete: “A test score tells us ___, but only if we know ___.” |
-| 3–17 | **Individual Learning** | Read the assigned Chapter 5 selection. Mark T for task/test, R for reported result, S for significance, and B for boundary. Pause after the result and paraphrase what was measured. |
-| 17–22 | **Talk Round 1** | Partners use: “On this benchmark, the system ___ under ___ conditions. This matters because ___, but it does not show ___.” Include a page number. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show their bounded sentence. Teacher clarifies only shared confusion about dataset, benchmark, accuracy, or generalization. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a **Benchmark Boundary Card**. Teacher models the task box; students add data/conditions, reported result, justified claim, and stronger unsupported claim. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 22B. The evidence line names the benchmark/result; the boundary line names what was not tested. |
-| 43–45 | **Submission** | Submit the Benchmark Boundary Card and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Complete: “A test score tells us ___, but only if we know ___.” |
+| 3–17 | **Guided Practice** | Read the assigned Chapter 5 selection. Mark T for task/test, R for reported result, S for significance, and B for boundary. Pause after the result and paraphrase what was measured. |
+| 17–22 | **Talk Robin 1** | Partners use: “On this benchmark, the system ___ under ___ conditions. This matters because ___, but it does not show ___.” Include a page number. |
+| 22–28 | **Core Pattern** | Pairs show their bounded sentence. Teacher clarifies only shared confusion about dataset, benchmark, accuracy, or generalization. |
+| 28–38 | **Guided Practice** | Complete a **Benchmark Boundary Card**. Teacher models the task box; students add data/conditions, reported result, justified claim, and stronger unsupported claim. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 22B. The evidence line names the benchmark/result; the boundary line names what was not tested. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Benchmark Boundary Card and Learning Log entry. |
 
 ### Benchmark Boundary Card
 
@@ -94,13 +94,13 @@ By the end of Meeting 22C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Respond: “If a system is correct 95 times out of 100, what else must we know before trusting it?” Name one missing fact. |
-| 3–17 | **Individual Learning** | Read both chunks. In Chunk 1 mark normal condition, changed condition, and failure. In Chunk 2 mark error/performance difference, affected people, and consequence. Write one short paraphrase per chunk. |
-| 17–22 | **Talk Round 1** | Partners connect the cases using: “The score can hide ___; this matters for ___ because ___.” Cite one detail and page from each chapter. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs display one condition-to-failure link and one affected group. Teacher clarifies only a shared confusion about shortcut, adversarial change, bias, or trust. |
-| 28–38 | **Guided Practice / Mission Task** | Build a **Failure-to-Trust Chain**: original evidence → hidden dependency → changed/unequal condition → failure → human consequence → evidence or safeguard needed. Teacher models the first arrow only. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 22C. The last line names one question that should be answered before deployment. |
-| 43–45 | **Submission** | Submit the Failure-to-Trust Chain and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Respond: “If a system is correct 95 times out of 100, what else must we know before trusting it?” Name one missing fact. |
+| 3–17 | **Guided Practice** | Read both chunks. In Chunk 1 mark normal condition, changed condition, and failure. In Chunk 2 mark error/performance difference, affected people, and consequence. Write one short paraphrase per chunk. |
+| 17–22 | **Talk Robin 1** | Partners connect the cases using: “The score can hide ___; this matters for ___ because ___.” Cite one detail and page from each chapter. |
+| 22–28 | **Core Pattern** | Pairs display one condition-to-failure link and one affected group. Teacher clarifies only a shared confusion about shortcut, adversarial change, bias, or trust. |
+| 28–38 | **Guided Practice** | Build a **Failure-to-Trust Chain**: original evidence → hidden dependency → changed/unequal condition → failure → human consequence → evidence or safeguard needed. Teacher models the first arrow only. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 22C. The last line names one question that should be answered before deployment. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Failure-to-Trust Chain and Learning Log entry. |
 
 ### Failure-to-Trust Chain
 

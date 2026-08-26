@@ -69,17 +69,17 @@ change file → git status → git add . → git commit -m "message" → git pus
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
 | 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
 ---
 
-### 0–5 min: Skill Warm-up (INPUT)
+### 0–5 min: Skill Warm-up
 
 **Local path:** Teacher demos `git status` in repo folder. Students predict what happens after editing a file without commit.
 
@@ -162,7 +162,7 @@ Auth station for PAT / GitHub Desktop failures.
 
 ---
 
-### 40–45 min: Talk Robin 2 + Exit Evidence
+### 40–45 min: Talk Robin 2 + Evidence
 
 - **A:** “Local Git pattern in order is…”
 - **B:** “My proof that push worked is…”

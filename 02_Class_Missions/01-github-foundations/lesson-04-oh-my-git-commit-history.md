@@ -65,17 +65,17 @@ game timeline → commit history → learning evidence
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
 | 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
 ---
 
-### 0–5 min: Skill Warm-up (INPUT)
+### 0–5 min: Skill Warm-up
 
 Play or demo **Living dangerously** + **Making backups** (stop at 20 min even if incomplete).
 
@@ -149,7 +149,7 @@ Balance screen time — GitHub evidence is mandatory exit.
 
 ---
 
-### 40–45 min: Talk Robin 2 + Exit Evidence
+### 40–45 min: Talk Robin 2 + Evidence
 
 - **A:** “Game timeline → commit history means…”
 - **B:** “My GitHub evidence today is…”

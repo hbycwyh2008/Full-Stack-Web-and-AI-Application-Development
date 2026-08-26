@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** current product + teacher-provided release checklist/bug examples  
 **Durable Evidence:** QA checklist + release record + maintenance plan
 
-## 0–4 min — Entry Point Check
-
-Individually inspect a short bug list before release. Classify each item as **release blocker / fix soon / acceptable known issue / need more evidence** and write one reason.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the release checklist and current build. Record evidence for:
 
@@ -23,15 +19,19 @@ Inspect the release checklist and current build. Record evidence for:
 - release notes/version information;
 - what must continue after launch.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare release decisions and create a severity rubric using user impact, frequency, workaround availability, and risk. Reclassify one bug after discussion.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually inspect a short bug list before release. Classify each item as **release blocker / fix soon / acceptable known issue / need more evidence** and write one reason.
+
+## 14–19 min — Core Pattern
 
 Groups run a release-readiness review and produce **ship / ship with known issues / do not ship yet** plus evidence. Teacher addresses only shared QA/deployment barriers or unsafe release reasoning.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Complete the release cycle:
 
@@ -43,11 +43,11 @@ Complete the release cycle:
 - create release notes/version tag where appropriate;
 - write a simple maintenance plan covering feedback, bugs, updates, and ownership.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually respond to a post-release scenario: users report a problem that affects a small group but blocks their main task. Explain how you would triage, investigate, communicate, and decide priority.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit QA checklist, deployed URL, release notes/record, known-issue list, maintenance plan, and individual exit response.
 

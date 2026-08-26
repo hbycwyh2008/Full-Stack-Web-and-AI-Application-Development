@@ -1,33 +1,36 @@
 # Classroom Flow — Canonical 45-Minute Structure
 
-This file is the **required classroom structure** for canonical Class Missions. **Every lesson is 45 minutes.**
+**Every class is 45 minutes.** Use **only** these seven poster names — do not invent alternate block titles.
 
-It matches the **Our Classroom Flow** poster purpose (learn → practice → rebuild → share). Activity format inside each block can vary by lesson.
+```text
+Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
+→ Guided Practice → Independent Rebuild → Talk Robin 2 + Evidence
+```
 
-For the poster-named block sequence used in daily GitHub / phase plans, see also [classroom-flow-45-min.md](classroom-flow-45-min.md).
+*We learn. Practice. Rebuild. Share.*
+
+Poster: `08_Public_Documents/posters/classroom-flow.png`
 
 ## The Seven Blocks (45 minutes)
 
-| Time | Block | Student role | Teacher role |
-|---|---|---|---|
-| **0–4 min** | **Entry Point Check** | Short individual task that exposes prior ideas | Observe; do not front-load the answer |
-| **4–12 min** | **Individual Learning / Skill Warm-up** | Use **one** required resource (short clip, passage, or artifact) | Exact start/stop cue; no binge |
-| **12–17 min** | **Talk Round 1** | Compare evidence; name one confusion | Listen; cold call patterns |
-| **17–22 min** | **Teacher Diagnosis / Core Pattern** | Show claim or stuck point; receive brief pattern | Micro-clarify only if evidence shows need |
-| **22–35 min** | **Guided Practice / Mission Task** | Build, design, code, test, or decide with support | Coach where work reveals need |
-| **35–42 min** | **Independent Rebuild / Exit Check** | Rebuild or transfer alone with checklist | No full solution copy |
-| **42–45 min** | **Submission** | Submit durable learning evidence | Verify required evidence is present |
+| Time | Block | What happens |
+|---|---|---|
+| **0–5 min** | **Skill Warm-up** | Meet the idea with a video, guide, or short task |
+| **5–9 min** | **Talk Robin 1** | Pair discussion: what was done and what was confusing |
+| **9–14 min** | **Entry Check** | Check basic understanding before going deeper |
+| **14–19 min** | **Core Pattern** | Teacher names and shows the key method clearly |
+| **19–30 min** | **Guided Practice** | Practice with teacher support; ask questions |
+| **30–40 min** | **Independent Rebuild** | Recreate the pattern alone with less help |
+| **40–45 min** | **Talk Robin 2 + Evidence** | Summarize, explain, submit proof of learning |
 
-Total: **45 minutes**.
+## Rules
 
-## What Can Change Inside the Flow
+- Do **not** rename these blocks (no “Entry Point Check”, “Talk Round”, “Submission”, “Individual Learning”, etc.).
+- Activity *inside* a block may change by lesson; the **block name** stays the same.
+- One main warm-up resource; one main practice focus.
+- Unfinished evidence → short finish-up by teacher deadline.
 
-The **seven blocks do not change**, but the activity format can (card sort, teardown, Skills practice, Figma critique, usability test, etc.).
+## Related
 
-## One Required Resource Rule
-
-During Individual Learning / Warm-up, each mission names **one** main resource. Students do not browse playlists or multiple courses in that block.
-
-## Evidence Rule
-
-Every class ends with durable evidence. Working output alone is not enough—students should explain, rebuild, or transfer the idea.
+- Steps 1–3 resource mapping: `09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md`
+- Daily timing twin: `09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-learning-workflow.md`

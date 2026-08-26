@@ -17,12 +17,12 @@ Students understand **how this course works** (classroom mastery model, evidence
 
 ## Resources
 
-**Input = GitHub YouTube. Practice = GitHub Skills.** Docs only if stuck.
+**Skill Warm-up = GitHub YouTube. Guided Practice = GitHub Skills.** Docs only if stuck.
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Skill Warm-up: **one** 5–8 min clip on what GitHub / a repo is |
-| **PRACTICE** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Guided Practice: start course, follow bot steps |
+| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Skill Warm-up: **one** 5–8 min clip on what GitHub / a repo is |
+| **Guided Practice** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Guided Practice: start course, follow bot steps |
 | Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
 | Reference | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Only if stuck |
 
@@ -70,17 +70,17 @@ See `shared/mastery-levels.md`.
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
 | 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
 ---
 
-### 0–5 min: Skill Warm-up (INPUT)
+### 0–5 min: Skill Warm-up
 
 **Distribute** `shared/mastery-levels.md` and `shared/classroom-learning-workflow.md`.
 
@@ -209,7 +209,7 @@ Teacher circulates for auth/account issues. Pair only for login — each student
 
 ---
 
-### 40–45 min: Talk Robin 2 + Exit Evidence
+### 40–45 min: Talk Robin 2 + Evidence
 
 **Prompts:**
 
@@ -260,6 +260,6 @@ Cold call 2–3 students.
 - **Budget time:** Lesson 1 culture block is non-negotiable (~15 min in Pattern Explanation).
 - Pre-create accounts or PAT guide if auth fails often.
 - Display course repo vs student repo diagram from root `README.md`.
-- **INPUT → PRACTICE:** one YouTube clip, then Skills *Introduction to GitHub*; still require personal `cs-learning-log` evidence.
+- **Skill Warm-up → Guided Practice:** one YouTube clip, then Skills *Introduction to GitHub*; still require personal `cs-learning-log` evidence.
 - Lesson 2 assumes `cs-learning-log` exists with at least one commit.
 - Finish-up: Skills progress screenshot + one commit + README screenshot + two sentences by deadline.

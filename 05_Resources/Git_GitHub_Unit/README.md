@@ -40,13 +40,13 @@ Each lesson is **45 minutes** and follows the course poster flow ([classroom-flo
 
 | Block | Time | Purpose |
 |---|---|---|
-| 1. Skill Warm-up (INPUT) | 0–5 min | One short YouTube clip |
+| 1. Skill Warm-up | 0–5 min | One short YouTube clip |
 | 2. Talk Robin 1 | 5–9 min | What was done / confusing |
 | 3. Entry Check | 9–14 min | Individual basics |
 | 4. Core Pattern | 14–19 min | Name the pattern |
 | 5. Guided Practice | 19–30 min | GitHub Skills interactive |
 | 6. Independent Rebuild | 30–40 min | Rebuild with checklist |
-| 7. Talk Robin 2 + Exit Evidence | 40–45 min | Summarize + submit proof |
+| 7. Talk Robin 2 + Evidence | 40–45 min | Summarize + submit proof |
 
 ---
 

@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** teacher-provided form/debugging example; external API/data is optional  
 **Durable Evidence:** validated interaction + debug log + tests
 
-## 0–4 min — Entry Point Check
-
-Individually test a deliberately flawed form. Record at least three failure cases: empty input, invalid input, repeated submission, unclear feedback, or another observed issue.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the example and record:
 
@@ -21,15 +17,19 @@ Inspect the example and record:
 - console/error messages;
 - network/request evidence if an external API/data source is used.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs convert observed failures into test cases with **input → expected behavior → actual behavior**. Compare debugging strategies and identify which evidence source should be checked first for each failure.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually test a deliberately flawed form. Record at least three failure cases: empty input, invalid input, repeated submission, unclear feedback, or another observed issue.
+
+## 14–19 min — Core Pattern
 
 Groups debug one broken form/data interaction using DevTools. They must show the first reliable evidence locating the problem rather than listing random fixes. Teacher clarifies only shared barriers such as validation order, stale state, asynchronous requests, or reading console/network errors.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Implement or improve a project form/interaction:
 
@@ -41,11 +41,11 @@ Implement or improve a project form/interaction:
 - test at least four cases;
 - record one bug and the evidence used to fix it.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually diagnose a new failure from a short console/network/output trace. State the likely cause, the next evidence you would inspect, and one fix hypothesis.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Commit code, test cases/results, debug log, and individual exit response.
 

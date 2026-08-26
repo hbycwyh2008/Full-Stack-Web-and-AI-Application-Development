@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** capstone requirements/backlog + current Figma prototype  
 **Durable Evidence:** design-gate checklist + revised prototype + implementation-ready decisions
 
-## 0–4 min — Entry Point Check
-
-Individually compare one capstone requirement with the current Figma prototype. Mark where the requirement is clearly represented, missing, or ambiguous.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Audit the prototype against:
 
@@ -24,15 +20,19 @@ Audit the prototype against:
 
 Record the three biggest implementation risks if coding began today.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs conduct a requirement-to-frame review. Each partner must identify one unsupported screen/feature and one requirement that needs a clearer design state.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually compare one capstone requirement with the current Figma prototype. Mark where the requirement is clearly represented, missing, or ambiguous.
+
+## 14–19 min — Core Pattern
 
 Groups run a design-gate critique. Reviewers attempt the primary flow using only the prototype and requirements. Teams receive **pass / revise before implementation** with evidence. Teacher clarifies only common design-readiness barriers.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Revise the prototype until the implementation handoff includes:
 
@@ -47,13 +47,13 @@ Revise the prototype until the implementation handoff includes:
 
 Do not begin major implementation work until the design gate is satisfied.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually answer:
 
 > What is one design decision you changed because of evidence, and what implementation problem would the old design have caused?
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit Figma link, design-gate checklist, revision evidence, and individual exit response.
 

@@ -15,12 +15,12 @@ Students understand **commit history as learning evidence**, improve `README.md`
 
 ## Resources
 
-**Input = GitHub YouTube. Practice = GitHub Skills.**
+**Skill Warm-up = GitHub YouTube. Guided Practice = GitHub Skills.**
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (**≤4 min**; pause early) |
-| **PRACTICE** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Continue / finish interactive steps; rebuild pattern in `cs-learning-log` |
+| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (**≤4 min**; pause early) |
+| **Guided Practice** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Continue / finish interactive steps; rebuild pattern in `cs-learning-log` |
 | Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
 
 **Handouts:** `05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md` (good/bad messages) if available
@@ -59,17 +59,17 @@ small change → meaningful commit → visible history
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
 | 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
 ---
 
-### 0–5 min: Skill Warm-up (INPUT)
+### 0–5 min: Skill Warm-up
 
 **Option A:** 5–8 min clip on commits from playlist.
 
@@ -174,7 +174,7 @@ change
 
 ---
 
-### 40–45 min: Talk Robin 2 + Exit Evidence
+### 40–45 min: Talk Robin 2 + Evidence
 
 - **A:** “Small change → meaningful commit means…”
 - **B:** “My best commit message today is ___ because ___.”

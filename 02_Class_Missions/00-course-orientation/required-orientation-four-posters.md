@@ -18,25 +18,7 @@ This is not a syllabus lecture. Students learn the course culture by using the s
 
 ---
 
-## 0–10 min — Entry Point Check
-
-**Work individually. Do not discuss yet.**
-
-For each statement, mark **Agree / Disagree / Unsure** and write a five- to ten-word reason.
-
-| Statement | Decision | Short reason |
-|---|---|---|
-| If my code works once, I have mastered it. |  |  |
-| Asking AI to explain an error can support learning. |  |  |
-| Rebuilding something without the full example is stronger evidence than copying it. |  |  |
-| Competitions are required to succeed in this course. |  |  |
-| Discussion should help me revise my thinking, not just give the teacher an answer. |  |  |
-
-Circle the statement you are least certain about.
-
----
-
-## 10–25 min — Individual Learning: Four-Poster Gallery Scan
+## 0–5 min — Skill Warm-up
 
 Open only the [Course Posters](../../08_Public_Documents/posters/README.md).
 
@@ -57,7 +39,7 @@ Do not copy another student's wording.
 
 ---
 
-## 25–40 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Work in pairs.
 
@@ -90,7 +72,25 @@ Do not prepare an answer for the teacher. Prepare a claim you can defend with po
 
 ---
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 9–14 min — Entry Check
+
+**Work individually. Do not discuss yet.**
+
+For each statement, mark **Agree / Disagree / Unsure** and write a five- to ten-word reason.
+
+| Statement | Decision | Short reason |
+|---|---|---|
+| If my code works once, I have mastered it. |  |  |
+| Asking AI to explain an error can support learning. |  |  |
+| Rebuilding something without the full example is stronger evidence than copying it. |  |  |
+| Competitions are required to succeed in this course. |  |  |
+| Discussion should help me revise my thinking, not just give the teacher an answer. |  |  |
+
+Circle the statement you are least certain about.
+
+---
+
+## 14–19 min — Core Pattern
 
 Join a group of 3–4 and create a **Four-Poster Claim Board**.
 
@@ -136,7 +136,7 @@ The teacher scans group boards. Only shared misconceptions or unresolved points 
 
 ---
 
-## 55–75 min — Guided Practice / Mission Task: Course Culture Scenario Lab
+## 19–30 min — Guided Practice
 
 Each group receives four scenarios. For each scenario:
 
@@ -174,7 +174,17 @@ As a group, label which parts of **today's class** correspond to the seven block
 
 ---
 
-## 75–85 min — Exit Check
+## 30–40 min — Independent Rebuild
+
+Submit:
+
+1. Skill Warm-up;
+2. four-poster evidence table;
+3. partner agreement/tension notes;
+4. group Four-Poster Claim Board;
+5. Independent Rebuild / Talk Robin 2 + Evidence.
+
+## 40–45 min — Talk Robin 2 + Evidence
 
 Return to the five Entry Point statements.
 
@@ -191,16 +201,6 @@ Then complete:
 > **The poster I will probably need to remember most often is ____________________ because ____________________.**
 
 ---
-
-## 85–90 min — Submission
-
-Submit:
-
-1. Entry Point Check;
-2. four-poster evidence table;
-3. partner agreement/tension notes;
-4. group Four-Poster Claim Board;
-5. individual Exit Check.
 
 ## Success Evidence
 

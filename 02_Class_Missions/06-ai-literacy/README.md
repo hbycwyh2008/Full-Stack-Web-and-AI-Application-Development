@@ -20,7 +20,7 @@ This is a **guided selected-passages unit**, not a cover-to-cover speed-reading 
 
 - Every required passage is read in class.
 - A meeting normally assigns **300–450 English words**, usually one or two short chunks and about 1–2 pages depending on the edition.
-- Students receive **14 minutes** for Individual Learning.
+- Students receive **time in **Guided Practice** for reading.
 - No required chunk should exceed about **225 words** before students pause and paraphrase.
 - The teacher may read the first paragraph aloud from the same book and provide a plain-language gloss for no more than four required words.
 - The default limit is 450 words. Raise it only after students repeatedly demonstrate that they can read, mark evidence, and paraphrase within 14 minutes.
@@ -36,7 +36,7 @@ The twelve selections trace the book's full conceptual arc, but they do not pret
 4. A vocabulary gloss, sentence frame, or blank organizer may support access, but it may not introduce a second content source or replace the assigned reading.
 5. Videos, news articles, product pages, live chatbot demonstrations, online summaries, and unrelated AI courses are not required inputs.
 6. Mission evidence comes from the assigned Mitchell passage. A teacher-created hypothetical may test transfer after reading, but it may not replace the book case.
-7. The Learning Log is the Exit Check, not an additional task.
+7. The Learning Log is submitted in **Talk Robin 2 + Evidence**, not an additional task.
 8. If the Learning Log is unfinished, the only finish-up work is the remaining entry, capped at approximately five minutes. There is no additional homework.
 
 ## Why Four Lesson Files but Twelve Meetings?
@@ -73,19 +73,19 @@ See [Required In-Class Reading Map](required-reading-map.md) for the exact conte
 
 Every meeting follows the same seven blocks, adapted directly from the course's [canonical classroom flow](../shared/classroom-flow.md):
 
-1. Entry Point Check
-2. Individual Learning
-3. Talk Round 1
-4. Entry Points Check / Teacher Diagnosis
-5. Guided Practice / Mission Task
-6. Exit Check
-7. Submission
+1. Skill Warm-up
+2. Talk Robin 1
+3. Entry Check
+4. Core Pattern
+5. Guided Practice
+6. Independent Rebuild
+7. Talk Robin 2 + Evidence
 
 Use the exact timing and roles in [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md).
 
 ## Learning Log
 
-Students complete four short, evidence-based lines during the Exit Check. The log is graded for the quality of evidence and reasoning, not English grammar. Use the [Grade 7 AI Literacy Learning Log](learning-log-template.md).
+Students complete four short, evidence-based lines during **Talk Robin 2 + Evidence**. The log is graded for the quality of evidence and reasoning, not English grammar. Use the [Grade 7 AI Literacy Learning Log](learning-log-template.md).
 
 ## End-of-Unit Standard
 

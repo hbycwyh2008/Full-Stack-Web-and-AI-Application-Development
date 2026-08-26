@@ -6,7 +6,7 @@ Do not give this file to students before the evidence investigation. The point i
 
 ---
 
-## 1. Entry Point Classification — Suggested Interpretation
+## 0–5 min — Skill Warm-up
 
 These are discussion targets, not rigid grading answers.
 
@@ -25,21 +25,7 @@ The useful misconception to surface is **CS = programming = typing code**.
 
 ---
 
-## 2. Khan Academy Input — What to Listen For
-
-Students do not need identical wording. Look for these ideas:
-
-- a program is a set of instructions for a computer;
-- programming is the creation/expression of those instructions;
-- computer science is broader than programming;
-- CS asks questions about computation, algorithms, efficiency, representation, systems, AI, security, and other computational problems;
-- programming is one important way computer scientists implement or test ideas.
-
-Do not present the video as a complete disciplinary definition. Its value here is to create a shared first model that students can test and expand.
-
----
-
-## 3. Evidence Bank — Primary Mapping
+## 5–9 min — Talk Robin 1
 
 The intended primary pairings are deliberately clear enough for beginners.
 
@@ -81,7 +67,37 @@ A student should not lose credit because a defensible evidence item crosses disc
 
 ---
 
-## 4. Working Definition — Teacher Clarification
+## 9–14 min — Entry Check
+
+A strong student file should show **change in thinking**, not just completion.
+
+Look for:
+
+1. **Version 1** written before input;
+2. **Version 2** showing a change or confirmation after Khan Academy;
+3. use of specific Evidence Bank letters rather than vague claims;
+4. a field map that recognizes more than programming and AI;
+5. at least one defensible cross-field connection;
+6. **Version 3** that is broader or more precise than Version 1;
+7. an AP CSP conclusion that identifies both real overlap and real gaps;
+8. a final transfer response using at least two specific pieces of evidence.
+
+Do not grade wording against the teacher definition. Grade evidence, reasoning, revision, and transfer.
+## 14–19 min — Core Pattern
+
+Students do not need identical wording. Look for these ideas:
+
+- a program is a set of instructions for a computer;
+- programming is the creation/expression of those instructions;
+- computer science is broader than programming;
+- CS asks questions about computation, algorithms, efficiency, representation, systems, AI, security, and other computational problems;
+- programming is one important way computer scientists implement or test ideas.
+
+Do not present the video as a complete disciplinary definition. Its value here is to create a shared first model that students can test and expand.
+
+---
+
+## 19–30 min — Guided Practice
 
 Do not reveal this before students have worked with the evidence.
 
@@ -100,7 +116,7 @@ The lesson should broaden students' model, not make them memorize this sentence.
 
 ---
 
-## 5. AP CSP Discovery — Suggested Strongest Connections
+## 30–40 min — Independent Rebuild
 
 The student workbook intentionally allows more than one defensible connection. Suggested strongest matches are below.
 
@@ -127,7 +143,7 @@ The discovery should make the overlap **more accurate**, not larger.
 
 ---
 
-## 6. AP CSP Gap — Expected Conclusion
+## 40–45 min — Talk Robin 2 + Evidence
 
 Students should recognize that this course does not replace AP CSP instruction in areas such as:
 
@@ -146,19 +162,3 @@ A student does not need to check every item if they can justify why the course l
 
 ---
 
-## 7. What Counts as Successful Evidence
-
-A strong student file should show **change in thinking**, not just completion.
-
-Look for:
-
-1. **Version 1** written before input;
-2. **Version 2** showing a change or confirmation after Khan Academy;
-3. use of specific Evidence Bank letters rather than vague claims;
-4. a field map that recognizes more than programming and AI;
-5. at least one defensible cross-field connection;
-6. **Version 3** that is broader or more precise than Version 1;
-7. an AP CSP conclusion that identifies both real overlap and real gaps;
-8. a final transfer response using at least two specific pieces of evidence.
-
-Do not grade wording against the teacher definition. Grade evidence, reasoning, revision, and transfer.

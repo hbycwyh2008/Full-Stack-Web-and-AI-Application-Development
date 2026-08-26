@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** current capstone build + capstone requirements/test criteria  
 **Durable Evidence:** test matrix + bug/usability findings + prioritized revision PR
 
-## 0–4 min — Entry Point Check
-
-Individually inspect three sample findings and classify each as **technical bug / usability problem / accessibility issue / requirement mismatch / unclear**. Rank which should be fixed first and explain your criterion.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Audit the current capstone build against:
 
@@ -23,15 +19,19 @@ Audit the current capstone build against:
 
 Record evidence in a simple test matrix.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare findings and severity. For one disagreement, use **user impact / frequency / workaround / release risk / effort** to reach or document a decision.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually inspect three sample findings and classify each as **technical bug / usability problem / accessibility issue / requirement mismatch / unclear**. Rank which should be fixed first and explain your criterion.
+
+## 14–19 min — Core Pattern
 
 Groups run a short cross-team test: one team attempts another team's primary task without coaching. The product team records failures and questions. Teacher addresses only common issues that block multiple teams from testing or debugging effectively.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Triage and iterate:
 
@@ -42,11 +42,11 @@ Triage and iterate:
 - update Figma if the interaction/design itself changes;
 - open/update PRs with before/after evidence.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually choose one finding you **did not** fix today. Explain why it was deferred and what evidence would cause you to raise its priority.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit test matrix, prioritized issue list, revision PR(s), retest evidence, and individual exit response.
 

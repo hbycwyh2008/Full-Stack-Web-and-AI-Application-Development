@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** the team's low-fi wireframes + teacher-selected component example  
 **Durable Evidence:** reusable component set + spacing/type/color decisions
 
-## 0–4 min — Entry Point Check
-
-Individually inspect a mock interface containing inconsistent buttons, spacing, labels, and cards. Circle repeated patterns and mark which inconsistencies would create implementation or usability problems.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the selected Figma component example. Record evidence for:
 
@@ -21,15 +17,19 @@ Inspect the selected Figma component example. Record evidence for:
 - color/contrast roles;
 - why reusable design patterns support later coding.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs audit the team's wireframes and identify repeated UI patterns. Create a proposed component inventory and compare it with another pair. Mark one element that should remain unique rather than forced into a reusable component.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually inspect a mock interface containing inconsistent buttons, spacing, labels, and cards. Circle repeated patterns and mark which inconsistencies would create implementation or usability problems.
+
+## 14–19 min — Core Pattern
 
 Groups build one sample component with variants or states and test resizing/content changes. Display one component that behaves well and one failure. Teacher gives a brief micro-lesson only for common Figma barriers such as fixed sizing, broken Auto Layout, unnecessary variants, or contrast problems.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Build a small design system appropriate to the project:
 
@@ -43,11 +43,11 @@ Build a small design system appropriate to the project:
 
 Replace repeated raw elements in the wireframes with component instances.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually explain how one chosen component should behave when its label becomes twice as long or the viewport becomes narrower. Identify the Figma property/layout choice that supports that behavior.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit Figma link, component inventory, component/state evidence, design-system notes, and individual exit response.
 

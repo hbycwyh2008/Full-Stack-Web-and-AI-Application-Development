@@ -5,26 +5,26 @@ Student-facing GitHub beginner unit for **Collaborate**.
 ## Classroom pattern (every lesson — **45 minutes**)
 
 ```text
-INPUT   →  GitHub YouTube (related clip, ≤4 min)
-PRACTICE →  GitHub Skills interactive exercise
-EVIDENCE →  own cs-learning-log repo + Exit Evidence
+Skill Warm-up        → GitHub YouTube (related clip, ≤4 min)
+Guided Practice      → GitHub Skills interactive exercise
+Talk Robin 2 + Evidence → own cs-learning-log + proof of learning
 ```
 
 Full timing: [../shared/classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
-| 19–30 min | Guided Practice (Skills) |
+| 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
-- **Input** = watch one related official GitHub YouTube video (short; pause early).  
-- **Practice** = do the matching **GitHub Skills** interactive course steps on github.com.  
-- Docs = look up only if stuck — not the main activity.
+- **Skill Warm-up** = one related official GitHub YouTube clip (≤4 min; pause early).  
+- **Guided Practice** = matching **GitHub Skills** interactive steps.  
+- Docs = look up only if stuck.
 
 ## Official links
 
@@ -78,7 +78,7 @@ How students start a Skills course:
 
 ## Lessons
 
-| # | Lesson | INPUT (YouTube) | PRACTICE (Skills / activity) |
+| # | Lesson | Skill Warm-up (YouTube) | Guided Practice (Skills / activity) |
 |---|---|---|---|
 | 1 | [Course workflow + first repo](lesson-01-course-workflow-and-first-repo.md) | One clip: what GitHub / repos are | **Introduction to GitHub** (start) + create `cs-learning-log` |
 | 2 | [README + commit history](lesson-02-readme-and-commit-history.md) | One clip: commits / history | Continue **Introduction to GitHub** + meaningful commits in own repo |

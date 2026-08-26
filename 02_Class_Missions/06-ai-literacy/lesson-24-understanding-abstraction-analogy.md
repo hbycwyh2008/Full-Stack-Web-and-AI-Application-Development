@@ -42,13 +42,13 @@ By the end of Meeting 24C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Complete: “A correct answer is evidence that ___; it may not show ___.” |
-| 3–17 | **Individual Learning** | Read both chunks. For translation, mark input, representation/process, output, and context limit. For question answering, mark task, benchmark result, and comprehension boundary. Paraphrase each chunk once. |
-| 17–22 | **Talk Round 1** | Partners use: “The system succeeds at ___ under ___ conditions. Mitchell's example shows a limit when ___.” Cite one page from each chapter. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one capability and one boundary. Teacher clarifies only shared confusion about encoder, decoder, benchmark, or comprehension. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a two-row **Language Capability Boundary Table**: one row for translation and one for question answering. Teacher models the defined task column; students add evidence, successful capability, missing context/knowledge, and unsupported stronger claim. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 24A. The boundary line must explain why correctness is insufficient evidence of broad comprehension. |
-| 43–45 | **Submission** | Submit the Capability Table and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Complete: “A correct answer is evidence that ___; it may not show ___.” |
+| 3–17 | **Guided Practice** | Read both chunks. For translation, mark input, representation/process, output, and context limit. For question answering, mark task, benchmark result, and comprehension boundary. Paraphrase each chunk once. |
+| 17–22 | **Talk Robin 1** | Partners use: “The system succeeds at ___ under ___ conditions. Mitchell's example shows a limit when ___.” Cite one page from each chapter. |
+| 22–28 | **Core Pattern** | Pairs show one capability and one boundary. Teacher clarifies only shared confusion about encoder, decoder, benchmark, or comprehension. |
+| 28–38 | **Guided Practice** | Complete a two-row **Language Capability Boundary Table**: one row for translation and one for question answering. Teacher models the defined task column; students add evidence, successful capability, missing context/knowledge, and unsupported stronger claim. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 24A. The boundary line must explain why correctness is insufficient evidence of broad comprehension. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Capability Table and Learning Log entry. |
 
 ### Language Capability Boundary Table
 
@@ -69,13 +69,13 @@ By the end of Meeting 24C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Compare two simple pairs. Choose which pair shares the same relationship rather than only a similar appearance, and state the relationship. |
-| 3–17 | **Individual Learning** | Read both chunks. In Chapter 14 mark claim, background/core knowledge, and example. In Chapter 15 mark source, target, shared relation, ignored surface detail, and failure point. Paraphrase each chunk once. |
-| 17–22 | **Talk Round 1** | Partners use: “These cases look different, but both contain the relation ___.” Then state one place the analogy would stop working. Cite a page. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one relational mapping and one boundary. Teacher clarifies only shared confusion about meaning, core knowledge, abstraction, or analogy. |
-| 28–38 | **Guided Practice / Mission Task** | Build a **Relation Map + Failure Boundary** from the selected Chapter 15 case, then add one note from Chapter 14 explaining what background knowledge makes the mapping meaningful. Teacher models one mapped relation. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 24B. The evidence line names the selected case; the boundary line distinguishes relation mapping from surface matching. |
-| 43–45 | **Submission** | Submit the Relation Map and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Compare two simple pairs. Choose which pair shares the same relationship rather than only a similar appearance, and state the relationship. |
+| 3–17 | **Guided Practice** | Read both chunks. In Chapter 14 mark claim, background/core knowledge, and example. In Chapter 15 mark source, target, shared relation, ignored surface detail, and failure point. Paraphrase each chunk once. |
+| 17–22 | **Talk Robin 1** | Partners use: “These cases look different, but both contain the relation ___.” Then state one place the analogy would stop working. Cite a page. |
+| 22–28 | **Core Pattern** | Pairs show one relational mapping and one boundary. Teacher clarifies only shared confusion about meaning, core knowledge, abstraction, or analogy. |
+| 28–38 | **Guided Practice** | Build a **Relation Map + Failure Boundary** from the selected Chapter 15 case, then add one note from Chapter 14 explaining what background knowledge makes the mapping meaningful. Teacher models one mapped relation. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 24B. The evidence line names the selected case; the boundary line distinguishes relation mapping from surface matching. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Relation Map and Learning Log entry. |
 
 ### Relation Map + Failure Boundary
 
@@ -96,13 +96,13 @@ By the end of Meeting 24C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Place separate marks—not one overall score—on four 1–4 scales: task performance, transfer, understanding, and consciousness. |
-| 3–17 | **Individual Learning** | Read the Chapter 16 selection. Mark O (overall claim), E (evidence), U (uncertainty), and R (risk). At the midpoint, paraphrase; at the end, write Mitchell's cautious conclusion in one sentence. |
-| 17–22 | **Talk Round 1** | Partners compare Chapter 16 with three earlier Learning Logs. Each selects three cases and states whether each supports, limits, or complicates an overall judgement. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one conclusion, one counterpoint, and one uncertainty. Teacher clarifies only a shared failure to separate capability, interpretation, forecast, and risk. |
-| 28–38 | **Guided Practice / Mission Task** | Independently complete a short **Thinking Human's AI Brief**: one bounded overall claim, three one-line book cases with page/log references, one fair counterargument, and one specific change condition. Sentence frames are allowed. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 24C. The final line states the most important unresolved question or evidence that could change the student's view. |
-| 43–45 | **Submission** | Submit the Thinking Human's AI Brief and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Place separate marks—not one overall score—on four 1–4 scales: task performance, transfer, understanding, and consciousness. |
+| 3–17 | **Guided Practice** | Read the Chapter 16 selection. Mark O (overall claim), E (evidence), U (uncertainty), and R (risk). At the midpoint, paraphrase; at the end, write Mitchell's cautious conclusion in one sentence. |
+| 17–22 | **Talk Robin 1** | Partners compare Chapter 16 with three earlier Learning Logs. Each selects three cases and states whether each supports, limits, or complicates an overall judgement. |
+| 22–28 | **Core Pattern** | Pairs show one conclusion, one counterpoint, and one uncertainty. Teacher clarifies only a shared failure to separate capability, interpretation, forecast, and risk. |
+| 28–38 | **Guided Practice** | Independently complete a short **Thinking Human's AI Brief**: one bounded overall claim, three one-line book cases with page/log references, one fair counterargument, and one specific change condition. Sentence frames are allowed. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 24C. The final line states the most important unresolved question or evidence that could change the student's view. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Thinking Human's AI Brief and Learning Log entry. |
 
 ### Thinking Human's AI Brief
 

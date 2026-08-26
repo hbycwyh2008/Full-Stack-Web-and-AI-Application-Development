@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** team user flow + information architecture  
 **Durable Evidence:** multiple low-fi alternatives + selected wireframe rationale
 
-## 0–4 min — Entry Point Check
-
-Individually sketch two different layouts for the same required screen in five minutes. No color, images, or detailed styling. Mark which layout better supports the primary user goal and why.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Review the user flow/IA and inspect teacher-selected low-fi wireframe examples. Record evidence for:
 
@@ -20,15 +16,19 @@ Review the user flow/IA and inspect teacher-selected low-fi wireframe examples. 
 - feedback/error placement;
 - what low-fi wireframes intentionally leave undecided.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare sketches using requirements rather than personal taste. Identify one strength, one risk, and one idea worth combining from each alternative.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually sketch two different layouts for the same required screen in five minutes. No color, images, or detailed styling. Mark which layout better supports the primary user goal and why.
+
+## 14–19 min — Core Pattern
 
 Groups run a quick **design studio**: every student produces one thumbnail solution, then the group clusters ideas and selects/combines promising patterns. Display one rejected idea and the evidence-based reason it was rejected. Teacher addresses shared problems such as premature visual polish or missing task states.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Create a linked low-fidelity wireframe set in Figma covering:
 
@@ -40,11 +40,11 @@ Create a linked low-fidelity wireframe set in Figma covering:
 
 Annotate important requirements beside the relevant frames.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually compare two new wireframe snippets and choose which better supports a stated requirement. Justify with structure/hierarchy evidence, not aesthetics.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit Figma link, alternative thumbnails, selected wireframe set, rationale, and individual exit response.
 

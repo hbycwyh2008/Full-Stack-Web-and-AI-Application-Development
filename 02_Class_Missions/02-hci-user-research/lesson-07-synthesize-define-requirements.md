@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** anonymized team research notes/interview evidence  
 **Durable Evidence:** affinity map + problem statement + prioritized requirements
 
-## 0–4 min — Entry Point Check
-
-Individually review five sample research notes and label each as **observation / user quote / interpretation / solution idea**. Circle one item that should not yet be treated as a requirement.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Review the team's anonymized research evidence. Create one note per meaningful observation/quote. Mark:
 
@@ -23,11 +19,15 @@ Review the team's anonymized research evidence. Create one note per meaningful o
 
 Do not begin with features.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs cluster notes into provisional themes and give each theme a descriptive label. Compare with another pair and identify one cluster that changed after discussion.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually review five sample research notes and label each as **observation / user quote / interpretation / solution idea**. Circle one item that should not yet be treated as a requirement.
+
+## 14–19 min — Core Pattern
 
 Groups build an affinity map and display:
 
@@ -38,7 +38,7 @@ Groups build an affinity map and display:
 
 Teacher gives brief clarification only on shared problems such as theme labels that are actually feature ideas, over-generalizing from one participant, or mixing evidence with assumptions.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 From the affinity map, produce:
 
@@ -50,7 +50,7 @@ From the affinity map, produce:
 - priority labels such as Must / Should / Could;
 - traceability: each important requirement points back to user evidence.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually evaluate this requirement:
 
@@ -58,7 +58,7 @@ Individually evaluate this requirement:
 
 State whether it is evidence-backed, solution-first, or insufficiently justified, and rewrite it as a user need/requirement if necessary.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit affinity map, problem statement, prioritized requirement set, evidence links, and individual exit response.
 

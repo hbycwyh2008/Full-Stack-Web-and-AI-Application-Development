@@ -76,17 +76,17 @@ Answer in **student’s own words** (use examples from **your** `cs-learning-log
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
 | 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
 ---
 
-### 0–5 min: Skill Warm-up (INPUT)
+### 0–5 min: Skill Warm-up
 
 **Unit pattern review** on paper (no devices):
 
@@ -170,7 +170,7 @@ Without notes, write short answers:
 
 ---
 
-### 40–45 min: Talk Robin 2 + Exit Evidence
+### 40–45 min: Talk Robin 2 + Evidence
 
 Practice oral — 45 sec each:
 

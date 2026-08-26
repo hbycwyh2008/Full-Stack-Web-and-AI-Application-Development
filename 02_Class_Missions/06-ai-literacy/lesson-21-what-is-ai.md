@@ -40,13 +40,13 @@ By the end of Meeting 21C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Choose which claim needs stronger evidence: “The machine gives a correct answer” or “The machine understands.” Write one reason. |
-| 3–17 | **Individual Learning** | Read both assigned chunks in class. Mark C, E, and ?. After each chunk, write a margin paraphrase of no more than ten words. Finish the ready line: “Mitchell's point is ___ because ___.” |
-| 17–22 | **Talk Round 1** | Partners use: “The text shows ___ on page ___; a stronger interpretation would be ___.” Agree on one claim boundary. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show their claim and evidence. Teacher diagnoses one shared confusion about behavior, intelligence, understanding, consciousness, or AI's two goals and briefly rereads the relevant book sentence. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a **Claim–Interpretation Boundary Card**. Teacher models the first box; students add: observed behavior, possible interpretation, exact book evidence, and what is not yet proved. |
-| 38–43 | **Exit Check** | Independently complete the four lines for Meeting 21A in the [Learning Log](learning-log-template.md). The book case and page number are required. |
-| 43–45 | **Submission** | Submit the Boundary Card and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Choose which claim needs stronger evidence: “The machine gives a correct answer” or “The machine understands.” Write one reason. |
+| 3–17 | **Guided Practice** | Read both assigned chunks in class. Mark C, E, and ?. After each chunk, write a margin paraphrase of no more than ten words. Finish the ready line: “Mitchell's point is ___ because ___.” |
+| 17–22 | **Talk Robin 1** | Partners use: “The text shows ___ on page ___; a stronger interpretation would be ___.” Agree on one claim boundary. |
+| 22–28 | **Core Pattern** | Pairs show their claim and evidence. Teacher diagnoses one shared confusion about behavior, intelligence, understanding, consciousness, or AI's two goals and briefly rereads the relevant book sentence. |
+| 28–38 | **Guided Practice** | Complete a **Claim–Interpretation Boundary Card**. Teacher models the first box; students add: observed behavior, possible interpretation, exact book evidence, and what is not yet proved. |
+| 38–43 | **Independent Rebuild** | Independently complete the four lines for Meeting 21A in the [Learning Log](learning-log-template.md). The book case and page number are required. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Boundary Card and Learning Log entry. |
 
 ### Claim–Interpretation Boundary Card
 
@@ -66,13 +66,13 @@ By the end of Meeting 21C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Respond to one either/or prompt: “Must an AI always follow rules written one by one by a person?” Circle yes, no, or unsure and give one reason. |
-| 3–17 | **Individual Learning** | Read the assigned Chapter 1 selection. Pause at the symbolic/subsymbolic transition. Mark one C and one E for each approach, then write one eight-to-ten-word paraphrase per approach. |
-| 17–22 | **Talk Round 1** | Partner A explains symbolic; Partner B explains subsymbolic. Switch and correct one another using: “I think ___ because the text says/describes ___ on page ___.” |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs supply one accurate similarity and difference. Teacher clarifies only a demonstrated confusion among symbolic, subsymbolic, machine learning, and deep learning. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a two-row **Methods Comparison**. Teacher models the representation column; students fill how behavior is produced, one book-based strength/use, and one claim the passage does not justify. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 21B. Use one comparison detail and a page number. |
-| 43–45 | **Submission** | Submit the Methods Comparison and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Respond to one either/or prompt: “Must an AI always follow rules written one by one by a person?” Circle yes, no, or unsure and give one reason. |
+| 3–17 | **Guided Practice** | Read the assigned Chapter 1 selection. Pause at the symbolic/subsymbolic transition. Mark one C and one E for each approach, then write one eight-to-ten-word paraphrase per approach. |
+| 17–22 | **Talk Robin 1** | Partner A explains symbolic; Partner B explains subsymbolic. Switch and correct one another using: “I think ___ because the text says/describes ___ on page ___.” |
+| 22–28 | **Core Pattern** | Pairs supply one accurate similarity and difference. Teacher clarifies only a demonstrated confusion among symbolic, subsymbolic, machine learning, and deep learning. |
+| 28–38 | **Guided Practice** | Complete a two-row **Methods Comparison**. Teacher models the representation column; students fill how behavior is produced, one book-based strength/use, and one claim the passage does not justify. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 21B. Use one comparison detail and a page number. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Methods Comparison and Learning Log entry. |
 
 ### Methods Comparison
 
@@ -93,13 +93,13 @@ By the end of Meeting 21C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Put these in a possible learning order: make a guess, compare with the correct answer, adjust, try again. Add one question. |
-| 3–17 | **Individual Learning** | Read the two assigned chunks. For Chunk 1, mark input, weight, error, and adjustment. For Chunk 2, mark one demonstrated success and one broader expectation. Write one short paraphrase after each chunk. |
-| 17–22 | **Talk Round 1** | Partners first reconstruct the learning loop without equations, then use: “The result supports ___; it does not yet support ___.” Cite one page from each chapter. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one four-step learning loop and one evidence boundary. Teacher clarifies only shared confusion about weights, backpropagation, narrow AI, or general AI. |
-| 28–38 | **Guided Practice / Mission Task** | Build an **Evidence–Expectation Chain** with four boxes: mechanism, demonstrated result, larger prediction, and missing evidence. Teacher fills only the mechanism example; students complete the other boxes from the passages. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 21C. The boundary line must contrast narrow success with a general-intelligence claim. |
-| 43–45 | **Submission** | Submit the Evidence–Expectation Chain and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Put these in a possible learning order: make a guess, compare with the correct answer, adjust, try again. Add one question. |
+| 3–17 | **Guided Practice** | Read the two assigned chunks. For Chunk 1, mark input, weight, error, and adjustment. For Chunk 2, mark one demonstrated success and one broader expectation. Write one short paraphrase after each chunk. |
+| 17–22 | **Talk Robin 1** | Partners first reconstruct the learning loop without equations, then use: “The result supports ___; it does not yet support ___.” Cite one page from each chapter. |
+| 22–28 | **Core Pattern** | Pairs show one four-step learning loop and one evidence boundary. Teacher clarifies only shared confusion about weights, backpropagation, narrow AI, or general AI. |
+| 28–38 | **Guided Practice** | Build an **Evidence–Expectation Chain** with four boxes: mechanism, demonstrated result, larger prediction, and missing evidence. Teacher fills only the mechanism example; students complete the other boxes from the passages. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 21C. The boundary line must contrast narrow success with a general-intelligence claim. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Evidence–Expectation Chain and Learning Log entry. |
 
 ### Evidence–Expectation Chain
 

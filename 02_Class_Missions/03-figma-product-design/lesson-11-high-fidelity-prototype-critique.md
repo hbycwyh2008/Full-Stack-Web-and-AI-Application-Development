@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** team low-fi wireframes + component/design system  
 **Durable Evidence:** high-fi prototype + accessibility check + critique/revision log
 
-## 0–4 min — Entry Point Check
-
-Individually inspect a polished interface screenshot. Mark three places where visual polish does **not** guarantee good usability or accessibility. Examples may include contrast, unclear focus, tiny targets, missing feedback, or confusing hierarchy.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Review the team's current design and a teacher-selected high-fi/accessibility example. Record evidence for:
 
@@ -22,15 +18,19 @@ Review the team's current design and a teacher-selected high-fi/accessibility ex
 - prototype connections;
 - what still needs user testing rather than designer opinion.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs conduct a pre-critique using **requirement / evidence / risk / suggestion**. Each student must identify one issue that is not merely personal taste.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually inspect a polished interface screenshot. Mark three places where visual polish does **not** guarantee good usability or accessibility. Examples may include contrast, unclear focus, tiny targets, missing feedback, or confusing hierarchy.
+
+## 14–19 min — Core Pattern
 
 Groups run a gallery critique. Visitors leave evidence-based comments tied to user goals, requirements, accessibility, or interaction clarity. Teams sort comments into **act now / test first / not supported**. Teacher only clarifies common issues that appear across designs.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Build/revise the high-fidelity Figma prototype:
 
@@ -44,7 +44,7 @@ Build/revise the high-fidelity Figma prototype:
 
 Apply at least two critique-driven changes and record why.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually choose one design decision and answer:
 
@@ -52,7 +52,7 @@ Individually choose one design decision and answer:
 2. what accessibility/usability risk remains;
 3. how you would test it with a user.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit Figma prototype link, accessibility checklist, critique notes, revision log, and individual exit response.
 

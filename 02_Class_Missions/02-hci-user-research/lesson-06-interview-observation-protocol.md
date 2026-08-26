@@ -5,18 +5,7 @@
 **One Required Resource / Evidence Source:** teacher-provided sample interview/observation transcript  
 **Durable Evidence:** interview/observation protocol + rehearsal notes
 
-## 0–4 min — Entry Point Check
-
-Individually mark each question as **strong / leading / hypothetical / too broad / double-barreled**:
-
-- `Wouldn't a better calendar help you?`
-- `Tell me about the last time you missed a deadline.`
-- `Do you like the app and find it easy to use?`
-- `What usually happens when you begin studying?`
-
-Write one reason for your least-certain classification.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the sample transcript. Highlight evidence of:
 
@@ -28,15 +17,26 @@ Inspect the sample transcript. Highlight evidence of:
 - useful observation notes;
 - places where the researcher should have remained silent.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare annotations and create a **Do / Avoid** list for interviews and observations. Each pair rewrites two weak questions and identifies one useful probe.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually mark each question as **strong / leading / hypothetical / too broad / double-barreled**:
+
+- `Wouldn't a better calendar help you?`
+- `Tell me about the last time you missed a deadline.`
+- `Do you like the app and find it easy to use?`
+- `What usually happens when you begin studying?`
+
+Write one reason for your least-certain classification.
+
+## 14–19 min — Core Pattern
 
 Groups perform a five-minute mock interview. Observers use a checklist for leading questions, interruption, vague probes, and evidence capture. Groups display one mistake they noticed and one technique that improved the interview. Teacher addresses only common barriers.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Teams build the actual protocol:
 
@@ -51,7 +51,7 @@ Teams build the actual protocol:
 
 Run a second short rehearsal and revise the protocol based on observer evidence.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually write one question and one follow-up probe for this goal:
 
@@ -59,7 +59,7 @@ Individually write one question and one follow-up probe for this goal:
 
 Explain why your question seeks behavior evidence rather than feature approval.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit final protocol, rehearsal checklist/notes, revisions made, and individual exit response.
 

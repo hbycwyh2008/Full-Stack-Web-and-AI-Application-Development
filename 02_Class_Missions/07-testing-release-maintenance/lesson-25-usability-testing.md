@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** current working prototype/build + teacher-provided usability-test protocol  
 **Durable Evidence:** task script + observation notes + prioritized findings
 
-## 0–4 min — Entry Point Check
-
-Individually inspect a short usability-test transcript. Mark each statement as **observation / interpretation / suggestion**. Circle one place where the moderator accidentally helped the participant.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the test protocol and current product. Record:
 
@@ -20,15 +16,19 @@ Inspect the test protocol and current product. Record:
 - observable evidence such as hesitation, wrong path, error, recovery, completion, or abandonment;
 - how to protect participant privacy.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs turn product goals into 2–3 realistic task prompts without telling participants exactly what to click. Compare prompts and remove leading language.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually inspect a short usability-test transcript. Mark each statement as **observation / interpretation / suggestion**. Circle one place where the moderator accidentally helped the participant.
+
+## 14–19 min — Core Pattern
 
 Groups rehearse one five-minute usability session. Observers record where the moderator leads, where evidence is missing, and whether success criteria are measurable. Teacher clarifies only common testing mistakes.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Run usability tests with peers or approved participants. For each task, capture:
 
@@ -41,7 +41,7 @@ Run usability tests with peers or approved participants. For each task, capture:
 
 Do not explain the interface while the participant is attempting the task.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually choose one finding and write:
 
@@ -50,7 +50,7 @@ Individually choose one finding and write:
 3. one proposed change;
 4. what evidence would confirm the change worked.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit task script, observation notes, prioritized findings, and individual exit response.
 

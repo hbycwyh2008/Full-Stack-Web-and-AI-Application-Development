@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** capstone brief + approved research evidence sources/participant access  
 **Durable Evidence:** problem-space brief + stakeholder map + research plan
 
-## 0–4 min — Entry Point Check
-
-Individually list three possible software problems you could work on. For each, mark what evidence you currently have that the problem actually exists. Eliminate any idea supported only by “I think this would be cool.”
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Review the capstone requirements and prior HCI evidence standards. For your strongest problem candidate, record:
 
@@ -20,15 +16,19 @@ Review the capstone requirements and prior HCI evidence standards. For your stro
 - ethical/privacy constraints;
 - what evidence must be collected before design.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs challenge each other's problem choices using **evidence / assumption / feasibility / user value**. Each student revises or defends one problem statement.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually list three possible software problems you could work on. For each, mark what evidence you currently have that the problem actually exists. Eliminate any idea supported only by “I think this would be cool.”
+
+## 14–19 min — Core Pattern
 
 Groups present one problem-space claim and one evidence gap. Peers identify whether the team is already jumping to a solution. Teacher intervenes only on common issues such as overbroad scope, inaccessible participants, unsafe data collection, or solution-first framing.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Create the capstone research package:
 
@@ -43,7 +43,7 @@ Create the capstone research package:
 
 Begin the first approved research activity if time/access allows.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually answer:
 
@@ -51,7 +51,7 @@ Individually answer:
 
 List at least two concrete findings.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit problem-space brief, stakeholder map, research plan, and individual exit response.
 

@@ -15,13 +15,13 @@ Students organize files into **lesson folders** instead of dumping everything in
 
 ## Resources
 
-**Input = GitHub YouTube (or short Markdown intro). Practice = GitHub Skills.**
+**Skill Warm-up = GitHub YouTube (or short Markdown intro). Guided Practice = GitHub Skills.**
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: clip related to writing / collaborating on GitHub if available; else 5–8 min playlist segment |
-| **INPUT (alt)** | Markdown Crash Course (Traversy) — headings/lists only | https://www.youtube.com/watch?v=HUBNt18RFbo | Use only if no matching GitHub YouTube Markdown clip (5–10 min) |
-| **PRACTICE** | GitHub Skills: Communicate using Markdown | https://github.com/skills/communicate-using-markdown | Guided Practice: interactive Markdown steps |
+| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: clip related to writing / collaborating on GitHub if available; else 5–8 min playlist segment |
+| **Skill Warm-up (alt)** | Markdown Crash Course (Traversy) — headings/lists only | https://www.youtube.com/watch?v=HUBNt18RFbo | Use only if no matching GitHub YouTube Markdown clip (5–10 min) |
+| **Guided Practice** | GitHub Skills: Communicate using Markdown | https://github.com/skills/communicate-using-markdown | Guided Practice: interactive Markdown steps |
 | Reference | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Only if stuck creating files/folders |
 
 ---
@@ -74,17 +74,17 @@ cs-learning-log/
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up (INPUT) |
+| 0–5 min | Skill Warm-up |
 | 5–9 min | Talk Robin 1 |
 | 9–14 min | Entry Check |
 | 14–19 min | Core Pattern |
 | 19–30 min | Guided Practice |
 | 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Exit Evidence |
+| 40–45 min | Talk Robin 2 + Evidence |
 
 ---
 
-### 0–5 min: Skill Warm-up (INPUT)
+### 0–5 min: Skill Warm-up
 
 **Side-by-side repos:**
 
@@ -173,7 +173,7 @@ Teacher displays file tree on projector after each commit.
 
 ---
 
-### 40–45 min: Talk Robin 2 + Exit Evidence
+### 40–45 min: Talk Robin 2 + Evidence
 
 - **A:** “Today’s folder pattern is…”
 - **B:** “My `lesson-03/notes.md` shows I learned…”

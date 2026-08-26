@@ -5,15 +5,7 @@
 **One Required Resource / Evidence Source:** teacher-provided stakeholder + research-ethics scenario sheet  
 **Durable Evidence:** stakeholder map + assumption list + ethical research constraints
 
-## 0–4 min — Entry Point Check
-
-Individually respond to this request:
-
-> “Build something that helps students study better.”
-
-Sketch a solution for three minutes, then label every decision in your sketch as **evidence / assumption / unsure**.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the stakeholder and ethics scenarios. Record:
 
@@ -25,11 +17,19 @@ Inspect the stakeholder and ethics scenarios. Record:
 - privacy/consent risks;
 - what the team still does not know.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare stakeholder maps and classify ethics scenarios as **acceptable / revise / unacceptable**. Each student must defend one disputed decision with evidence from the scenario.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually respond to this request:
+
+> “Build something that helps students study better.”
+
+Sketch a solution for three minutes, then label every decision in your sketch as **evidence / assumption / unsure**.
+
+## 14–19 min — Core Pattern
 
 Groups create an **Assumption + Stakeholder Board** with:
 
@@ -40,7 +40,7 @@ Groups create an **Assumption + Stakeholder Board** with:
 
 Teacher gives a brief clarification only where groups show shared confusion about consent, minors, sensitive information, recording, pressure, or collecting unnecessary personal data.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Convert assumptions into a short research plan:
 
@@ -54,7 +54,7 @@ Convert assumptions into a short research plan:
 
 Avoid solution-first questions such as `Would you use my app?`.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually rewrite this weak question into a stronger research question:
 
@@ -62,7 +62,7 @@ Individually rewrite this weak question into a stronger research question:
 
 Then explain why the original question could bias the research.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit stakeholder map, assumption list, research-plan draft, and individual exit rewrite.
 

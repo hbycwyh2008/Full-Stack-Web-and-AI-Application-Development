@@ -1,61 +1,39 @@
 # Classroom Learning Workflow
 
-Every daily lesson in this course follows the **course poster** model. **Each lesson is 45 minutes.**
+Every daily lesson follows the **Our Classroom Flow** poster. **Each lesson is 45 minutes.**
+
+Use **only** these block names:
+
+```text
+Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
+→ Guided Practice → Independent Rebuild → Talk Robin 2 + Evidence
+```
 
 ![Our Classroom Flow](../../../08_Public_Documents/posters/classroom-flow.png)
 
-*Poster: [08_Public_Documents/posters/classroom-flow.png](../../../08_Public_Documents/posters/classroom-flow.png)*
+Canonical file: [02_Class_Missions/shared/classroom-flow.md](../../../02_Class_Missions/shared/classroom-flow.md)
 
-Canonical timing: [02_Class_Missions/shared/classroom-flow-45-min.md](../../../02_Class_Missions/shared/classroom-flow-45-min.md)
+| # | Block | Time |
+|---|---|---|
+| 1 | Skill Warm-up | 0–5 min |
+| 2 | Talk Robin 1 | 5–9 min |
+| 3 | Entry Check | 9–14 min |
+| 4 | Core Pattern | 14–19 min |
+| 5 | Guided Practice | 19–30 min |
+| 6 | Independent Rebuild | 30–40 min |
+| 7 | Talk Robin 2 + Evidence | 40–45 min |
 
----
+Do not rename blocks (no “Entry Point Check”, “Talk Round”, “Submission”, etc.).
 
-## The Seven Steps (poster order — 45 min)
+## Course Principles
 
-| # | Block | Time | Purpose |
-|---|---|---|---|
-| 1 | **Skill Warm-up** | 0–5 min | Meet the idea via **one** short clip / passage / task |
-| 2 | **Talk Robin 1** | 5–9 min | Pair: what was done and what was confusing |
-| 3 | **Entry Check** | 9–14 min | Individual basics before going deeper |
-| 4 | **Core Pattern** | 14–19 min | Name and demo today’s key method (micro) |
-| 5 | **Guided Practice** | 19–30 min | Practice with teacher support |
-| 6 | **Independent Rebuild** | 30–40 min | Recreate with checklist — no full solution copy |
-| 7 | **Talk Robin 2 + Evidence** | 40–45 min | Summarize, explain, submit proof |
+- Not lecture-only; rebuild and explain.
+- Copying once is not mastery.
+- AI can support but cannot replace thinking.
+- Most learning happens in class; unfinished evidence may need short finish-up.
 
-**Steps 1–3 detail:** [classroom-flow-steps-1-3-coursera.md](classroom-flow-steps-1-3-coursera.md)
+## Resources inside the flow
 
----
-
-## Course Principles (Every Unit)
-
-- This is **not** a lecture-only course.
-- Students do **not** master CS by passively watching videos.
-- **Copying** code or commands is **not** mastery.
-- **Running something once** is **not** mastery.
-- Students must **rebuild patterns**, **debug**, **explain** their work, and submit **visible evidence**.
-- **AI tools** can support learning but **cannot replace thinking**.
-- Students may be asked to **explain their work orally**.
-- **Most core learning happens during class.**
-- There is **no heavy regular homework**, but unfinished classroom evidence may need to be completed later.
-
----
-
-## Resource Rule
-
-- **Discover → Create:** short INPUT + focused PRACTICE (e.g. GitHub YouTube → GitHub Skills).
-- **AI Literacy:** Mitchell in-class passages (see `06-ai-literacy/classroom-flow-45-min.md`).
-
-```text
-INPUT introduces the idea (Step 1).
-Talk Robin surfaces confusion (Step 2).
-Entry Check proves basics (Step 3).
-Practice builds the skill (Steps 4–5).
-Independent rebuild checks mastery (Step 6).
-Evidence proves progress (Step 7).
-```
-
----
-
-## Talk Robin / Mastery
-
-See `talk-robin-rules.md` and `mastery-levels.md` in this folder (or Git unit handouts).
+- **Skill Warm-up:** one short input (e.g. GitHub YouTube clip).
+- **Guided Practice:** one main practice (e.g. GitHub Skills).
+- **AI Literacy:** Mitchell passages inside the same seven blocks (see `06-ai-literacy/`).

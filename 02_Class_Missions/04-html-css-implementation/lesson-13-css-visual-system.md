@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** approved Figma design-system decisions + current semantic HTML  
 **Durable Evidence:** `style.css` visual tokens/rules + comparison evidence
 
-## 0–4 min — Entry Point Check
-
-Individually compare two CSS snippets: one repeats arbitrary font sizes/colors/spacing; the other uses a small consistent system. Predict which will be easier to change and mark three reasons.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect the Figma design system and teacher-provided CSS example. Record:
 
@@ -20,15 +16,19 @@ Inspect the Figma design system and teacher-provided CSS example. Record:
 - reusable classes/custom properties where appropriate;
 - accessibility constraints such as contrast.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs map Figma design decisions to CSS rules. Compare one typography choice, one color choice, and one spacing choice. Identify one place where copying pixel values blindly would create a brittle implementation.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually compare two CSS snippets: one repeats arbitrary font sizes/colors/spacing; the other uses a small consistent system. Predict which will be easier to change and mark three reasons.
+
+## 14–19 min — Core Pattern
 
 Groups debug a small stylesheet containing duplicate rules, conflicting selectors, and inconsistent spacing. Display the cause of one issue and the proposed fix. Teacher clarifies only shared barriers such as cascade, inheritance, specificity, or unit confusion.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Implement the visual system:
 
@@ -42,11 +42,11 @@ Implement the visual system:
 
 Compare the browser result against the approved Figma design and document two intentional differences if exact translation is inappropriate.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually explain how you would change the whole site's accent color or spacing scale with minimal edits. Point to the CSS organization that makes this possible.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Commit stylesheet changes, Figma/browser comparison evidence, and individual exit response.
 

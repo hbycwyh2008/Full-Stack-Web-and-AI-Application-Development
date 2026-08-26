@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** the team's problem statement + prioritized requirements  
 **Durable Evidence:** user-flow diagram + information-architecture map
 
-## 0–4 min — Entry Point Check
-
-Individually arrange a shuffled set of screens/actions for a simple task such as submitting homework or booking a school event. Mark where a user could get lost or make an error.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Review the team's problem statement and requirements. Identify:
 
@@ -20,15 +16,19 @@ Review the team's problem statement and requirements. Identify:
 - success state;
 - likely error/empty states.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare task sequences and discuss where alternative paths, backtracking, or failure states are needed. Produce one shared flow with at least one branch.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually arrange a shuffled set of screens/actions for a simple task such as submitting homework or booking a school event. Mark where a user could get lost or make an error.
+
+## 14–19 min — Core Pattern
 
 Groups create a quick wall/board version of the user flow and IA. Another group attempts to follow the flow without verbal explanation. Record where the structure becomes ambiguous. Teacher clarifies only shared problems such as confusing navigation labels, missing states, or organizing content around developer structure instead of user goals.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Build the actual design foundation:
 
@@ -41,11 +41,11 @@ Build the actual design foundation:
 
 Use Figma/FigJam or the approved diagramming format.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually inspect a new mini-flow and identify one navigation/IA problem. Propose a revision and explain which user goal it supports.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit user-flow diagram, IA map, requirement links, and individual exit response.
 

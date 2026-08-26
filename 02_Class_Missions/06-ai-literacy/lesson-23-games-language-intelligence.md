@@ -40,13 +40,13 @@ By the end of Meeting 23C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Choose: “If an agent earns the highest reward, it must understand what the person wanted.” Agree, disagree, or unsure; add one reason. |
-| 3–17 | **Individual Learning** | Read the assigned Chapter 8 passage in two chunks. Mark S (state), A (action), R (reward), and U (unexpected behavior). After each chunk, paraphrase one step of the learning process. |
-| 17–22 | **Talk Round 1** | Partners retell one loop using: “In state ___, Rosie can ___; the reward tells it ___.” Then name one way reward and human purpose can differ. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one complete loop and one mismatch. Teacher clarifies only shared confusion about agent, state, action, reward, or the exploration choice. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a **Rosie State–Action–Reward Loop** with four steps and one boundary box. Teacher models the starting state; students use the passage to fill action, result, reward/update, and possible unintended strategy. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 23A. The boundary line must distinguish receiving reward from understanding the human purpose. |
-| 43–45 | **Submission** | Submit the Reward Loop and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Choose: “If an agent earns the highest reward, it must understand what the person wanted.” Agree, disagree, or unsure; add one reason. |
+| 3–17 | **Guided Practice** | Read the assigned Chapter 8 passage in two chunks. Mark S (state), A (action), R (reward), and U (unexpected behavior). After each chunk, paraphrase one step of the learning process. |
+| 17–22 | **Talk Robin 1** | Partners retell one loop using: “In state ___, Rosie can ___; the reward tells it ___.” Then name one way reward and human purpose can differ. |
+| 22–28 | **Core Pattern** | Pairs show one complete loop and one mismatch. Teacher clarifies only shared confusion about agent, state, action, reward, or the exploration choice. |
+| 28–38 | **Guided Practice** | Complete a **Rosie State–Action–Reward Loop** with four steps and one boundary box. Teacher models the starting state; students use the passage to fill action, result, reward/update, and possible unintended strategy. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 23A. The boundary line must distinguish receiving reward from understanding the human purpose. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Reward Loop and Learning Log entry. |
 
 ### Rosie State–Action–Reward Loop
 
@@ -66,13 +66,13 @@ By the end of Meeting 23C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Rank the stronger evidence of broad ability: winning the trained game, winning after a rule changes, or learning a new game. Give one reason. |
-| 3–17 | **Individual Learning** | Read both assigned chunks. In Chapter 9 mark task, training condition, and result. In Chapter 10 mark changed setting and transfer limit. Write one short paraphrase per chunk. |
-| 17–22 | **Talk Round 1** | Partners complete: “The system was highly successful at ___; transfer would require ___; the passage shows/does not show ___.” Cite a page from each chapter. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs display one supported success claim and one unsupported transfer claim. Teacher clarifies only shared confusion about specialized, environment, generalize, or transfer. |
-| 28–38 | **Guided Practice / Mission Task** | Complete a **Game Success / Transfer Audit**. Teacher models the defined game; students fill demonstrated success, fixed conditions, changed-task test, observed/likely boundary, and justified conclusion. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 23B. The boundary line must name a change the reported evidence did not test. |
-| 43–45 | **Submission** | Submit the Transfer Audit and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Rank the stronger evidence of broad ability: winning the trained game, winning after a rule changes, or learning a new game. Give one reason. |
+| 3–17 | **Guided Practice** | Read both assigned chunks. In Chapter 9 mark task, training condition, and result. In Chapter 10 mark changed setting and transfer limit. Write one short paraphrase per chunk. |
+| 17–22 | **Talk Robin 1** | Partners complete: “The system was highly successful at ___; transfer would require ___; the passage shows/does not show ___.” Cite a page from each chapter. |
+| 22–28 | **Core Pattern** | Pairs display one supported success claim and one unsupported transfer claim. Teacher clarifies only shared confusion about specialized, environment, generalize, or transfer. |
+| 28–38 | **Guided Practice** | Complete a **Game Success / Transfer Audit**. Teacher models the defined game; students fill demonstrated success, fixed conditions, changed-task test, observed/likely boundary, and justified conclusion. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 23B. The boundary line must name a change the reported evidence did not test. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Transfer Audit and Learning Log entry. |
 
 ### Game Success / Transfer Audit
 
@@ -92,13 +92,13 @@ By the end of Meeting 23C, students can:
 
 | Time | Classroom-flow block | Required student action |
 |---:|---|---|
-| 0–3 | **Entry Point Check** | Read one two-sentence mini-story and underline one fact the story never says directly but a reader normally infers. |
-| 3–17 | **Individual Learning** | Read both Chapter 11 chunks. In the story mark explicit fact E and reader inference I. In the word-pattern passage mark capability C and limit/bias B. Write one paraphrase per chunk. |
-| 17–22 | **Talk Round 1** | Partners use: “The words explicitly tell us ___; we infer ___ because we know ___.” Then connect this gap to one capability or limit of word patterns from the second chunk. |
-| 22–28 | **Entry Points Check / Teacher Diagnosis** | Pairs show one explicit/inferred pair and its missing background knowledge. Teacher clarifies only shared confusion about common sense, context, word vector, or bias. |
-| 28–38 | **Guided Practice / Mission Task** | Complete an **Explicit vs. Inferred Meaning Table** with two story rows and one word-pattern boundary row. Teacher models one explicit fact; students supply inference, knowledge needed, text evidence, and what pattern evidence cannot settle. |
-| 38–43 | **Exit Check** | Independently complete the four Learning Log lines for Meeting 23C. The evidence line uses the burned-hamburger case or word-pattern example and includes a page. |
-| 43–45 | **Submission** | Submit the Meaning Table and Learning Log entry. |
+| 0–3 | **Skill Warm-up** | Read one two-sentence mini-story and underline one fact the story never says directly but a reader normally infers. |
+| 3–17 | **Guided Practice** | Read both Chapter 11 chunks. In the story mark explicit fact E and reader inference I. In the word-pattern passage mark capability C and limit/bias B. Write one paraphrase per chunk. |
+| 17–22 | **Talk Robin 1** | Partners use: “The words explicitly tell us ___; we infer ___ because we know ___.” Then connect this gap to one capability or limit of word patterns from the second chunk. |
+| 22–28 | **Core Pattern** | Pairs show one explicit/inferred pair and its missing background knowledge. Teacher clarifies only shared confusion about common sense, context, word vector, or bias. |
+| 28–38 | **Guided Practice** | Complete an **Explicit vs. Inferred Meaning Table** with two story rows and one word-pattern boundary row. Teacher models one explicit fact; students supply inference, knowledge needed, text evidence, and what pattern evidence cannot settle. |
+| 38–43 | **Independent Rebuild** | Independently complete the four Learning Log lines for Meeting 23C. The evidence line uses the burned-hamburger case or word-pattern example and includes a page. |
+| 43–45 | **Talk Robin 2 + Evidence** | Submit the Meaning Table and Learning Log entry. |
 
 ### Explicit vs. Inferred Meaning Table
 

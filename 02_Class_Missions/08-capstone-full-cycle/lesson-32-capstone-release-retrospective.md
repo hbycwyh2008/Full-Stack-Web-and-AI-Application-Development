@@ -5,15 +5,7 @@
 **One Required Resource / Evidence Source:** completed capstone repository + Figma/research/test evidence  
 **Durable Evidence:** deployed release + final README + lifecycle evidence map + retrospective
 
-## 0–4 min — Entry Point Check
-
-Individually reconstruct the capstone lifecycle from memory:
-
-`problem → research → requirements → design → planning → implementation → testing → release → iteration`
-
-For each stage, name one piece of evidence from your own project. Circle the weakest evidence gap.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Audit the final project evidence. Verify that another person can find:
 
@@ -29,7 +21,7 @@ Audit the final project evidence. Verify that another person can find:
 
 Identify missing or confusing documentation.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs perform an evidence-chain review. Partner chooses one final feature and asks the team to trace it backward:
 
@@ -37,11 +29,19 @@ Pairs perform an evidence-chain review. Partner chooses one final feature and as
 
 Record any broken link in the chain.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually reconstruct the capstone lifecycle from memory:
+
+`problem → research → requirements → design → planning → implementation → testing → release → iteration`
+
+For each stage, name one piece of evidence from your own project. Circle the weakest evidence gap.
+
+## 14–19 min — Core Pattern
 
 Groups conduct a final readiness review: **ready to release / release with documented limitation / not ready**. They must cite evidence. Teacher only clarifies shared release/documentation barriers.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Complete release and handoff:
 
@@ -54,7 +54,7 @@ Complete release and handoff:
 
 Then build a one-page **Lifecycle Evidence Map** showing how the project moved through the entire course process.
 
-## 35–42 min — Independent Rebuild / Exit Check: Individual Retrospective
+## 30–40 min — Independent Rebuild
 
 Write a concise retrospective answering:
 
@@ -64,7 +64,7 @@ Write a concise retrospective answering:
 4. What would you do differently on the next software project?
 5. If AI was used in the product or workflow, was it actually justified and understood? If AI was not used, why was that reasonable?
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit deployed URL, repository/README, Figma link, Lifecycle Evidence Map, release record, and individual retrospective.
 

@@ -5,11 +5,7 @@
 **One Required Resource / Evidence Source:** approved Figma prototype + current HTML/CSS code  
 **Durable Evidence:** implementation PR + design comparison + known-gap list
 
-## 0–4 min — Entry Point Check
-
-Individually compare the current browser build with the Figma design. List three differences and classify each as **content / structure / style / responsive behavior / intentional deviation**.
-
-## 4–12 min — Individual Learning / Skill Warm-up
+## 0–5 min — Skill Warm-up
 
 Inspect both artifacts closely. Record the highest-impact mismatches affecting:
 
@@ -22,15 +18,19 @@ Inspect both artifacts closely. Record the highest-impact mismatches affecting:
 
 Prioritize the top three by user impact, not by visual annoyance.
 
-## 12–17 min — Talk Round 1
+## 5–9 min — Talk Robin 1
 
 Pairs compare priorities and select one mismatch that should **not** be fixed literally because the browser implementation needs a different solution. Explain the trade-off.
 
-## 17–22 min — Teacher Diagnosis / Core Pattern
+## 9–14 min — Entry Check
+
+Individually compare the current browser build with the Figma design. List three differences and classify each as **content / structure / style / responsive behavior / intentional deviation**.
+
+## 14–19 min — Core Pattern
 
 Groups conduct a quick implementation review using side-by-side browser/Figma evidence. Each group shows one semantic/layout success and one persistent mismatch. Teacher addresses only common implementation barriers.
 
-## 22–35 min — Guided Practice / Mission Task
+## 19–30 min — Guided Practice
 
 Complete a focused sprint:
 
@@ -43,11 +43,11 @@ Complete a focused sprint:
 
 Open or update a PR with screenshots and a checklist of requirements met.
 
-## 35–42 min — Independent Rebuild / Exit Check
+## 30–40 min — Independent Rebuild
 
 Individually explain one place where the final code differs from Figma. State whether it is a bug, limitation, responsive adaptation, or deliberate implementation decision, and justify it.
 
-## 42–45 min — Submission
+## 40–45 min — Talk Robin 2 + Evidence
 
 Submit PR link, comparison evidence, known-gap list, and individual exit response.
 

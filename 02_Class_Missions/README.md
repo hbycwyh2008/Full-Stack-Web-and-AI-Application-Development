@@ -17,7 +17,9 @@ The four posters establish the rules students will use in every later lesson:
 3. **AI Use Policy**
 4. **CS Competition Pathways**
 
-Only after students understand those four posters does Lesson 00 ask **What is computer science?** and explore the AP CSP connection.
+Only after students understand those four posters does Lesson 00 ask **What is
+computer science?** and use evidence to distinguish the discipline from
+programming.
 
 ## Priority Order
 

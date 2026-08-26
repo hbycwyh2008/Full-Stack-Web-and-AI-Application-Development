@@ -13,7 +13,7 @@ mastery = explain + build + debug + test + revise + transfer
 
 | Evidence | Examples |
 |---|---|
-| **CS understanding** | Lesson 00 field map, CS definition reflection, AP CSP preparation/gap map |
+| **CS understanding** | Lesson 00 field classifications, three-version CS definition reflection, independent evidence transfer |
 | **Research evidence** | stakeholder map, protocol, anonymized notes, affinity map |
 | **Product definition** | problem statement, requirements, constraints, success criteria |
 | **Design evidence** | user flow, IA, wireframes, Figma prototype, critique/test revisions |

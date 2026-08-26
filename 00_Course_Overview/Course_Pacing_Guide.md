@@ -14,16 +14,19 @@ Assumption: approximately **45 minutes per core lesson**.
 | 26–27 | 25–26 | Usability, QA, release, maintenance |
 | 28–33 | 27–32 | Capstone full cycle |
 
-## Lesson 00 Orientation Balance
+## Lesson 00 Classroom Flow
 
-Lesson 00 is not an AP CSP lecture. Recommended **45-minute** allocation:
+Lesson 00 uses the canonical **45-minute seven-block flow**:
 
-- 0–8: What counts as computer science? short evidence/card-sort;
-- 8–16: map of the CS discipline;
-- 16–26: software-development lifecycle challenge;
-- 26–34: **AP CSP CED discovery** (tight);
-- 34–42: course pathway / evidence setup;
-- 42–45: exit reflection.
+- 0–5: Skill Warm-up — initial CS classification and Definition Version 1;
+- 5–9: Talk Robin 1;
+- 9–14: Entry Check;
+- 14–19: Core Pattern — CS is broader than programming;
+- 19–30: Guided Practice — selected Evidence Bank items;
+- 30–40: Independent Rebuild — classify new evidence and write Version 3;
+- 40–45: Talk Robin 2 + Evidence.
+
+The previously completed AP CSP explanation is not repeated in Lesson 00.
 
 ## AI Literacy Placement
 

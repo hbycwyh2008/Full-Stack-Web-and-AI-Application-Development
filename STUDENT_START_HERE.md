@@ -27,7 +27,9 @@ Later, you will complete a focused AI literacy unit using Melanie Mitchell's _Ar
 
 ## AP CSP
 
-This course gives you a foundation for AP Computer Science Principles, but it is **not the AP CSP course**. In Lesson 00 you will discover which AP CSP ideas this course prepares you for and what you will still learn later.
+This course can support later AP Computer Science Principles study, but it is
+**not the AP CSP course**. The AP CSP relationship was explained separately and
+is not repeated in Lesson 00.
 
 ## Important
 

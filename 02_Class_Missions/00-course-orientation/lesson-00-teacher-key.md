@@ -79,7 +79,7 @@ Look for:
 4. a field map that recognizes more than programming and AI;
 5. at least one defensible cross-field connection;
 6. **Version 3** that is broader or more precise than Version 1;
-7. an AP CSP conclusion that identifies both real overlap and real gaps;
+7. an independent classification of G, L, or Q with evidence;
 8. a final transfer response using at least two specific pieces of evidence.
 
 Do not grade wording against the teacher definition. Grade evidence, reasoning, revision, and transfer.
@@ -118,47 +118,31 @@ The lesson should broaden students' model, not make them memorize this sentence.
 
 ## 30–40 min — Independent Rebuild
 
-The student workbook intentionally allows more than one defensible connection. Suggested strongest matches are below.
+Accept more than one defensible field when the student cites the evidence:
 
-| Course experience | Suggested strongest AP CSP connection | Notes |
-|---|---|---|
-| S1 — Interview users before designing | Computational Solution Design / Creative Development | User needs inform the design of a computational solution. |
-| S2 — Build and test a Figma prototype | Creative Development / Computational Solution Design | Strong design-process connection, though Figma itself is not AP CSP programming content. |
-| S3 — GitHub branches, commits, PRs, review | Creative Development | Collaboration and iterative development are authentic development practices; Git/GitHub mechanics are not AP CSP exam content. |
-| S4 — Write a JavaScript algorithm | Algorithms and Programming / Algorithms and Program Development | Direct connection. |
-| S5 — Debug using evidence | Code Analysis | Directly supports tracing, testing, reasoning, and correcting programs. |
-| S6 — Process data in a web app | Data | Direct connection when students represent, transform, or derive information from data. |
-| S7 — Usability test and revise | Computational Solution Design / Creative Development | Iterative design based on evidence. |
-| S8 — Analyze AI bias and limitations | Responsible Computing / Impact of Computing | Strong social-impact and responsible-computing connection. |
+| Evidence | Strongest field | Defensible second field | Key reasoning |
+|---|---|---|---|
+| **G** | Cybersecurity | Systems & Networks | Analyzes unauthorized access and designs protection. |
+| **L** | Software Engineering | Algorithms & Programming | Uses testing and review to decide whether integration is safe. |
+| **Q** | Computing & Society | Artificial Intelligence | Investigates fairness in an automated decision system. |
 
-### Important teacher stance
-
-Do **not** pretend that every authentic software-development practice maps cleanly to an AP CSP topic. For example:
-
-- GitHub workflow is valuable but Git commands are not AP CSP exam objectives;
-- Figma is valuable HCI/product-development practice but AP CSP does not assess Figma;
-- user research and usability testing support computational solution design but should not be presented as AP CSP content standards in themselves.
-
-The discovery should make the overlap **more accurate**, not larger.
+Students must also explain whether programming is the goal, a tool used to
+investigate the problem, or not directly required. Look for a Version 3
+definition that changes because of evidence rather than teacher wording.
 
 ---
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Students should recognize that this course does not replace AP CSP instruction in areas such as:
+Strong evidence includes:
 
-- binary representation;
-- data compression;
-- Internet protocols;
-- fault tolerance;
-- distributed computing;
-- AP pseudocode conventions;
-- Create performance task requirements;
-- AP-specific exam practice.
+- a concise Version 3 definition;
+- a specific Evidence Bank letter that changed the student's model;
+- an accurate explanation of the independent G/L/Q classification;
+- a transfer response using at least two pieces of evidence to address the
+  claim that the course is “basically a web-coding class.”
 
-A student does not need to check every item if they can justify why the course later addresses one of them, but the overall conclusion should remain:
-
-> This course develops many authentic computing and software-development practices that support AP CSP, but AP CSP includes additional conceptual content and assessment-specific preparation.
+Do not reward a long definition more than a defensible, evidence-based one.
 
 ---
 

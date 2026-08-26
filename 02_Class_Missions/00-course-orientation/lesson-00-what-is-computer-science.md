@@ -1,9 +1,9 @@
-# Lesson 00 — What Is Computer Science? + AP CSP Discovery
+# Lesson 00 — What Is Computer Science?
 
 **Prerequisite:** [Required Orientation — Learn the Course Through the Four Posters](required-orientation-four-posters.md)
 **Length:** 45 minutes
 **Classroom Flow:** [Canonical 45-Minute Structure](../shared/classroom-flow.md)
-**Mission:** Revise a model of computer science, distinguish CS from programming, and identify one genuine AP CSP connection and one gap.
+**Mission:** Revise a model of computer science, distinguish CS from programming, and use evidence to classify unfamiliar computing work.
 **One Required Resource:** [Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science)
 **Durable Evidence:** `reflections/lesson-00-what-is-computer-science.md`
 
@@ -13,8 +13,8 @@
 - [Teacher key](lesson-00-teacher-key.md)
 
 Students use the **45-minute required path** in the workbook. The complete
-Evidence Bank, full nine-field map, and extended AP CSP mapping are enrichment;
-do not attempt every workbook prompt in this lesson.
+Evidence Bank and full nine-field map are enrichment; do not attempt every
+workbook prompt in this lesson.
 
 If students do not yet have a personal GitHub repository, they save the
 Markdown file locally and upload it during GitHub Foundations.
@@ -148,17 +148,6 @@ Write and preserve:
 
 Then explain one specific change across Version 1 → Version 2 → Version 3.
 
-### Part C — AP CSP discovery
-
-Choose one real course experience—GitHub collaboration, JavaScript algorithms,
-data processing, interface design, AI bias, or debugging—and complete:
-
-- strongest AP CSP connection;
-- one-sentence evidence;
-- one AP CSP area that still requires separate instruction.
-
-The intended conclusion is accurate alignment, not “this course equals AP CSP.”
-
 ---
 
 ## 40–45 min — Talk Robin 2 + Evidence
@@ -167,7 +156,7 @@ Partners each have 45 seconds to state:
 
 1. their Version 3 definition;
 2. the evidence that changed it;
-3. one AP CSP connection or gap.
+3. how they classified the new independent evidence.
 
 Each student then completes:
 
@@ -195,11 +184,9 @@ Students can:
 - distinguish computer science from programming without separating them;
 - use concrete evidence to identify several overlapping CS fields;
 - preserve visible revision across three definitions;
-- independently classify a new example;
-- identify one genuine AP CSP connection and one remaining gap.
+- independently classify and defend a new example.
 
 ## Assessment Stance
 
 Assess evidence, reasoning, revision, and transfer. Do not grade memorization of
-one perfect CS definition or force AP CSP mappings that the evidence does not
-support.
+one perfect CS definition.

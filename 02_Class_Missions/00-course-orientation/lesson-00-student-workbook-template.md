@@ -6,8 +6,7 @@
 >
 > Follow the **45-minute required path** below. Replace only the placeholders
 > assigned by the lesson. Keep all three versions of your definition so your
-> learning is visible. Unassigned Evidence Bank and AP CSP prompts are optional
-> enrichment.
+> learning is visible. Unassigned Evidence Bank prompts are optional enrichment.
 
 **Name:** [WRITE HERE]  
 **Date:** [WRITE HERE]
@@ -23,12 +22,12 @@
 | **Entry Check** | Answer the three questions in the lesson plan |
 | **Core Pattern** | Selected Khan Academy segment + Definition Version 2 |
 | **Guided Practice** | Evidence A, E, I, K, M, and R only |
-| **Independent Rebuild** | One of G/L/Q + Definition Version 3 + one AP CSP connection and one gap |
+| **Independent Rebuild** | One of G/L/Q + Definition Version 3 |
 | **Talk Robin 2 + Evidence** | Transfer Prompt + save/submit the workbook |
 
-The full note-catcher, all Evidence Bank items, complete nine-field map, and
-eight-row AP CSP map remain available for extension. They are **not all due in
-one 45-minute lesson**.
+The full note-catcher, all Evidence Bank items, and complete nine-field map
+remain available for extension. They are **not all due in one 45-minute
+lesson**.
 
 ---
 
@@ -38,8 +37,7 @@ By the end of this lesson, I can:
 
 - distinguish computer science from computer programming;
 - identify several major areas of computer science;
-- use evidence to revise a definition;
-- explain where this course overlaps with AP Computer Science Principles (AP CSP) and where it does not.
+- use evidence to revise and defend a definition.
 
 ---
 
@@ -266,89 +264,7 @@ After the video, evidence investigation, pair discussion, and field map:
 
 ---
 
-# 6. AP CSP Discovery
-
-This section is not an AP CSP lecture or exam review. Use it to discover where this course genuinely overlaps with AP CSP.
-
-## AP CSP Big Ideas — Simplified Reference
-
-1. **Creative Development** — creating computational solutions and collaborating during development
-2. **Data** — representing, processing, and extracting information from data
-3. **Algorithms and Programming** — algorithms, program logic, abstraction, and program development
-4. **Computer Systems and Networks** — computing systems, the Internet, networks, and reliability
-5. **Impact of Computing** — effects of computing innovations on people and society
-
-## AP CSP Computational Thinking Practices — Simplified Reference
-
-1. Computational Solution Design
-2. Algorithms and Program Development
-3. Abstraction in Program Development
-4. Code Analysis
-5. Computing Innovations
-6. Responsible Computing
-
-Official reference: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
-
-## Course Experience Bank
-
-**S1.** Interview users before designing an application.  
-**S2.** Build and test a Figma prototype.  
-**S3.** Use GitHub branches, commits, pull requests, and review.  
-**S4.** Write a JavaScript algorithm.  
-**S5.** Debug a program using evidence.  
-**S6.** Process data inside a web application.  
-**S7.** Run a usability test and revise a design.  
-**S8.** Analyze AI bias, limitations, and responsible use.
-
-## Map This Course to AP CSP
-
-For the 45-minute lesson, choose **one** experience and its strongest
-connection. Completing all eight rows is optional extension.
-`No Strong Direct Match` is allowed. Do not force a connection.
-
-| Course Experience | Strongest AP CSP Big Idea or Practice | Why? |
-|---|---|---|
-| S1 — User interview | [WRITE HERE] | [WRITE HERE] |
-| S2 — Figma prototype | [WRITE HERE] | [WRITE HERE] |
-| S3 — GitHub workflow | [WRITE HERE] | [WRITE HERE] |
-| S4 — JavaScript algorithm | [WRITE HERE] | [WRITE HERE] |
-| S5 — Debugging | [WRITE HERE] | [WRITE HERE] |
-| S6 — Working with data | [WRITE HERE] | [WRITE HERE] |
-| S7 — Usability testing | [WRITE HERE] | [WRITE HERE] |
-| S8 — AI bias and limitations | [WRITE HERE] | [WRITE HERE] |
-
-## Find the Gap
-
-Mark `[x]` beside topics you believe this course **does not teach deeply enough to replace AP CSP**.
-
-- [ ] Binary representation
-- [ ] Data compression
-- [ ] Internet protocols
-- [ ] Fault tolerance
-- [ ] Distributed computing
-- [ ] AP pseudocode conventions
-- [ ] Create performance task requirements
-- [ ] AP exam practice
-
-### AP CSP Conclusion
-
-**Two AP CSP areas this course helps prepare me for:**
-
-1. [WRITE HERE]
-2. [WRITE HERE]
-
-**Two AP CSP areas I will still need to learn elsewhere or in AP CSP:**
-
-1. [WRITE HERE]
-2. [WRITE HERE]
-
-**One course experience that connects to more than one AP CSP idea/practice:** [WRITE HERE]
-
-> **This course is a foundation for AP CSP because** [WRITE HERE]. **It is not a replacement for AP CSP because** [WRITE HERE].
-
----
-
-# 7. Exit Check — Transfer the Model
+# 6. Exit Check — Transfer the Model
 
 Answer individually.
 
@@ -356,8 +272,6 @@ Answer individually.
 2. **Computer science studies** [WRITE HERE].
 3. **Programming matters in CS because** [WRITE HERE].
 4. **One specific piece of evidence that changed my model today was** [WRITE HERE].
-5. **One part of this course that prepares me for AP CSP is** [WRITE HERE].
-6. **One AP CSP area I will still need to learn later is** [WRITE HERE].
 
 ## Transfer Prompt
 
@@ -365,13 +279,13 @@ A student says:
 
 > “This class is basically a web-coding class.”
 
-Use **at least two specific pieces of evidence** from today's video, Evidence Bank, field map, or AP CSP discovery to disagree, qualify, or agree.
+Use **at least two specific pieces of evidence** from today's video, Evidence Bank, or field map to disagree, qualify, or agree.
 
 [WRITE HERE]
 
 ---
 
-# 8. Completion Check
+# 7. Completion Check
 
 Before committing this file, confirm:
 
@@ -379,8 +293,6 @@ Before committing this file, confirm:
 - [ ] I recorded the assigned idea from the selected Khan Academy segment.
 - [ ] I used the assigned Evidence Bank letters in Guided Practice.
 - [ ] I independently classified one new item: G, L, or Q.
-- [ ] I mapped one course experience to AP CSP without forcing the connection.
-- [ ] I identified one AP CSP gap.
 - [ ] My transfer response uses at least two specific pieces of evidence.
 - [ ] I replaced the `[WRITE HERE]` placeholders assigned in the required path.
 

@@ -1,9 +1,9 @@
 # 00 — Course Culture, Computer Science Orientation, and Software Lifecycle
 
-This unit begins with the **course culture**, not with computer science content and not with AP CSP.
+This unit begins with the **course culture**, not with computer science content.
 
-Before students study **What is computer science?**, the AP CSP CED connection,
-GitHub, HCI, Figma, or programming, they complete a required 45-minute
+Before students study **What is computer science?**, GitHub, HCI, Figma, or
+programming, they complete a required 45-minute
 orientation built around the four official course posters.
 
 ## Required Order
@@ -21,11 +21,12 @@ Students first understand:
 
 This orientation is a **prerequisite**, not an optional warm-up.
 
-### Lesson 00 — What Is Computer Science? + AP CSP Discovery
+### Lesson 00 — What Is Computer Science?
 
 [Lesson 00](lesson-00-what-is-computer-science.md)
 
-Only after the four posters are understood do students broaden their model of computer science and complete a short AP CSP CED discovery activity.
+Only after the four posters are understood do students broaden their model of
+computer science and distinguish the discipline from programming.
 
 ### Lesson 01 — Product Teardown: Trace the Software Lifecycle
 
@@ -40,20 +41,19 @@ first: understand how this class works
       ↓
 then: understand what computer science is
       ↓
-then: discover how this course overlaps with AP CSP
-      ↓
 then: study how software moves through a full lifecycle
       ↓
 then: GitHub → HCI → Figma → HTML/CSS/JavaScript → AI literacy → testing/release → capstone
 ```
 
-The four posters are more immediately important to students than memorizing a definition of computer science or AP CSP terminology because they establish the behavior and evidence expectations used in every later lesson.
+The four posters are more immediately important to students than memorizing a
+definition of computer science because they establish the behavior and evidence
+expectations used in every later lesson.
 
 ## Core Outputs
 
 - four-poster evidence + course-culture claim board;
 - CS field map;
-- AP CSP preparation/gap map;
 - software-development lifecycle model;
 - first GitHub-ready learning evidence.
 

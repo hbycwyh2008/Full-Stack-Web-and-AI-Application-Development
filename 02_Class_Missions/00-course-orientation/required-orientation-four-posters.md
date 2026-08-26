@@ -1,6 +1,6 @@
 # Required Orientation — Learn the Course Through the Four Posters
 
-**This session happens before Lesson 00, before “What Is Computer Science?”, and before the AP CSP CED discovery activity.**
+**This session happens before Lesson 00 and before “What Is Computer Science?”**
 
 **Length:** 45 minutes  
 **Mission:** Understand how learning, mastery, AI use, and optional competition pathways work in this course.  

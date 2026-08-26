@@ -36,7 +36,10 @@ Optional extension only when core outcomes are complete.
 
 ## AP CSP Foundation
 
-Lesson 00 includes a 10–15 minute AP CSP CED discovery. Students identify what this course prepares them for and what AP CSP will still teach. The course is AP CSP preparation, not an AP CSP replacement.
+The course can support later AP CSP study, but the AP CSP relationship is
+documented separately and is **not repeated in Lesson 00**. Lesson 00 focuses
+only on what computer science is, how it differs from programming, and how
+students revise that model using evidence.
 
 ## Teaching Principle
 

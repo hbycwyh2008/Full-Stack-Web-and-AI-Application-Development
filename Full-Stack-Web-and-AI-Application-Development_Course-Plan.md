@@ -89,7 +89,8 @@ The course prepares students strongly for parts of AP CSP, especially Creative D
 
 It does **not** replace AP CSP. Topics such as binary representation, data compression, Internet protocols, fault tolerance, distributed computing, AP pseudocode conventions, Create task requirements, and AP-specific exam practice remain for the AP CSP course.
 
-Lesson 00 contains a short CED discovery activity so students find this relationship themselves.
+This relationship is documented separately and is not repeated in Lesson 00,
+which focuses on defining computer science through evidence.
 
 Official source: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
 

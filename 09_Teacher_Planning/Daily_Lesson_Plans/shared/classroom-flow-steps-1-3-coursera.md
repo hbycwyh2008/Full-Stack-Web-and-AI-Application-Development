@@ -59,7 +59,7 @@ AI Literacy: one Mitchell passage (in class only)
 
 | Journey stage | Coursera course (exact name) | Provider | Link | Why it fits **this** course |
 |---|---|---|---|---|
-| **Discover** | **User Research and Design** | University of Minnesota | https://www.coursera.org/learn/design-research | Matches Discover: user needs, interviews/observation, ethics, personas/tasks—exactly the HCI evidence we need before Figma. |
+| **Discover** | **Start the UX Design Process: Empathize, Define, and Ideate** *(primary)*; Minnesota *User Research and Design* *(optional deepen)* | Google; University of Minnesota | https://www.coursera.org/learn/start-ux-design-process | G7-friendly needfinding + ask/observe/survey warm-ups before Figma’s brainstorm → 3 prototypes loop. |
 | **Design** | **Prototyping and Design** | University of Minnesota | https://www.coursera.org/learn/prototyping-design | Low-fi → hi-fi prototyping, design rationale, accessibility—feeds our Figma prototype outcome. |
 | **Design (Figma tool)** | **Principles of UX/UI Design** | Meta | https://www.coursera.org/learn/principles-of-ux-ui-design | Explicit Figma wireframes/prototypes; bridges research ideas to the tool students actually use. |
 | **Build** | **HTML, CSS, and Javascript for Web Developers** *(Specialization)* | Johns Hopkins University | https://www.coursera.org/specializations/html-css-javascript-for-web-developers | Same stack as our Build stage: HTML5 → CSS3 (+ Bootstrap) → JS. Browser-first, project-shaped lessons. |
@@ -86,16 +86,22 @@ Use one design below per class meeting. Web stages use the named Coursera clip; 
 
 ---
 
-### A. Discover — User needs & HCI questions
+### A. Discover — Needfinding, user data & survey questions (G7)
 
-**Primary Coursera course:** *User Research and Design* (University of Minnesota)
+**Primary Coursera course (simpler language):** *Start the UX Design Process: Empathize, Define, and Ideate* (Google)  
+https://www.coursera.org/learn/start-ux-design-process
 
-| Warm-up focus | Coursera resource to assign | Why this clip |
-|---|---|---|
-| What user research is | Module **User Research Methods — Part 1** → video **Introduction to User Research** (~3 min) | Frames “ask users, don’t guess”—core Discover move. |
-| Interview / observation | Same module → **Interview and Focus Groups** *or* **Observations** (pick one, ~10–15 min max; stop early if needed) | Concrete methods students will practice in HCI lessons. |
-| Ethics | Same module → **Ethics and Consent** (~16 min — assign first ~6–8 min only) | Required before any peer interview in class. |
-| From research → design input | Module **Analyzing and Delivering User Research** → **Personas I** *or* **Tasks and Walkthrough Scenarios** | Shows how notes become requirements for Design. |
+**Optional deepen (adult density):** *User Research and Design* (University of Minnesota)  
+https://www.coursera.org/learn/design-research
+
+**Loop framing for teachers:** HCI lessons are **Initial Needfinding** only. Brainstorm → 3 prototypes → evaluate → higher-fi continue in Figma Lessons 08–11.
+
+| Lesson | Warm-up focus | Coursera resource to assign | Why this clip |
+|---|---|---|---|
+| **05** Initial Needfinding | Why talk to users / empathize | Google Course 2 — Empathize / understanding users short video (≤ 5–8 min) | Frames needfinding: don’t guess needs. |
+| **06** Collect user data | Interview or observation | Google interview/observation tip clip **or** Minnesota **Interview and Focus Groups** / **Observations** (stop at ≤ 8 min) | Matches ask + watch lab. |
+| **07** Writing survey questions | Survey / research questions | Google survey/research-question tip clip **or** teacher bad→good card if no short clip | Matches survey rewrite practice. |
+| Consent | Keep light for G7 | Teacher 30-second consent script (unit printables) — prefer over full *Ethics and Consent* lecture | Peer research without adult ethics overload. |
 
 **Skill Warm-up task (students)**
 Watch/read the assigned clip. Write two lines:
@@ -111,44 +117,47 @@ Watch/read the assigned clip. Write two lines:
 
 **Entry Check (individual)**
 
-1. Name one user-research method from the warm-up.
+1. Name one way to collect user data from the warm-up (ask / observe / survey).
 2. Why is “I think users want X” weaker evidence than an observation or interview note?
-3. Write one ethical rule before interviewing a classmate.
+3. Write one consent rule before asking a classmate.
 
-**Why this course fits Discover:** It teaches *methods + ethics + synthesis*, not marketing slogans—so Discover produces **HCI evidence**, not opinions.
+**Why this stack fits Discover:** Google Empathize clips are G7-friendlier for “know the methods”; Minnesota remains optional deepen. Discover produces **needfinding evidence + survey craft**, not a full requirements document.
 
 ---
 
-### B. Design — Figma wireframes & interactive prototypes
+### B. Design — Brainstorm, 3 prototypes, evaluate, higher-fi (Figma)
 
 **Primary Coursera courses:**
 
-1. *Prototyping and Design* (University of Minnesota) — design thinking
+1. *Prototyping and Design* (University of Minnesota) — design thinking / prototyping
 2. *Principles of UX/UI Design* (Meta) — Figma practice
+3. *Evaluating User Interfaces* (University of Minnesota) — short eval warm-up for Lesson 10
+
+**Maps to Lessons 08–11 loop:** Brainstorm Alternatives → Create 3 Prototypes → Evaluate + Further Needfinding → Higher-Fidelity → Evaluate Again.
 
 | Warm-up focus | Coursera resource to assign | Why this clip |
 |---|---|---|
-| Why prototype | *Prototyping and Design* → Module **Interface Prototyping Techniques** (first lecture on paper/tool prototyping) | Justifies design-before-code for our Figma outcome. |
-| Design principles | Same course → Module **Design Principles and Patterns** (first principles video) | Gives language for critique later. |
-| Accessibility | Same course → Module **Universal Design, Accessibility, Special Populations** (intro video only) | Connects Design to later Test/a11y checks. |
-| Figma wireframe | *Principles of UX/UI Design* → modules on **Designing your UI** / Figma wireframe & prototype lessons | Tool match: students open Figma the same day. |
+| Why many alternatives | *Prototyping and Design* → early prototyping / alternatives video (≤ 8 min) | Supports Lesson 08–09 “3 prototypes” |
+| Why prototype | Same course → paper/tool prototyping intro | Justifies design-before-code |
+| Figma craft | *Principles of UX/UI Design* → wireframe/prototype lesson | Tool match for low-fi → high-fi |
+| Evaluate with users | *Evaluating User Interfaces* → usability test intro (≤ 8 min) | Feeds Lesson 10–11 eval labs |
 
 **Skill Warm-up task**
 After the clip: sketch **3 boxes** for today (e.g. Home → Task → Result) on paper or Figma; label one user action.
 
 **Talk Robin 1 prompts**
 
-- You: “My three screens are…”
+- You: “My three screens / alternatives are…”
 - Partner: “A user might get stuck at…”
 - Together: “One thing the Coursera clip said that we should copy is…”
 
 **Entry Check**
 
-1. What is the difference between a wireframe and a polished visual mockup?
-2. Name one reason to design in Figma before writing HTML.
+1. What is the difference between a low-fi prototype and a polished visual mockup?
+2. Name one reason to compare **three** prototypes before polishing one.
 3. Circle which is better first: (A) pixel-perfect colors (B) clear user flow.
 
-**Why these courses fit Design:** Minnesota supplies **HCI-quality prototyping theory**; Meta supplies **Figma craft**—together they match our “Figma prototype” course outcome without jumping into React.
+**Why these courses fit Design:** Minnesota supplies prototyping/eval theory; Meta supplies Figma craft—aligned with the iterate loop after HCI needfinding.
 
 ---
 

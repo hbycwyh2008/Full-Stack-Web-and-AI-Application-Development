@@ -20,10 +20,10 @@ Students perform discovery, research, requirements, design, planning, implementa
 Students use issues, branches, meaningful commits, pull requests, review, merge, and releases as normal development practice.
 
 ### HCI
-Students identify stakeholders, conduct ethical user research, separate evidence from assumptions, synthesize findings, define problems, write requirements, test with users, and iterate.
+Students practice needfinding: separate guesses from unknowns, collect user data by asking and observing, write survey questions, and keep evidence before inventing features. Full requirements documents are deferred; evaluation continues in Design and Test.
 
 ### Figma
-Students create user flows, information architecture, wireframes, reusable components, responsive high-fidelity prototypes, accessibility decisions, critique logs, and handoff evidence.
+Students run the iterate loop: brainstorm alternatives, create three low-fi prototypes, evaluate with peers and capture further needfinding questions, then build a higher-fidelity clickable prototype and evaluate again.
 
 ### Programming
 Students use HTML, CSS, and JavaScript to implement designed products and practice algorithms, abstraction, data structures, code analysis, and debugging.

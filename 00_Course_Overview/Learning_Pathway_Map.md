@@ -11,11 +11,11 @@ Students move through six stages. Each stage produces artifacts that feed the ne
 
 ```text
 ┌─────────────┐
-│  DISCOVER   │  User needs & HCI questions
+│  DISCOVER   │  Needfinding, user data & survey questions
 └──────┬──────┘
        ↓
 ┌─────────────┐
-│   DESIGN    │  Figma wireframes & interactive prototypes
+│   DESIGN    │  Brainstorm → 3 prototypes → evaluate → higher-fi
 └──────┬──────┘
        ↓
 ┌─────────────┐
@@ -37,8 +37,8 @@ Students move through six stages. Each stage produces artifacts that feed the ne
 
 | Stage | Students learn to… | Typical artifacts |
 |---|---|---|
-| **Discover** | Ask HCI questions; identify users, needs, and context | Research notes, problem statement, success criteria |
-| **Design** | Turn needs into flows, wireframes, and interactive prototypes | Figma wireframes, high-fidelity prototype |
+| **Discover** | Practice needfinding; ask, observe, and write survey questions | Needfinding sheet, ask/observe notes, survey draft |
+| **Design** | Brainstorm alternatives; build 3 low-fi prototypes; evaluate; raise fidelity; evaluate again | Brainstorm board, 3 prototypes, eval notes, high-fi Figma |
 | **Build** | Implement the design in the browser | HTML / CSS / Bootstrap / JavaScript pages |
 | **Collaborate** | Work like a development team on GitHub | Issues, branches, PRs, review comments |
 | **Test** | Gather evidence and improve the product | Usability tests, heatmaps / feedback, iteration log |

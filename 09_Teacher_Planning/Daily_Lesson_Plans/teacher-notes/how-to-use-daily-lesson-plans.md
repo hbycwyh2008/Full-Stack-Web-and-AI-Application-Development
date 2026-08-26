@@ -18,7 +18,8 @@
 1. Read the daily plan for that session.
 2. Print or share `shared/mastery-levels.md` and `shared/talk-robin-rules.md` (Lesson 1).
 3. Open projector demo account / sample repo.
-4. Check devices, GitHub auth, Oh My Git (Lesson 4), local Git (Lesson 5).
+4. Check devices and GitHub authentication; prepare Git or GitHub Desktop
+   before Lesson 5, Pages before Lesson 11, and VS Code before Lesson 14.
 5. Prepare Exit Evidence submission form (LMS, QR, or shared doc).
 
 ---
@@ -39,14 +40,15 @@ Use a visible timer for Talk Robin (45s / 45s / 30s).
 ## After Class
 
 - Collect Exit Evidence same day when possible.
-- Note students who need finish-up (unfinished rebuild).
+- Note unfinished practice so it can continue next class.
+- Only the day’s `learning-log.md` Exit Ticket may be finished at home.
 - Log common mistakes for next Entry Check.
 
 ---
 
 ## Phase 0 Student Repo
 
-Daily plans use **`cs-learning-log`** for teaching clarity. You may later align with **`student-portfolio`** per `Student_GitHub_Repository_Guide.md` — tell students explicitly.
+Daily plans use **`YourName-Full-Stack-Web-and-AI-Application-Development`** for teaching clarity. You may later align with **`student-portfolio`** per `Student_GitHub_Repository_Guide.md` — tell students explicitly.
 
 ---
 

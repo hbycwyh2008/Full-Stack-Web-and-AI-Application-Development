@@ -81,9 +81,11 @@ You can use the same pattern in a **new situation**, **modify** it, **debug** co
 |---|---|---|
 | Create repo + README | | |
 | Meaningful commit messages | | |
-| File organization | | |
-| Read commit history | | |
+| Branch, pull request, and merge | | |
+| Issues, Projects, Pages, and Markdown | | |
+| Account and repository security | | |
+| Open source contribution planning | | |
 | Local add / commit / push | | |
 | Explain orally | | |
 
-Update after Lesson 6 mastery check.
+Update after the Lesson 15 mastery check.

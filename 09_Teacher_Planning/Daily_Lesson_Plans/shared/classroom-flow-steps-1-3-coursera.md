@@ -75,7 +75,7 @@ AI Literacy: one Mitchell passage (in class only)
 |---|---|---|---|---|
 | **AI Literacy** *(parallel)* | ***Artificial Intelligence: A Guide for Thinking Humans*** | Melanie Mitchell | https://melaniemitchell.me/aibook/ | Canonical AI unit: claim–evidence reading, what AI can/cannot do, failure, generalization, language, understanding—without videos or a second AI course. Matches the course poster’s AI Literacy habits. |
 
-Canonical unit files: [`02_Class_Missions/06-ai-literacy/`](../../../02_Class_Missions/06-ai-literacy/).  
+Canonical unit files: [`02_Class_Missions/06-ai-literacy/`](../../../02_Class_Missions/06-ai-literacy/).
 Exact in-class passages: [`required-reading-map.md`](../../../02_Class_Missions/06-ai-literacy/required-reading-map.md).
 
 ---
@@ -97,22 +97,22 @@ Use one design below per class meeting. Web stages use the named Coursera clip; 
 | Ethics | Same module → **Ethics and Consent** (~16 min — assign first ~6–8 min only) | Required before any peer interview in class. |
 | From research → design input | Module **Analyzing and Delivering User Research** → **Personas I** *or* **Tasks and Walkthrough Scenarios** | Shows how notes become requirements for Design. |
 
-**Skill Warm-up task (students)**  
+**Skill Warm-up task (students)**
 Watch/read the assigned clip. Write two lines:
 
-1. One thing the researcher did.  
+1. One thing the researcher did.
 2. One thing I’m still confused about.
 
 **Talk Robin 1 prompts**
 
-- You: “What was done in the research example was…”  
-- Partner: “What was confusing was…”  
+- You: “What was done in the research example was…”
+- Partner: “What was confusing was…”
 - Together: “One question we would ask a real user of our project is…”
 
 **Entry Check (individual)**
 
-1. Name one user-research method from the warm-up.  
-2. Why is “I think users want X” weaker evidence than an observation or interview note?  
+1. Name one user-research method from the warm-up.
+2. Why is “I think users want X” weaker evidence than an observation or interview note?
 3. Write one ethical rule before interviewing a classmate.
 
 **Why this course fits Discover:** It teaches *methods + ethics + synthesis*, not marketing slogans—so Discover produces **HCI evidence**, not opinions.
@@ -123,8 +123,8 @@ Watch/read the assigned clip. Write two lines:
 
 **Primary Coursera courses:**
 
-1. *Prototyping and Design* (University of Minnesota) — design thinking  
-2. *Principles of UX/UI Design* (Meta) — Figma practice  
+1. *Prototyping and Design* (University of Minnesota) — design thinking
+2. *Principles of UX/UI Design* (Meta) — Figma practice
 
 | Warm-up focus | Coursera resource to assign | Why this clip |
 |---|---|---|
@@ -133,19 +133,19 @@ Watch/read the assigned clip. Write two lines:
 | Accessibility | Same course → Module **Universal Design, Accessibility, Special Populations** (intro video only) | Connects Design to later Test/a11y checks. |
 | Figma wireframe | *Principles of UX/UI Design* → modules on **Designing your UI** / Figma wireframe & prototype lessons | Tool match: students open Figma the same day. |
 
-**Skill Warm-up task**  
+**Skill Warm-up task**
 After the clip: sketch **3 boxes** for today (e.g. Home → Task → Result) on paper or Figma; label one user action.
 
 **Talk Robin 1 prompts**
 
-- You: “My three screens are…”  
-- Partner: “A user might get stuck at…”  
+- You: “My three screens are…”
+- Partner: “A user might get stuck at…”
 - Together: “One thing the Coursera clip said that we should copy is…”
 
 **Entry Check**
 
-1. What is the difference between a wireframe and a polished visual mockup?  
-2. Name one reason to design in Figma before writing HTML.  
+1. What is the difference between a wireframe and a polished visual mockup?
+2. Name one reason to design in Figma before writing HTML.
 3. Circle which is better first: (A) pixel-perfect colors (B) clear user flow.
 
 **Why these courses fit Design:** Minnesota supplies **HCI-quality prototyping theory**; Meta supplies **Figma craft**—together they match our “Figma prototype” course outcome without jumping into React.
@@ -154,7 +154,7 @@ After the clip: sketch **3 boxes** for today (e.g. Home → Task → Result) on 
 
 ### C. Build — HTML · CSS · Bootstrap · JavaScript
 
-**Primary Coursera program:** *HTML, CSS, and Javascript for Web Developers* Specialization (Johns Hopkins University)  
+**Primary Coursera program:** *HTML, CSS, and Javascript for Web Developers* Specialization (Johns Hopkins University)
 https://www.coursera.org/specializations/html-css-javascript-for-web-developers
 
 | Build topic | Coursera course inside the specialization | Warm-up resource | Why it fits |
@@ -164,19 +164,19 @@ https://www.coursera.org/specializations/html-css-javascript-for-web-developers
 | Page build pattern | *Coding the Static Restaurant Site* | First “project structure / implement the page” video | Models “turn design into a real page”—prep for Create. |
 | Interactivity | *Introduction to Javascript and Ajax: Building Web Apps* | First JS values/functions or DOM intro video (one idea only) | Feeds JavaScript interaction lessons without frameworks. |
 
-**Skill Warm-up task**  
+**Skill Warm-up task**
 Watch the assigned JHU clip. In notes, copy **one** tiny pattern (e.g. one semantic tag pair, one CSS rule idea, one `function` shape)—not a full page.
 
 **Talk Robin 1 prompts**
 
-- You: “The pattern I saw was…”  
-- Partner: “The part that confused me was…”  
+- You: “The pattern I saw was…”
+- Partner: “The part that confused me was…”
 - Together: “In our project, we would use this when…”
 
 **Entry Check**
 
-1. What does today’s warm-up pattern do in one sentence?  
-2. Predict: if we change X, what should happen on the page?  
+1. What does today’s warm-up pattern do in one sentence?
+2. Predict: if we change X, what should happen on the page?
 3. Mark True/False: “Watching the Coursera video alone means I mastered the skill.” (Answer: False — rebuild comes later.)
 
 **Why JHU fits Build:** Browser-only stack, progressive HTML→CSS(+Bootstrap)→JS, and project labs—aligned with “interactive websites & browser games,” not Node/React-first curricula.
@@ -185,39 +185,47 @@ Watch the assigned JHU clip. In notes, copy **one** tiny pattern (e.g. one seman
 
 ### D. Collaborate — GitHub workflow & peer review
 
-**Decided stack (no Coursera):** YouTube warm-up clips + **GitHub official Docs / Skills** practice.  
-Canonical copies already live in Phase 0 / Git unit lesson plans.
+**Decided stack (no Coursera):** [GitHub for Beginners](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f) — **one video per class**, skip Actions. Practice in class. **No video homework.** Exit Ticket = `learning-log.md` only.
+
+Map: `02_Class_Missions/01-github-foundations/README.md`.
 
 | Role | Resource | Link |
 |---|---|---|
-| Skill Warm-up (YouTube) | GitHub for Beginners Playlist — **one** 5–8 min clip | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f |
-| Skill Warm-up (optional) | A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs |
-| Official guide | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world |
-| Official guide | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories |
-| Official practice | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github |
-| Supporting game | Oh My Git! (intro levels only) | https://ohmygit.org/ |
+| Skill Warm-up (Lesson 1) | Playlist #1 — What is Git? | https://www.youtube.com/watch?v=r8jQ9hVA2qs |
+| Skill Warm-up (Lesson 2) | Playlist #2 — Essential Git commands | https://www.youtube.com/watch?v=rE2zRhZdjFU |
+| Skill Warm-up (Lesson 3) | Playlist #3 — Create a repository | https://www.youtube.com/watch?v=-RZ03WHqkaY |
+| Skill Warm-up (Lesson 4) | Playlist #4 — Upload files and folders | https://www.youtube.com/watch?v=tlu5e0TxSzo |
+| Skill Warm-up (Lesson 5) | Playlist #5 — Add code | https://www.youtube.com/watch?v=g2XjJhrGGg4 |
+| Skill Warm-up (Lesson 6) | Playlist #6 — Create a PR | https://www.youtube.com/watch?v=nCKdihvneS0 |
+| Skill Warm-up (Lesson 7) | Playlist #7 — Merge a PR | https://www.youtube.com/watch?v=FDXSgyDGmho |
+| Skill Warm-up (Lesson 8) | Playlist #8 — Profile and account safety | https://www.youtube.com/watch?v=T_PKBNImooA |
+| Skill Warm-up (Lesson 9) | Playlist #9 — Issues and Projects | https://www.youtube.com/watch?v=c67GaAkf1BE |
+| Skip | Playlist #10 Actions | https://www.youtube.com/watch?v=BQrohJ3PT7I |
+| Skill Warm-up (Lesson 10) | Playlist #11 — GitHub security | https://www.youtube.com/watch?v=zhxXaFzzJYA |
+| Skill Warm-up (Lesson 11) | Playlist #12 — GitHub Pages | https://www.youtube.com/watch?v=b2r9Cdvssi0 |
+| Skill Warm-up (Lesson 12) | Playlist #13 — Markdown | https://www.youtube.com/watch?v=LxeclcePg-c |
+| Skill Warm-up (Lesson 13) | Playlist #14 — Open source contributions | https://www.youtube.com/watch?v=WldXhauP024 |
+| Skill Warm-up (Lesson 14) | Playlist #15 — Git and GitHub in VS Code | https://www.youtube.com/watch?v=NFjz1AGKA4c |
+| Skill Warm-up (Lesson 15) | Playlist #16 — Common beginner questions | https://www.youtube.com/watch?v=ZgARMqR3qq8 |
+| Official practice | GitHub Skills: Introduction to GitHub (**Lessons 6–7**) | https://github.com/skills/introduction-to-github |
+| Official practice | GitHub Skills: Communicate using Markdown (**Lesson 12**) | https://github.com/skills/communicate-using-markdown |
 
-| Warm-up focus | What to assign | Why |
-|---|---|---|
-| What GitHub is | **One** clip from GitHub for Beginners playlist | Short, visual; G6-friendly warm-up. |
-| First repo / commit | Docs **Hello World** (guided steps in class) | Official path: create → commit → history. |
-| Files on the web | Docs **Quickstart for repositories** | Official create/edit files pattern. |
-| Extra practice | Skills **Introduction to GitHub** (optional / finish-up, not graded binge) | Hands-on official exercises on github.com. |
-| Commit history metaphor | Oh My Git! selected intro levels | Bridges game timeline → real GitHub history. |
+**Skill Warm-up task**
+Watch the **one** assigned playlist video for that lesson.
 
-**Skill Warm-up task**  
-Watch the assigned YouTube clip **or** complete the named Docs step. Write: “A commit is ___ / On GitHub I can see ___.”
+**Exit Ticket**
+`learning-log.md` Lesson N: What I did / learned / hard. That is the only homework if not finished in class.
 
 **Talk Robin 1 prompts**
 
-- You: “What was done in the GitHub workflow was…”  
-- Partner: “What was confusing was…”  
+- You: “What was done in the GitHub workflow was…”
+- Partner: “What was confusing was…”
 - Together: “One rule our team should follow is…”
 
 **Entry Check**
 
-1. What is the difference between a **commit** and a **push**?  
-2. Why does commit history matter as learning evidence?  
+1. What is the difference between a **commit** and a **push**?
+2. Why does commit history matter as learning evidence?
 3. Write one good commit-message idea for “I fixed the nav link.”
 
 **Why this fits Collaborate:** Same stack you already authored—official GitHub teaching + short YouTube—better for G6 than a Coursera university Git course, and already wired into daily lesson plans.
@@ -226,7 +234,7 @@ Watch the assigned YouTube clip **or** complete the named Docs step. Write: “A
 
 ### E. Test — HCI experiments, evidence & iteration
 
-**Primary Coursera course:** *Evaluating User Interfaces* (University of Minnesota)  
+**Primary Coursera course:** *Evaluating User Interfaces* (University of Minnesota)
 https://www.coursera.org/learn/ui-testing
 
 | Warm-up focus | Module + resource | Why this clip |
@@ -235,19 +243,19 @@ https://www.coursera.org/learn/ui-testing
 | Eval with users | Modules **Evaluation with Users** — usability test intro / lab example | Matches “HCI experiments” and usability panels in our poster. |
 | Release criteria | Module **Wrap-Up** — usability goals | Connects evidence → “good enough to publish.” |
 
-**Skill Warm-up task**  
+**Skill Warm-up task**
 From the clip, list **2** things an evaluator looks for (e.g. confusing label, slow task).
 
 **Talk Robin 1 prompts**
 
-- You: “One problem a usability test could find in our site is…”  
-- Partner: “Evidence we would write down is…”  
+- You: “One problem a usability test could find in our site is…”
+- Partner: “Evidence we would write down is…”
 - Together: “If the success rate is low, our next change would be…”
 
 **Entry Check**
 
-1. What is one difference between guessing “users will like it” and running a short usability task?  
-2. Name one thing you would measure (time, errors, success, satisfaction).  
+1. What is one difference between guessing “users will like it” and running a short usability task?
+2. Name one thing you would measure (time, errors, success, satisfaction).
 3. After a failed task, what should the team do next: ship anyway, or iterate? Why?
 
 **Why this course fits Test:** It is literally UI evaluation with and without users—the academic backbone of our Test stage and **HCI evidence** outcome.
@@ -263,19 +271,19 @@ From the clip, list **2** things an evaluator looks for (e.g. confusing label, s
 | Ship a multi-page experience | *Coding the Static Restaurant Site* — structure / navigation implementation video | Pattern: plan sections → implement → check on devices. |
 | Add interaction | *Introduction to Javascript and Ajax: Building Web Apps* — one DOM/events or small app intro video | Pattern students rebuild as game loop / UI state. |
 
-**Skill Warm-up task**  
+**Skill Warm-up task**
 Identify the **core pattern** in the clip in one line: e.g. “listen for event → update page state → show feedback.”
 
 **Talk Robin 1 prompts**
 
-- You: “The pattern to rebuild is…”  
-- Partner: “Where I would get stuck rebuilding it is…”  
+- You: “The pattern to rebuild is…”
+- Partner: “Where I would get stuck rebuilding it is…”
 - Together: “Our published project will prove this pattern by…”
 
 **Entry Check**
 
-1. Restate today’s pattern without looking at notes.  
-2. What evidence will prove you can rebuild it (commit, URL, screenshot)?  
+1. Restate today’s pattern without looking at notes.
+2. What evidence will prove you can rebuild it (commit, URL, screenshot)?
 3. What is *not* allowed as “done”? (Answer examples: only watching Coursera; copying without explaining.)
 
 **Why this fits Create:** Coursera shows a worked example; **Create** requires students to rebuild and publish **their** site/game—matching the poster goal: *rebuild and explain independently*.
@@ -284,8 +292,8 @@ Identify the **core pattern** in the clip in one line: e.g. “listen for event 
 
 ### G. AI Literacy (parallel track)
 
-**Required text (sole content source):** Melanie Mitchell, ***Artificial Intelligence: A Guide for Thinking Humans***  
-Book page: https://melaniemitchell.me/aibook/  
+**Required text (sole content source):** Melanie Mitchell, ***Artificial Intelligence: A Guide for Thinking Humans***
+Book page: https://melaniemitchell.me/aibook/
 Canonical unit: [`02_Class_Missions/06-ai-literacy/`](../../../02_Class_Missions/06-ai-literacy/)
 
 **Not used for AI Literacy warm-ups:** Coursera *AI for Everyone*, *Generative AI for Everyone*, videos, news, chatbot demos, or online chapter summaries.
@@ -300,25 +308,25 @@ Canonical unit: [`02_Class_Missions/06-ai-literacy/`](../../../02_Class_Missions
 | Language, meaning, analogy | Ch. 11–15 (Meetings 23C–24B) | Supports spotting fluent-but-wrong outputs (hallucination-adjacent literacy). |
 | How a thinking human judges AI claims | Ch. 16 + prior logs (Meeting 24C) | Caps the unit with evidence-based judgment + disclosure habits in class use of tools. |
 
-**Skill Warm-up (Step 1) — Mitchell, not Coursera**  
+**Skill Warm-up (Step 1) — Mitchell, not Coursera**
 Teacher posts exact chapter + page range for today’s meeting (edition-specific). Students read the assigned **300–450 word** chunk in class and mark:
 
-- **C** = claim  
-- **E** = evidence / example  
-- **?** = unclear  
+- **C** = claim
+- **E** = evidence / example
+- **?** = unclear
 
 Ready line: “Mitchell’s main point here is ___ because ___.”
 
 **Talk Robin 1 prompts**
 
-- You: “Mitchell’s claim was…”  
-- Partner: “The evidence/example she used was…”  
+- You: “Mitchell’s claim was…”
+- Partner: “The evidence/example she used was…”
 - Together: “What is still confusing / what the evidence does *not* prove is…”
 
 **Entry Check**
 
-1. Restate Mitchell’s claim in one sentence (own words).  
-2. Name one piece of evidence or case from the passage.  
+1. Restate Mitchell’s claim in one sentence (own words).
+2. Name one piece of evidence or case from the passage.
 3. Write one boundary: “This shows ___ but does **not** show ___.”
 
 **Why Mitchell fits this course:** The poster’s AI Literacy track is judgment literacy—capability limits, careful reading of AI claims, and responsible classroom use—not an Andrew Ng Coursera survey. Mitchell is already the sole input for Lessons 21–24.
@@ -329,20 +337,20 @@ Ready line: “Mitchell’s main point here is ___ because ___.”
 
 Before class:
 
-- [ ] Journey stage for today is clear (Discover / Design / Build / Collaborate / Test / Create / AI).  
-- [ ] **Web stages:** one Coursera URL + exact clip title on the board or LMS.  
-- [ ] **AI Literacy:** exact Mitchell chapter + page range (class edition) on the board; word limit ≤ 450.  
-- [ ] Timebox set (no Coursera binge; no “finish the chapter at home”).  
-- [ ] Talk Robin prompts on a slide.  
-- [ ] Entry Check (2–4 items) printed or posted.  
+- [ ] Journey stage for today is clear (Discover / Design / Build / Collaborate / Test / Create / AI).
+- [ ] **Web stages:** one Coursera URL + exact clip title on the board or LMS.
+- [ ] **AI Literacy:** exact Mitchell chapter + page range (class edition) on the board; word limit ≤ 450.
+- [ ] Timebox set (no Coursera binge; no “finish the chapter at home”).
+- [ ] Talk Robin prompts on a slide.
+- [ ] Entry Check (2–4 items) printed or posted.
 - [ ] Plan: how Entry Check results will shape the Core Pattern micro-lesson.
 
 During class:
 
-- [ ] Warm-up ends on time (pause Coursera video or stop Mitchell reading at the assigned end).  
-- [ ] Talk Robin surfaces confusion **before** Entry Check.  
-- [ ] Entry Check is silent and individual.  
-- [ ] Collect or scan Entry Checks before Core Pattern.  
+- [ ] Warm-up ends on time (pause Coursera video or stop Mitchell reading at the assigned end).
+- [ ] Talk Robin surfaces confusion **before** Entry Check.
+- [ ] Entry Check is silent and individual.
+- [ ] Collect or scan Entry Checks before Core Pattern.
 - [ ] AI Literacy: Mission evidence stays tied to the assigned Mitchell passage.
 
 ---

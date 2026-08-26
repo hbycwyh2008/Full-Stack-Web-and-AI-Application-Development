@@ -13,9 +13,13 @@
 - What GitHub is and why this course uses it for **learning evidence**
 - How to create a repository, write `README.md`, and organize folders
 - How to make **meaningful commits** and read **commit history**
-- Basic workflow: save → commit → (push when using local Git)
+- How to upload files, add code, and publish a small GitHub Pages site
+- How to create, review, and merge a pull request
+- How Issues and Projects organize work
+- How profiles, accounts, and repositories stay secure
+- How Markdown, forks, and contribution guides support collaboration
+- Local workflow in VS Code: edit → stage → commit → push
 - Difference between the **teacher course repo** and **your personal repo**
-- How to use a branch and pull request (Phase 0 capstone task)
 
 ---
 
@@ -44,7 +48,10 @@ Follow your teacher’s timing. Each session uses the blocks below.
 
 ### 1. Skill Warm-up
 
-**You do:** Short video clip, reading, or checklist task — **not** passive watching.
+**You do:** One official GitHub for Beginners video per lesson — **not** passive watching.
+
+The playlist contains 16 videos. Playlist #10, GitHub Actions, is excluded;
+the other 15 videos are taught in playlist order, one video per lesson.
 
 - Note one reason people use GitHub
 - Note one thing that is **not** enough to count as learning (e.g. watching only)
@@ -74,21 +81,30 @@ Follow your teacher’s timing. Each session uses the blocks below.
 
 | Session | Pattern |
 |---|---|
-| 1 | create repo → edit README → commit → check history → submit evidence |
-| 2 | small change → meaningful commit → visible history |
-| 3 | create folder → create file → write → commit → check structure |
-| 4 | game timeline → commit history → learning evidence |
-| 5 | change file → status → add → commit → push → check GitHub |
-| 6 | independent task → meaningful commit → evidence → oral explanation |
+| 1 | version control → snapshots → Git evidence |
+| 2 | status → add → commit → push / pull |
+| 3 | create repository → README → commit |
+| 4 | upload folder → verify path → commit |
+| 5 | clone → branch → add code → stage → commit → push |
+| 6 | branch → focused change → open pull request |
+| 7 | review diff → merge pull request → verify target branch |
+| 8 | professional profile → 2FA → private recovery information |
+| 9 | issue → label → project status |
+| 10 | secret scanning → Dependabot → security checklist |
+| 11 | static page → Pages deployment → public URL |
+| 12 | Markdown source → preview → rendered documentation |
+| 13 | contribution rules → fork → contribution plan |
+| 14 | VS Code edit → stage → commit → push |
+| 15 | FAQ → final task → evidence → oral explanation |
 
 ### 5. Guided Practice
 
 **You follow along** with class support:
 
-- Create repo `student-portfolio` or `yourname-full-stack-ai-portfolio`
-- Add files from [student-root-README-template](../../03_Templates/student-root-README-template.md)
+- Create repo `YourName-Full-Stack-Web-and-AI-Application-Development`
+- Complete the one guided practice named in the current class mission
 - Commit with **meaningful messages** (not `update`, `final`)
-- Open **Commits** tab — verify history
+- Open the relevant repository, issue, project, pull request, deployment, or commit view to verify evidence
 
 ### 6. Independent Rebuild
 
@@ -114,20 +130,21 @@ Follow your teacher’s timing. Each session uses the blocks below.
 **Phase 0 minimum** (in your personal repo):
 
 ```text
-student-portfolio/
-├── README.md              ← from template, personalized
-├── .gitignore
-├── profile/
-│   ├── about-me.md
-│   └── learning-goals.md
-└── reflections/
-    └── weekly-reflection-01.md
+YourName-Full-Stack-Web-and-AI-Application-Development/
+├── README.md
+├── learning-log.md
+├── github-foundations/
+│   └── lesson practice artifacts
+└── mastery-check/
+    └── final-github-practice.md
 ```
 
 **Also required:**
 
 - [ ] Multiple **meaningful commits** (readable history)
-- [ ] Branch `update-profile` → edit README → **pull request** → **merge**
+- [ ] All 15 learning-log entries with evidence links
+- [ ] GitHub Skills pull request created in Lesson 6 and merged in Lesson 7
+- [ ] Lesson 15 mastery-check file and oral explanation
 - [ ] Repository link submitted to teacher
 - [ ] Phase 0 sign-off: [Student_GitHub_Assessment.md](../../04_Assessment/Student_GitHub_Assessment.md)
 
@@ -138,8 +155,8 @@ student-portfolio/
 ## Extension Task
 
 - Add `certificates/` folder placeholder for future modules
-- Complete optional [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) — not required for credit
 - Start empty `ai-literacy/` folder if teacher asks you to prepare early
+- Explore Oh My Git or Learn Git Branching after required lesson evidence is complete
 
 ---
 
@@ -158,11 +175,11 @@ Answer in `reflections/weekly-reflection-01.md` or your learning log:
 
 - [ ] Public personal repo with correct name
 - [ ] Root `README.md` complete (template-based, personalized)
-- [ ] `.gitignore` present
-- [ ] `profile/about-me.md` and `profile/learning-goals.md` — real content
-- [ ] `reflections/weekly-reflection-01.md` — your own words
+- [ ] All 15 entries in `learning-log.md`
+- [ ] Required `github-foundations/` practice artifacts
+- [ ] `mastery-check/final-github-practice.md`
 - [ ] Multiple meaningful commits visible on Commits tab
-- [ ] Branch `update-profile` merged via PR
+- [ ] GitHub Skills pull request merged
 - [ ] Repo link submitted to teacher
 - [ ] You can explain your repo orally if asked
 

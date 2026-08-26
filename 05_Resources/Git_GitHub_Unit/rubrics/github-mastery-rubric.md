@@ -1,7 +1,7 @@
-# GitHub Mastery Rubric — Lesson 6 Summative Check
+# GitHub Mastery Rubric — Lesson 15 Summative Check
 
-**Student:** _______________  
-**Repo:** `cs-learning-log`  
+**Student:** _______________
+**Repo:** `YourName-Full-Stack-Web-and-AI-Application-Development`
 **Date:** _______________
 
 Assess **evidence and explanation** — not only whether files exist.
@@ -14,12 +14,12 @@ Assess **evidence and explanation** — not only whether files exist.
 |---|---|---|---|
 | **0 – Exposure** | Saw GitHub demo; little or no personal evidence | No meaningful history | Cannot define repo or commit |
 | **1 – Copy and Run** | Repo exists; README mostly template | Few commits; vague messages (`update`) | Repeats definitions without personal example |
-| **2 – Explain While Looking** | README + some notes; can navigate repo | Multiple commits; some clear messages | Explains own commit while looking at history |
-| **3 – Rebuild with Checklist** | Organized folders; `mastery-check/final-github-practice.md` complete | Meaningful final commit; visible progression | Answers 5 questions clearly with own repo examples |
+| **2 – Explain While Looking** | README + some learning-log entries; can navigate repo | Multiple commits; some clear messages | Explains own commit while looking at history |
+| **3 – Rebuild with Checklist** | README, 15 learning-log entries, required lesson artifacts, and `mastery-check/final-github-practice.md` complete | Meaningful final commit; visible progression | Answers 5 questions clearly with own repo examples |
 | **4 – Rebuild Without Notes** | Adds/fixes structure without step-by-step hand-holding | Writes good messages without examples list | Oral: explains save vs commit vs push without reading notes |
 | **5 – Modify, Debug, Transfer** | Improves peer repo structure or fixes real issue | Helps peer fix missing commit/push problem | Oral: diagnoses common mistake and teaches fix |
 
-**Unit minimum:** Level **3**  
+**Unit minimum:** Level **3**
 **Strong mastery:** Level **4–5**
 
 ---
@@ -28,13 +28,13 @@ Assess **evidence and explanation** — not only whether files exist.
 
 | Question | Met? | Notes |
 |---|---|---|
-| 1. What is a repository? | ☐ | |
-| 2. What is a commit? | ☐ | |
-| 3. What is commit history? | ☐ | |
-| 4. Difference: saving, committing, pushing? | ☐ | |
-| 5. Why is GitHub evidence important in this course? | ☐ | |
+| 1. What is the difference between Git and GitHub? | ☐ | |
+| 2. What is the difference between a commit and a push? | ☐ | |
+| 3. What is the difference between a branch and a fork? | ☐ | |
+| 4. What is the difference between an issue and a pull request? | ☐ | |
+| 5. What information is safe to publish, and what must remain secret? | ☐ | |
 
-Answers must be in **student’s own words** and reference **their** `cs-learning-log` where possible.
+Answers must be in **student’s own words** and reference **their** `YourName-Full-Stack-Web-and-AI-Application-Development` where possible.
 
 ---
 
@@ -77,5 +77,5 @@ Review last **5** commits:
 
 ## Sign-Off
 
-**Teacher:** _______________  
+**Teacher:** _______________
 **Student self-assessment:** Level _____ because _______________

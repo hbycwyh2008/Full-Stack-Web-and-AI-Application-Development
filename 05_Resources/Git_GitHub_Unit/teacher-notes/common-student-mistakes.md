@@ -19,10 +19,10 @@ Use this during Guided Practice and Independent Rebuild. Name mistakes calmly �
 
 | Mistake | What it looks like | Fix |
 |---|---|---|
-| Confusing course repo with student repo | Commits to teacher’s materials repo | Re-teach: **your** `cs-learning-log` only |
-| Empty or vague commit messages | `update`, `asdf`, `final` | Show good/bad examples (Lesson 2); require rewrite before merge |
+| Confusing course repo with student repo | Commits to teacher’s materials repo | Re-teach: **your** `YourName-Full-Stack-Web-and-AI-Application-Development` only |
+| Empty or vague commit messages | `update`, `asdf`, `final` | Show good/bad examples; require a message that names the change |
 | Editing without committing | File changed on GitHub but no history entry | Show Commits tab; commit is the saved version |
-| Wrong repo name | `CS-learning-log`, random names | Standardize `cs-learning-log` |
+| Wrong repo name | `CS-learning-log`, random names | Standardize `YourName-Full-Stack-Web-and-AI-Application-Development` |
 | Private repo when class needs review | Teacher cannot see evidence | Set public or add teacher as collaborator |
 
 ---
@@ -31,19 +31,18 @@ Use this during Guided Practice and Independent Rebuild. Name mistakes calmly �
 
 | Mistake | What it looks like | Fix |
 |---|---|---|
-| README is one line | No structure | Use Lesson 1 template sections |
-| README never updated | Stale goals after 3 lessons | Lesson 2 task: improve README |
-| Broken Markdown | Headers not rendering | Preview tab; teach `#` and `##` |
+| README is one line | No structure | Add a purpose, learning goals, and evidence links |
+| Broken Markdown | Headers not rendering | Preview tab; revisit Lesson 12 Markdown patterns |
 
 ---
 
-## File Organization Mistakes
+## Learning Log Mistakes
 
 | Mistake | What it looks like | Fix |
 |---|---|---|
-| Everything in root | 20 loose `.md` files | Lesson 3 folder pattern |
-| Duplicate files | `notes.md`, `notes2.md`, `final-notes.md` | One `lesson-XX/notes.md` per lesson |
-| Empty notes files | Committed empty files for “credit” | Require 3+ sentences of real content |
+| Separate log file every lesson | `log1.md`, `log-final.md` | Keep all 15 entries in one `learning-log.md` |
+| Empty prompts | “What I learned:” has no answer | Require one real sentence per prompt |
+| Video homework appears | Student is asked to watch another clip | Remove it; only the learning-log Exit Ticket may go home |
 
 ---
 
@@ -52,29 +51,29 @@ Use this during Guided Practice and Independent Rebuild. Name mistakes calmly �
 | Mistake | What it looks like | Fix |
 |---|---|---|
 | One giant commit at end | Single “done” commit | Multiple small commits per lesson |
-| Committing secrets | `.env`, API keys in repo | Teach `.gitignore` preview; delete secret + new commit |
-| “I saved but teacher sees nothing” | Local save only, no push (Lesson 5) | `git push`; GitHub web ≠ local until push |
+| Committing secrets | `.env`, API keys in repo | Revoke/rotate the secret first, then remove it from history |
+| “I saved but teacher sees nothing” | Local save only, no push (Lesson 14) | `git push`; GitHub web ≠ local until push |
 
 ---
 
-## Local Git Mistakes (Lesson 5)
+## Local Git Mistakes (Lessons 2, 5, and 14)
 
 | Mistake | What it looks like | Fix |
 |---|---|---|
-| `git add` forgotten | `git commit` says nothing to commit | `git status` first |
-| Commit in wrong folder | Not a git repo | `cd` into repo; check for `.git` |
-| Auth failed on push | 403 / authentication failed | PAT guide; GitHub Desktop alternative |
-| Typo in commit message | Regret after commit | Teach amend only if teacher allows; otherwise new commit with fix |
+| Local setup consumes class | Students are stuck on install/auth | Lesson 2: use command cards; Lesson 5: pause for terminal/Desktop setup; Lesson 14: document the stopping point |
+| Commit in wrong folder | `not a git repository` | Open the cloned repository folder, run `git status`, and verify the branch before editing |
+| Lesson 5 replaced by web editing | Student never clones, branches, or pushes | Use terminal Git or GitHub Desktop as demonstrated in the video |
+| Auth failed on push | 403 / authentication failed | Do not share tokens; repair sign-in and repeat the local rebuild later |
 
 ---
 
-## Oh My Git Mistakes (Lesson 4)
+## Playlist and Lesson-Number Mistakes
 
 | Mistake | What it looks like | Fix |
 |---|---|---|
-| Playing all levels including branches | Overwhelmed, off unit scope | Only intro levels listed in Lesson 4 |
-| “Game = done, no GitHub work” | Screenshot only, no `lesson-04/notes.md` | Require reflection + commit |
-| No connection to real history | Fun but no transfer | Talk Robin: “How is the game like your Commits tab?” |
+| Six selected clips used instead of the full sequence | Major topics are missing | Teach 15 lessons: one per included official video |
+| Actions is taught as Lesson 10 | Automation is introduced too early | Exclude playlist #10; course Lesson 10 uses playlist #11 |
+| Course and playlist numbers treated as identical after #9 | Wrong video opened | Display both numbers in every lesson plan |
 
 ---
 

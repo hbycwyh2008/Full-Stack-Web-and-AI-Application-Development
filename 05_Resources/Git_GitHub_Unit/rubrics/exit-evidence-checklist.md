@@ -1,82 +1,139 @@
-# Exit Evidence Checklist — Git & GitHub Unit
+# Exit Evidence Checklist — Phase 0 Git & GitHub
 
-Submit each lesson’s Exit Evidence before leaving class (or by teacher deadline).
-
-**Repo:** `cs-learning-log`  
 **Student:** _______________
+**Repo:** `YourName-Full-Stack-Web-and-AI-Application-Development`
+
+**Exit Ticket every lesson:** today’s `learning-log.md` entry saved. Lessons 1–2
+are kept locally until the repository exists; from Lesson 3 onward, entries are
+committed. No video homework.
+
+Submit before leaving class, or finish **only** that log entry by the teacher deadline.
 
 ---
 
-## Lesson 1 — Course Workflow and First Repo
+## Every lesson
 
-- [ ] GitHub repository link submitted
-- [ ] README screenshot (shows `# CS Learning Log` and sections)
-- [ ] One sentence: what is a **commit**?
-- [ ] One sentence: how is this course different from a normal lecture class?
-- [ ] At least one commit visible in history
+- [ ] `learning-log.md` has today’s Lesson N (What I did / learned / hard / evidence)
+- [ ] Meaningful commit when the repository is available (not `update` / `done`)
 
 ---
 
-## Lesson 2 — README and Commit History
+## Lesson 1 — Git Introduction
 
-- [ ] `learning-log.md` exists and has Lesson 1 and Lesson 2 reflections
-- [ ] README improved from Lesson 1
-- [ ] Screenshot of **Commits** tab showing multiple messages
-- [ ] One sentence: why are good commit messages important?
+- [ ] Local `01-git-introduction.md` with an independent snapshot rebuild
+- [ ] Learning log Lesson 1
 
 ---
 
-## Lesson 3 — File Organization and Learning Log
+## Lesson 2 — Essential Git Commands
 
-- [ ] Folders `lesson-01/`, `lesson-02/`, `lesson-03/` with `notes.md`
-- [ ] Screenshot of repo file tree
-- [ ] One sentence: why does file organization matter?
-- [ ] Commits use meaningful messages (not `update`)
-
----
-
-## Lesson 4 — Oh My Git!
-
-- [ ] Screenshot of completed intro level(s) in Oh My Git!
-- [ ] `lesson-04/notes.md` connects game to real commit history
-- [ ] Commit with message describing Lesson 4 work
-- [ ] One sentence: how is game timeline like GitHub history?
+- [ ] Local `02-git-command-reference.md`
+- [ ] Terminal commit or no-install command-sequence explanation
+- [ ] Learning log Lesson 2
 
 ---
 
-## Lesson 5 — Local Git (or Web Fallback)
+## Lesson 3 — First Repository
 
-**Local path:**
-
-- [ ] Terminal or VS Code screenshot: `git status`, `add`, `commit`, `push`
-- [ ] GitHub screenshot: new commit after push
-- [ ] One sentence: difference between **commit** and **push**
-
-**Web fallback (if no local Git):**
-
-- [ ] Web editor commit screenshot
-- [ ] Written note: why push was not used today
-- [ ] Same commit vs push sentence
+- [ ] Correct public repository, README, and `learning-log.md`
+- [ ] Learning log Lesson 3
 
 ---
 
-## Lesson 6 — Mastery Check
+## Lesson 4 — Upload Files and Folders
 
-- [ ] `mastery-check/final-github-practice.md` complete (5 questions)
-- [ ] Link to file on GitHub
-- [ ] Screenshot of final commit
-- [ ] Sentence: “My current GitHub mastery level is Level ___ because…”
-- [ ] Oral check completed (teacher sign-off)
+- [ ] Lesson 1–2 notes uploaded under `github-foundations/foundations-notes/`
+- [ ] Independent `upload-rebuild/README.md`
+- [ ] Learning log Lesson 4
 
 ---
 
-## Unit Completion (All Lessons)
+## Lesson 5 — Add Code
 
-- [ ] `README.md` complete and current
-- [ ] `learning-log.md` maintained
-- [ ] Lesson folders organized
+- [ ] `add-first-page` branch created locally and pushed
+- [ ] HTML and CSS commits visible on that branch
+- [ ] Learning log Lesson 5
+
+---
+
+## Lesson 6 — Create a Pull Request
+
+- [ ] Open pull requests in GitHub Skills and the course repository
+- [ ] Learning log Lesson 6
+
+---
+
+## Lesson 7 — Merge a Pull Request
+
+- [ ] Reviewed and merged Skills and course-repository pull requests
+- [ ] Learning log Lesson 7
+
+---
+
+## Lesson 8 — Profile and Account Security
+
+- [ ] One safe public-profile improvement
+- [ ] `github-foundations/08-profile-security-audit.md`
+- [ ] No private security data recorded
+- [ ] Learning log Lesson 8
+
+---
+
+## Lesson 9 — Issues and Projects
+
+- [ ] One labeled issue linked to a project
+- [ ] Learning log Lesson 9
+
+---
+
+## Lesson 10 — Repository Security
+
+- [ ] Security settings/features inspected
+- [ ] `.gitignore` and `github-foundations/10-repository-security-checklist.md`
+- [ ] Learning log Lesson 10
+
+---
+
+## Lesson 11 — GitHub Pages
+
+- [ ] Working Pages URL in README
+- [ ] Learning log Lesson 11
+
+---
+
+## Lesson 12 — Markdown
+
+- [ ] GitHub Skills: Communicate using Markdown complete
+- [ ] Own-repository Markdown rebuild committed
+- [ ] Learning log Lesson 12
+
+---
+
+## Lesson 13 — Open Source
+
+- [ ] Teacher-approved fork and branch created; no unsolicited upstream PR
+- [ ] `github-foundations/13-open-source-contribution-plan.md`
+- [ ] Learning log Lesson 13
+
+---
+
+## Lesson 14 — VS Code
+
+- [ ] `github-foundations/14-vscode-rebuild.md` committed in VS Code and visible on github.com, or documented web fallback
+- [ ] Learning log Lesson 14
+
+---
+
+## Lesson 15 — FAQ and Mastery Check
+
+- [ ] `mastery-check/final-github-practice.md` (all 5 questions)
+- [ ] Learning log Lesson 15
+- [ ] Oral check completed
+
+---
+
+## Unit Complete
+
+- [ ] All 15 learning-log entries
 - [ ] No secrets committed (`.env`, API keys)
-- [ ] Student can explain own repo orally (teacher verified)
-
-**Unit complete:** ☐ Yes  ☐ Revision needed  
-**Date:** _______________
+- [ ] Teacher sign-off: `04_Assessment/Student_GitHub_Assessment.md`

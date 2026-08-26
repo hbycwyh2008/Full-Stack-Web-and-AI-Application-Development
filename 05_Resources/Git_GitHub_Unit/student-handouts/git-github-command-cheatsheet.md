@@ -91,9 +91,11 @@ Preview on GitHub when editing `.md` files.
 
 ---
 
-## Oh My Git! (Lesson 4)
+## Official Video Sequence
 
-Play **selected intro levels only** — see Lesson 4 handout. Game explains ideas; **GitHub commits** are your real evidence.
+GitHub Foundations has 15 lessons: one lesson for every video in the official
+GitHub for Beginners playlist except playlist #10, GitHub Actions. The command
+video is Lesson 2, Markdown is Lesson 12, and VS Code is Lesson 14.
 
 ---
 

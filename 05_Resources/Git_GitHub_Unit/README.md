@@ -1,129 +1,87 @@
-# Git & GitHub Beginner Unit
+# Git & GitHub Foundations — Complete Unit
 
-> **Students:** Use [02_Class_Missions/01-github-foundations/](../../02_Class_Missions/01-github-foundations/README.md) during class — **one required resource per lesson**. This folder is a **teacher supplement** (handouts, rubrics, duplicate lesson copies). Do not choose from all links here during class.
+**Phase:** 0
+**Suggested duration:** 15 lessons × 45 minutes
+**Student repository:** `YourName-Full-Stack-Web-and-AI-Application-Development`
 
-**Course:** Full-Stack Web and AI Application Development  
-**Unit focus:** GitHub as learning evidence — not advanced Git internals  
-**Suggested duration:** 6 lessons × 45 minutes
+## Non-Negotiable Sequence
 
----
+The official [GitHub for Beginners playlist](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f) currently contains 16 videos. Teach **15 lessons, one per included video, in playlist order**.
 
-## Unit Goal
+Exclude only playlist #10: [How to use GitHub Actions](https://www.youtube.com/watch?v=BQrohJ3PT7I). Do not compress several videos into one lesson and do not remap selected videos into a shorter unit.
 
-By the end of this unit, students should be able to:
+## Lesson Map
 
-- Explain what GitHub is used for
-- Create a GitHub repository
-- Write and update `README.md`
-- Create and organize Markdown files
-- Make meaningful commits
-- Understand commit history as learning evidence
-- Explain the difference between saving, committing, and pushing
-- Use GitHub as part of their learning portfolio
-- Complete a basic local Git workflow (if the class is ready)
-- Explain their work orally
-- Submit visible evidence of learning
+| Lesson | File | Official video | Primary evidence |
+|---|---|---|---|
+| 1 | `lesson-01-git-introduction.md` | Playlist #1: A brief introduction to Git for beginners | Local snapshot-model note, uploaded in Lesson 4 |
+| 2 | `lesson-02-essential-git-commands.md` | Playlist #2: Beginner Git commands you need to know (WITH EXAMPLES) | Terminal commit or command-card check plus local reference |
+| 3 | `lesson-03-first-github-repository.md` | Playlist #3: How to create your first GitHub repository: A beginner's guide | Public repository `YourName-Full-Stack-Web-and-AI-Application-Development` with `README.md` |
+| 4 | `lesson-04-upload-files-and-folders.md` | Playlist #4: How to upload files and folders to GitHub: GitHub for Beginners | Uploaded Lesson 1–2 notes plus independent second-folder upload |
+| 5 | `lesson-05-add-code-to-repository.md` | Playlist #5: How to add code to your repository | Pushed `add-first-page` branch with HTML and CSS commits |
+| 6 | `lesson-06-create-pull-request.md` | Playlist #6: How to create a pull request in 4 min | Open Skills and own-repository pull requests |
+| 7 | `lesson-07-merge-pull-request.md` | Playlist #7: How to merge a pull request | Reviewed and merged Skills and own-repository pull requests |
+| 8 | `lesson-08-profile-and-account-security.md` | Playlist #8: GitHub Profile Tips to standout (& stay secure) | Public profile improvement plus private account-safety check |
+| 9 | `lesson-09-issues-and-projects.md` | Playlist #9: How to use GitHub issues and projects | One labeled issue linked to a GitHub Project |
+| 10 | `lesson-10-github-security.md` | Playlist #11: Getting started with GitHub security | Security settings check, `.gitignore`, and fake-risk audit |
+| 11 | `lesson-11-github-pages.md` | Playlist #12: Getting started with GitHub Pages for beginners | Working GitHub Pages URL recorded in `README.md` |
+| 12 | `lesson-12-markdown.md` | Playlist #13: Getting started with Markdown on GitHub | Completed Markdown Skills plus own-repository Markdown rebuild |
+| 13 | `lesson-13-open-source-contributions.md` | Playlist #14: Getting started with open source contributions for beginners | Teacher-approved fork/branch evidence plus contribution plan |
+| 14 | `lesson-14-git-and-github-in-vscode.md` | Playlist #15: How to use Git and GitHub in VS Code | Independent VS Code edit → stage → commit → push → verify cycle |
+| 15 | `lesson-15-beginner-faq-and-mastery-check.md` | Playlist #16: Answering the most common GitHub beginner questions | `mastery-check/final-github-practice.md` plus one final commit |
 
-**Not in this unit:** branches, pull requests, merge conflicts, rebase, or advanced Git internals. Those come later when students are stable with repository → README → commit → history → basic add-commit-push.
+## Teaching Pattern
 
----
+Each 45-minute lesson contains:
 
-## Course Posters
+1. One official video during Skill Warm-up
+2. One focused guided practice
+3. One independent rebuild or verification
+4. One saved artifact; from Lesson 3 onward, GitHub evidence
+5. One `learning-log.md` entry
 
-- [Classroom Flow](../../08_Public_Documents/posters/classroom-flow.png)
-- [Mastery Level](../../08_Public_Documents/posters/mastery-level.png)
-- [CS Competition Pathways](../../08_Public_Documents/posters/cs-competition-pathways.png) (optional)
+No video homework. If practice takes longer, continue next class.
 
-## Classroom Model (Every Lesson)
+Lessons 1–2 are deliberately local because playlist #3 teaches repository
+creation. Lesson 3 creates the course repository and learning log; Lesson 4
+uses the upload video to add the saved Lesson 1–2 notes.
 
-Each lesson is **45 minutes** and follows the course poster flow ([classroom-flow-45-min.md](../../02_Class_Missions/shared/classroom-flow-45-min.md)):
+## Included Practice Platforms
 
-| Block | Time | Purpose |
-|---|---|---|
-| 1. Skill Warm-up | 0–5 min | One short YouTube clip |
-| 2. Talk Robin 1 | 5–9 min | What was done / confusing |
-| 3. Entry Check | 9–14 min | Individual basics |
-| 4. Core Pattern | 14–19 min | Name the pattern |
-| 5. Guided Practice | 19–30 min | GitHub Skills interactive |
-| 6. Independent Rebuild | 30–40 min | Rebuild with checklist |
-| 7. Talk Robin 2 + Evidence | 40–45 min | Summarize + submit proof |
+- GitHub website and the student's course repository
+- GitHub Skills: Introduction to GitHub (Lessons 6–7)
+- GitHub Skills: Communicate using Markdown (Lesson 12)
+- VS Code Source Control (Lesson 14, with a web fallback)
 
----
+GitHub Skills is used only when its published objectives match the video:
+Introduction to GitHub covers branch → commit → pull request → merge, and
+Communicate using Markdown covers headings, images, code, task lists, and a
+merge. Skills uses Actions internally to provide automated feedback; students
+do not configure Actions. Every Skills lesson also requires an own-repository
+rebuild. All other lessons provide a teacher-designed rebuild of the operation
+shown in that video.
 
-## Resource Usage Rule
+Related Skills are not automatically assigned. Review pull requests adds
+review-assignment and suggested-change scope beyond the merge video; the
+security Skills divide the broad security video into separate secret and
+dependency courses; and the Pages Skill builds a Jekyll blog. These may be
+offered as extensions, but they do not replace the closer, video-aligned
+rebuilds in Lessons 7, 10, and 11.
 
-**Do not** assign every external resource from start to finish.
+## Safety Boundaries
 
-| Resource | URL | How to use |
-|---|---|---|
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Selected clips in Skill Warm-up |
-| A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs | Lesson 1 or 2 warm-up (one viewing) |
-| GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Lesson 1 guided reference |
-| GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Lesson 1 guided reference |
-| GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Optional homework — not required completion |
-| Oh My Git! | https://ohmygit.org/ | Lesson 4 — selected intro levels only |
+- Never place passwords, API keys, tokens, 2FA recovery codes, or private student data in a repository.
+- Lesson 13 uses a teacher-approved open source repository and a contribution plan; students do not send unsolicited pull requests.
+- GitHub Actions is intentionally deferred.
 
-**Main goal:** classroom-based mastery and GitHub evidence — not resource completion.
+## Assessment
 
----
+Use per-lesson evidence checks throughout the unit and the Lesson 15 mastery check for summative evidence. Target **Level 3 minimum**; Levels 4–5 require independent, accurate explanation.
 
-## Lessons
-
-| Lesson | File | Core pattern |
-|---|---|---|
-| 1 | `lesson-01-course-workflow-and-first-repo.md` | create repo → edit README → commit → check history → submit evidence |
-| 2 | `lesson-02-readme-and-commit-history.md` | small change → meaningful commit → visible history |
-| 3 | `lesson-03-file-organization-and-learning-log.md` | create folder → create file → write → commit → check structure |
-| 4 | `lesson-04-oh-my-git-commit-history.md` | game timeline → commit history → learning evidence |
-| 5 | `lesson-05-local-git-vscode-terminal.md` | change → status → add → commit → push → check GitHub |
-| 6 | `lesson-06-github-mastery-check.md` | independent task → meaningful commit → evidence → oral explanation |
-
----
-
-## Student Repository (This Unit)
-
-Students use one repo for this unit:
-
-```text
-cs-learning-log
-```
-
-This unit repo can later merge into the full course portfolio (`student-portfolio`) or stay as the learning log — teacher decides.
-
----
-
-## Handouts & Rubrics
-
-- `student-handouts/mastery-levels.md`
-- `student-handouts/talk-robin-rules.md`
-- `student-handouts/git-github-command-cheatsheet.md`
-- `student-handouts/unit-summary-one-page.md`
-- `rubrics/github-mastery-rubric.md`
-- `rubrics/exit-evidence-checklist.md`
-- `parent-overview.md`
-
----
-
-## Teacher Notes
+## Supporting Materials
 
 - `teacher-notes/unit-overview.md`
 - `teacher-notes/common-student-mistakes.md`
-
----
-
-## Mastery Levels (Unit-Wide)
-
-| Level | Name | Meaning |
-|---|---|---|
-| 0 | Exposure | Seen concept via video, reading, or demo |
-| 1 | Copy and Run | Follow instructions and make it work |
-| 2 | Explain While Looking | Explain important parts while looking at code/commands |
-| 3 | Rebuild with Checklist | Recreate pattern with checklist, not full solution copy |
-| 4 | Rebuild Without Notes | Recreate from blank file/page/terminal without notes or AI |
-| 5 | Modify, Debug, and Transfer | Use pattern in new situation, modify, debug, help others |
-
-Target by end of unit: **Level 3 minimum**; **Level 4–5** for strong mastery (Lesson 6 check).
-
----
-
-Educational materials in this folder are copyright © 2026 Wang Morgan. All Rights Reserved.
+- `rubrics/exit-evidence-checklist.md`
+- `rubrics/github-mastery-rubric.md`
+- `student-handouts/unit-summary-one-page.md`

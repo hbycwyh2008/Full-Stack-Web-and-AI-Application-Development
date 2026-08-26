@@ -6,19 +6,15 @@ Every student in **Full-Stack Web and AI Application Development** must create a
 
 ## Repository Name
 
-Choose one:
+Use the **same course title as the teacher repo**, with your name in front:
 
 ```text
-student-portfolio
+YourName-Full-Stack-Web-and-AI-Application-Development
 ```
 
-or:
+Example: `LiMing-Full-Stack-Web-and-AI-Application-Development`
 
-```text
-student-name-full-stack-ai-portfolio
-```
-
-Example: `morgan-full-stack-ai-portfolio`
+GitHub names use a hyphen `-`, not `——`. Do not fork the teacher course repo.
 
 > **Start small.** Build your repository gradually. Phase 0 is only the minimum setup — not the whole course.
 
@@ -31,24 +27,20 @@ You do **not** need to create every course folder on day one.
 By the end of **Phase 0**, you only need this minimum structure:
 
 ```text
-student-portfolio/
+YourName-Full-Stack-Web-and-AI-Application-Development/
 ├── README.md
-├── .gitignore
-├── profile/
-│   ├── about-me.md
-│   └── learning-goals.md
-└── reflections/
-    └── weekly-reflection-01.md
+├── learning-log.md
+└── mastery-check/
+    └── final-github-practice.md
 ```
 
 This minimum structure is enough to prove you can:
 
 - create a repository
 - write a README
-- organize basic folders
 - make commits
-- use a branch
-- open and merge a pull request
+- use Markdown
+- explain commit history
 - submit a GitHub repo link
 
 Add more folders **later**, when you reach each phase (see [Phase to Folder Mapping](#phase-to-folder-mapping) below).
@@ -57,22 +49,23 @@ Add more folders **later**, when you reach each phase (see [Phase to Folder Mapp
 
 ## Phase 0 Minimal Setup — What to Create (Step by Step)
 
-Phase 0 is **not** the full course structure. It is one public repo, **five files with real content**, and a short Git workflow.
+Phase 0 is **not** the full course structure. It is one public repo, a README,
+one learning log, focused GitHub Foundations practice artifacts, and one final
+mastery-check file.
 
 ### What you create on GitHub
 
 1. A **public** personal repository (not the teacher course repo).
-2. Repository name: `student-portfolio` **or** `student-name-full-stack-ai-portfolio` (example: `morgan-full-stack-ai-portfolio`).
+2. Repository name: `YourName-Full-Stack-Web-and-AI-Application-Development` (example: `LiMing-Full-Stack-Web-and-AI-Application-Development`).
 
-### The five required files
+### Required evidence
 
 | File | Required content |
 |---|---|
-| `README.md` | Your repo homepage. Copy from `03_Templates/student-root-README-template.md` and fill in your name, grade, course, learning goals, and project table (status can be "Not Started"). Link placeholders are fine in Phase 0. |
-| `.gitignore` | Exclude files that must never be uploaded. See [What Not to Upload](#what-not-to-upload) below for the recommended list. |
-| `profile/about-me.md` | Short introduction: name, grade, CS/AI interests, why you are taking this course. |
-| `profile/learning-goals.md` | 3–5 specific goals for this semester (Git, portfolio, full-stack, AI apps, etc.). |
-| `reflections/weekly-reflection-01.md` | Your first weekly reflection. Use `03_Templates/weekly-reflection-template.md` as a guide. Write in your own words. |
+| `README.md` | Your repo homepage with the course title and learning goals. |
+| `learning-log.md` | Fifteen entries: What I did / What I learned / What was hard / Evidence link. |
+| `github-foundations/` | Practice artifacts added gradually during the 15 lessons. |
+| `mastery-check/final-github-practice.md` | Five Lesson 15 answers using examples from your repo. |
 
 You do **not** need `ai-literacy/`, `nextjs-frontend/`, `final-ai-app/`, or other phase folders in Phase 0. Add those when you reach each phase.
 
@@ -81,81 +74,43 @@ You do **not** need `ai-literacy/`, `nextjs-frontend/`, `final-ai-app/`, or othe
 | Step | Action |
 |---|---|
 | 1 | Create the repository |
-| 2 | Add all five files above |
-| 3 | Make at least one commit (multiple meaningful commits are better) |
-| 4 | Create a branch named `update-profile` |
-| 5 | Edit `README.md` on that branch (e.g. expand About Me or update the project table) |
-| 6 | Open a pull request (`update-profile` → `main`) |
-| 7 | Merge the pull request |
-| 8 | Submit your repository URL to your teacher |
+| 2 | Add the files gradually during the 15 lessons |
+| 3 | Commit each learning-log entry with a meaningful message |
+| 4 | Create a pull request in Lesson 6 and review/merge it in Lesson 7 |
+| 5 | Submit your personal repository URL to your teacher |
 
-This proves you can use: repository, README, commit, branch, pull request, merge, and basic organization.
+This proves you can use a repository, README, Markdown, commits, history, and
+the GitHub flow without overloading one class.
 
 ### Phase 0 vs full scaffold (do not confuse these)
 
 `09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md` may suggest creating **empty** folders early (`ai-literacy/`, `final-ai-app/`, etc.). That is **optional** scaffolding for teachers who want the shell up front.
 
-The **Phase 0 pass requirement** in this guide is only the five files and the Git workflow above. Empty folders alone are not enough.
+The **Phase 0 pass requirement** is the three files and evidence above. Empty
+folders alone are not enough.
 
 ---
 
-## Phase 0 — Three-Lesson Checklist
+## Phase 0 — Six-Lesson Checklist
 
-Use this if your class runs Phase 0 over three lessons. Each lesson adds concrete deliverables.
+Each 45-minute class has one video and one practice. Homework is only the
+day's `learning-log.md` entry if it was not committed before class ended.
 
-### After Lesson 1: Markdown and Your First Repo
+| Lesson | Required class evidence |
+|---|---|
+| 1 | Public repo with the correct name, README, and one meaningful commit |
+| 2 | GitHub Skills Introduction to GitHub started; branch → commit → PR → merge if time |
+| 3 | GitHub Skills Communicate using Markdown started |
+| 4 | Oh My Git! intro practice and a learning-log connection between backup and commit |
+| 5 | One new commit visible on the student repo; local Git is optional |
+| 6 | `mastery-check/final-github-practice.md`, final commit, and oral check |
 
-**Goal:** Repository exists with a readable homepage.
+By the end of every lesson:
 
-- [ ] GitHub account ready (if needed)
-- [ ] Public repo created with the correct name
-- [ ] `README.md` added from `student-root-README-template.md`
-- [ ] README includes: your name, grade, course name, and at least one learning goal
-- [ ] At least one commit pushed to GitHub
-- [ ] You can explain: course repo vs student repo
+- [ ] `learning-log.md` has What I did / What I learned / What was hard
+- [ ] The entry has a meaningful commit message
 
-**Repo state after Lesson 1:**
-
-```text
-student-portfolio/
-└── README.md
-```
-
-### After Lesson 2: Commits and Git Workflow
-
-**Goal:** Profile and reflection files exist; commits show real progress.
-
-- [ ] `.gitignore` added (recommended list in [What Not to Upload](#what-not-to-upload))
-- [ ] `profile/about-me.md` written (not empty)
-- [ ] `profile/learning-goals.md` written (not empty)
-- [ ] `reflections/weekly-reflection-01.md` written (not empty)
-- [ ] Multiple commits with clear messages (e.g. "Add profile folder", "Add weekly reflection")
-- [ ] All changes pushed to GitHub
-- [ ] You can explain what a commit is and why `.gitignore` matters
-
-**Repo state after Lesson 2:**
-
-```text
-student-portfolio/
-├── README.md
-├── .gitignore
-├── profile/
-│   ├── about-me.md
-│   └── learning-goals.md
-└── reflections/
-    └── weekly-reflection-01.md
-```
-
-### After Lesson 3: Branch, Pull Request, and Phase 0 Capstone
-
-**Goal:** Phase 0 Final GitHub Task complete; repo link submitted.
-
-- [ ] Branch `update-profile` created
-- [ ] `README.md` updated on that branch
-- [ ] Pull request opened and merged into `main`
-- [ ] [Student GitHub Submission Checklist](#student-github-submission-checklist) completed
-- [ ] Repository URL submitted to teacher
-- [ ] You can explain what a pull request is and why branches are useful
+Do not assign extra playlist videos or unfinished Skills modules as homework.
 
 **Optional before Phase 2:** create an empty `ai-literacy/` folder if your teacher asks you to prepare early.
 
@@ -373,7 +328,7 @@ Copy into your repo `README.md`:
 
 ## About Me
 
-My name is [Student Name].  
+My name is [Student Name].
 I am a student in the Full-Stack Web and AI Application Development course.
 
 ## Course
@@ -451,22 +406,17 @@ Write about what you want to improve next.
 
 By the end of **Phase 0**, you must:
 
-1. Create a personal GitHub repository.
-2. Name it `student-portfolio` or `student-name-full-stack-ai-portfolio`.
-3. Add a root `README.md` using the template above.
-4. Add a basic `.gitignore`.
-5. Create the minimum Phase 0 folder structure:
-   - `profile/about-me.md`
-   - `profile/learning-goals.md`
-   - `reflections/weekly-reflection-01.md`
-6. Make at least one commit.
-7. Create a branch called `update-profile`.
-8. Edit `README.md` on that branch.
-9. Open a pull request.
-10. Merge the pull request.
-11. Submit the GitHub repository link to your teacher.
+1. Create the public personal repository
+   `YourName-Full-Stack-Web-and-AI-Application-Development`.
+2. Add a root `README.md`.
+3. Maintain all 15 entries in `learning-log.md`.
+4. Add `mastery-check/final-github-practice.md`.
+5. Use meaningful commit messages that show lesson progression.
+6. Complete the branch → commit → pull request → merge flow in GitHub Skills.
+7. Submit the personal repository link and complete the oral check.
 
-This proves you can use: repository, README, commit, branch, pull request, merge, and GitHub project organization.
+This proves you can use a repository, README, Markdown, commits, history, and
+the GitHub flow.
 
 See also: `04_Assessment/Student_GitHub_Assessment.md`
 

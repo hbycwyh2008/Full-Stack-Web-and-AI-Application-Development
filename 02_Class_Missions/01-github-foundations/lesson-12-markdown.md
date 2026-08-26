@@ -10,7 +10,7 @@
 
 ## Lesson Goal
 
-After watching the official video, students can format clear GitHub documentation with headings, lists, links, code, and task lists.
+After watching the official video, students can format clear GitHub documentation with headings, emphasis, blockquotes, nested lists, links, images, code blocks, and task lists.
 
 This lesson uses **one video and one guided practice**. Do not re-teach the Classroom Flow posters and do not assign another playlist video as homework.
 
@@ -21,9 +21,9 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | Role | What |
 |---|---|
 | **Video** | **Playlist #13** — [Getting started with Markdown on GitHub](https://www.youtube.com/watch?v=LxeclcePg-c) |
-| **Guided practice** | Complete Markdown Skills, then rebuild the formatting in the course repository |
+| **Guided practice** | Use Markdown Skills for guided steps, then create a complete course-repository practice file |
 | **Practice source** | [GitHub Skills: Communicate using Markdown](https://github.com/skills/communicate-using-markdown) plus an own-repo rebuild |
-| **Evidence** | Completed Markdown Skills exercise plus own-repo Markdown section |
+| **Evidence** | Required `github-foundations/12-markdown-practice.md` plus progress in the Markdown Skills exercise |
 | **Exit Ticket** | `learning-log.md` → Lesson 12 |
 
 > Playlist #10, GitHub Actions, is excluded from this unit. Lesson numbers after Lesson 9 therefore differ from playlist positions.
@@ -92,18 +92,18 @@ Teacher demonstrates the task once and points out where students can verify the 
 
 ### 21–32 min: Guided Practice
 
-1. Complete [Communicate using Markdown](https://github.com/skills/communicate-using-markdown): headings, image, code example, task list, and merge.
-2. In the course repository, independently add a `## GitHub Foundations Evidence` section to `README.md`.
-3. Include a list, one link to evidence, one inline-code example, and one task item.
-4. Preview the result, fix rendering problems, and commit with `Add GitHub foundations evidence section`.
+1. Start [Communicate using Markdown](https://github.com/skills/communicate-using-markdown) and work through headings, task list, code example, and image. Its final PR-merge step is optional review because Lessons 6–7 already assess merging.
+2. In the course repository, create `github-foundations/12-markdown-practice.md`.
+3. Include one H1 and two H2 headings, **bold**, *italic*, a blockquote, ordered and nested unordered lists, a link, an image, a fenced code block, and checked/unchecked task items.
+4. Use Preview, fix rendering problems, and commit with `Add complete Markdown practice`. Continue the same file during Independent Rebuild if needed.
 
 ### 32–40 min: Independent Rebuild
 
-With Skills instructions closed, format a new own-repository section from a plain-text prompt. Include a heading, list, link, code, and task item; preview it before committing.
+With Skills instructions closed, complete `12-markdown-practice.md` from the requirements above. Then change one heading level, preview the result, and explain how the source syntax produced one emphasis, blockquote, nested-list, image, code-block, and task-list element.
 
 ### 40–45 min: Talk Robin 2 + Evidence
 
-Show rendered Markdown and identify the source syntax for one heading, link, code block, and task item.
+Show the rendered `12-markdown-practice.md` and identify the source syntax for emphasis, one blockquote, one nested list, one image, one code block, and one task item.
 
 Add to `learning-log.md`:
 
@@ -131,4 +131,4 @@ Commit the learning-log update if the lesson's practice did not already require 
 
 ## Teacher Notes
 
-Lesson 13 continues with the next official playlist video.
+The Skills exercise matches the video’s core headings, task-list, code, and image practice but does not require every video topic. The course-repository file is required because it adds emphasis, blockquotes, nested lists, and durable student evidence. Skills merge is optional review. Lesson 13 continues with the next official playlist video.

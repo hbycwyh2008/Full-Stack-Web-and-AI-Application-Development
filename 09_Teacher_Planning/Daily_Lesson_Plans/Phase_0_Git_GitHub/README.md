@@ -19,12 +19,12 @@ Every included official GitHub video receives its own lesson. Keep playlist orde
 | 4 | #4 | [Upload Files and Folders](lesson-04-upload-files-and-folders.md) | Upload Lesson 1–2 notes, then independently upload a second folder |
 | 5 | #5 | [Add Code to a Repository](lesson-05-add-code-to-repository.md) | Clone → branch → add code → stage → commit → push |
 | 6 | #6 | [Create a Pull Request](lesson-06-create-pull-request.md) | Open a Skills PR, then rebuild in the course repo |
-| 7 | #7 | [Review and Merge a Pull Request](lesson-07-merge-pull-request.md) | Review and merge both Lesson 6 pull requests |
+| 7 | #7 | [Review and Merge a Pull Request](lesson-07-merge-pull-request.md) | Merge both PRs + diagnose a prepared conflict |
 | 8 | #8 | [GitHub Profile and Account Security](lesson-08-profile-and-account-security.md) | Improve the public profile and privately verify account safety |
 | 9 | #9 | [GitHub Issues and Projects](lesson-09-issues-and-projects.md) | Create one issue and track it on a project |
 | 10 | #11 | [Repository Security](lesson-10-github-security.md) | Inspect security features, improve `.gitignore`, and audit fake risks |
 | 11 | #12 | [Publish with GitHub Pages](lesson-11-github-pages.md) | Publish the Lesson 5 HTML page with GitHub Pages |
-| 12 | #13 | [Markdown on GitHub](lesson-12-markdown.md) | Complete Markdown Skills, then rebuild in the course repo |
+| 12 | #13 | [Markdown on GitHub](lesson-12-markdown.md) | Use Markdown Skills + create the complete course-repo practice file |
 | 13 | #14 | [Open Source Contributions](lesson-13-open-source-contributions.md) | Fork and branch in a teacher-approved practice repository |
 | 14 | #15 | [Git and GitHub in VS Code](lesson-14-git-and-github-in-vscode.md) | Independently complete inspect → stage → commit → push → verify |
 | 15 | #16 | [Beginner FAQ and Mastery Check](lesson-15-beginner-faq-and-mastery-check.md) | Complete the written and practical GitHub mastery check |

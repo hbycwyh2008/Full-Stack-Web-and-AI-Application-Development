@@ -2,7 +2,9 @@
 
 This unit begins with the **course culture**, not with computer science content and not with AP CSP.
 
-Before students study **What is computer science?**, the AP CSP CED connection, GitHub, HCI, Figma, or programming, they complete a required 90-minute orientation built around the four official course posters.
+Before students study **What is computer science?**, the AP CSP CED connection,
+GitHub, HCI, Figma, or programming, they complete a required 45-minute
+orientation built around the four official course posters.
 
 ## Required Order
 
@@ -12,7 +14,7 @@ Before students study **What is computer science?**, the AP CSP CED connection, 
 
 Students first understand:
 
-1. **Our Classroom Flow** — how every 90-minute class works;
+1. **Our Classroom Flow** — how every 45-minute class works;
 2. **Mastery Level** — why completion or working code is not enough;
 3. **AI Use Policy** — how AI may support learning without replacing thinking;
 4. **CS Competition Pathways** — optional enrichment, not the definition of course success.
@@ -57,4 +59,8 @@ The four posters are more immediately important to students than memorizing a de
 
 ## Classroom Flow Requirement
 
-All three sessions use the canonical [90-minute seven-block classroom flow](../shared/classroom-flow.md). Student activities and discussion drive the learning; teacher explanation is brief and diagnostic.
+All three sessions use the canonical [45-minute seven-block classroom
+flow](../shared/classroom-flow.md): Skill Warm-up → Talk Robin 1 → Entry Check
+→ Core Pattern → Guided Practice → Independent Rebuild → Talk Robin 2 +
+Evidence. Student activities and discussion drive the learning; teacher
+explanation is brief and diagnostic.

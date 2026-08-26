@@ -21,7 +21,7 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | Role | What |
 |---|---|
 | **Video** | **Playlist #7** — [How to merge a pull request](https://www.youtube.com/watch?v=FDXSgyDGmho) |
-| **Guided practice** | Review and merge the Skills and course-repository pull requests |
+| **Guided practice** | Review and merge both pull requests, then diagnose a prepared merge conflict |
 | **Practice source** | Continuation of [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) plus an own-repo rebuild |
 | **Evidence** | Merged Skills and course-repository pull requests |
 | **Exit Ticket** | `learning-log.md` → Lesson 7 |
@@ -96,14 +96,15 @@ Teacher demonstrates the task once and points out where students can verify the 
 2. In the course-repository pull request, leave one review comment that names a specific line or improvement.
 3. Merge the Skills pull request and then merge the course-repository pull request.
 4. Return to each default branch and verify the merged file. Delete the merged branch if offered.
+5. Use a teacher-prepared conflicting pull request to identify the two competing edits and observe **Resolve conflicts**. Students explain which content should remain; a solo conflict lab is not required in this 45-minute lesson.
 
 ### 32–40 min: Independent Rebuild
 
-With the video closed, independently review and merge the course-repository pull request from Lesson 6. Inspect Files changed, leave one specific review comment, verify the target branch, merge, and locate the change on the default branch.
+With the video closed, independently review and merge the course-repository pull request from Lesson 6. Inspect Files changed, leave one specific review comment, verify the target branch, merge, and locate the change on the default branch. Then explain why GitHub blocks a merge conflict until a person resolves the competing edits.
 
 ### 40–45 min: Talk Robin 2 + Evidence
 
-Show both merged pull requests and locate each merged change on its default branch.
+Show both merged pull requests, locate each merged change on its default branch, and explain one merge-conflict decision from the prepared example.
 
 Add to `learning-log.md`:
 
@@ -131,4 +132,4 @@ Commit the learning-log update if the lesson's practice did not already require 
 
 ## Teacher Notes
 
-Lesson 8 continues with the next official playlist video.
+The official video also demonstrates merge conflicts. Use a prepared conflict for diagnosis and explanation; do not consume the full class creating accidental conflicts. Lesson 8 continues with the next official playlist video.

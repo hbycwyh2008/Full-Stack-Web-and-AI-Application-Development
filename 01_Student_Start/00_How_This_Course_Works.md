@@ -71,6 +71,7 @@ AI tools may support explanation, debugging, feedback, and practice according to
 
 ## Next Steps
 
-1. Start with [Lesson 00 — What Is Computer Science?](../02_Class_Missions/00-course-orientation/lesson-00-what-is-computer-science.md).
-2. Set up the project GitHub repository when your teacher assigns the GitHub unit.
-3. Keep durable evidence as the course progresses.
+1. Complete the [Required Four-Poster Orientation](../02_Class_Missions/00-course-orientation/required-orientation-four-posters.md).
+2. Continue to [Lesson 00 — What Is Computer Science?](../02_Class_Missions/00-course-orientation/lesson-00-what-is-computer-science.md).
+3. Set up the project GitHub repository when your teacher assigns the GitHub unit.
+4. Keep durable evidence as the course progresses.

@@ -66,6 +66,7 @@ Submit before leaving class, or finish **only** that log entry by the teacher de
 ## Lesson 7 — Merge a Pull Request
 
 - [ ] Reviewed and merged Skills and course-repository pull requests
+- [ ] Explained one decision from the prepared merge-conflict example
 - [ ] Learning log Lesson 7
 
 ---
@@ -103,8 +104,8 @@ Submit before leaving class, or finish **only** that log entry by the teacher de
 
 ## Lesson 12 — Markdown
 
-- [ ] GitHub Skills: Communicate using Markdown complete
-- [ ] Own-repository Markdown rebuild committed
+- [ ] Required Skills steps attempted through the image/code practice
+- [ ] `github-foundations/12-markdown-practice.md` committed with all video topics
 - [ ] Learning log Lesson 12
 
 ---

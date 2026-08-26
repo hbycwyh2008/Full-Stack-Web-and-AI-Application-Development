@@ -4,10 +4,31 @@
 >
 > `reflections/lesson-00-what-is-computer-science.md`
 >
-> Replace every `[WRITE HERE]` with your own thinking. Keep all three versions of your definition so your learning is visible.
+> Follow the **45-minute required path** below. Replace only the placeholders
+> assigned by the lesson. Keep all three versions of your definition so your
+> learning is visible. Unassigned Evidence Bank and AP CSP prompts are optional
+> enrichment.
 
 **Name:** [WRITE HERE]  
 **Date:** [WRITE HERE]
+
+---
+
+## 45-Minute Required Path
+
+| Classroom Flow block | Workbook work |
+|---|---|
+| **Skill Warm-up** | Section 1: classify the four examples named in the lesson + Definition Version 1 |
+| **Talk Robin 1** | Record one disagreement and one new partner idea |
+| **Entry Check** | Answer the three questions in the lesson plan |
+| **Core Pattern** | Selected Khan Academy segment + Definition Version 2 |
+| **Guided Practice** | Evidence A, E, I, K, M, and R only |
+| **Independent Rebuild** | One of G/L/Q + Definition Version 3 + one AP CSP connection and one gap |
+| **Talk Robin 2 + Evidence** | Transfer Prompt + save/submit the workbook |
+
+The full note-catcher, all Evidence Bank items, complete nine-field map, and
+eight-row AP CSP map remain available for extension. They are **not all due in
+one 45-minute lesson**.
 
 ---
 
@@ -174,7 +195,7 @@ Read all 18 evidence items before classifying them.
 
 ---
 
-# 4. Pair Discussion — Build a Better Definition
+# 4. Pair Discussion — Build a Better Definition (Optional Extension)
 
 Discuss your work with one partner. You may change your thinking, but do not delete Versions 1 or 2.
 
@@ -198,6 +219,9 @@ Discuss your work with one partner. You may change your thinking, but do not del
 ---
 
 # 5. Team CS Field Map
+
+The complete nine-field map is optional extension in the 45-minute lesson.
+**Definition Version 3 and its change explanation are required.**
 
 Work in a team of 3–4. Assign all Evidence Bank letters **A–R** to the field or fields your team thinks fit best.
 
@@ -278,7 +302,9 @@ Official reference: https://apcentral.collegeboard.org/courses/ap-computer-scien
 
 ## Map This Course to AP CSP
 
-For each experience, choose the **strongest** connection. `No Strong Direct Match` is allowed. Do not force a connection.
+For the 45-minute lesson, choose **one** experience and its strongest
+connection. Completing all eight rows is optional extension.
+`No Strong Direct Match` is allowed. Do not force a connection.
 
 | Course Experience | Strongest AP CSP Big Idea or Practice | Why? |
 |---|---|---|
@@ -350,12 +376,13 @@ Use **at least two specific pieces of evidence** from today's video, Evidence Ba
 Before committing this file, confirm:
 
 - [ ] I kept all three versions of my CS definition.
-- [ ] I completed the Khan Academy note-catcher.
-- [ ] I used specific Evidence Bank letters in my reasoning.
-- [ ] My team field map covers all nine CS fields.
-- [ ] I completed the AP CSP mapping without forcing every connection.
+- [ ] I recorded the assigned idea from the selected Khan Academy segment.
+- [ ] I used the assigned Evidence Bank letters in Guided Practice.
+- [ ] I independently classified one new item: G, L, or Q.
+- [ ] I mapped one course experience to AP CSP without forcing the connection.
+- [ ] I identified one AP CSP gap.
 - [ ] My transfer response uses at least two specific pieces of evidence.
-- [ ] I replaced all required `[WRITE HERE]` placeholders.
+- [ ] I replaced the `[WRITE HERE]` placeholders assigned in the required path.
 
 **Suggested commit message:**
 

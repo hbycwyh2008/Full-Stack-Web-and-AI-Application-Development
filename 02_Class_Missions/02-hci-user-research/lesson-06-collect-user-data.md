@@ -3,12 +3,27 @@
 **Length:** 45 minutes  
 **Loop step:** Initial Needfinding (collect evidence)  
 **Mission:** Practice asking and observing so the team collects real user data, not opinions about a solution.  
-**One Required Resource / Evidence Source:** Coursera interview/observation clip (≤ 8 min) or teacher sample notes + consent script  
+**One Required Resource / Evidence Source:** Coursera video below + consent script ([g7-printables.md](g7-printables.md))  
 **Durable Evidence:** ask notes + observe notes (at least two evidence lines each student)
+
+### Skill Warm-up video (required)
+
+| Field | Assign this |
+|---|---|
+| Course | *User Research and Design* (University of Minnesota) |
+| Link | https://www.coursera.org/learn/design-research |
+| Module | **User Research Methods — Part 1** |
+| Video (default) | **Observations** (~15 min) — **stop at 8:00** |
+| Alternate | **Interview and Focus Groups** (~24 min) — **stop at 8:00** (use if today’s lab emphasizes Ask more than Watch) |
+| Access | Audit / preview OK; no certificate required |
+
+Teacher picks **one** video for the whole class (default = Observations). Do not play both.
+
+**Backup:** Google *Start the UX Design Process* → https://www.coursera.org/learn/start-ux-design-process → **Week 1** interview tips / conducting interviews → stop at **8 min**.
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned clip **or** read a short sample of ask/observe notes. Mark examples of:
+Watch the assigned clip only (stop at 8:00). Mark examples of:
 
 - a useful open question;
 - a leading/bad question;
@@ -16,6 +31,8 @@ Watch the assigned clip **or** read a short sample of ask/observe notes. Mark ex
 - an opinion that is **not** evidence.
 
 Write: `I saw ___` / `I’m unsure about ___`.
+
+If video access fails, use a teacher sample ask/observe note sheet instead.
 
 ## 5–9 min — Talk Robin 1
 

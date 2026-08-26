@@ -1,0 +1,24 @@
+---
+description: After finishing file changes, default to commit, push, PR, and merge to main
+alwaysApply: true
+---
+
+# Default: push and merge after changes
+
+When the user asks for code/docs changes and work is finished (or they say to continue / 改完), **default to ship** unless they explicitly say not to push:
+
+1. Create a short-lived branch if currently on `main`/`master`
+2. `git add` relevant files, commit with a clear message (Conventional Commits style when fitting)
+3. `git push -u origin HEAD`
+4. `gh pr create` then `gh pr merge --merge --delete-branch`
+5. Check out `main`, `git pull`, confirm clean working tree
+6. Reply with the PR URL and merge status
+
+Do **not** wait for a separate “请推送并合并” each time — that is the default for this repo/user.
+
+Exceptions (do **not** auto-push):
+
+- User says only plan / ask / don’t commit / don’t push
+- Secrets, credentials, or `.env` would be included
+- Merge would require force-push to main (warn instead)
+- Commit failed or hooks rejected (fix and make a new commit; do not amend unless amend rules allow)

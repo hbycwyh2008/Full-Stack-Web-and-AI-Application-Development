@@ -67,19 +67,19 @@ GitHub supports the workflow throughout the course.
 
 ## Canonical Classroom Method
 
-Every 90-minute canonical lesson follows the exact seven-block structure shown on the **Our Classroom Flow** poster:
+Every **45-minute** canonical lesson follows the seven-block structure on the **Our Classroom Flow** poster:
 
-1. **Entry Point Check** — 0–10 min
-2. **Individual Learning** — 10–25 min
-3. **Talk Round 1** — 25–40 min
-4. **Entry Points Check / Teacher Diagnosis** — 40–55 min
-5. **Guided Practice / Mission Task** — 55–75 min
-6. **Exit Check** — 75–85 min
-7. **Submission** — 85–90 min
+1. **Entry Point Check** — 0–4 min
+2. **Individual Learning / Skill Warm-up** — 4–12 min
+3. **Talk Round 1** — 12–17 min
+4. **Teacher Diagnosis / Core Pattern** — 17–22 min
+5. **Guided Practice / Mission Task** — 22–35 min
+6. **Independent Rebuild / Exit Check** — 35–42 min
+7. **Submission** — 42–45 min
 
-See [shared/classroom-flow.md](shared/classroom-flow.md).
+See [shared/classroom-flow.md](shared/classroom-flow.md) and [shared/classroom-flow-45-min.md](shared/classroom-flow-45-min.md).
 
-The seven blocks are fixed; the activity inside them should vary. Use card sorts, reverse engineering, user research, affinity mapping, design studios, Figma critique, code tracing, debugging, jigsaw reading, usability labs, PR review, and development sprints as appropriate.
+The seven blocks are fixed; the activity inside them should vary. Use card sorts, reverse engineering, user research, affinity mapping, design studios, Figma critique, code tracing, debugging, jigsaw reading, usability labs, PR review, Skills practice, and development sprints as appropriate.
 
 The teacher does **not** lead the class through a long sequence of questions. Students first work with evidence, discuss, make/build/test something, and show learning evidence. Teacher explanation is short and diagnostic when a shared barrier appears.
 

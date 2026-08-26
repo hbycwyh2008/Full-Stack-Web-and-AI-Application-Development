@@ -1,6 +1,6 @@
 # Lesson 3: File Organization and Learning Log
 
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Target mastery after lesson:** Level 3
 
 ---

@@ -1,7 +1,7 @@
 # Lesson Title
 
 **Phase:**  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Student repo (if applicable):**
 
 ---

@@ -1,14 +1,14 @@
 # Lesson 01 — Product Teardown: Trace the Software Lifecycle
 
 **Prerequisite:** Required Four-Poster Orientation + Lesson 00  
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Reverse-engineer the likely development decisions behind an existing website or app and recognize that implementation is only one stage of software development.  
 **One Required Resource / Evidence Source:** one familiar live website/app or teacher-provided screenshots  
 **Durable Evidence:** `research/product-teardown.md`
 
 ---
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Work individually.
 
@@ -22,7 +22,7 @@ Mark each claim as **Observation / Inference / Unsure**.
 
 ---
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Use only the live product/screenshots as today's required evidence source.
 
@@ -41,7 +41,7 @@ Examples of question types: user need, requirement, design, implementation, test
 
 ---
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 In pairs, compare observations.
 
@@ -65,7 +65,7 @@ Be prepared to defend the classification with product evidence, not with teacher
 
 ---
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups of 3–4 build a **Lifecycle Evidence Map** using the sequence:
 
@@ -95,7 +95,7 @@ Clarify only common misconceptions. Emphasize that the lifecycle is **iterative*
 
 ---
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Create `research/product-teardown.md` with:
 
@@ -114,7 +114,7 @@ For every inference, include the evidence that led to it or label it explicitly 
 
 ---
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Work individually.
 
@@ -130,7 +130,7 @@ Then complete:
 
 ---
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit/commit:
 

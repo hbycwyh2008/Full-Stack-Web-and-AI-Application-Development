@@ -1,7 +1,8 @@
 # Lesson 5: Local Git with VS Code and Terminal
 
 **Phase:** 0 — Git & GitHub  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `cs-learning-log`
 
 ---
@@ -64,22 +65,21 @@ change file → git status → git add . → git commit -m "message" → git pus
 
 ---
 
-## 80-Minute Lesson Flow
+## 45-Minute Lesson Flow
 
 | Time | Block |
 |---|---|
-| 0–20 min | Skill Warm-up |
-| 20–30 min | Entry Check |
-| 30–34 min | Talk Robin Round 1 |
-| 34–45 min | Teacher Pattern Explanation |
-| 45–60 min | Guided Practice |
-| 60–72 min | Independent Rebuild |
-| 72–76 min | Talk Robin Round 2 |
-| 76–80 min | Exit Evidence |
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
 
 ---
 
-### 0–20 min: Skill Warm-up
+### 0–5 min: Skill Warm-up (INPUT)
 
 **Local path:** Teacher demos `git status` in repo folder. Students predict what happens after editing a file without commit.
 
@@ -89,7 +89,15 @@ change file → git status → git add . → git commit -m "message" → git pus
 
 ---
 
-### 20–30 min: Entry Check
+### 5–9 min: Talk Robin 1
+
+- **A:** “Commit is local; push is…”
+- **B:** “If GitHub shows old README, I would check…”
+- **Shared:** One fear about terminal (normalize debugging).
+
+---
+
+### 9–14 min: Entry Check
 
 1. What does `git status` tell you?
 2. What is the difference between **commit** and **push**?
@@ -99,15 +107,7 @@ change file → git status → git add . → git commit -m "message" → git pus
 
 ---
 
-### 30–34 min: Talk Robin Round 1
-
-- **A:** “Commit is local; push is…”
-- **B:** “If GitHub shows old README, I would check…”
-- **Shared:** One fear about terminal (normalize debugging).
-
----
-
-### 34–45 min: Teacher Pattern Explanation
+### 14–19 min: Core Pattern
 
 **Local demo:**
 
@@ -133,7 +133,7 @@ git push
 
 ---
 
-### 45–60 min: Guided Practice
+### 19–30 min: Guided Practice
 
 **Local:** Each student clone/pull → edit → full command sequence with teacher script on slide.
 
@@ -143,7 +143,7 @@ Auth station for PAT / GitHub Desktop failures.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 30–40 min: Independent Rebuild
 
 **Local checklist:**
 
@@ -162,7 +162,7 @@ Auth station for PAT / GitHub Desktop failures.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 40–45 min: Talk Robin 2 + Exit Evidence
 
 - **A:** “Local Git pattern in order is…”
 - **B:** “My proof that push worked is…”
@@ -170,19 +170,6 @@ Auth station for PAT / GitHub Desktop failures.
 
 ---
 
-### 76–80 min: Exit Evidence
-
-**Local:**
-
-1. Terminal screenshot (status/add/commit/push sequence)
-2. GitHub screenshot after push
-3. One sentence: **Difference between commit and push?**
-
-**Web fallback:**
-
-1. Web commit screenshot(s)
-2. Link to `lesson-05/notes.md`
-3. Same sentence + web-only note
 
 ---
 

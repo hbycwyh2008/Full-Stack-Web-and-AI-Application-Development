@@ -1,6 +1,6 @@
 # Course Pacing Guide — 33 Core Sessions
 
-Assumption: approximately **90 minutes per core lesson**.
+Assumption: approximately **45 minutes per core lesson**.
 
 | Sessions | Lessons | Focus |
 |---|---|---|
@@ -16,14 +16,14 @@ Assumption: approximately **90 minutes per core lesson**.
 
 ## Lesson 00 Orientation Balance
 
-Lesson 00 is not an AP CSP lecture. Recommended allocation:
+Lesson 00 is not an AP CSP lecture. Recommended **45-minute** allocation:
 
-- 0–20: What counts as computer science? evidence/card-sort investigation;
-- 20–35: build a map of the CS discipline;
-- 35–55: software-development lifecycle challenge;
-- 55–70: **10–15 minute AP CSP CED discovery**;
-- 70–85: course pathway/evidence setup;
-- 85–90: exit reflection.
+- 0–8: What counts as computer science? short evidence/card-sort;
+- 8–16: map of the CS discipline;
+- 16–26: software-development lifecycle challenge;
+- 26–34: **AP CSP CED discovery** (tight);
+- 34–42: course pathway / evidence setup;
+- 42–45: exit reflection.
 
 ## AI Literacy Placement
 

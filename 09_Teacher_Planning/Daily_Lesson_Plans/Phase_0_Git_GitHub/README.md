@@ -1,8 +1,10 @@
 # Phase 0: Git & GitHub — Daily Lesson Plans
 
-**6 lessons × 80 minutes**  
+**6 lessons × 45 minutes**  
 **Student repository:** `cs-learning-log`  
-**Phase overview:** `09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md`
+**Phase overview:** `09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md`  
+**Canonical student path:** `02_Class_Missions/01-github-foundations/`  
+**Flow:** `02_Class_Missions/shared/classroom-flow-45-min.md`
 
 ---
 

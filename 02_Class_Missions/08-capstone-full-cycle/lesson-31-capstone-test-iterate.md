@@ -1,15 +1,15 @@
 # Lesson 31 — Capstone Test, Triage, and Iterate
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Use usability, accessibility, and technical evidence to decide what must change before release.  
 **One Required Resource / Evidence Source:** current capstone build + capstone requirements/test criteria  
 **Durable Evidence:** test matrix + bug/usability findings + prioritized revision PR
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually inspect three sample findings and classify each as **technical bug / usability problem / accessibility issue / requirement mismatch / unclear**. Rank which should be fixed first and explain your criterion.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Audit the current capstone build against:
 
@@ -23,15 +23,15 @@ Audit the current capstone build against:
 
 Record evidence in a simple test matrix.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs compare findings and severity. For one disagreement, use **user impact / frequency / workaround / release risk / effort** to reach or document a decision.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups run a short cross-team test: one team attempts another team's primary task without coaching. The product team records failures and questions. Teacher addresses only common issues that block multiple teams from testing or debugging effectively.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Triage and iterate:
 
@@ -42,11 +42,11 @@ Triage and iterate:
 - update Figma if the interaction/design itself changes;
 - open/update PRs with before/after evidence.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually choose one finding you **did not** fix today. Explain why it was deferred and what evidence would cause you to raise its priority.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit test matrix, prioritized issue list, revision PR(s), retest evidence, and individual exit response.
 

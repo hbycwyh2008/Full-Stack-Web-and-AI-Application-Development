@@ -1,15 +1,15 @@
 # Lesson 07 — Synthesize Research, Define the Problem, Write Requirements
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Turn raw user-research evidence into patterns, a focused problem definition, and evidence-backed requirements.  
 **One Required Resource / Evidence Source:** anonymized team research notes/interview evidence  
 **Durable Evidence:** affinity map + problem statement + prioritized requirements
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually review five sample research notes and label each as **observation / user quote / interpretation / solution idea**. Circle one item that should not yet be treated as a requirement.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Review the team's anonymized research evidence. Create one note per meaningful observation/quote. Mark:
 
@@ -23,11 +23,11 @@ Review the team's anonymized research evidence. Create one note per meaningful o
 
 Do not begin with features.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs cluster notes into provisional themes and give each theme a descriptive label. Compare with another pair and identify one cluster that changed after discussion.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups build an affinity map and display:
 
@@ -38,7 +38,7 @@ Groups build an affinity map and display:
 
 Teacher gives brief clarification only on shared problems such as theme labels that are actually feature ideas, over-generalizing from one participant, or mixing evidence with assumptions.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 From the affinity map, produce:
 
@@ -50,7 +50,7 @@ From the affinity map, produce:
 - priority labels such as Must / Should / Could;
 - traceability: each important requirement points back to user evidence.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually evaluate this requirement:
 
@@ -58,7 +58,7 @@ Individually evaluate this requirement:
 
 State whether it is evidence-backed, solution-first, or insufficiently justified, and rewrite it as a user need/requirement if necessary.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit affinity map, problem statement, prioritized requirement set, evidence links, and individual exit response.
 

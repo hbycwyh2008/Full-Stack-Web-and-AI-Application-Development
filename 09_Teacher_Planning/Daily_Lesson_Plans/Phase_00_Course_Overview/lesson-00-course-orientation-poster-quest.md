@@ -1,7 +1,7 @@
 # Lesson 0: Course Orientation — Poster Quest and Learning Pathway
 
 **Unit:** 00 — Course Overview  
-**Duration:** 90 minutes  
+**Duration:** 45 minutes  
 **Purpose:** First-day orientation before GitHub setup or coding begins  
 **Student mission:** `02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md`
 

@@ -4,7 +4,7 @@
 
 **Course:** Full-Stack Web and AI Application Development  
 **Unit focus:** GitHub as learning evidence — not advanced Git internals  
-**Suggested duration:** 6 lessons × 80 minutes (or 3 double blocks)
+**Suggested duration:** 6 lessons × 45 minutes
 
 ---
 
@@ -36,18 +36,17 @@ By the end of this unit, students should be able to:
 
 ## Classroom Model (Every Lesson)
 
-Each lesson follows the course poster flow:
+Each lesson is **45 minutes** and follows the course poster flow ([classroom-flow-45-min.md](../../02_Class_Missions/shared/classroom-flow-45-min.md)):
 
-| Block | Time (80 min) | Purpose |
+| Block | Time | Purpose |
 |---|---|---|
-| 1. Skill Warm-up | 0–20 min | Short exposure (video, reading, demo) — **not** full resource completion |
-| 2. Entry Check | 20–30 min | Quick individual check before discussion |
-| 3. Talk Robin Round 1 | 30–34 min | Pair talk after Entry Check — surface confusion |
-| 4. Teacher Pattern Explanation | 34–45 min | Name the core pattern clearly |
-| 5. Guided Practice | 45–60 min | Teacher-led, students follow with support |
-| 6. Independent Rebuild | 60–72 min | Students rebuild the pattern with checklist |
-| 7. Talk Robin Round 2 | 72–76 min | Summarize pattern before exit |
-| 8. Exit Evidence | 76–80 min | Submit proof of learning |
+| 1. Skill Warm-up (INPUT) | 0–5 min | One short YouTube clip |
+| 2. Talk Robin 1 | 5–9 min | What was done / confusing |
+| 3. Entry Check | 9–14 min | Individual basics |
+| 4. Core Pattern | 14–19 min | Name the pattern |
+| 5. Guided Practice | 19–30 min | GitHub Skills interactive |
+| 6. Independent Rebuild | 30–40 min | Rebuild with checklist |
+| 7. Talk Robin 2 + Exit Evidence | 40–45 min | Summarize + submit proof |
 
 ---
 

@@ -1,15 +1,15 @@
 # Lesson 15 — Figma-to-Code Implementation Sprint
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Integrate semantic HTML, visual CSS, and responsive layout into a faithful implementation of an approved Figma flow.  
 **One Required Resource / Evidence Source:** approved Figma prototype + current HTML/CSS code  
 **Durable Evidence:** implementation PR + design comparison + known-gap list
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually compare the current browser build with the Figma design. List three differences and classify each as **content / structure / style / responsive behavior / intentional deviation**.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Inspect both artifacts closely. Record the highest-impact mismatches affecting:
 
@@ -22,15 +22,15 @@ Inspect both artifacts closely. Record the highest-impact mismatches affecting:
 
 Prioritize the top three by user impact, not by visual annoyance.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs compare priorities and select one mismatch that should **not** be fixed literally because the browser implementation needs a different solution. Explain the trade-off.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups conduct a quick implementation review using side-by-side browser/Figma evidence. Each group shows one semantic/layout success and one persistent mismatch. Teacher addresses only common implementation barriers.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Complete a focused sprint:
 
@@ -43,11 +43,11 @@ Complete a focused sprint:
 
 Open or update a PR with screenshots and a checklist of requirements met.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually explain one place where the final code differs from Figma. State whether it is a bug, limitation, responsive adaptation, or deliberate implementation decision, and justify it.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit PR link, comparison evidence, known-gap list, and individual exit response.
 

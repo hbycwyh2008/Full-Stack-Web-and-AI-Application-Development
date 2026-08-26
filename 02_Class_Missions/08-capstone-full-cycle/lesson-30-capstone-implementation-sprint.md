@@ -1,11 +1,11 @@
 # Lesson 30 — Capstone Implementation Sprint
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Implement the highest-priority capstone work through the normal GitHub workflow while preserving design and requirement traceability.  
 **One Required Resource / Evidence Source:** approved Figma design + prioritized GitHub backlog  
 **Durable Evidence:** feature branch + meaningful commits + PR + implementation evidence
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually choose the highest-priority backlog item you can realistically complete or substantially advance today. Write:
 
@@ -14,7 +14,7 @@ Individually choose the highest-priority backlog item you can realistically comp
 - dependencies;
 - likely implementation risk.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Inspect the approved Figma states, related issue, and relevant existing code. Record:
 
@@ -24,15 +24,15 @@ Inspect the approved Figma states, related issue, and relevant existing code. Re
 - edge/error states;
 - tests needed before merge.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs perform a pre-implementation review. Each student explains their plan without showing finished code. Partner identifies one missing test, state, dependency, or scope risk. Revise the plan.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups show a short implementation plan/branch state and one blocker. Students first compare debugging/implementation evidence with peers. Teacher gives a targeted micro-lesson only for blockers affecting multiple teams.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Run the development sprint:
 
@@ -46,7 +46,7 @@ Run the development sprint:
 
 AI assistance, if used, follows the AI Use Policy and must not replace student understanding.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually explain one non-trivial piece of your implementation without copying comments or AI output:
 
@@ -55,7 +55,7 @@ Individually explain one non-trivial piece of your implementation without copyin
 - one failure case;
 - how you tested it.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit issue/branch/PR links, commit evidence, current test results, and individual exit response.
 

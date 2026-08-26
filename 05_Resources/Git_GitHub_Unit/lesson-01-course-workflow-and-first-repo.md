@@ -1,6 +1,6 @@
 # Lesson 1: Course Workflow and First GitHub Repository
 
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Target mastery after lesson:** Level 1–2 (Exposure → Copy/Run → begin Explain While Looking)
 
 ---

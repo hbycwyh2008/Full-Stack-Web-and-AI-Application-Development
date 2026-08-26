@@ -1,11 +1,11 @@
 # Lesson 32 — Capstone Release and Retrospective
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Release the capstone, demonstrate the full development evidence chain, and reflect on how the product changed from initial assumptions to tested software.  
 **One Required Resource / Evidence Source:** completed capstone repository + Figma/research/test evidence  
 **Durable Evidence:** deployed release + final README + lifecycle evidence map + retrospective
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually reconstruct the capstone lifecycle from memory:
 
@@ -13,7 +13,7 @@ Individually reconstruct the capstone lifecycle from memory:
 
 For each stage, name one piece of evidence from your own project. Circle the weakest evidence gap.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Audit the final project evidence. Verify that another person can find:
 
@@ -29,7 +29,7 @@ Audit the final project evidence. Verify that another person can find:
 
 Identify missing or confusing documentation.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs perform an evidence-chain review. Partner chooses one final feature and asks the team to trace it backward:
 
@@ -37,11 +37,11 @@ Pairs perform an evidence-chain review. Partner chooses one final feature and as
 
 Record any broken link in the chain.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups conduct a final readiness review: **ready to release / release with documented limitation / not ready**. They must cite evidence. Teacher only clarifies shared release/documentation barriers.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Complete release and handoff:
 
@@ -54,7 +54,7 @@ Complete release and handoff:
 
 Then build a one-page **Lifecycle Evidence Map** showing how the project moved through the entire course process.
 
-## 75–85 min — Exit Check: Individual Retrospective
+## 35–42 min — Independent Rebuild / Exit Check: Individual Retrospective
 
 Write a concise retrospective answering:
 
@@ -64,7 +64,7 @@ Write a concise retrospective answering:
 4. What would you do differently on the next software project?
 5. If AI was used in the product or workflow, was it actually justified and understood? If AI was not used, why was that reasonable?
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit deployed URL, repository/README, Figma link, Lifecycle Evidence Map, release record, and individual retrospective.
 

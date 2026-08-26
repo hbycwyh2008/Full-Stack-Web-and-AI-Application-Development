@@ -1,6 +1,6 @@
 # Lesson 5: Local Git with VS Code and Terminal
 
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Target mastery after lesson:** Level 3 (local path) or Level 2–3 (web fallback)
 
 ---

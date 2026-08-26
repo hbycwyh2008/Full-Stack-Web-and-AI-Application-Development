@@ -2,15 +2,27 @@
 
 Student-facing GitHub beginner unit for **Collaborate**.
 
-## Classroom pattern (every lesson)
+## Classroom pattern (every lesson — **45 minutes**)
 
 ```text
-INPUT   →  GitHub YouTube (related clip from GitHub for Beginners)
+INPUT   →  GitHub YouTube (related clip, ≤4 min)
 PRACTICE →  GitHub Skills interactive exercise
 EVIDENCE →  own cs-learning-log repo + Exit Evidence
 ```
 
-- **Input** = watch one related official GitHub YouTube video (short; not the whole playlist).  
+Full timing: [../shared/classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
+
+| Time | Block |
+|---|---|
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice (Skills) |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
+
+- **Input** = watch one related official GitHub YouTube video (short; pause early).  
 - **Practice** = do the matching **GitHub Skills** interactive course steps on github.com.  
 - Docs = look up only if stuck — not the main activity.
 

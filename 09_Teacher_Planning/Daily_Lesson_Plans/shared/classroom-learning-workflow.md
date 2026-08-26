@@ -1,30 +1,28 @@
 # Classroom Learning Workflow
 
-Every daily lesson in this course follows the **course poster** model. This is not a lecture-only course.
+Every daily lesson in this course follows the **course poster** model. **Each lesson is 45 minutes.**
 
 ![Our Classroom Flow](../../../08_Public_Documents/posters/classroom-flow.png)
 
 *Poster: [08_Public_Documents/posters/classroom-flow.png](../../../08_Public_Documents/posters/classroom-flow.png)*
 
-> The poster shows the **seven-step cycle**. Daily lesson plans use **eight timed blocks** (80 minutes) — same pedagogy, classroom timing detail below.
+Canonical timing: [02_Class_Missions/shared/classroom-flow-45-min.md](../../../02_Class_Missions/shared/classroom-flow-45-min.md)
 
 ---
 
-## The Seven Steps (poster order)
+## The Seven Steps (poster order — 45 min)
 
-Matches **Our Classroom Flow**: *We learn. Practice. Rebuild. Share.*
-
-| # | Block | Typical time (80–90 min) | Purpose |
+| # | Block | Time | Purpose |
 |---|---|---|---|
-| 1 | **Skill Warm-up** | 0–12 min | Meet the idea via **one** short Coursera clip, guide, or task. **Not** full course binge. |
-| 2 | **Talk Robin 1** | 12–18 min | Pair discussion: what was done and what was confusing. |
-| 3 | **Entry Check** | 18–28 min | Individual check of basic understanding **before** going deeper. |
-| 4 | **Core Pattern** | 28–40 min | Teacher names and demos today’s key method/pattern. |
-| 5 | **Guided Practice** | 40–55 min | Practice with teacher support; ask questions. |
-| 6 | **Independent Rebuild** | 55–72 min | Recreate the pattern with less help — **no full solution copy**. |
-| 7 | **Talk Robin 2 + Evidence** | 72–80/90 min | Summarize, explain, submit proof of learning. |
+| 1 | **Skill Warm-up** | 0–5 min | Meet the idea via **one** short clip / passage / task |
+| 2 | **Talk Robin 1** | 5–9 min | Pair: what was done and what was confusing |
+| 3 | **Entry Check** | 9–14 min | Individual basics before going deeper |
+| 4 | **Core Pattern** | 14–19 min | Name and demo today’s key method (micro) |
+| 5 | **Guided Practice** | 19–30 min | Practice with teacher support |
+| 6 | **Independent Rebuild** | 30–40 min | Recreate with checklist — no full solution copy |
+| 7 | **Talk Robin 2 + Evidence** | 40–45 min | Summarize, explain, submit proof |
 
-**Steps 1–3 (Coursera mapping, prompts, Entry Checks):** see [classroom-flow-steps-1-3-coursera.md](classroom-flow-steps-1-3-coursera.md).
+**Steps 1–3 detail:** [classroom-flow-steps-1-3-coursera.md](classroom-flow-steps-1-3-coursera.md)
 
 ---
 
@@ -42,55 +40,22 @@ Matches **Our Classroom Flow**: *We learn. Practice. Rebuild. Share.*
 
 ---
 
-## Evidence Types
-
-Students submit learning through:
-
-- GitHub commits and repository structure
-- Screenshots (README, commit history, terminal)
-- Learning logs and `lesson-XX/notes.md`
-- Notion portfolio updates (when applicable)
-- Short written reflections in Exit Evidence
-- Oral explanation (cold call)
-
----
-
 ## Resource Rule
 
-- **Discover → Create:** Coursera (and YouTube, GitHub Docs, etc.) are Skill Warm-up supports, not the course itself.
-- **AI Literacy:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans* is the **sole** content source (in-class passages). Do not substitute Coursera AI courses for the warm-up.
+- **Discover → Create:** short INPUT + focused PRACTICE (e.g. GitHub YouTube → GitHub Skills).
+- **AI Literacy:** Mitchell in-class passages (see `06-ai-literacy/classroom-flow-45-min.md`).
 
 ```text
-Web: Coursera introduces the idea (Step 1).
-AI Literacy: Mitchell passage introduces the idea (Step 1).
+INPUT introduces the idea (Step 1).
 Talk Robin surfaces confusion (Step 2).
 Entry Check proves basics (Step 3).
-Classroom practice builds the skill (Steps 4–5).
+Practice builds the skill (Steps 4–5).
 Independent rebuild checks mastery (Step 6).
-Project / reading evidence proves progress (Step 7).
+Evidence proves progress (Step 7).
 ```
 
-Canonical resource map: [classroom-flow-steps-1-3-coursera.md](classroom-flow-steps-1-3-coursera.md).
-
 ---
 
-## Mastery Levels
+## Talk Robin / Mastery
 
-See `mastery-levels.md` in this folder. Target **Level 3+** by end of a phase unit.
-
----
-
-## Talk Robin
-
-See `talk-robin-rules.md` in this folder.
-
----
-
-## Related Course Materials
-
-| Material | Location |
-|---|---|
-| Phase overview | `09_Teacher_Planning/Phase_Overviews/Phase_X_*.md` |
-| Student portfolio guide | `03_Templates/Student_GitHub_Repository_Guide.md` |
-| Assessments | `04_Assessment/` |
-| Extended Git unit (handouts, rubrics) | `05_Resources/Git_GitHub_Unit/` |
+See `talk-robin-rules.md` and `mastery-levels.md` in this folder (or Git unit handouts).

@@ -1,15 +1,15 @@
 # Lesson 08 — User Flow and Information Architecture
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Translate research-backed requirements into a clear task flow and information structure before visual styling.  
 **One Required Resource / Evidence Source:** the team's problem statement + prioritized requirements  
 **Durable Evidence:** user-flow diagram + information-architecture map
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually arrange a shuffled set of screens/actions for a simple task such as submitting homework or booking a school event. Mark where a user could get lost or make an error.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Review the team's problem statement and requirements. Identify:
 
@@ -20,15 +20,15 @@ Review the team's problem statement and requirements. Identify:
 - success state;
 - likely error/empty states.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs compare task sequences and discuss where alternative paths, backtracking, or failure states are needed. Produce one shared flow with at least one branch.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups create a quick wall/board version of the user flow and IA. Another group attempts to follow the flow without verbal explanation. Record where the structure becomes ambiguous. Teacher clarifies only shared problems such as confusing navigation labels, missing states, or organizing content around developer structure instead of user goals.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Build the actual design foundation:
 
@@ -41,11 +41,11 @@ Build the actual design foundation:
 
 Use Figma/FigJam or the approved diagramming format.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually inspect a new mini-flow and identify one navigation/IA problem. Propose a revision and explain which user goal it supports.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit user-flow diagram, IA map, requirement links, and individual exit response.
 

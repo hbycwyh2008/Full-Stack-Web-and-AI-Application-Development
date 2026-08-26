@@ -1,15 +1,15 @@
 # Lesson 12 — Semantic HTML from the Figma Structure
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Convert a designed page structure into meaningful HTML before styling.  
 **One Required Resource / Evidence Source:** one approved Figma screen + teacher-provided semantic HTML example  
 **Durable Evidence:** semantic `index.html` + structure explanation
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually inspect a page screenshot and sketch its structural regions without using visual-style words. Label likely header, navigation, main content, sections, lists, forms, buttons, and footer.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Inspect the semantic HTML example and record:
 
@@ -19,15 +19,15 @@ Inspect the semantic HTML example and record:
 - lists/links/buttons/forms;
 - why `div` is sometimes correct but should not replace meaningful structure automatically.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs compare how they would translate one Figma screen into HTML structure. Resolve one disputed element by explaining its purpose, not its appearance.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups receive short HTML snippets and classify them as **semantic / works but weak structure / invalid or misleading**. Display one disputed choice. Teacher gives a brief clarification only on shared misconceptions such as heading order, link vs button, or overusing `div`.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Implement the selected Figma screen in semantic HTML:
 
@@ -40,11 +40,11 @@ Implement the selected Figma screen in semantic HTML:
 
 Run browser/validator checks and fix structural errors.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually choose semantic elements for a new mini-layout and explain two choices. Include one case where a generic `div` is reasonable.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Commit `index.html`, include validation evidence, and submit the individual exit response.
 

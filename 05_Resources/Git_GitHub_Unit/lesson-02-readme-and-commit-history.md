@@ -1,6 +1,6 @@
 # Lesson 2: README and Commit History
 
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Target mastery after lesson:** Level 2–3
 
 ---

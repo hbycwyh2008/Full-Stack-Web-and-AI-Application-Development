@@ -1,15 +1,15 @@
 # Lesson 14 — Layout and Responsive Design
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Build responsive layouts that preserve user priorities across viewport sizes.  
 **One Required Resource / Evidence Source:** approved Figma desktop/mobile frames or teacher-provided responsive examples  
 **Durable Evidence:** responsive layout implementation + viewport test log
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually inspect a desktop layout squeezed into a narrow viewport. Mark what breaks first and rank the three most important things the user must still be able to do on a small screen.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Inspect responsive examples and record evidence for:
 
@@ -22,15 +22,15 @@ Inspect responsive examples and record evidence for:
 - image/text behavior;
 - mobile content priority.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs predict how one Figma layout should change as width decreases. Sketch a responsive strategy and compare it with another pair. Identify one element that should reflow rather than simply shrink.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups debug a deliberately broken responsive page. They must identify the failure cause using DevTools evidence. Teacher clarifies only common barriers such as fixed widths, overflow, Flexbox/Grid misunderstandings, or ineffective media queries.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Implement responsive behavior for the project:
 
@@ -44,11 +44,11 @@ Implement responsive behavior for the project:
 
 Record each failure discovered and the fix applied.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually inspect a new responsive bug and state whether the likely fix belongs to width sizing, layout mode, wrapping, or a breakpoint. Explain the evidence.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Commit responsive changes, viewport test log/screenshots, and individual exit response.
 

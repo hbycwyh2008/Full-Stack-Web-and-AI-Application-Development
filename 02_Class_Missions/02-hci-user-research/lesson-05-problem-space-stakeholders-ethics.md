@@ -1,11 +1,11 @@
 # Lesson 05 — Problem Space, Stakeholders, and Research Ethics
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Turn a vague product request into a researchable problem without jumping directly to a solution.  
 **One Required Resource / Evidence Source:** teacher-provided stakeholder + research-ethics scenario sheet  
 **Durable Evidence:** stakeholder map + assumption list + ethical research constraints
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually respond to this request:
 
@@ -13,7 +13,7 @@ Individually respond to this request:
 
 Sketch a solution for three minutes, then label every decision in your sketch as **evidence / assumption / unsure**.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Inspect the stakeholder and ethics scenarios. Record:
 
@@ -25,11 +25,11 @@ Inspect the stakeholder and ethics scenarios. Record:
 - privacy/consent risks;
 - what the team still does not know.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs compare stakeholder maps and classify ethics scenarios as **acceptable / revise / unacceptable**. Each student must defend one disputed decision with evidence from the scenario.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups create an **Assumption + Stakeholder Board** with:
 
@@ -40,7 +40,7 @@ Groups create an **Assumption + Stakeholder Board** with:
 
 Teacher gives a brief clarification only where groups show shared confusion about consent, minors, sensitive information, recording, pressure, or collecting unnecessary personal data.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Convert assumptions into a short research plan:
 
@@ -54,7 +54,7 @@ Convert assumptions into a short research plan:
 
 Avoid solution-first questions such as `Would you use my app?`.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually rewrite this weak question into a stronger research question:
 
@@ -62,7 +62,7 @@ Individually rewrite this weak question into a stronger research question:
 
 Then explain why the original question could bias the research.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit stakeholder map, assumption list, research-plan draft, and individual exit rewrite.
 

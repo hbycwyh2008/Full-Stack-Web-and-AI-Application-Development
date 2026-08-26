@@ -1,6 +1,6 @@
 # Lesson 6: GitHub Mastery Check
 
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Target mastery:** Level 3 minimum; Level 4–5 for strong mastery
 
 ---

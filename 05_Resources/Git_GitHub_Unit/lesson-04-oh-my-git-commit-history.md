@@ -1,6 +1,6 @@
 # Lesson 4: Oh My Git! for Commit and History
 
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
 **Target mastery after lesson:** Level 2–3 (metaphor → real GitHub)
 
 ---

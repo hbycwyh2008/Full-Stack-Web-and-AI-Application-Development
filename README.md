@@ -79,7 +79,7 @@ Lesson folders are still named by the previous unit order; content will be reorg
 
 ## Classroom Method
 
-Every class follows **Our Classroom Flow**:
+Every class is **45 minutes** and follows **Our Classroom Flow**:
 
 ```text
 Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
@@ -88,7 +88,9 @@ Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
 
 *We learn. Practice. Rebuild. Share.* The goal is not only to finish a task, but to **rebuild and explain it independently**.
 
-Steps 1–3 for Discover → Create use named **Coursera** courses; **AI Literacy** uses Melanie Mitchell’s *Artificial Intelligence: A Guide for Thinking Humans* only — see [09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md](09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md).
+See [02_Class_Missions/shared/classroom-flow-45-min.md](02_Class_Missions/shared/classroom-flow-45-min.md).
+
+Steps 1–3 for Discover → Create use named resources; **AI Literacy** uses Melanie Mitchell’s *Artificial Intelligence: A Guide for Thinking Humans* only — see [09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md](09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md).
 
 ## AP CSP Relationship
 

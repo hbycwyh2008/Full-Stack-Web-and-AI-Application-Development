@@ -1,7 +1,8 @@
 # Lesson 4: Oh My Git! for Commit and History
 
 **Phase:** 0 — Git & GitHub  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `cs-learning-log`
 
 ---
@@ -60,22 +61,21 @@ game timeline → commit history → learning evidence
 
 ---
 
-## 80-Minute Lesson Flow
+## 45-Minute Lesson Flow
 
 | Time | Block |
 |---|---|
-| 0–20 min | Skill Warm-up |
-| 20–30 min | Entry Check |
-| 30–34 min | Talk Robin Round 1 |
-| 34–45 min | Teacher Pattern Explanation |
-| 45–60 min | Guided Practice |
-| 60–72 min | Independent Rebuild |
-| 72–76 min | Talk Robin Round 2 |
-| 76–80 min | Exit Evidence |
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
 
 ---
 
-### 0–20 min: Skill Warm-up
+### 0–5 min: Skill Warm-up (INPUT)
 
 Play or demo **Living dangerously** + **Making backups** (stop at 20 min even if incomplete).
 
@@ -86,7 +86,15 @@ Play or demo **Living dangerously** + **Making backups** (stop at 20 min even if
 
 ---
 
-### 20–30 min: Entry Check
+### 5–9 min: Talk Robin 1
+
+- **A:** “A commit is like ___ in the game because…”
+- **B:** “GitHub history shows evidence because…”
+- **Shared:** Which level we play next in Guided Practice.
+
+---
+
+### 9–14 min: Entry Check
 
 1. In Oh My Git, what problem does “making backups” solve?
 2. How is the game timeline like GitHub’s **Commits** tab?
@@ -96,15 +104,7 @@ Play or demo **Living dangerously** + **Making backups** (stop at 20 min even if
 
 ---
 
-### 30–34 min: Talk Robin Round 1
-
-- **A:** “A commit is like ___ in the game because…”
-- **B:** “GitHub history shows evidence because…”
-- **Shared:** Which level we play next in Guided Practice.
-
----
-
-### 34–45 min: Teacher Pattern Explanation
+### 14–19 min: Core Pattern
 
 **Map game → GitHub:**
 
@@ -128,7 +128,7 @@ Play or demo **Living dangerously** + **Making backups** (stop at 20 min even if
 
 ---
 
-### 45–60 min: Guided Practice
+### 19–30 min: Guided Practice
 
 - **45–52 min:** **The command line** + **Your first commit** (class-paced)
 - **52–60 min:** Draft `lesson-04/notes.md`; teacher shows Commits tab beside game screenshot
@@ -137,7 +137,7 @@ Balance screen time — GitHub evidence is mandatory exit.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 30–40 min: Independent Rebuild
 
 **Checklist:**
 
@@ -149,7 +149,7 @@ Balance screen time — GitHub evidence is mandatory exit.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 40–45 min: Talk Robin 2 + Exit Evidence
 
 - **A:** “Game timeline → commit history means…”
 - **B:** “My GitHub evidence today is…”
@@ -157,11 +157,6 @@ Balance screen time — GitHub evidence is mandatory exit.
 
 ---
 
-### 76–80 min: Exit Evidence
-
-1. Oh My Git screenshot
-2. Link to `lesson-04/notes.md`
-3. One sentence: **How is the game timeline like GitHub history?**
 
 ---
 

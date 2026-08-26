@@ -1,7 +1,8 @@
 # Lesson 6: GitHub Mastery Check
 
 **Phase:** 0 — Git & GitHub  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `cs-learning-log`
 
 ---
@@ -71,22 +72,21 @@ Answer in **student’s own words** (use examples from **your** `cs-learning-log
 
 ---
 
-## 80-Minute Lesson Flow
+## 45-Minute Lesson Flow
 
 | Time | Block |
 |---|---|
-| 0–20 min | Skill Warm-up |
-| 20–30 min | Entry Check |
-| 30–34 min | Talk Robin Round 1 |
-| 34–45 min | Teacher Pattern Explanation |
-| 45–60 min | Guided Practice |
-| 60–72 min | Independent Rebuild |
-| 72–76 min | Talk Robin Round 2 |
-| 76–80 min | Exit Evidence |
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
 
 ---
 
-### 0–20 min: Skill Warm-up
+### 0–5 min: Skill Warm-up (INPUT)
 
 **Unit pattern review** on paper (no devices):
 
@@ -99,7 +99,15 @@ Pair check answers — no copying.
 
 ---
 
-### 20–30 min: Entry Check
+### 5–9 min: Talk Robin 1
+
+- **A:** Answer #2 (commit) with example from **your** repo
+- **B:** Answer #4 (save/commit/push) with example
+- **Shared:** Which question is hardest?
+
+---
+
+### 9–14 min: Entry Check
 
 Without notes, write short answers:
 
@@ -113,15 +121,7 @@ Without notes, write short answers:
 
 ---
 
-### 30–34 min: Talk Robin Round 1
-
-- **A:** Answer #2 (commit) with example from **your** repo
-- **B:** Answer #4 (save/commit/push) with example
-- **Shared:** Which question is hardest?
-
----
-
-### 34–45 min: Teacher Pattern Explanation
+### 14–19 min: Core Pattern
 
 **Mastery check rules:**
 
@@ -147,7 +147,7 @@ Without notes, write short answers:
 
 ---
 
-### 45–60 min: Guided Practice
+### 19–30 min: Guided Practice
 
 - Create `mastery-check/` folder
 - Draft answers — teacher checks for personal examples (“In my `cs-learning-log` I have X commits…”)
@@ -155,7 +155,7 @@ Without notes, write short answers:
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 30–40 min: Independent Rebuild
 
 **Checklist:**
 
@@ -170,7 +170,7 @@ Without notes, write short answers:
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 40–45 min: Talk Robin 2 + Exit Evidence
 
 Practice oral — 45 sec each:
 
@@ -180,14 +180,6 @@ Practice oral — 45 sec each:
 
 ---
 
-### 76–80 min: Exit Evidence
-
-1. Link to `mastery-check/final-github-practice.md`
-2. Screenshot of **final commit** on Commits tab
-3. One sentence: **“My current GitHub mastery level is Level ___ because…”**
-4. Oral cold call (2–3 students)
-
-Use `shared/exit-evidence-checklist.md` Lesson 6 section.
 
 ---
 

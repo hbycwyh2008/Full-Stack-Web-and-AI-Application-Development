@@ -57,9 +57,9 @@ Reusable routines across daily lesson plans.
 
 ---
 
-## Exit Evidence Routine (76–80 min)
+## Exit Evidence Routine (40–45 min)
 
-- Display submission checklist
+- Display submission checklist in the final 5 minutes
 - Students submit link + screenshots + sentences before leaving
 - 1–2 oral cold calls if time
 - “Not submitted = incomplete until teacher deadline”

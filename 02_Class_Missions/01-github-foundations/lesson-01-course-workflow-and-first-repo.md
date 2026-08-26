@@ -1,7 +1,8 @@
 # Lesson 1: Course Workflow and First GitHub Repository
 
 **Phase:** 0 — Git & GitHub  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `cs-learning-log`
 
 ---
@@ -65,26 +66,25 @@ See `shared/mastery-levels.md`.
 
 ---
 
-## 80-Minute Lesson Flow
+## 45-Minute Lesson Flow
 
 | Time | Block |
 |---|---|
-| 0–20 min | Skill Warm-up |
-| 20–30 min | Entry Check |
-| 30–34 min | Talk Robin Round 1 |
-| 34–45 min | Teacher Pattern Explanation |
-| 45–60 min | Guided Practice |
-| 60–72 min | Independent Rebuild |
-| 72–76 min | Talk Robin Round 2 |
-| 76–80 min | Exit Evidence |
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
 
 ---
 
-### 0–20 min: Skill Warm-up
+### 0–5 min: Skill Warm-up (INPUT)
 
 **Distribute** `shared/mastery-levels.md` and `shared/classroom-learning-workflow.md`.
 
-**Watch** one selected clip (5–8 min) from GitHub for Beginners playlist.
+**Watch** one selected clip (**≤4 min**; pause early) from GitHub for Beginners playlist.
 
 **While watching, students note:**
 
@@ -97,19 +97,7 @@ See `shared/mastery-levels.md`.
 
 ---
 
-### 20–30 min: Entry Check
-
-**Individual — no talking.**
-
-1. What will you **build or document** in this course (not only watch)?
-2. What is the difference between watching a tutorial and **Mastery Level 3**?
-3. Name **two types of evidence** this course accepts.
-4. What should AI tools **not** do for you in this course?
-5. What is one difference between the **teacher course repo** and **your** GitHub repo?
-
----
-
-### 30–34 min: Talk Robin Round 1
+### 5–9 min: Talk Robin 1
 
 **Prompts:**
 
@@ -121,7 +109,19 @@ Follow `shared/talk-robin-rules.md` (45s / 45s / 30s / cold call).
 
 ---
 
-### 34–45 min: Teacher Pattern Explanation
+### 9–14 min: Entry Check
+
+**Individual — no talking.**
+
+1. What will you **build or document** in this course (not only watch)?
+2. What is the difference between watching a tutorial and **Mastery Level 3**?
+3. Name **two types of evidence** this course accepts.
+4. What should AI tools **not** do for you in this course?
+5. What is one difference between the **teacher course repo** and **your** GitHub repo?
+
+---
+
+### 14–19 min: Core Pattern
 
 #### A. Course learning model (required before GitHub)
 
@@ -139,7 +139,7 @@ Explain clearly and firmly:
 
 Show **mastery levels 0–5** on slide (`shared/mastery-levels.md`).
 
-Show **eight-block poster** flow for every future class.
+Show **seven-block / 45-minute** poster flow for every future class.
 
 #### B. GitHub pattern today
 
@@ -180,7 +180,7 @@ This repository records my learning progress in this course.
 
 ---
 
-### 45–60 min: Guided Practice
+### 19–30 min: Guided Practice
 
 **Together:**
 
@@ -194,7 +194,7 @@ Teacher circulates for auth/account issues. Pair only for login — each student
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 30–40 min: Independent Rebuild
 
 **Checklist (Level 3 preview):**
 
@@ -209,7 +209,7 @@ Teacher circulates for auth/account issues. Pair only for login — each student
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 40–45 min: Talk Robin 2 + Exit Evidence
 
 **Prompts:**
 
@@ -221,14 +221,6 @@ Cold call 2–3 students.
 
 ---
 
-### 76–80 min: Exit Evidence
-
-Submit to teacher (LMS/form):
-
-1. **GitHub repository link**
-2. **README screenshot** (shows `# CS Learning Log`)
-3. One sentence: **What is a commit?**
-4. One sentence: **How is this class different from a normal lecture class?**
 
 ---
 

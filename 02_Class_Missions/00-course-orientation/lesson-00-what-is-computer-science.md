@@ -1,7 +1,7 @@
 # Lesson 00 — What Is Computer Science? + AP CSP Discovery
 
 **Prerequisite:** [Required Orientation — Learn the Course Through the Four Posters](required-orientation-four-posters.md)  
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Build and revise a broader model of computer science, distinguish computer science from programming, and discover how this course genuinely overlaps with AP CSP.
 
 ## Ready-to-Teach Materials

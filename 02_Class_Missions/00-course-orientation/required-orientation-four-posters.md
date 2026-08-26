@@ -2,7 +2,7 @@
 
 **This session happens before Lesson 00, before “What Is Computer Science?”, and before the AP CSP CED discovery activity.**
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Understand how learning, mastery, AI use, and optional competition pathways work in this course.  
 **One Required Resource:** [Course Posters](../../08_Public_Documents/posters/README.md)  
 **Durable Evidence:** individual poster evidence + group claim board + exit transfer

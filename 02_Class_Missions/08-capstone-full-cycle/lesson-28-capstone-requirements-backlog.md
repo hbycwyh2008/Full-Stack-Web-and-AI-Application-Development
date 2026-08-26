@@ -1,15 +1,15 @@
 # Lesson 28 — Capstone Synthesis, Requirements, and Backlog
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Turn capstone research evidence into a focused problem definition, prioritized requirements, and an actionable GitHub backlog.  
 **One Required Resource / Evidence Source:** capstone research notes/evidence from Lesson 27  
 **Durable Evidence:** synthesis map + requirements + GitHub issues/backlog
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually select five research notes and label each as **fact/observation / interpretation / user need / possible feature**. Mark any feature that currently lacks evidence.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Review all capstone research evidence and identify:
 
@@ -21,11 +21,11 @@ Review all capstone research evidence and identify:
 - strongest evidence for the problem;
 - evidence that challenges the original idea.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs cluster evidence and compare theme labels. Produce one draft problem statement and challenge it with: **Who has this problem? In what context? What evidence proves it matters?**
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups display a chain:
 
@@ -33,7 +33,7 @@ Groups display a chain:
 
 Peers identify any requirement that jumps directly to a preferred technology or feature. Teacher clarifies only shared synthesis/scope problems.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Create:
 
@@ -47,11 +47,11 @@ Create:
 
 Every high-priority issue should trace back to a requirement or necessary technical work.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually review one backlog item and explain whether it belongs in the MVP. Use user evidence, risk, effort, and dependency reasoning.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit synthesis map, requirements document, GitHub backlog/issues, and individual exit response.
 

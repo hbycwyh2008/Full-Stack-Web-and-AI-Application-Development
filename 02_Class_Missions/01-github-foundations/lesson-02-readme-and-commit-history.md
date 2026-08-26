@@ -1,7 +1,8 @@
 # Lesson 2: README and Commit History
 
 **Phase:** 0 — Git & GitHub  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `cs-learning-log`
 
 ---
@@ -18,7 +19,7 @@ Students understand **commit history as learning evidence**, improve `README.md`
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (5–8 min) |
+| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (**≤4 min**; pause early) |
 | **PRACTICE** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Continue / finish interactive steps; rebuild pattern in `cs-learning-log` |
 | Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
 
@@ -54,22 +55,21 @@ small change → meaningful commit → visible history
 
 ---
 
-## 80-Minute Lesson Flow
+## 45-Minute Lesson Flow
 
 | Time | Block |
 |---|---|
-| 0–20 min | Skill Warm-up |
-| 20–30 min | Entry Check |
-| 30–34 min | Talk Robin Round 1 |
-| 34–45 min | Teacher Pattern Explanation |
-| 45–60 min | Guided Practice |
-| 60–72 min | Independent Rebuild |
-| 72–76 min | Talk Robin Round 2 |
-| 76–80 min | Exit Evidence |
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
 
 ---
 
-### 0–20 min: Skill Warm-up
+### 0–5 min: Skill Warm-up (INPUT)
 
 **Option A:** 5–8 min clip on commits from playlist.
 
@@ -84,7 +84,15 @@ Introduce good vs bad commit messages (preview Pattern Explanation).
 
 ---
 
-### 20–30 min: Entry Check
+### 5–9 min: Talk Robin 1
+
+- **A:** “Commit history is learning evidence because…”
+- **B:** “A good commit message I wrote or saw is…”
+- **Shared:** One confusion about commits vs saving.
+
+---
+
+### 9–14 min: Entry Check
 
 1. What is a **commit** in your own words?
 2. Where on GitHub do you see **commit history**?
@@ -94,15 +102,7 @@ Introduce good vs bad commit messages (preview Pattern Explanation).
 
 ---
 
-### 30–34 min: Talk Robin Round 1
-
-- **A:** “Commit history is learning evidence because…”
-- **B:** “A good commit message I wrote or saw is…”
-- **Shared:** One confusion about commits vs saving.
-
----
-
-### 34–45 min: Teacher Pattern Explanation
+### 14–19 min: Core Pattern
 
 #### Commit messages
 
@@ -152,7 +152,7 @@ change
 
 ---
 
-### 45–60 min: Guided Practice
+### 19–30 min: Guided Practice
 
 1. Class opens Commits tab together
 2. Edit README → commit: `Update README with personal learning goals`
@@ -162,7 +162,7 @@ change
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 30–40 min: Independent Rebuild
 
 **Checklist:**
 
@@ -174,7 +174,7 @@ change
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 40–45 min: Talk Robin 2 + Exit Evidence
 
 - **A:** “Small change → meaningful commit means…”
 - **B:** “My best commit message today is ___ because ___.”
@@ -182,11 +182,6 @@ change
 
 ---
 
-### 76–80 min: Exit Evidence
-
-1. Link or screenshot of `learning-log.md`
-2. Screenshot of **Commits** tab (multiple messages visible)
-3. One sentence: **Why are good commit messages important?**
 
 ---
 

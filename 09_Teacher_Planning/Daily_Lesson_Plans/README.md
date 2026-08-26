@@ -13,7 +13,7 @@ The course now begins with a dedicated **Day 1 Course Orientation** before GitHu
 **Teacher lesson:** [Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md](Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md)  
 **Student mission:** [02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md](../../02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md)
 
-**Duration:** 90 minutes
+**Duration:** 45 minutes
 
 Day 1 focuses on:
 

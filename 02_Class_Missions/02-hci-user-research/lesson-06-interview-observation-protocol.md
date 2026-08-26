@@ -1,11 +1,11 @@
 # Lesson 06 — Interview and Observation Protocol
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Design and rehearse a research protocol that gathers useful evidence without leading participants.  
 **One Required Resource / Evidence Source:** teacher-provided sample interview/observation transcript  
 **Durable Evidence:** interview/observation protocol + rehearsal notes
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually mark each question as **strong / leading / hypothetical / too broad / double-barreled**:
 
@@ -16,7 +16,7 @@ Individually mark each question as **strong / leading / hypothetical / too broad
 
 Write one reason for your least-certain classification.
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Inspect the sample transcript. Highlight evidence of:
 
@@ -28,15 +28,15 @@ Inspect the sample transcript. Highlight evidence of:
 - useful observation notes;
 - places where the researcher should have remained silent.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs compare annotations and create a **Do / Avoid** list for interviews and observations. Each pair rewrites two weak questions and identifies one useful probe.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups perform a five-minute mock interview. Observers use a checklist for leading questions, interruption, vague probes, and evidence capture. Groups display one mistake they noticed and one technique that improved the interview. Teacher addresses only common barriers.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Teams build the actual protocol:
 
@@ -51,7 +51,7 @@ Teams build the actual protocol:
 
 Run a second short rehearsal and revise the protocol based on observer evidence.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually write one question and one follow-up probe for this goal:
 
@@ -59,7 +59,7 @@ Individually write one question and one follow-up probe for this goal:
 
 Explain why your question seeks behavior evidence rather than feature approval.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit final protocol, rehearsal checklist/notes, revisions made, and individual exit response.
 

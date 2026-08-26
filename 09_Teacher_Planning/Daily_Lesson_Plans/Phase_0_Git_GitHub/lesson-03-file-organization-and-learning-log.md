@@ -1,7 +1,8 @@
 # Lesson 3: File Organization and Learning Log
 
 **Phase:** 0 — Git & GitHub  
-**Duration:** 80 minutes  
+**Duration:** 45 minutes  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `cs-learning-log`
 
 ---
@@ -65,22 +66,21 @@ cs-learning-log/
 
 ---
 
-## 80-Minute Lesson Flow
+## 45-Minute Lesson Flow
 
 | Time | Block |
 |---|---|
-| 0–20 min | Skill Warm-up |
-| 20–30 min | Entry Check |
-| 30–34 min | Talk Robin Round 1 |
-| 34–45 min | Teacher Pattern Explanation |
-| 45–60 min | Guided Practice |
-| 60–72 min | Independent Rebuild |
-| 72–76 min | Talk Robin Round 2 |
-| 76–80 min | Exit Evidence |
+| 0–5 min | Skill Warm-up (INPUT) |
+| 5–9 min | Talk Robin 1 |
+| 9–14 min | Entry Check |
+| 14–19 min | Core Pattern |
+| 19–30 min | Guided Practice |
+| 30–40 min | Independent Rebuild |
+| 40–45 min | Talk Robin 2 + Exit Evidence |
 
 ---
 
-### 0–20 min: Skill Warm-up
+### 0–5 min: Skill Warm-up (INPUT)
 
 **Side-by-side repos:**
 
@@ -93,7 +93,15 @@ Students list **three reasons** reviewers prefer the organized repo.
 
 ---
 
-### 20–30 min: Entry Check
+### 5–9 min: Talk Robin 1
+
+- **A:** “File organization matters because…”
+- **B:** “A messy repo problem is…”
+- **Shared:** One question about GitHub folders.
+
+---
+
+### 9–14 min: Entry Check
 
 1. Sketch target structure for `cs-learning-log` (Lesson 3).
 2. Where does `README.md` live?
@@ -103,15 +111,7 @@ Students list **three reasons** reviewers prefer the organized repo.
 
 ---
 
-### 30–34 min: Talk Robin Round 1
-
-- **A:** “File organization matters because…”
-- **B:** “A messy repo problem is…”
-- **Shared:** One question about GitHub folders.
-
----
-
-### 34–45 min: Teacher Pattern Explanation
+### 14–19 min: Core Pattern
 
 **Why organization matters:**
 
@@ -147,7 +147,7 @@ create folder → create file → write → commit → check structure
 
 ---
 
-### 45–60 min: Guided Practice
+### 19–30 min: Guided Practice
 
 1. Create `lesson-01/notes.md` — summarize Lesson 1 pattern → commit
 2. Create `lesson-02/notes.md` → commit
@@ -157,7 +157,7 @@ Teacher displays file tree on projector after each commit.
 
 ---
 
-### 60–72 min: Independent Rebuild
+### 30–40 min: Independent Rebuild
 
 **Checklist:**
 
@@ -169,7 +169,7 @@ Teacher displays file tree on projector after each commit.
 
 ---
 
-### 72–76 min: Talk Robin Round 2
+### 40–45 min: Talk Robin 2 + Exit Evidence
 
 - **A:** “Today’s folder pattern is…”
 - **B:** “My `lesson-03/notes.md` shows I learned…”
@@ -177,11 +177,6 @@ Teacher displays file tree on projector after each commit.
 
 ---
 
-### 76–80 min: Exit Evidence
-
-1. Screenshot of repo **file tree**
-2. One sentence: **Why does file organization matter?**
-3. Link to `lesson-03/notes.md`
 
 ---
 

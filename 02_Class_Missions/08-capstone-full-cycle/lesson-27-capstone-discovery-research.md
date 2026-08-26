@@ -1,15 +1,15 @@
 # Lesson 27 — Capstone Discovery and Research
 
-**Length:** 90 minutes  
+**Length:** 45 minutes  
 **Mission:** Select a defensible capstone problem and plan/launch research before proposing a solution.  
 **One Required Resource / Evidence Source:** capstone brief + approved research evidence sources/participant access  
 **Durable Evidence:** problem-space brief + stakeholder map + research plan
 
-## 0–10 min — Entry Point Check
+## 0–4 min — Entry Point Check
 
 Individually list three possible software problems you could work on. For each, mark what evidence you currently have that the problem actually exists. Eliminate any idea supported only by “I think this would be cool.”
 
-## 10–25 min — Individual Learning
+## 4–12 min — Individual Learning / Skill Warm-up
 
 Review the capstone requirements and prior HCI evidence standards. For your strongest problem candidate, record:
 
@@ -20,15 +20,15 @@ Review the capstone requirements and prior HCI evidence standards. For your stro
 - ethical/privacy constraints;
 - what evidence must be collected before design.
 
-## 25–40 min — Talk Round 1
+## 12–17 min — Talk Round 1
 
 Pairs challenge each other's problem choices using **evidence / assumption / feasibility / user value**. Each student revises or defends one problem statement.
 
-## 40–55 min — Entry Points Check / Teacher Diagnosis
+## 17–22 min — Teacher Diagnosis / Core Pattern
 
 Groups present one problem-space claim and one evidence gap. Peers identify whether the team is already jumping to a solution. Teacher intervenes only on common issues such as overbroad scope, inaccessible participants, unsafe data collection, or solution-first framing.
 
-## 55–75 min — Guided Practice / Mission Task
+## 22–35 min — Guided Practice / Mission Task
 
 Create the capstone research package:
 
@@ -43,7 +43,7 @@ Create the capstone research package:
 
 Begin the first approved research activity if time/access allows.
 
-## 75–85 min — Exit Check
+## 35–42 min — Independent Rebuild / Exit Check
 
 Individually answer:
 
@@ -51,7 +51,7 @@ Individually answer:
 
 List at least two concrete findings.
 
-## 85–90 min — Submission
+## 42–45 min — Submission
 
 Submit problem-space brief, stakeholder map, research plan, and individual exit response.
 

@@ -20,9 +20,9 @@ This document completes the **first three steps** of the **Our Classroom Flow** 
 
 | # | Step | Typical time | What students do | What teachers do |
 |---|---|---|---|---|
-| **1** | **Skill Warm-up** | 0–12 min | Meet today’s idea via **one** Coursera clip (web stages) **or** one short Mitchell passage (AI Literacy) | Assign exact URL/page cue; forbid bingeing a whole Coursera course or unfinished chapter at home |
-| **2** | **Talk Robin 1** | 12–18 min | Pair talk: *what was done* and *what was confusing* | Timer + prompts; cold-call 2–3 pairs; board one shared confusion |
-| **3** | **Entry Check** | 18–28 min | Individual check of basic understanding **before** going deeper | Scan answers; diagnose misconceptions; do **not** lecture the full Core Pattern yet |
+| **1** | **Skill Warm-up** | 0–5 min | Meet today’s idea via **one** short video / passage / task | Assign exact URL/page cue; stop on time |
+| **2** | **Talk Robin 1** | 5–9 min | Pair talk: *what was done* and *what was confusing* | Timer + prompts; cold-call; board one confusion |
+| **3** | **Entry Check** | 9–14 min | Individual check of basic understanding **before** going deeper | Scan answers; do **not** lecture the full Core Pattern yet |
 
 After Step 3, class continues with Core Pattern → Guided Practice → Independent Rebuild → Talk Robin 2 + Evidence (documented elsewhere).
 

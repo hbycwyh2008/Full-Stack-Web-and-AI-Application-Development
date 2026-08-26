@@ -10,8 +10,8 @@ The course now begins with a dedicated **Day 1 Course Orientation** before GitHu
 
 ## Day 1 — Course Orientation
 
-**Teacher lesson:** [Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md](Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md)  
-**Student mission:** [02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md](../../02_Class_Missions/00-course-overview/mission-00-course-orientation-poster-quest.md)
+**Teacher lesson:** [Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md](Phase_00_Course_Overview/lesson-00-course-orientation-poster-quest.md)
+**Student mission:** [required-orientation-four-posters.md](../../02_Class_Missions/00-course-orientation/required-orientation-four-posters.md)
 
 **Duration:** 45 minutes
 
@@ -84,18 +84,27 @@ Future phases will add additional daily-plan folders as needed.
 
 ---
 
-## Phase 0: Git & GitHub (6 Lessons)
+## Phase 0: Git & GitHub (15 Lessons)
 
 | Lesson | File | Core pattern |
 |---|---|---|
-| 1 | `Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md` | repo → README → commit → history → evidence |
-| 2 | `Phase_0_Git_GitHub/lesson-02-readme-and-commit-history.md` | small change → meaningful commit → history |
-| 3 | `Phase_0_Git_GitHub/lesson-03-file-organization-and-learning-log.md` | folder → file → write → commit → structure |
-| 4 | `Phase_0_Git_GitHub/lesson-04-oh-my-git-commit-history.md` | game timeline → commit history → evidence |
-| 5 | `Phase_0_Git_GitHub/lesson-05-local-git-vscode-terminal.md` | status → add → commit → push → GitHub |
-| 6 | `Phase_0_Git_GitHub/lesson-06-github-mastery-check.md` | independent task → commit → evidence → oral |
+| 1 | `Phase_0_Git_GitHub/lesson-01-git-introduction.md` | Git and version-control concepts |
+| 2 | `Phase_0_Git_GitHub/lesson-02-essential-git-commands.md` | core command reference |
+| 3 | `Phase_0_Git_GitHub/lesson-03-first-github-repository.md` | repository → README → commit |
+| 4 | `Phase_0_Git_GitHub/lesson-04-upload-files-and-folders.md` | upload → organize → verify |
+| 5 | `Phase_0_Git_GitHub/lesson-05-add-code-to-repository.md` | clone → branch → add code → commit → push |
+| 6 | `Phase_0_Git_GitHub/lesson-06-create-pull-request.md` | branch → commit → open PR |
+| 7 | `Phase_0_Git_GitHub/lesson-07-merge-pull-request.md` | review → merge → verify |
+| 8 | `Phase_0_Git_GitHub/lesson-08-profile-and-account-security.md` | professional profile + account safety |
+| 9 | `Phase_0_Git_GitHub/lesson-09-issues-and-projects.md` | issue → project → status |
+| 10 | `Phase_0_Git_GitHub/lesson-10-github-security.md` | secrets + dependency security |
+| 11 | `Phase_0_Git_GitHub/lesson-11-github-pages.md` | static page → deployment → URL |
+| 12 | `Phase_0_Git_GitHub/lesson-12-markdown.md` | format → preview → commit |
+| 13 | `Phase_0_Git_GitHub/lesson-13-open-source-contributions.md` | rules → fork → contribution plan |
+| 14 | `Phase_0_Git_GitHub/lesson-14-git-and-github-in-vscode.md` | edit → stage → commit → push |
+| 15 | `Phase_0_Git_GitHub/lesson-15-beginner-faq-and-mastery-check.md` | final task → evidence → oral check |
 
-**Student repo for Git/GitHub lessons:** `cs-learning-log`
+**Student repo for Git/GitHub lessons:** `YourName-Full-Stack-Web-and-AI-Application-Development`
 
 **Phase overview:** `09_Teacher_Planning/Phase_Overviews/Phase_0_Git_GitHub.md`
 
@@ -129,7 +138,7 @@ When a mission needs different expectations, keep one mission and include separa
 1. Read `teacher-notes/how-to-use-daily-lesson-plans.md`.
 2. Read `teacher-notes/common-classroom-routines.md`.
 3. Teach **Day 1 Course Orientation** from `Phase_00_Course_Overview/`.
-4. Then begin Git/GitHub with `Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md`.
+4. Then begin Git/GitHub with `Phase_0_Git_GitHub/lesson-01-git-introduction.md`.
 
 ---
 

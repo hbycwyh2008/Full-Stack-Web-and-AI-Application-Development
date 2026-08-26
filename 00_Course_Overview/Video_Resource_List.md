@@ -8,19 +8,42 @@ Curated resources for numbered units **00–15**. Required = core skills; Option
 
 ## Git & GitHub (`01-github-foundations`)
 
-**Pattern:** INPUT = GitHub YouTube → PRACTICE = GitHub Skills.
+**Pattern:** INPUT = **one** [GitHub for Beginners](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f) video per class → PRACTICE = one in-class task → Exit Ticket = `learning-log.md` only.
 
-### INPUT — GitHub for Beginners (official YouTube playlist)
-- **Link:** https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f
-- **Status:** Required warm-up — **one** related clip per lesson
+**15 lessons:** the playlist has 16 videos. Teach every video in playlist order except [Actions](https://www.youtube.com/watch?v=BQrohJ3PT7I), which is excluded. **No video homework.**
 
-### PRACTICE — GitHub Skills: Introduction to GitHub
+Map: `02_Class_Missions/01-github-foundations/README.md`.
+
+### INPUT — class videos (one video = one lesson)
+
+| Lesson | Playlist # | Video | URL |
+|---|---|---|---|
+| 1 | #1 | A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs |
+| 2 | #2 | Beginner Git commands you need to know (WITH EXAMPLES) | https://www.youtube.com/watch?v=rE2zRhZdjFU |
+| 3 | #3 | How to create your first GitHub repository: A beginner's guide | https://www.youtube.com/watch?v=-RZ03WHqkaY |
+| 4 | #4 | How to upload files and folders to GitHub | https://www.youtube.com/watch?v=tlu5e0TxSzo |
+| 5 | #5 | How to add code to your repository | https://www.youtube.com/watch?v=g2XjJhrGGg4 |
+| 6 | #6 | How to create a pull request in 4 min | https://www.youtube.com/watch?v=nCKdihvneS0 |
+| 7 | #7 | How to merge a pull request | https://www.youtube.com/watch?v=FDXSgyDGmho |
+| 8 | #8 | GitHub Profile Tips to standout (& stay secure) | https://www.youtube.com/watch?v=T_PKBNImooA |
+| 9 | #9 | How to use GitHub issues and projects | https://www.youtube.com/watch?v=c67GaAkf1BE |
+| — | #10 | **Excluded: How to use GitHub Actions** | https://www.youtube.com/watch?v=BQrohJ3PT7I |
+| 10 | #11 | Getting started with GitHub security | https://www.youtube.com/watch?v=zhxXaFzzJYA |
+| 11 | #12 | Getting started with GitHub Pages for beginners | https://www.youtube.com/watch?v=b2r9Cdvssi0 |
+| 12 | #13 | Getting started with Markdown on GitHub | https://www.youtube.com/watch?v=LxeclcePg-c |
+| 13 | #14 | Getting started with open source contributions for beginners | https://www.youtube.com/watch?v=WldXhauP024 |
+| 14 | #15 | How to use Git and GitHub in VS Code | https://www.youtube.com/watch?v=NFjz1AGKA4c |
+| 15 | #16 | Answering the most common GitHub beginner questions | https://www.youtube.com/watch?v=ZgARMqR3qq8 |
+
+Course lesson numbers and playlist positions differ after the excluded #10.
+
+### PRACTICE — Hello World = GitHub Skills: Introduction to GitHub
 - **Link:** https://github.com/skills/introduction-to-github
-- **Status:** Required interactive practice (Lessons 1–2)
+- **Status:** **Required across Lessons 6–7.** Lesson 6 creates the pull request; Lesson 7 reviews and merges it. Do **not** assign GitHub Docs Hello World as classwork.
 
 ### PRACTICE — GitHub Skills: Communicate using Markdown
 - **Link:** https://github.com/skills/communicate-using-markdown
-- **Status:** Required interactive practice (Lesson 3)
+- **Status:** Required interactive practice (Lesson 12): headings, task list, code, image, merge PR
 
 ### PRACTICE hub
 - **Link:** https://skills.github.com/
@@ -28,19 +51,7 @@ Curated resources for numbered units **00–15**. Required = core skills; Option
 
 ### Oh My Git!
 - **Link:** https://ohmygit.org/
-- **Status:** Lesson 4 supporting game (selected levels)
-
-### Reference — GitHub Docs: Hello World
-- **Link:** https://docs.github.com/en/get-started/start-your-journey/hello-world
-- **Status:** Reference only if stuck
-
-### Reference — GitHub Docs: Quickstart for repositories
-- **Link:** https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
-- **Status:** Reference only if stuck
-
-### Markdown Crash Course — Traversy Media
-- **Link:** https://www.youtube.com/watch?v=HUBNt18RFbo
-- **Status:** Optional INPUT alt for Lesson 3 if no GitHub YouTube Markdown clip
+- **Status:** Optional enrichment only; it does not replace any of the 15 official-video lessons.
 
 ### Learn Git Branching
 - **Link:** https://learngitbranching.js.org/
@@ -221,9 +232,9 @@ Project evidence proves progress.
 
 ## Optional Enrichment (Not Prerequisites)
 
-**3Blue1Brown — Essence of Calculus** — optional depth  
-**Linear Algebra Is Not Hard** — _Teacher to add verified link._  
-**Bilibili LA companions** — _Teacher to add verified link._  
+**3Blue1Brown — Essence of Calculus** — optional depth
+**Linear Algebra Is Not Hard** — _Teacher to add verified link._
+**Bilibili LA companions** — _Teacher to add verified link._
 **StatQuest — ML Intro** — supports `12-machine-learning-workflow` and ML projects
 
 > Teacher note: Verify book/Bilibili links before sharing. Optional items do **not** replace required numbered unit resources.

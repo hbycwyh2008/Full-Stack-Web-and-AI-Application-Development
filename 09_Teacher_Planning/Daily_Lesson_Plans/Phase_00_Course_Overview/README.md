@@ -10,4 +10,4 @@ This folder contains the **first-day orientation lesson** used before GitHub set
 
 After this orientation, continue with:
 
-`../Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md`
+`../Phase_0_Git_GitHub/lesson-01-git-introduction.md`

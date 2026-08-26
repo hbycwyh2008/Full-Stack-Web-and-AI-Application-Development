@@ -349,6 +349,6 @@ The student can justify a decision and transfer the expectation to a new scenari
 
 Proceed to:
 
-`09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/lesson-01-course-workflow-and-first-repo.md`
+`09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/lesson-01-git-introduction.md`
 
 Because Mission 00 already establishes course culture, Lesson 1 should spend most of its time on the first authentic GitHub workflow rather than repeating orientation content.

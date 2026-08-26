@@ -8,37 +8,43 @@ Curated resources for numbered units **00–15**. Required = core skills; Option
 
 ## Git & GitHub (`01-github-foundations`)
 
-### GitHub for Beginners Playlist
+**Pattern:** INPUT = GitHub YouTube → PRACTICE = GitHub Skills.
+
+### INPUT — GitHub for Beginners (official YouTube playlist)
 - **Link:** https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f
-- **Status:** Required warm-up (one clip per lesson as assigned)
+- **Status:** Required warm-up — **one** related clip per lesson
 
-### A brief introduction to Git for beginners
-- **Link:** https://www.youtube.com/watch?v=r8jQ9hVA2qs
-- **Status:** Optional warm-up
-
-### GitHub Docs: Hello World
-- **Link:** https://docs.github.com/en/get-started/start-your-journey/hello-world
-- **Status:** Required guided practice
-
-### GitHub Docs: Quickstart for repositories
-- **Link:** https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
-- **Status:** Required guided practice
-
-### GitHub Skills: Introduction to GitHub
+### PRACTICE — GitHub Skills: Introduction to GitHub
 - **Link:** https://github.com/skills/introduction-to-github
-- **Status:** Optional practice / finish-up
+- **Status:** Required interactive practice (Lessons 1–2)
 
-### Markdown Crash Course — Traversy Media
-- **Link:** https://www.youtube.com/watch?v=HUBNt18RFbo
-- **Status:** Required for learning-log / Markdown lesson
+### PRACTICE — GitHub Skills: Communicate using Markdown
+- **Link:** https://github.com/skills/communicate-using-markdown
+- **Status:** Required interactive practice (Lesson 3)
 
-### Learn Git Branching
-- **Link:** https://learngitbranching.js.org/
-- **Status:** Recommended (later workflow unit)
+### PRACTICE hub
+- **Link:** https://skills.github.com/
+- **Status:** Catalog
 
 ### Oh My Git!
 - **Link:** https://ohmygit.org/
-- **Status:** Required selected levels (Lesson 4)
+- **Status:** Lesson 4 supporting game (selected levels)
+
+### Reference — GitHub Docs: Hello World
+- **Link:** https://docs.github.com/en/get-started/start-your-journey/hello-world
+- **Status:** Reference only if stuck
+
+### Reference — GitHub Docs: Quickstart for repositories
+- **Link:** https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+- **Status:** Reference only if stuck
+
+### Markdown Crash Course — Traversy Media
+- **Link:** https://www.youtube.com/watch?v=HUBNt18RFbo
+- **Status:** Optional INPUT alt for Lesson 3 if no GitHub YouTube Markdown clip
+
+### Learn Git Branching
+- **Link:** https://learngitbranching.js.org/
+- **Status:** Optional enrichment later
 
 ---
 

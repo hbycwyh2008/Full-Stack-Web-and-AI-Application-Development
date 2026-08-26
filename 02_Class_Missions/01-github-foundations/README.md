@@ -1,49 +1,81 @@
-# 01 — GitHub Foundations (learnable unit)
+# 01 — GitHub Foundations
 
-This is the **student-facing GitHub beginner course** for Collaborate.
+Student-facing GitHub beginner unit for **Collaborate**.
 
-You learn by short YouTube warm-ups + **GitHub official Docs / Skills** practice in class—not by finishing Coursera.
+## Classroom pattern (every lesson)
+
+```text
+INPUT   →  GitHub YouTube (related clip from GitHub for Beginners)
+PRACTICE →  GitHub Skills interactive exercise
+EVIDENCE →  own cs-learning-log repo + Exit Evidence
+```
+
+- **Input** = watch one related official GitHub YouTube video (short; not the whole playlist).  
+- **Practice** = do the matching **GitHub Skills** interactive course steps on github.com.  
+- Docs = look up only if stuck — not the main activity.
+
+## Official links
+
+### Input — GitHub YouTube
+
+| Resource | Link |
+|---|---|
+| **GitHub for Beginners** (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f |
+| GitHub YouTube channel | https://www.youtube.com/@GitHub |
+
+Teacher picks **one** clip that matches today’s Skills topic (about 5–10 minutes).
+
+### Practice — GitHub Skills (interactive)
+
+Hub: https://skills.github.com/
+
+| Skills course | Link | Pair with YouTube topic |
+|---|---|---|
+| **Introduction to GitHub** | https://github.com/skills/introduction-to-github | What is GitHub / repos / commits / PRs |
+| **Communicate using Markdown** | https://github.com/skills/communicate-using-markdown | README / writing on GitHub |
+| Review pull requests *(optional later)* | https://github.com/skills/review-pull-requests | Collaboration / review clips |
+
+How students start a Skills course:
+
+1. Sign in to GitHub.  
+2. Open the Skills link.  
+3. Start the course (creates a practice repo).  
+4. Follow the bot / issue steps.  
+5. Keep a screenshot + also update personal `cs-learning-log`.
+
+### Reference only (if stuck)
+
+| Doc | Link |
+|---|---|
+| Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world |
+| Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories |
+
+### Lesson 4 supporting game (not Skills)
+
+| Resource | Link |
+|---|---|
+| Oh My Git! | https://ohmygit.org/ |
 
 ## What you will learn
 
 - Create a repository and `README.md`
-- Make meaningful commits and read commit history
-- Organize Markdown learning-log files
-- Connect Oh My Git! metaphors to real GitHub history
+- Commits and commit history as learning evidence
+- Markdown for clear notes
 - Optional local Git: status → add → commit → push
 - Submit Exit Evidence on GitHub
 
-## Resources (used selectively — not binge)
-
-| Resource | Link |
-|---|---|
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f |
-| Brief intro to Git (optional) | https://www.youtube.com/watch?v=r8jQ9hVA2qs |
-| GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world |
-| GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories |
-| GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github |
-| Oh My Git! | https://ohmygit.org/ |
-
-Each lesson names **one** required resource for that day. Do not try to finish every link.
-
 ## Lessons
 
-| # | Lesson | Core pattern |
-|---|---|---|
-| 1 | [Course workflow + first repo](lesson-01-course-workflow-and-first-repo.md) | create repo → README → commit → history → evidence |
-| 2 | [README + commit history](lesson-02-readme-and-commit-history.md) | small change → meaningful commit → visible history |
-| 3 | [File organization + learning log](lesson-03-file-organization-and-learning-log.md) | folder → file → write → commit → structure |
-| 4 | [Oh My Git! + history](lesson-04-oh-my-git-commit-history.md) | game timeline → real GitHub history |
-| 5 | [Local Git (optional readiness)](lesson-05-local-git-vscode-terminal.md) | change → status → add → commit → push |
-| 6 | [GitHub mastery check](lesson-06-github-mastery-check.md) | independent rebuild + oral explanation |
-
-## After this unit
-
-Continue Collaborate skills during Build / Create: issues, branches, and pull requests as needed for team projects. Keep evidence in your GitHub repository.
+| # | Lesson | INPUT (YouTube) | PRACTICE (Skills / activity) |
+|---|---|---|---|
+| 1 | [Course workflow + first repo](lesson-01-course-workflow-and-first-repo.md) | One clip: what GitHub / repos are | **Introduction to GitHub** (start) + create `cs-learning-log` |
+| 2 | [README + commit history](lesson-02-readme-and-commit-history.md) | One clip: commits / history | Continue **Introduction to GitHub** + meaningful commits in own repo |
+| 3 | [File organization + learning log](lesson-03-file-organization-and-learning-log.md) | One clip: writing / Markdown on GitHub *(or short playlist segment)* | **Communicate using Markdown** + lesson folders in own repo |
+| 4 | [Oh My Git! + history](lesson-04-oh-my-git-commit-history.md) | Optional short history clip | Oh My Git! intro levels → connect to real history |
+| 5 | [Local Git](lesson-05-local-git-vscode-terminal.md) | One clip: local / Desktop workflow if available | Local status → add → commit → push |
+| 6 | [Mastery check](lesson-06-github-mastery-check.md) | None (no new binge) | Independent rebuild + oral explanation |
 
 ## Teacher notes / handouts
-
-Duplicates and rubrics also live in:
 
 - `09_Teacher_Planning/Daily_Lesson_Plans/Phase_0_Git_GitHub/`
 - `05_Resources/Git_GitHub_Unit/`

@@ -14,11 +14,13 @@ Students understand **commit history as learning evidence**, improve `README.md`
 
 ## Resources
 
-| Resource | URL | Use in class |
-|---|---|---|
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (5–8 min) |
-| A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs | Optional: commit section review |
-| GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Commit step reference |
+**Input = GitHub YouTube. Practice = GitHub Skills.**
+
+| Role | Resource | URL | Use in class |
+|---|---|---|---|
+| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (5–8 min) |
+| **PRACTICE** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Continue / finish interactive steps; rebuild pattern in `cs-learning-log` |
+| Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
 
 **Handouts:** `05_Resources/Git_GitHub_Unit/student-handouts/git-github-command-cheatsheet.md` (good/bad messages) if available
 

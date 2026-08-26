@@ -14,10 +14,14 @@ Students organize files into **lesson folders** instead of dumping everything in
 
 ## Resources
 
-| Resource | URL | Use in class |
-|---|---|---|
-| GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Create files/folders on web |
-| Markdown Crash Course (Traversy) | https://www.youtube.com/watch?v=HUBNt18RFbo | Warm-up: headings/lists segment (5–10 min) |
+**Input = GitHub YouTube (or short Markdown intro). Practice = GitHub Skills.**
+
+| Role | Resource | URL | Use in class |
+|---|---|---|---|
+| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: clip related to writing / collaborating on GitHub if available; else 5–8 min playlist segment |
+| **INPUT (alt)** | Markdown Crash Course (Traversy) — headings/lists only | https://www.youtube.com/watch?v=HUBNt18RFbo | Use only if no matching GitHub YouTube Markdown clip (5–10 min) |
+| **PRACTICE** | GitHub Skills: Communicate using Markdown | https://github.com/skills/communicate-using-markdown | Guided Practice: interactive Markdown steps |
+| Reference | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Only if stuck creating files/folders |
 
 ---
 

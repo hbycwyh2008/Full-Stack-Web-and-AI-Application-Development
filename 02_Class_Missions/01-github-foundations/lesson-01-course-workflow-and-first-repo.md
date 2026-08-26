@@ -16,15 +16,14 @@ Students understand **how this course works** (classroom mastery model, evidence
 
 ## Resources
 
-_Selective use — not full completion._
+**Input = GitHub YouTube. Practice = GitHub Skills.** Docs only if stuck.
 
-| Resource | URL | Use in class |
-|---|---|---|
-| GitHub for Beginners Playlist | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Skill Warm-up: **one** 5–8 min clip on what GitHub is |
-| A brief introduction to Git for beginners | https://www.youtube.com/watch?v=r8jQ9hVA2qs | Optional second clip if time |
-| GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Guided Practice step reference |
-| GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Guided Practice step reference |
-| GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | **Optional** after class — not required |
+| Role | Resource | URL | Use in class |
+|---|---|---|---|
+| **INPUT** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Skill Warm-up: **one** 5–8 min clip on what GitHub / a repo is |
+| **PRACTICE** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Guided Practice: start course, follow bot steps |
+| Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
+| Reference | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Only if stuck |
 
 **Handouts:** `shared/mastery-levels.md`, `shared/talk-robin-rules.md`, `shared/classroom-learning-workflow.md`
 
@@ -252,14 +251,15 @@ Submit to teacher (LMS/form):
 - Editing README but forgetting **Commit changes** button
 - Empty README or only title line
 - Vague commit: `first`, `readme`, `update`
-- “I watched GitHub Skills” with no personal repo evidence
+- “I only finished Skills” with no personal `cs-learning-log` evidence
+- Watching the whole YouTube playlist instead of one assigned clip
 
 ---
 
 ## Optional Extension
 
 - Add one line under README: “Portfolio links coming in Phase 1.”
-- Optional homework: GitHub Skills intro — **not** graded as completion
+- Incomplete Skills steps → finish by teacher deadline (in-class practice, not binge homework)
 
 ---
 
@@ -268,5 +268,6 @@ Submit to teacher (LMS/form):
 - **Budget time:** Lesson 1 culture block is non-negotiable (~15 min in Pattern Explanation).
 - Pre-create accounts or PAT guide if auth fails often.
 - Display course repo vs student repo diagram from root `README.md`.
+- **INPUT → PRACTICE:** one YouTube clip, then Skills *Introduction to GitHub*; still require personal `cs-learning-log` evidence.
 - Lesson 2 assumes `cs-learning-log` exists with at least one commit.
-- Finish-up: one commit + README screenshot + two sentences by deadline.
+- Finish-up: Skills progress screenshot + one commit + README screenshot + two sentences by deadline.

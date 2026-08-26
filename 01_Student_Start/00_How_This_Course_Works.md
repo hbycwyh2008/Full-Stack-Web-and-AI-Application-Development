@@ -16,7 +16,7 @@ A separate public portfolio may be created if your teacher wants one, but it is 
 
 ```text
 00  What is Computer Science? + Software Lifecycle
-01  GitHub Development Workflow
+01  GitHub Foundations (Docs / Skills)
 02  HCI User Research
 03  Figma Product Design
 04  HTML + CSS

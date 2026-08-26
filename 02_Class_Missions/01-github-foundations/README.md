@@ -39,7 +39,7 @@ Each lesson names **one** required resource for that day. Do not try to finish e
 
 ## After this unit
 
-Continue to [01-github-development-workflow](../01-github-development-workflow/README.md) for issues, branches, pull requests, and peer review.
+Continue Collaborate skills during Build / Create: issues, branches, and pull requests as needed for team projects. Keep evidence in your GitHub repository.
 
 ## Teacher notes / handouts
 

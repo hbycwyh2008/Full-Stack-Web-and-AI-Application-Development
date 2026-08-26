@@ -5,7 +5,7 @@ Assumption: approximately **90 minutes per core lesson**.
 | Sessions | Lessons | Focus |
 |---|---|---|
 | 1–2 | 00–01 | What is computer science? + software lifecycle/product teardown |
-| 3–5 | 02–04 | GitHub workflow |
+| 3–5 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
 | 6–8 | 05–07 | HCI research |
 | 9–12 | 08–11 | Figma product design |
 | 13–16 | 12–15 | HTML/CSS implementation |

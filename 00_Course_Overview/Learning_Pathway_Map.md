@@ -80,8 +80,8 @@ Design        08–11  Figma product design
 Build         12–15  HTML / CSS / Bootstrap
               16–20  JavaScript + interaction
 
-Collaborate   02–04  GitHub development workflow
-              (ongoing during Build / Create)
+Collaborate   GitHub Foundations unit (Docs/Skills + commits/history)
+              (ongoing during Build / Create: issues / branches / PRs as needed)
 
 Test          25–26  Usability, QA, release + maintenance
               (ongoing during Create)

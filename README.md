@@ -70,7 +70,7 @@ React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, and similar to
 | Discover | 00–01, 05–07 | CS orientation + HCI user research |
 | Design | 08–11 | Figma wireframes & prototypes |
 | Build | 12–20 | HTML / CSS / Bootstrap / JavaScript |
-| Collaborate | 02–04 | GitHub workflow & peer review |
+| Collaborate | Foundations unit | GitHub Docs/Skills + commits / history evidence |
 | Test | 25–26 | Usability, QA, evidence & iteration |
 | Create | 27–32 | Capstone: interactive site / browser game |
 | AI Literacy | 21–24 | Mitchell unit (parallel throughout) |

@@ -53,7 +53,7 @@ React/Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, Cursor-specific
 | Lessons | Unit | Main Evidence |
 |---|---|---|
 | 00–01 | CS Orientation + Software Lifecycle | CS field map, AP CSP discovery, lifecycle map, product teardown |
-| 02–04 | GitHub Development Workflow | issues, branches, commits, PR/review/merge |
+| 02–04 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
 | 05–07 | HCI User Research | research plan, interview/observation evidence, synthesis + requirements |
 | 08–11 | Figma Product Design | user flow/IA, wireframes, components, high-fi prototype + critique |
 | 12–15 | HTML/CSS Implementation | semantic/responsive implementation from Figma |

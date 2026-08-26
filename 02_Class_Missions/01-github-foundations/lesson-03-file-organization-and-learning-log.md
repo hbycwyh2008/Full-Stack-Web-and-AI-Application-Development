@@ -19,8 +19,8 @@ Students organize files into **lesson folders** instead of dumping everything in
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: clip related to writing / collaborating on GitHub if available; else 5–8 min playlist segment |
-| **Skill Warm-up (alt)** | Markdown Crash Course (Traversy) — headings/lists only | https://www.youtube.com/watch?v=HUBNt18RFbo | Use only if no matching GitHub YouTube Markdown clip (5–10 min) |
+| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: clip related to writing / collaborating on GitHub if available; else ~9 min video; use 0–10 min Skill Warm-up |
+| **Skill Warm-up (alt)** | Markdown Crash Course (Traversy) — headings/lists only | https://www.youtube.com/watch?v=HUBNt18RFbo | Use only if no matching GitHub YouTube Markdown clip (~9–10 min; use 0–10 min Skill Warm-up) |
 | **Guided Practice** | GitHub Skills: Communicate using Markdown | https://github.com/skills/communicate-using-markdown | Guided Practice: interactive Markdown steps |
 | Reference | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Only if stuck creating files/folders |
 

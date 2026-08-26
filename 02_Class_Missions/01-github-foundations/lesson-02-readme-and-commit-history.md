@@ -19,7 +19,7 @@ Students understand **commit history as learning evidence**, improve `README.md`
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (**≤4 min**; pause early) |
+| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | Warm-up: **one** clip on commits or history (often ~9 min — use 0–10 min Skill Warm-up) |
 | **Guided Practice** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Continue / finish interactive steps; rebuild pattern in `cs-learning-log` |
 | Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
 
@@ -71,7 +71,7 @@ small change → meaningful commit → visible history
 
 ### 0–5 min: Skill Warm-up
 
-**Option A:** 5–8 min clip on commits from playlist.
+**Option A:** one playlist video (~9 min) on commits from playlist.
 
 **Option B:** Teacher shows two repos on screen:
 

@@ -21,7 +21,7 @@ Students complete their **first GitHub workflow**: create `cs-learning-log`, wri
 
 | Role | Resource | URL | Use in class |
 |---|---|---|---|
-| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | **one** clip on what GitHub / a repo is (**≤4 min**; pause early) |
+| **Skill Warm-up** | GitHub for Beginners (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f | **one** video on what GitHub / a repo is (often **~9 min** — use the 0–10 min Skill Warm-up timing below) |
 | **Guided Practice** | GitHub Skills: Introduction to GitHub | https://github.com/skills/introduction-to-github | Start course; follow bot steps |
 | Reference | GitHub Docs: Hello World | https://docs.github.com/en/get-started/start-your-journey/hello-world | Only if stuck |
 | Reference | GitHub Docs: Quickstart for repositories | https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories | Only if stuck |
@@ -67,21 +67,23 @@ Mastery levels were taught in orientation — use as reminder only.
 
 ## 45-Minute Lesson Flow
 
+Official GitHub Beginners videos are often **~9 minutes**. Use this timing so Skill Warm-up can finish the video.
+
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up |
-| 5–9 min | Talk Robin 1 |
-| 9–14 min | Entry Check |
-| 14–19 min | Core Pattern |
-| 19–30 min | Guided Practice |
-| 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Evidence |
+| **0–10 min** | **Skill Warm-up** |
+| **10–13 min** | **Talk Robin 1** |
+| **13–17 min** | **Entry Check** |
+| **17–21 min** | **Core Pattern** |
+| **21–32 min** | **Guided Practice** |
+| **32–40 min** | **Independent Rebuild** |
+| **40–45 min** | **Talk Robin 2 + Evidence** |
 
 ---
 
-### 0–5 min: Skill Warm-up
+### 0–10 min: Skill Warm-up
 
-**Watch** one selected clip (**≤4 min**; pause early) from GitHub for Beginners playlist.
+**Watch** the assigned GitHub for Beginners video (**one** video; typically ~9 min).
 
 **While watching, students note:**
 
@@ -92,7 +94,7 @@ Mastery levels were taught in orientation — use as reminder only.
 
 ---
 
-### 5–9 min: Talk Robin 1
+### 10–13 min: Talk Robin 1
 
 **Prompts:**
 
@@ -104,7 +106,7 @@ Follow Talk Robin routine (45s / 45s / 30s / cold call).
 
 ---
 
-### 9–14 min: Entry Check
+### 13–17 min: Entry Check
 
 **Individual — no talking.**
 
@@ -114,7 +116,7 @@ Follow Talk Robin routine (45s / 45s / 30s / cold call).
 
 ---
 
-### 14–19 min: Core Pattern
+### 17–21 min: Core Pattern
 
 **Reminder (≤30 seconds):** We still use Classroom Flow from orientation — today the work is GitHub.
 
@@ -149,14 +151,15 @@ This repository records my learning progress in this course.
 - I will use AI tools responsibly.
 ```
 
-**Demo on screen:** create repo → edit README → Commit changes → show Commits tab.
+**Demo on screen (brief):** create repo → edit README → Commit changes → show Commits tab.
 
 ---
-### 19–30 min: Guided Practice
+
+### 21–32 min: Guided Practice
 
 **Primary:** Start GitHub Skills — [Introduction to GitHub](https://github.com/skills/introduction-to-github); follow the bot for the first steps.
 
-**Also today (same block / continue into Independent Rebuild if needed):**
+**Also today (continue into Independent Rebuild if needed):**
 
 1. Create personal public repo **`cs-learning-log`** (not the Skills practice repo alone).  
 2. Add README from the template above; personalize **one** bullet.  
@@ -167,7 +170,7 @@ Teacher circulates for auth. Each student must own their `cs-learning-log`.
 
 ---
 
-### 30–40 min: Independent Rebuild
+### 32–40 min: Independent Rebuild
 
 **Checklist (Level 3 preview):**
 
@@ -176,7 +179,7 @@ Teacher circulates for auth. Each student must own their `cs-learning-log`.
 - [ ] At least **one personal sentence** added (not copied from partner)
 - [ ] Commit message is **meaningful** (not `update`, `readme`, `first`)
 - [ ] Commits tab shows the commit
-- [ ] Exit Evidence sentences drafted
+- [ ] Evidence sentences drafted
 
 **Rules:** No copying partner’s personal text. No AI paste without revision and understanding.
 
@@ -186,16 +189,14 @@ Teacher circulates for auth. Each student must own their `cs-learning-log`.
 
 **Prompts:**
 
-- **A:** “Today’s core pattern in one sentence is…”
-- **B:** “My commit message says ___ because ___.”
-- **Shared:** What Exit Evidence will we submit in the next 4 minutes?
+- **A:** “Today’s core pattern in one sentence is…”  
+- **B:** “My commit message says ___ because ___.”  
+- **Shared:** What evidence will we submit before leaving?  
 
 Cold call 2–3 students.
 
 ---
 
-
----
 
 ## Mastery Check
 
@@ -233,6 +234,6 @@ Cold call 2–3 students.
 - **Do not re-teach Classroom Flow / mastery posters** — already covered in orientation.
 - Pre-create accounts if auth fails often.
 - Display course repo vs student repo on the board once.
-- **Skill Warm-up → Guided Practice:** one YouTube clip, then Skills *Introduction to GitHub*; still require personal `cs-learning-log` evidence.
+- **Skill Warm-up → Guided Practice:** one YouTube video (~9 min in 0–10), then Skills *Introduction to GitHub*; still require personal `cs-learning-log` evidence.
 - Lesson 2 assumes `cs-learning-log` exists with at least one commit.
 - Finish-up: Skills progress screenshot + one commit + README screenshot + two sentences by deadline.

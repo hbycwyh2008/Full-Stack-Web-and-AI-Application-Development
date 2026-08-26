@@ -5,26 +5,26 @@ Student-facing GitHub beginner unit for **Collaborate**.
 ## Classroom pattern (every lesson — **45 minutes**)
 
 ```text
-Skill Warm-up        → GitHub YouTube (related clip, ≤4 min)
+Skill Warm-up        → GitHub YouTube (often ~9 min — watch the assigned video)
 Guided Practice      → GitHub Skills interactive exercise
 Talk Robin 2 + Evidence → own cs-learning-log + proof of learning
 ```
 
-Full timing: [../shared/classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
+Poster block **names** stay the same. Official Beginners videos are often **~9 minutes**, so **Skill Warm-up must be long enough to finish that video** (do not require a fake 4-minute cut).
 
 | Time | Block |
 |---|---|
-| 0–5 min | Skill Warm-up |
-| 5–9 min | Talk Robin 1 |
-| 9–14 min | Entry Check |
-| 14–19 min | Core Pattern |
-| 19–30 min | Guided Practice |
-| 30–40 min | Independent Rebuild |
-| 40–45 min | Talk Robin 2 + Evidence |
+| **0–10 min** | **Skill Warm-up** — one GitHub YouTube video (~9 min) |
+| **10–13 min** | **Talk Robin 1** |
+| **13–17 min** | **Entry Check** |
+| **17–21 min** | **Core Pattern** |
+| **21–32 min** | **Guided Practice** — GitHub Skills |
+| **32–40 min** | **Independent Rebuild** |
+| **40–45 min** | **Talk Robin 2 + Evidence** |
 
-- **Skill Warm-up** = one related official GitHub YouTube clip (≤4 min; pause early).  
-- **Guided Practice** = matching **GitHub Skills** interactive steps.  
-- Docs = look up only if stuck.
+- One video per lesson (not the whole playlist).  
+- If a video is longer than ~10 minutes, give a start–stop timestamp.  
+- Docs = reference only if stuck.
 
 ## Official links
 
@@ -35,7 +35,7 @@ Full timing: [../shared/classroom-flow-45-min.md](../shared/classroom-flow-45-mi
 | **GitHub for Beginners** (official playlist) | https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f |
 | GitHub YouTube channel | https://www.youtube.com/@GitHub |
 
-Teacher picks **one** clip that matches today’s Skills topic (about 5–10 minutes).
+Teacher picks **one** video that matches today’s Skills topic (often ~9 minutes; use 0–10 min Skill Warm-up).
 
 ### Practice — GitHub Skills (interactive)
 

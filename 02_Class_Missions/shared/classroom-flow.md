@@ -23,6 +23,8 @@ Poster: `08_Public_Documents/posters/classroom-flow.png`
 | **30–40 min** | **Independent Rebuild** | Recreate the pattern alone with less help |
 | **40–45 min** | **Talk Robin 2 + Evidence** | Summarize, explain, submit proof of learning |
 
+**Video length note:** If the assigned Skill Warm-up video is about **9 minutes** (common for GitHub for Beginners), keep the same seven block **names**, but use **0–10 min for Skill Warm-up** and shorten Guided Practice so the class still ends at 45. See `01-github-foundations/README.md` for that timing table. Do not require finishing a 9-minute video in 4–5 minutes.
+
 ## Rules
 
 - Do **not** rename these blocks (no “Entry Point Check”, “Talk Round”, “Submission”, “Individual Learning”, etc.).

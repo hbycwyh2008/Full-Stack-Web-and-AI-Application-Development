@@ -15,7 +15,7 @@
 
 - [ ] `00-course-orientation` — What is CS? + AP CSP discovery + software lifecycle
 - [ ] `01-github-foundations` — YouTube + GitHub Docs/Skills: repo, README, commits, history
-- [ ] `02-hci-user-research` — research plan → evidence → synthesis/requirements
+- [ ] `02-hci-user-research` — needfinding → ask/observe notes → survey questions
 - [ ] `03-figma-product-design` — flow/IA → wireframes → system → high-fi prototype
 - [ ] `04-html-css-implementation` — semantic/responsive implementation
 - [ ] `05-javascript-interaction` — JavaScript + computational thinking

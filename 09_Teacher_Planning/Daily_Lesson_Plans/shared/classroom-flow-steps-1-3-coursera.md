@@ -59,7 +59,7 @@ AI Literacy: one Mitchell passage (in class only)
 
 | Journey stage | Coursera course (exact name) | Provider | Link | Why it fits **this** course |
 |---|---|---|---|---|
-| **Discover** | **Start the UX Design Process: Empathize, Define, and Ideate** *(primary)*; Minnesota *User Research and Design* *(optional deepen)* | Google; University of Minnesota | https://www.coursera.org/learn/start-ux-design-process | G7-friendly needfinding + ask/observe/survey warm-ups before Figma’s brainstorm → 3 prototypes loop. |
+| **Discover** | **User Research and Design** (L05–06) + Google **Start the UX Design Process** (L07) | Minnesota; Google | https://www.coursera.org/learn/design-research · https://www.coursera.org/learn/start-ux-design-process | Exact clips listed in HCI lesson files: Intro to User Research; Observations/Interview; Week 1 survey/interview questions. |
 | **Design** | **Prototyping and Design** | University of Minnesota | https://www.coursera.org/learn/prototyping-design | Low-fi → hi-fi prototyping, design rationale, accessibility—feeds our Figma prototype outcome. |
 | **Design (Figma tool)** | **Principles of UX/UI Design** | Meta | https://www.coursera.org/learn/principles-of-ux-ui-design | Explicit Figma wireframes/prototypes; bridges research ideas to the tool students actually use. |
 | **Build** | **HTML, CSS, and Javascript for Web Developers** *(Specialization)* | Johns Hopkins University | https://www.coursera.org/specializations/html-css-javascript-for-web-developers | Same stack as our Build stage: HTML5 → CSS3 (+ Bootstrap) → JS. Browser-first, project-shaped lessons. |
@@ -88,20 +88,21 @@ Use one design below per class meeting. Web stages use the named Coursera clip; 
 
 ### A. Discover — Needfinding, user data & survey questions (G7)
 
-**Primary Coursera course (simpler language):** *Start the UX Design Process: Empathize, Define, and Ideate* (Google)  
-https://www.coursera.org/learn/start-ux-design-process
+**Exact clips are also copied into each HCI lesson file** under “Skill Warm-up video (required).”
 
-**Optional deepen (adult density):** *User Research and Design* (University of Minnesota)  
-https://www.coursera.org/learn/design-research
+**Courses used:**
+
+1. *User Research and Design* (University of Minnesota) — https://www.coursera.org/learn/design-research *(Lessons 05–06)*
+2. *Start the UX Design Process: Empathize, Define, and Ideate* (Google) — https://www.coursera.org/learn/start-ux-design-process *(Lesson 07)*
 
 **Loop framing for teachers:** HCI lessons are **Initial Needfinding** only. Brainstorm → 3 prototypes → evaluate → higher-fi continue in Figma Lessons 08–11.
 
-| Lesson | Warm-up focus | Coursera resource to assign | Why this clip |
+| Lesson | Warm-up focus | Exact Coursera clip to assign | Why this clip |
 |---|---|---|---|
-| **05** Initial Needfinding | Why talk to users / empathize | Google Course 2 — Empathize / understanding users short video (≤ 5–8 min) | Frames needfinding: don’t guess needs. |
-| **06** Collect user data | Interview or observation | Google interview/observation tip clip **or** Minnesota **Interview and Focus Groups** / **Observations** (stop at ≤ 8 min) | Matches ask + watch lab. |
-| **07** Writing survey questions | Survey / research questions | Google survey/research-question tip clip **or** teacher bad→good card if no short clip | Matches survey rewrite practice. |
-| Consent | Keep light for G7 | Teacher 30-second consent script (unit printables) — prefer over full *Ethics and Consent* lecture | Peer research without adult ethics overload. |
+| **05** Initial Needfinding | Why do user research | Minnesota → Module **User Research Methods — Part 1** → **Introduction to User Research** (~3 min, full) | Frames needfinding: don’t guess needs. |
+| **06** Collect user data | Ask / observe | Minnesota → same module → **Observations** (~15 min, **stop 8:00**); alternate **Interview and Focus Groups** (stop 8:00) | Matches ask + watch lab. |
+| **07** Writing survey questions | Survey / research questions | Google Course 2 → **Week 1** research/interview/screener-survey questions clip (**stop 8:00**); fallback printable bad→good card | Matches survey rewrite practice. |
+| Consent | Keep light for G7 | Teacher 30-second consent script (`02-hci-user-research/g7-printables.md`) — prefer over full *Ethics and Consent* lecture | Peer research without adult ethics overload. |
 
 **Skill Warm-up task (students)**
 Watch/read the assigned clip. Write two lines:

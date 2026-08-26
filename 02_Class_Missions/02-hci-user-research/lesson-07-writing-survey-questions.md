@@ -3,12 +3,27 @@
 **Length:** 45 minutes  
 **Loop step:** Initial Needfinding (survey as a data-collection tool)  
 **Mission:** Write survey questions that reveal real habits and problems, then improve them after a peer test.  
-**One Required Resource / Evidence Source:** Coursera survey/research-question tip clip (≤ 8 min) **or** teacher bad→good question card  
+**One Required Resource / Evidence Source:** Coursera video below **or** [g7-printables.md](g7-printables.md) bad→good survey card  
 **Durable Evidence:** 5-question survey + one rewritten question after peer test
+
+### Skill Warm-up video (required)
+
+| Field | Assign this |
+|---|---|
+| Course | *Start the UX Design Process: Empathize, Define, and Ideate* (Google) |
+| Link | https://www.coursera.org/learn/start-ux-design-process |
+| Where | **Week 1 — Empathizing with users** |
+| Video | The Week 1 clip on **research / interview / screener survey questions** (titles vary slightly by Coursera UI) |
+| Stop | **8:00 max** — do not continue into persona build |
+| Access | Audit / preview OK; no certificate required |
+
+**Alternate (clearer survey-writing lecture, denser):** *UX Research at Scale: Surveys, Analytics, Online Testing* (University of Minnesota) → https://www.coursera.org/learn/ux-research-at-scale → module on writing questions → **Basic Guidelines for Writing Questions** (~20 min) — **stop at 8:00**.
+
+**No-video fallback:** project [g7-printables.md](g7-printables.md) section **Bad → good survey examples** as the warm-up.
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned clip **or** study the bad→good survey card. Write:
+Watch the assigned clip (stop at 8:00) **or** study the bad→good survey card. Write:
 
 1. One rule for a good survey question.  
 2. One question style to avoid.

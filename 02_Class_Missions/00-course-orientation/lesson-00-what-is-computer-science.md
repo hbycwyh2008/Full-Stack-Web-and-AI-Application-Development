@@ -23,58 +23,71 @@ Markdown file locally and upload it during GitHub Foundations.
 
 ## 0–5 min — Skill Warm-up
 
-Students work independently in the workbook.
+Use the assigned learning resource:
 
-Classify these four examples as **Definitely CS / Maybe / Not Primarily CS**:
+[Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science)
 
-1. Write a JavaScript function.
-2. Analyze how two algorithms scale.
-3. Repair a cracked laptop screen.
-4. Test whether a website works with a screen reader.
+Play or assign the teacher-selected segment that introduces computer science
+and distinguishes it from programming. Students record:
 
-Then preserve:
-
-> **Definition Version 1 — Computer science is ...**
-
-Do not define computer science for students yet. The purpose is to capture
-their initial model.
+- **One thing I learned**
+- **One thing I did not understand**
+- **My answer to the teacher's question:** “Is computer science the same as
+  programming? Why or why not?”
 
 ---
 
 ## 5–9 min — Talk Robin 1
 
-Partners share:
+Partners take turns sharing:
 
-- one classification they agree on;
-- one classification they interpret differently;
-- the evidence or assumption behind each position.
+- what they learned from the resource;
+- what was confusing or still unclear;
+- their answer to the teacher-prepared question.
 
-Each student records one partner idea they did not originally consider.
+The listener paraphrases before switching:
 
-Talk Robin is for comparing reasoning, not obtaining the teacher's answer.
+> “I heard you say ...”
+
+Each student records one partner idea they did not originally notice.
 
 ---
 
 ## 9–14 min — Entry Check
 
-Students answer individually:
+Pairs share their strongest answer or question with the class. The teacher
+records student claims under:
 
-1. Is programming the same as computer science? Explain your current answer.
-2. Name one CS question that is not simply “write code.”
-3. Which warm-up classification are you least certain about, and why?
+| We think we understand | We are unsure about |
+|---|---|
+|  |  |
 
-Teacher scans responses and identifies one shared misconception to address in
-Core Pattern. Do not review every answer aloud.
+Use these prepared checks if students need a prompt:
+
+1. What is a program?
+2. What does a programmer do?
+3. What kinds of problems can computer scientists study besides writing code?
+
+The teacher listens for incorrect or incomplete ideas, especially “computer
+science is only coding,” but saves the correction for Core Pattern.
 
 ---
 
 ## 14–19 min — Core Pattern
 
-Use one short, teacher-selected segment of the Khan Academy video. Stop after
-students have enough evidence to distinguish programming from the broader
-discipline; do not turn the video into a second lecture.
+Use the class-share evidence to correct misunderstandings. Then explicitly
+emphasize the content every student must know:
 
-Name the core pattern:
+- a **program** is a set of instructions a computer can execute;
+- **programming** is the work of expressing and building those instructions;
+- **computer science** studies computation and information;
+- programming is an important CS tool and practice, but it is not all of CS;
+- CS also includes algorithms, data, systems and networks, cybersecurity, HCI,
+  software engineering, AI, programming languages, and computing's effects on
+  society;
+- one computing activity may connect to several CS fields.
+
+Display the core pattern:
 
 ```text
 computer science studies computation and information
@@ -83,11 +96,7 @@ computer science studies computation and information
 → CS fields overlap with people, systems, data, algorithms, and society
 ```
 
-Students write:
-
-> **Definition Version 2 — After the video, computer science is ...**
-
-They must preserve Version 1 rather than replacing it.
+Students correct one earlier answer and record the reason for the correction.
 
 ---
 
@@ -104,7 +113,7 @@ Use only these six items from the workbook Evidence Bank:
 | **M** | Train an image classifier and evaluate what it gets wrong. |
 | **R** | Analyze how computing changes privacy, work, access, or power. |
 
-In groups of 3–4:
+With teacher support, groups of 3–4:
 
 1. place each item in one or more CS fields;
 2. identify which items clearly require programming;
@@ -117,8 +126,9 @@ Teacher asks evidence questions:
 - “Could it belong to another field?”
 - “Is programming the goal, or a tool used inside a larger investigation?”
 
-Teacher clarification is brief and diagnostic. Do not require all Evidence Bank
-items A–R or the complete nine-field map during this block.
+Pause after the first two items to share a correct reasoning pattern. Correct
+field-name errors immediately, then let groups finish the remaining items. Do
+not require all Evidence Bank items A–R or the complete nine-field map.
 
 ---
 
@@ -126,7 +136,7 @@ items A–R or the complete nine-field map during this block.
 
 Students close the group answer and work alone.
 
-### Part A — New evidence
+### Deeper-understanding challenge
 
 Choose one item that the group did **not** discuss:
 
@@ -139,28 +149,26 @@ For the chosen item:
 1. name its strongest CS field;
 2. name a second possible field or explain why there is not one;
 3. explain whether programming is the goal, a tool, or not directly required.
-
-### Part B — Model revision
-
-Write and preserve:
-
-> **Definition Version 3 — My current evidence-based definition is ...**
-
-Then explain one specific change across Version 1 → Version 2 → Version 3.
+4. create one new real-world example from the same field;
+5. write an evidence-based definition of computer science that would help a
+   younger student avoid the “CS is only coding” misunderstanding.
 
 ---
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Partners each have 45 seconds to state:
+Partners take turns sharing their independent definition and example.
 
-1. their Version 3 definition;
-2. the evidence that changed it;
-3. how they classified the new independent evidence.
+Each student records:
 
-Each student then completes:
+- **What I learned today**
+- **What is still confusing / what I still want to ask**
+- **One thing I could do better next time**
+- **One piece of evidence that proves my learning**
 
-> A student says, “This is basically a web-coding class.” Using two specific
+Then complete:
+
+> A student says, “Computer science is basically coding.” Using two specific
 > pieces of today's evidence, I would agree, qualify, or disagree because ...
 
 Submit or save:
@@ -183,8 +191,9 @@ Students can:
 
 - distinguish computer science from programming without separating them;
 - use concrete evidence to identify several overlapping CS fields;
-- preserve visible revision across three definitions;
-- independently classify and defend a new example.
+- explain and correct an earlier misunderstanding;
+- independently classify, extend, and defend a new example;
+- record a learning gain, remaining question, and next improvement.
 
 ## Assessment Stance
 

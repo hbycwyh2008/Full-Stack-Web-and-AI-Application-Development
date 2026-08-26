@@ -15,13 +15,13 @@ Poster: `08_Public_Documents/posters/classroom-flow.png`
 
 | Time | Block | What happens |
 |---|---|---|
-| **0–5 min** | **Skill Warm-up** | Meet the idea with a video, guide, or short task |
-| **5–9 min** | **Talk Robin 1** | Pair discussion: what was done and what was confusing |
-| **9–14 min** | **Entry Check** | Check basic understanding before going deeper |
-| **14–19 min** | **Core Pattern** | Teacher names and shows the key method clearly |
+| **0–5 min** | **Skill Warm-up** | Learn from one teaching video, guide, reading, or other assigned resource |
+| **5–9 min** | **Talk Robin 1** | Pairs share what they learned, what remains unclear, and answers to prepared questions |
+| **9–14 min** | **Entry Check** | Share as a class so the teacher can diagnose current understanding and misconceptions |
+| **14–19 min** | **Core Pattern** | Teacher corrects misunderstandings and explicitly teaches the must-know method or idea |
 | **19–30 min** | **Guided Practice** | Practice with teacher support; ask questions |
-| **30–40 min** | **Independent Rebuild** | Recreate the pattern alone with less help |
-| **40–45 min** | **Talk Robin 2 + Evidence** | Summarize, explain, submit proof of learning |
+| **30–40 min** | **Independent Rebuild** | Recreate the pattern alone, or complete a non-code activity that deepens the same understanding |
+| **40–45 min** | **Talk Robin 2 + Evidence** | Record and share learning, remaining questions, next improvement, and proof of learning |
 
 **Video length note:** If the assigned Skill Warm-up video is about **9 minutes** (common for GitHub for Beginners), keep the same seven block **names**, but use **0–10 min for Skill Warm-up** and shorten Guided Practice so the class still ends at 45. See `01-github-foundations/README.md` for that timing table. Do not require finishing a 9-minute video in 4–5 minutes.
 
@@ -30,6 +30,11 @@ Poster: `08_Public_Documents/posters/classroom-flow.png`
 - Do **not** rename these blocks (no “Entry Point Check”, “Talk Round”, “Submission”, “Individual Learning”, etc.).
 - Activity *inside* a block may change by lesson; the **block name** stays the same.
 - One main warm-up resource; one main practice focus.
+- Talk Robin 1 makes student thinking visible; it is not a second teacher lecture.
+- Entry Check gathers the whole-class share; Core Pattern is where the teacher
+  responds to errors and emphasizes required knowledge.
+- Every final reflection includes what the student learned, what remains
+  unclear, and what the student can improve next time.
 - Unfinished evidence → short finish-up by teacher deadline.
 
 ## Related

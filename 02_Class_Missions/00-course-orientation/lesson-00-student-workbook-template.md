@@ -5,8 +5,8 @@
 > `reflections/lesson-00-what-is-computer-science.md`
 >
 > Follow the **45-minute required path** below. Replace only the placeholders
-> assigned by the lesson. Keep all three versions of your definition so your
-> learning is visible. Unassigned Evidence Bank prompts are optional enrichment.
+> in the Required Lesson Record. The longer Evidence Bank and field map are
+> optional enrichment unless your teacher assigns them.
 
 **Name:** [WRITE HERE]  
 **Date:** [WRITE HERE]
@@ -17,13 +17,13 @@
 
 | Classroom Flow block | Workbook work |
 |---|---|
-| **Skill Warm-up** | Section 1: classify the four examples named in the lesson + Definition Version 1 |
-| **Talk Robin 1** | Record one disagreement and one new partner idea |
-| **Entry Check** | Answer the three questions in the lesson plan |
-| **Core Pattern** | Selected Khan Academy segment + Definition Version 2 |
-| **Guided Practice** | Evidence A, E, I, K, M, and R only |
-| **Independent Rebuild** | One of G/L/Q + Definition Version 3 |
-| **Talk Robin 2 + Evidence** | Transfer Prompt + save/submit the workbook |
+| **Skill Warm-up** | Learn from the assigned video or reading and take notes |
+| **Talk Robin 1** | Share what you learned, what is unclear, and your prepared answer |
+| **Entry Check** | Share as a class and record one important class question |
+| **Core Pattern** | Correct one misunderstanding and record the must-know content |
+| **Guided Practice** | Classify Evidence A, E, I, K, M, and R with teacher support |
+| **Independent Rebuild** | Independently analyze one of G/L/Q and create a new example |
+| **Talk Robin 2 + Evidence** | Record learning, questions, improvement, and proof |
 
 The full note-catcher, all Evidence Bank items, and complete nine-field map
 remain available for extension. They are **not all due in one 45-minute
@@ -41,7 +41,93 @@ By the end of this lesson, I can:
 
 ---
 
-# 1. Entry Point — What Counts as Computer Science?
+## Required 45-Minute Lesson Record
+
+### 1. Skill Warm-up — Learn from the Resource
+
+**One thing I learned:** [WRITE HERE]
+
+**One thing I did not understand:** [WRITE HERE]
+
+**Is computer science the same as programming? Why or why not?** [WRITE HERE]
+
+### 2. Talk Robin 1 — Pair Share
+
+**My partner's idea, in my own words:** [WRITE HERE]
+
+**One new idea or question I heard:** [WRITE HERE]
+
+### 3. Entry Check — Whole-Class Share
+
+**One claim our class shared:** [WRITE HERE]
+
+**One question or possible misunderstanding the teacher noticed:** [WRITE HERE]
+
+### 4. Core Pattern — Correct and Record
+
+**One idea I corrected:** [WRITE HERE]
+
+**Why I corrected it:** [WRITE HERE]
+
+Complete the must-know statements:
+
+- A **program** is [WRITE HERE].
+- **Programming** is [WRITE HERE].
+- **Computer science** studies [WRITE HERE].
+- Programming is part of CS, but CS also includes [WRITE HERE].
+
+### 5. Guided Practice — Use Evidence with Support
+
+Complete only the assigned Evidence Bank items: **A, E, I, K, M, and R**.
+
+**One example that connects to more than one field:** [LETTER + EXPLANATION]
+
+### 6. Independent Rebuild — Deepen the Model
+
+Choose **G, L, or Q**.
+
+**Chosen evidence:** [LETTER]
+
+**Strongest CS field and why:** [WRITE HERE]
+
+**Second possible field, or why there is not one:** [WRITE HERE]
+
+**Is programming the goal, a tool, or not directly required? Why?** [WRITE HERE]
+
+**My new real-world example from the same field:** [WRITE HERE]
+
+> **My evidence-based definition for a younger student:** [WRITE HERE]
+
+### 7. Talk Robin 2 + Evidence — Reflect and Submit
+
+**What I learned today:** [WRITE HERE]
+
+**What is still confusing or what I still want to ask:** [WRITE HERE]
+
+**One thing I could do better next time:** [WRITE HERE]
+
+**One piece of evidence that proves my learning:** [WRITE HERE]
+
+Respond using at least two pieces of evidence:
+
+> A student says, “Computer science is basically coding.”
+
+[WRITE HERE]
+
+Before submitting:
+
+- [ ] I completed all seven required blocks.
+- [ ] I used specific evidence, not only an opinion.
+- [ ] I saved this file in the required location.
+
+---
+
+# Optional Extension Bank
+
+The remaining sections support a longer lesson, review, or enrichment. They are
+not part of the required 45-minute path unless your teacher assigns them.
+
+## 1. Entry Point — What Counts as Computer Science?
 
 Before watching or searching anything, classify each example.
 
@@ -219,7 +305,8 @@ Discuss your work with one partner. You may change your thinking, but do not del
 # 5. Team CS Field Map
 
 The complete nine-field map is optional extension in the 45-minute lesson.
-**Definition Version 3 and its change explanation are required.**
+Complete Definition Version 3 and its change explanation only when this
+extension is assigned.
 
 Work in a team of 3–4. Assign all Evidence Bank letters **A–R** to the field or fields your team thinks fit best.
 
@@ -285,9 +372,9 @@ Use **at least two specific pieces of evidence** from today's video, Evidence Ba
 
 ---
 
-# 7. Completion Check
+# 7. Optional Extension Completion Check
 
-Before committing this file, confirm:
+Complete this checklist only when the optional extension was assigned:
 
 - [ ] I kept all three versions of my CS definition.
 - [ ] I recorded the assigned idea from the selected Khan Academy segment.

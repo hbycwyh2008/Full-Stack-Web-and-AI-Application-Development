@@ -8,111 +8,86 @@ Do not give this file to students before the evidence investigation. The point i
 
 ## 0–5 min — Skill Warm-up
 
-These are discussion targets, not rigid grading answers.
+Use the selected Khan Academy segment or another assigned learning resource.
+This block supplies new input; it is not a quiz or classification activity.
 
-| Example | Suggested interpretation | Teaching note |
-|---|---|---|
-| Write a JavaScript function | Definitely CS-related | Programming is a core tool/practice in CS, but the act alone does not define the whole discipline. |
-| Design an accessible interface | Definitely CS-related | Strong HCI connection; accessibility is also connected to responsible design and computing & society. |
-| Repair a cracked laptop screen | Not primarily CS | More naturally hardware repair/technical support. Useful contrast with computer science. |
-| Analyze how fast two algorithms scale | Definitely CS | Algorithms/theory; a clear example of CS that is not merely writing code. |
-| Train an image classifier | Definitely CS | Artificial intelligence / machine learning. |
-| Route packets when one route fails | Definitely CS | Computer networks, algorithms, reliability/fault tolerance. |
-| Create a spreadsheet formula | Maybe / context-dependent | Uses computational ideas but is not automatically a computer-science task. Ask what is being investigated or designed. |
-| Review a pull request for correctness | Definitely CS-related | Software engineering, program reasoning, testing, collaboration. |
+Check that each student records:
 
-The useful misconception to surface is **CS = programming = typing code**.
+- one idea learned;
+- one unclear point;
+- an initial answer to “Is computer science the same as programming?”
+
+Do not pause repeatedly to explain. Save clarification for the class share and
+Core Pattern.
 
 ---
 
 ## 5–9 min — Talk Robin 1
 
-The intended primary pairings are deliberately clear enough for beginners.
+Listen for balanced participation. Each student should share:
 
-| Evidence | Primary field | Why |
-|---|---|---|
-| A | Algorithms & Theory | Compares algorithmic efficiency as input size grows. |
-| B | Algorithms & Theory | Asks about computability — what can be solved algorithmically at all. |
-| C | Data & Information | Concerns data representation, storage, and efficient querying. |
-| D | Data & Information | Concerns extracting defensible information from data. |
-| E | Computer Systems & Networks | Concerns routing and network reliability. |
-| F | Computer Systems & Networks | Concerns operating systems and resource management. |
-| G | Cybersecurity | Threat analysis and protection against unauthorized access. |
-| H | Cybersecurity | Secure password storage and protection after database compromise. |
-| I | Human-Computer Interaction | Observes users and redesigns interaction to reduce errors. |
-| J | Human-Computer Interaction | Accessibility and interaction with assistive technologies. |
-| K | Software Engineering | Organizes collaborative development of a large software system. |
-| L | Software Engineering | Automated testing, code review, and safe integration. |
-| M | Artificial Intelligence | Image classification plus error evaluation. |
-| N | Artificial Intelligence | Decision-making under uncertainty from data. |
-| O | Programming Languages & Abstraction | Language design and abstraction. |
-| P | Programming Languages & Abstraction | Compilers/interpreters and execution of language instructions. |
-| Q | Computing & Society | Fairness and social consequences of automated decisions. |
-| R | Computing & Society | Privacy, labor, access, power, and social effects of computing. |
+1. something learned;
+2. something confusing;
+3. an answer to the prepared question.
 
-### Strong cross-field answers students may defend
-
-Accept well-supported alternatives, especially:
-
-- **C:** Data & Information + Systems (storage/query performance)
-- **E:** Networks + Algorithms (routing algorithms)
-- **G:** Cybersecurity + Systems/Networks
-- **J:** HCI + Computing & Society
-- **L:** Software Engineering + Algorithms/Programming
-- **M:** AI + Data & Information
-- **Q:** Computing & Society + AI
-- **R:** Computing & Society + HCI / cybersecurity / AI depending on the technology discussed
-
-A student should not lose credit because a defensible evidence item crosses disciplinary boundaries. That is one of the lesson's intended discoveries.
+Require the listener to paraphrase before replying. Do not turn this block into
+teacher-led correction.
 
 ---
 
 ## 9–14 min — Entry Check
 
-A strong student file should show **change in thinking**, not just completion.
+Invite pairs to share with the whole class. Record claims without naming
+students under:
 
-Look for:
+- **We think we understand**
+- **We are unsure about**
 
-1. **Version 1** written before input;
-2. **Version 2** showing a change or confirmation after Khan Academy;
-3. use of specific Evidence Bank letters rather than vague claims;
-4. a field map that recognizes more than programming and AI;
-5. at least one defensible cross-field connection;
-6. **Version 3** that is broader or more precise than Version 1;
-7. an independent classification of G, L, or Q with evidence;
-8. a final transfer response using at least two specific pieces of evidence.
+Use the prepared questions when needed:
 
-Do not grade wording against the teacher definition. Grade evidence, reasoning, revision, and transfer.
+1. What is a program?
+2. What does a programmer do?
+3. What can computer scientists study besides writing code?
+
+Diagnose misconceptions here. Correct them in the next block so students first
+have a genuine opportunity to explain their thinking.
+
+---
+
 ## 14–19 min — Core Pattern
 
-Students do not need identical wording. Look for these ideas:
+Correct inaccurate claims from the class share and explicitly teach:
 
 - a program is a set of instructions for a computer;
 - programming is the creation/expression of those instructions;
 - computer science is broader than programming;
-- CS asks questions about computation, algorithms, efficiency, representation, systems, AI, security, and other computational problems;
+- CS studies computation and information;
+- CS includes algorithms, data, systems and networks, cybersecurity, HCI,
+  software engineering, AI, programming languages, and computing's effects on
+  society;
 - programming is one important way computer scientists implement or test ideas.
 
-Do not present the video as a complete disciplinary definition. Its value here is to create a shared first model that students can test and expand.
+Students should record one corrected idea and why it changed. They do not need
+to copy a long teacher definition.
 
 ---
 
 ## 19–30 min — Guided Practice
 
-Do not reveal this before students have worked with the evidence.
+Use these as suggested primary classifications:
 
-A useful course-level working definition is:
+| Evidence | Primary field | Key reasoning |
+|---|---|---|
+| **A** | Algorithms & Theory | Compares efficiency as input size grows. |
+| **E** | Computer Systems & Networks | Studies routing and network reliability. |
+| **I** | Human-Computer Interaction | Redesigns interaction after observing users. |
+| **K** | Software Engineering | Organizes collaborative development. |
+| **M** | Artificial Intelligence | Builds and evaluates an image classifier. |
+| **R** | Computing & Society | Examines privacy, labor, access, power, and social effects. |
 
-> **Computer science studies computation and information: what can be computed, how information is represented and processed, how algorithms and computational systems work, how efficiently and reliably they work, and how computing systems interact with people and society.**
-
-Important distinctions:
-
-- **Programming:** expressing computational procedures and building executable systems; an essential CS practice, not the whole field.
-- **Software engineering:** disciplined design, construction, testing, collaboration, and maintenance of software systems.
-- **Computer engineering:** greater emphasis on hardware and electrical/computing systems.
-- **IT:** operation, deployment, administration, and support of computing infrastructure.
-
-The lesson should broaden students' model, not make them memorize this sentence.
+Model the reasoning pattern after the first two items. Accept justified
+cross-field answers, such as E with Algorithms, M with Data, or R with HCI,
+Cybersecurity, or AI.
 
 ---
 
@@ -127,8 +102,11 @@ Accept more than one defensible field when the student cites the evidence:
 | **Q** | Computing & Society | Artificial Intelligence | Investigates fairness in an automated decision system. |
 
 Students must also explain whether programming is the goal, a tool used to
-investigate the problem, or not directly required. Look for a Version 3
-definition that changes because of evidence rather than teacher wording.
+investigate the problem, or not directly required.
+
+The student's new example should fit the selected field and not simply rename
+the original. The younger-student definition should make clear that programming
+belongs inside CS without reducing all of CS to coding.
 
 ---
 
@@ -136,13 +114,11 @@ definition that changes because of evidence rather than teacher wording.
 
 Strong evidence includes:
 
-- a concise Version 3 definition;
-- a specific Evidence Bank letter that changed the student's model;
-- an accurate explanation of the independent G/L/Q classification;
-- a transfer response using at least two pieces of evidence to address the
-  claim that the course is “basically a web-coding class.”
+- a specific statement of what the student learned;
+- a genuine remaining question or unclear point;
+- one concrete action the student could improve next time;
+- an accurate independent G/L/Q classification and new example;
+- a transfer response using at least two pieces of evidence to address
+  “Computer science is basically coding.”
 
 Do not reward a long definition more than a defensible, evidence-based one.
-
----
-

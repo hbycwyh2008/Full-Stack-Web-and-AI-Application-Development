@@ -26,7 +26,8 @@
 
 ## Lesson 00 Materials
 
-- [ ] Khan Academy CS excerpt selected
+- [ ] Khan Academy CS foundation excerpt selected
+- [ ] [Computational-thinking follow-up video](https://www.youtube.com/watch?v=mUXo-S7gzds) ready
 - [ ] computational-thinking learning card prepared
 - [ ] guided laptop-distribution scenario prepared
 - [ ] independent problem choices prepared

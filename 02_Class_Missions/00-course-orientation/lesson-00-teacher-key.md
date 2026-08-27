@@ -14,14 +14,15 @@ Do not accept memorized vocabulary without a connected solution.
 
 ## 0–5 min — Skill Warm-up
 
-Use the selected Khan Academy excerpt and the workbook's Computational Thinking
-Card as one learning brief.
+Use the teacher-selected excerpt from
+[Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science)
+as the CS foundation.
 
 Check that students record:
 
-- one idea learned;
+- what the video suggests computer science is;
 - one unclear point;
-- an initial answer about using CS thinking before coding.
+- an initial answer about whether CS and programming are the same.
 
 Do not correct every point during the resource. Save clarification for the
 class share and Core Pattern.
@@ -33,7 +34,7 @@ class share and Core Pattern.
 Listen for balanced participation. Each student should share:
 
 - a current CS definition;
-- one computational-thinking idea;
+- whether CS and programming are the same;
 - one unclear point;
 - an answer to the prepared question.
 
@@ -51,17 +52,15 @@ Invite pairs to share with the whole class. Record claims under:
 Listen for these misconceptions:
 
 - “Computer science is just coding.”
-- “Computational thinking means thinking like a computer.”
-- “Computational thinking always requires a computer.”
-- “An algorithm must be written in a programming language.”
-- “Abstraction means making an explanation vague.”
-- “The first solution is finished if it works once.”
+- “Computer scientists only build apps.”
+- “Problem solving begins after the programmer starts typing code.”
 
-Diagnose here; correct in Core Pattern.
+Diagnose the class's CS model here; correct it in Core Pattern before
+introducing computational thinking.
 
 ---
 
-## 14–19 min — Core Pattern
+## 14–24 min — Core Pattern
 
 ### Core 1 — Definition of Computer Science
 
@@ -78,9 +77,28 @@ A useful teacher definition is:
 > how data are represented and processed, how algorithms and systems work, and
 > how computing interacts with people and society.
 
+### Bridge — CS Uses Problem Solving
+
+Make the transition explicit:
+
+```text
+computer science studies computation and information
+→ computer scientists solve problems in these areas
+→ effective solutions require structured thinking before coding
+→ computational thinking provides that structure
+```
+
+Ask:
+
+> “How can we organize a problem before we write code?”
+
+Then play the required follow-up:
+
+[Best of Digital Literacy + Computational Thinking for Children](https://www.youtube.com/watch?v=mUXo-S7gzds) (4:31)
+
 ### Core 2 — Computational Thinking
 
-Teach the moves as a connected, revisable process:
+After the video, name the moves as a connected, revisable process:
 
 | Move | Must-know meaning |
 |---|---|
@@ -95,9 +113,13 @@ The four common computational-thinking practices are decomposition, pattern
 recognition, abstraction, and algorithm design. Define and test/refine make the
 problem-solving cycle explicit for this course.
 
+Clarify that computational thinking does not require a computer, an algorithm
+does not have to be code, abstraction keeps relevant details rather than making
+an idea vague, and a solution must be tested beyond one successful case.
+
 ---
 
-## 19–30 min — Guided Practice
+## 24–32 min — Guided Practice
 
 ### Shared laptop-distribution problem
 
@@ -155,7 +177,7 @@ goal and constraints.
 
 ---
 
-## 30–40 min — Independent Rebuild
+## 32–40 min — Independent Rebuild
 
 A successful response:
 

@@ -19,48 +19,36 @@ By the end of this lesson, I can:
 
 | Classroom Flow block | Workbook evidence |
 |---|---|
-| **Skill Warm-up** | Learn from the video excerpt and Computational Thinking Card |
-| **Talk Robin 1** | Share learning, confusion, and the prepared answer |
-| **Entry Check** | Record one whole-class claim and one question |
-| **Core Pattern** | Complete both must-know patterns |
+| **Skill Warm-up** | Watch the Khan Academy CS foundation excerpt |
+| **Talk Robin 1** | Discuss what CS is, what is unclear, and whether CS equals programming |
+| **Entry Check** | Share CS claims and questions with the whole class |
+| **Core Pattern** | Correct the CS definition, connect CS to problem solving, then watch the CT follow-up |
 | **Guided Practice** | Solve the shared laptop-distribution problem with support |
 | **Independent Rebuild** | Apply the full process to a new problem |
 | **Talk Robin 2 + Evidence** | Explain, reflect, and submit proof |
 
 ---
 
-## 1. Skill Warm-up — Learning Brief
+## 1. Skill Warm-up — CS Foundation
 
 Watch the teacher-selected excerpt:
 
 [Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science)
 
-### Computational Thinking Card
-
-Computational thinking is a structured way to understand and solve problems.
-It does not always require a computer or code.
-
-- **Decomposition:** break a complex problem into manageable parts.
-- **Pattern recognition:** notice repetition, similarity, or recurring causes.
-- **Abstraction:** keep relevant information and ignore distracting details.
-- **Algorithm design:** create clear ordered steps or rules.
-- **Test and refine:** try cases, find failures, and improve the solution.
-
 ### Warm-up Notes
 
-**One thing I learned:** [WRITE HERE]
+**What the video suggests computer science is:** [WRITE HERE]
 
 **One thing I did not understand:** [WRITE HERE]
 
-**How can someone use computer-science thinking before writing code?**
-[WRITE HERE]
+**Is computer science the same as programming? Why or why not?** [WRITE HERE]
 
 ---
 
 ## 2. Talk Robin 1 — Pair Share
 
-Take turns sharing your current definition, one problem-solving idea, and one
-unclear point. Paraphrase your partner before responding.
+Take turns sharing what computer science is, whether it is the same as
+programming, and one unclear point. Paraphrase your partner before responding.
 
 **My current definition of computer science:** [WRITE HERE]
 
@@ -81,10 +69,10 @@ Check your current thinking:
 1. **Is computer science the same as programming? Why or why not?**
 
    [WRITE HERE]
-2. **Must computational thinking always use a computer? Why or why not?**
+2. **What kinds of problems do computer scientists solve?**
 
    [WRITE HERE]
-3. **What is the difference between a problem and an algorithm?**
+3. **Can problem solving begin before code is written? Explain.**
 
    [WRITE HERE]
 
@@ -100,6 +88,30 @@ Complete the statements:
 - **Programming** is [WRITE HERE].
 - **Computer science** studies [WRITE HERE].
 - Programming is part of computer science, but CS also includes [WRITE HERE].
+
+### Bridge — From CS to Problem Solving
+
+**Why is problem solving central to computer science?** [WRITE HERE]
+
+**How might a computer scientist organize a problem before programming?**
+[WRITE HERE]
+
+### Computational Thinking Follow-up Video
+
+Watch:
+
+[Best of Digital Literacy + Computational Thinking for Children](https://www.youtube.com/watch?v=mUXo-S7gzds) (4:31)
+
+### Computational Thinking Card
+
+Computational thinking is a structured way to understand and solve problems.
+It does not always require a computer or code.
+
+- **Decomposition:** break a complex problem into manageable parts.
+- **Pattern recognition:** notice repetition, similarity, or recurring causes.
+- **Abstraction:** keep relevant information and ignore distracting details.
+- **Algorithm design:** create clear ordered steps or rules.
+- **Test and refine:** try cases, find failures, and improve the solution.
 
 ### Core 2 — Computational Thinking
 

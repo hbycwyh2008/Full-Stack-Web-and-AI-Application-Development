@@ -10,6 +10,10 @@
 
 **Required Resource:** [Student workbook and warm-up learning brief](lesson-00-student-workbook-template.md)
 
+**Required Warm-up Video — CS Foundation:** [Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science) (teacher-selected excerpt)
+
+**Required Core Pattern Follow-up Video:** [Best of Digital Literacy + Computational Thinking for Children](https://www.youtube.com/watch?v=mUXo-S7gzds) (4:31)
+
 **Durable Evidence:** `reflections/lesson-00-what-is-computer-science.md`
 
 ## Two Required Learning Outcomes
@@ -37,13 +41,14 @@ Markdown file locally and upload it during GitHub Foundations.
 Students use the **Warm-up Learning Brief** in the workbook:
 
 1. watch the teacher-selected excerpt from
-   [Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science);
-2. read the short computational-thinking card;
-3. record one idea learned and one unclear point.
+   [Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science)
+   to establish the CS definition;
+2. record what the video suggests computer science is;
+3. record one unclear point.
 
 Prepared question:
 
-> How can someone use computer-science thinking before writing any code?
+> Is computer science the same as programming? Why or why not?
 
 ---
 
@@ -51,8 +56,8 @@ Prepared question:
 
 Partners take turns sharing:
 
-- their current definition of computer science;
-- one idea about problem solving from the learning brief;
+- what the video suggests computer science is;
+- whether CS and programming are the same;
 - one point that remains confusing;
 - their answer to the prepared question.
 
@@ -76,17 +81,18 @@ under:
 Use these checks if students need prompts:
 
 1. Is computer science the same as programming? Why or why not?
-2. What makes a problem suitable for computational thinking?
-3. Must computational thinking always use a computer?
-4. What is the difference between a problem and an algorithm?
+2. What kinds of problems do computer scientists solve?
+3. How can programming help solve a problem?
+4. Can problem solving begin before any code is written?
 
 Listen for misconceptions, but save the correction for Core Pattern.
 
 ---
 
-## 14–19 min — Core Pattern
+## 14–24 min — Core Pattern
 
-Correct misunderstandings from the class share. Teach both required patterns.
+Correct misunderstandings from the class share, establish the CS definition,
+and then bridge from problem solving to computational thinking.
 
 ### Core 1 — Definition of Computer Science
 
@@ -105,6 +111,26 @@ Students must know:
   algorithms, data, systems, networks, cybersecurity, HCI, software
   engineering, AI, programming languages, and computing's effects on society.
 
+### Bridge — CS Uses Problem Solving
+
+Ask:
+
+> If computer science solves problems, how can we organize our thinking before
+> we write code?
+
+Explain that programmers and computer scientists need a repeatable way to
+understand a problem, decide what matters, design steps, and test the result.
+That problem-solving approach is **computational thinking**.
+
+### Follow-up Video — Computational Thinking
+
+Watch:
+
+[Best of Digital Literacy + Computational Thinking for Children](https://www.youtube.com/watch?v=mUXo-S7gzds) (4:31)
+
+Students listen for the four computational-thinking practices. After the video,
+name the complete course pattern:
+
 ### Core 2 — Computational Thinking for Problem Solving
 
 ```text
@@ -121,7 +147,7 @@ used before coding and can also improve non-code processes.
 
 ---
 
-## 19–30 min — Guided Practice
+## 24–32 min — Guided Practice
 
 ### Shared problem
 
@@ -145,7 +171,7 @@ Students finish the algorithm and testing with support.
 
 ---
 
-## 30–40 min — Independent Rebuild
+## 32–40 min — Independent Rebuild
 
 Students close the group answer and choose one new problem:
 

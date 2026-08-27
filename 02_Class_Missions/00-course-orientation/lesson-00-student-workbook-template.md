@@ -1,106 +1,242 @@
-# Lesson 00 Student Workbook — What Is Computer Science?
+# Lesson 00 Student Workbook — Computer Science and Computational Thinking
 
-> **Student instruction:** Copy this entire file into your own learning repository as:
+> **Student instruction:** Copy this file into your learning repository as:
 >
 > `reflections/lesson-00-what-is-computer-science.md`
->
-> Follow the **45-minute required path** below. Replace only the placeholders
-> in the Required Lesson Record. The longer Evidence Bank and field map are
-> optional enrichment unless your teacher assigns them.
 
-**Name:** [WRITE HERE]  
+**Name:** [WRITE HERE]
+
 **Date:** [WRITE HERE]
 
----
-
-## 45-Minute Required Path
-
-| Classroom Flow block | Workbook work |
-|---|---|
-| **Skill Warm-up** | Learn from the assigned video or reading and take notes |
-| **Talk Robin 1** | Share what you learned, what is unclear, and your prepared answer |
-| **Entry Check** | Share as a class and record one important class question |
-| **Core Pattern** | Correct one misunderstanding and record the must-know content |
-| **Guided Practice** | Classify Evidence A, E, I, K, M, and R with teacher support |
-| **Independent Rebuild** | Independently analyze one of G/L/Q and create a new example |
-| **Talk Robin 2 + Evidence** | Record learning, questions, improvement, and proof |
-
-The full note-catcher, all Evidence Bank items, and complete nine-field map
-remain available for extension. They are **not all due in one 45-minute
-lesson**.
-
----
-
-## Learning Goal
+## Learning Goals
 
 By the end of this lesson, I can:
 
-- distinguish computer science from computer programming;
-- identify several major areas of computer science;
-- use evidence to revise and defend a definition.
+1. define computer science and explain how it differs from programming;
+2. use computational thinking to solve and improve a problem.
+
+## 45-Minute Required Path
+
+| Classroom Flow block | Workbook evidence |
+|---|---|
+| **Skill Warm-up** | Learn from the video excerpt and Computational Thinking Card |
+| **Talk Robin 1** | Share learning, confusion, and the prepared answer |
+| **Entry Check** | Record one whole-class claim and one question |
+| **Core Pattern** | Complete both must-know patterns |
+| **Guided Practice** | Solve the shared laptop-distribution problem with support |
+| **Independent Rebuild** | Apply the full process to a new problem |
+| **Talk Robin 2 + Evidence** | Explain, reflect, and submit proof |
 
 ---
 
-## Required 45-Minute Lesson Record
+## 1. Skill Warm-up — Learning Brief
 
-### 1. Skill Warm-up — Learn from the Resource
+Watch the teacher-selected excerpt:
+
+[Khan Academy — What is computer science?](https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science)
+
+### Computational Thinking Card
+
+Computational thinking is a structured way to understand and solve problems.
+It does not always require a computer or code.
+
+- **Decomposition:** break a complex problem into manageable parts.
+- **Pattern recognition:** notice repetition, similarity, or recurring causes.
+- **Abstraction:** keep relevant information and ignore distracting details.
+- **Algorithm design:** create clear ordered steps or rules.
+- **Test and refine:** try cases, find failures, and improve the solution.
+
+### Warm-up Notes
 
 **One thing I learned:** [WRITE HERE]
 
 **One thing I did not understand:** [WRITE HERE]
 
-**Is computer science the same as programming? Why or why not?** [WRITE HERE]
+**How can someone use computer-science thinking before writing code?**
+[WRITE HERE]
 
-### 2. Talk Robin 1 — Pair Share
+---
+
+## 2. Talk Robin 1 — Pair Share
+
+Take turns sharing your current definition, one problem-solving idea, and one
+unclear point. Paraphrase your partner before responding.
+
+**My current definition of computer science:** [WRITE HERE]
 
 **My partner's idea, in my own words:** [WRITE HERE]
 
 **One new idea or question I heard:** [WRITE HERE]
 
-### 3. Entry Check — Whole-Class Share
+---
+
+## 3. Entry Check — Whole-Class Share
 
 **One claim our class shared:** [WRITE HERE]
 
 **One question or possible misunderstanding the teacher noticed:** [WRITE HERE]
 
-### 4. Core Pattern — Correct and Record
+Check your current thinking:
+
+1. **Is computer science the same as programming? Why or why not?**
+
+   [WRITE HERE]
+2. **Must computational thinking always use a computer? Why or why not?**
+
+   [WRITE HERE]
+3. **What is the difference between a problem and an algorithm?**
+
+   [WRITE HERE]
+
+---
+
+## 4. Core Pattern — Correct and Record
+
+### Core 1 — Definition of Computer Science
+
+Complete the statements:
+
+- A **program** is [WRITE HERE].
+- **Programming** is [WRITE HERE].
+- **Computer science** studies [WRITE HERE].
+- Programming is part of computer science, but CS also includes [WRITE HERE].
+
+### Core 2 — Computational Thinking
+
+Explain each move in your own words:
+
+| Move | My explanation |
+|---|---|
+| **Define the problem** | [WRITE HERE] |
+| **Decomposition** | [WRITE HERE] |
+| **Pattern recognition** | [WRITE HERE] |
+| **Abstraction** | [WRITE HERE] |
+| **Algorithm design** | [WRITE HERE] |
+| **Test and refine** | [WRITE HERE] |
 
 **One idea I corrected:** [WRITE HERE]
 
 **Why I corrected it:** [WRITE HERE]
 
-Complete the must-know statements:
+---
 
-- A **program** is [WRITE HERE].
-- **Programming** is [WRITE HERE].
-- **Computer science** studies [WRITE HERE].
-- Programming is part of CS, but CS also includes [WRITE HERE].
+## 5. Guided Practice — Computational Thinking Canvas
 
-### 5. Guided Practice — Use Evidence with Support
+### Shared problem
 
-Complete only the assigned Evidence Bank items: **A, E, I, K, M, and R**.
+> At the beginning of class, distributing 15 shared laptops to 30 students
+> takes too long. Devices, chargers, and users are sometimes mismatched. Design
+> a fair process that distributes the laptops in under three minutes and keeps
+> an accurate record without collecting unnecessary personal information.
 
-**One example that connects to more than one field:** [LETTER + EXPLANATION]
+### Define
 
-### 6. Independent Rebuild — Deepen the Model
+**Exact problem:** [WRITE HERE]
 
-Choose **G, L, or Q**.
+**Goal and success criteria:** [WRITE HERE]
 
-**Chosen evidence:** [LETTER]
+**Users and constraints:** [WRITE HERE]
 
-**Strongest CS field and why:** [WRITE HERE]
+### Decompose
 
-**Second possible field, or why there is not one:** [WRITE HERE]
+Break the process into smaller parts:
 
-**Is programming the goal, a tool, or not directly required? Why?** [WRITE HERE]
+1. [WRITE HERE]
+2. [WRITE HERE]
+3. [WRITE HERE]
+4. [WRITE HERE]
 
-**My new real-world example from the same field:** [WRITE HERE]
+### Recognize Patterns
 
-> **My evidence-based definition for a younger student:** [WRITE HERE]
+**One repeated action or bottleneck:** [WRITE HERE]
 
-### 7. Talk Robin 2 + Evidence — Reflect and Submit
+**One common failure:** [WRITE HERE]
 
-**What I learned today:** [WRITE HERE]
+### Abstract
+
+**Information that matters:** [WRITE HERE]
+
+**Information that is unnecessary or distracting:** [WRITE HERE]
+
+### Design an Algorithm
+
+Write clear steps for laptop distribution and return:
+
+1. [WRITE HERE]
+2. [WRITE HERE]
+3. [WRITE HERE]
+4. [WRITE HERE]
+5. [WRITE HERE]
+
+### Test and Refine
+
+| Test case | What happens? | Revision needed |
+|---|---|---|
+| A student is absent | [WRITE HERE] | [WRITE HERE] |
+| A charger is missing | [WRITE HERE] | [WRITE HERE] |
+| A laptop does not start | [WRITE HERE] | [WRITE HERE] |
+
+---
+
+## 6. Independent Rebuild — Solve a New Problem
+
+Choose one:
+
+- **A:** Students cannot quickly find an item in the school lost-and-found.
+- **B:** A project team keeps editing different file versions and cannot tell
+  which one is current.
+- **C:** Returning library books creates a long queue just before class.
+
+**My chosen problem:** [A / B / C]
+
+### Define
+
+**Problem, goal, constraints, and success criteria:** [WRITE HERE]
+
+### Decompose
+
+1. [WRITE HERE]
+2. [WRITE HERE]
+3. [WRITE HERE]
+
+### Recognize a Pattern
+
+[WRITE HERE]
+
+### Abstract
+
+**Relevant information:** [WRITE HERE]
+
+**One distracting detail to ignore:** [WRITE HERE]
+
+### Design an Algorithm
+
+1. [WRITE HERE]
+2. [WRITE HERE]
+3. [WRITE HERE]
+4. [WRITE HERE]
+5. [WRITE HERE]
+
+### Test and Refine
+
+**Normal test case and result:** [WRITE HERE]
+
+**Edge case and result:** [WRITE HERE]
+
+**One step I revised after testing:** [WRITE HERE]
+
+**Why the revision improves the solution:** [WRITE HERE]
+
+---
+
+## 7. Talk Robin 2 + Evidence
+
+Explain your CS definition, one computational-thinking move, and one revision
+to your partner.
+
+**My final definition of computer science:** [WRITE HERE]
+
+**What I learned about computational thinking:** [WRITE HERE]
 
 **What is still confusing or what I still want to ask:** [WRITE HERE]
 
@@ -108,283 +244,17 @@ Choose **G, L, or Q**.
 
 **One piece of evidence that proves my learning:** [WRITE HERE]
 
-Respond using at least two pieces of evidence:
-
-> A student says, “Computer science is basically coding.”
-
-[WRITE HERE]
-
-Before submitting:
-
-- [ ] I completed all seven required blocks.
-- [ ] I used specific evidence, not only an opinion.
-- [ ] I saved this file in the required location.
-
----
-
-# Optional Extension Bank
-
-The remaining sections support a longer lesson, review, or enrichment. They are
-not part of the required 45-minute path unless your teacher assigns them.
-
-## 1. Entry Point — What Counts as Computer Science?
-
-Before watching or searching anything, classify each example.
-
-Change each `[ ]` to `[x]` in **one** column per row.
-
-| Example | Definitely CS | Maybe | Not Primarily CS |
-|---|:---:|:---:|:---:|
-| Write a JavaScript function | [ ] | [ ] | [ ] |
-| Design an accessible interface | [ ] | [ ] | [ ] |
-| Repair a cracked laptop screen | [ ] | [ ] | [ ] |
-| Analyze how fast two algorithms scale | [ ] | [ ] | [ ] |
-| Train an image classifier | [ ] | [ ] | [ ] |
-| Route packets when one network route fails | [ ] | [ ] | [ ] |
-| Create a spreadsheet formula | [ ] | [ ] | [ ] |
-| Review a pull request for correctness | [ ] | [ ] | [ ] |
-
-### One choice I am unsure about
-
-**Example:** [WRITE HERE]  
-**Why I am unsure:** [WRITE HERE]
-
-## Definition — Version 1
-
-> **Computer science is:** [WRITE HERE]
-
-Do not edit this version later.
-
----
-
-# 2. Independent Input — Khan Academy
-
-Watch:
-
-**Khan Academy — What is computer science?**  
-https://www.khanacademy.org/computing/in-class-11-computer-science/xab724c3e878917b8%3Acomputer-system/xab724c3e878917b8%3Asoftware/v/what-is-computer-science
-
-Pause or replay when needed. Use short notes rather than copying sentences from the video.
-
-## Video Note-Catcher
-
-### 1. According to the video, what is a program?
-
-[WRITE HERE]
-
-### 2. What does a programmer do?
-
-[WRITE HERE]
-
-### 3. How does the video distinguish computer programming from computer science?
-
-[WRITE HERE]
-
-### 4. What kinds of questions might computer scientists study?
-
-[WRITE HERE]
-
-### 5. What fields or topics does the video place under the computer-science umbrella?
-
-[WRITE HERE]
-
-### 6. One claim that changed, confirmed, or challenged my original idea
-
-[WRITE HERE]
-
-## Definition — Version 2
-
-> **After the video, I would define computer science as:** [WRITE HERE]
-
-**One part I am confident about:** [WRITE HERE]  
-**One claim I still need evidence for:** [WRITE HERE]
-
-Do not treat the video as the final answer. Test its model using the evidence bank below.
-
----
-
-# 3. Evidence Investigation — Is CS Bigger Than Programming?
-
-## CS Field Bank
-
-You may use these field names more than once.
-
-1. Algorithms & Theory
-2. Data & Information
-3. Computer Systems & Networks
-4. Cybersecurity
-5. Human-Computer Interaction (HCI)
-6. Software Engineering
-7. Artificial Intelligence
-8. Programming Languages & Abstraction
-9. Computing & Society
-
-## Evidence Bank
-
-Read all 18 evidence items before classifying them.
-
-**A.** Compare two search algorithms and determine which requires fewer steps as the input becomes much larger.  
-**B.** Ask whether a problem can be solved by any algorithm at all.  
-**C.** Design a representation that stores millions of records while making important queries fast.  
-**D.** Find patterns in a dataset and decide whether the data actually support a conclusion.  
-**E.** Design a routing method that still delivers information when part of a network fails.  
-**F.** Study how an operating system shares processor time and memory among many programs.  
-**G.** Analyze how an attacker might gain unauthorized access and design protections against that attack.  
-**H.** Decide how passwords should be stored so that a stolen database does not reveal them directly.  
-**I.** Observe users attempting a task and redesign an interface to reduce errors and confusion.  
-**J.** Test whether a website remains usable for people using keyboards, screen readers, or other assistive technologies.  
-**K.** Organize a large software project so that many developers can change it without constantly breaking one another's work.  
-**L.** Use automated tests and code review to decide whether a software change is safe to merge.  
-**M.** Train a model to classify images and evaluate which kinds of images it gets wrong.  
-**N.** Design a system that chooses useful actions from data while accounting for uncertainty.  
-**O.** Design a programming-language feature that lets programmers express an idea without managing low-level details.  
-**P.** Study how a compiler or interpreter translates a programmer's instructions into operations a computer can execute.  
-**Q.** Investigate whether an automated decision system treats different groups unfairly and why.  
-**R.** Analyze how a new computing technology changes privacy, work, access, power, or society.
-
-## Evidence Hunt
-
-### Two items that clearly involve programming
-
-1. **Evidence:** [LETTER] — **Reason:** [WRITE HERE]
-2. **Evidence:** [LETTER] — **Reason:** [WRITE HERE]
-
-### Two items that are clearly CS but are not simply “write code”
-
-1. **Evidence:** [LETTER] — **Reason:** [WRITE HERE]
-2. **Evidence:** [LETTER] — **Reason:** [WRITE HERE]
-
-### One item that could connect to more than one field
-
-**Evidence:** [LETTER]  
-**Field 1:** [WRITE HERE]  
-**Field 2:** [WRITE HERE]  
-**Why:** [WRITE HERE]
-
-### One item that expands or complicates the Khan Academy video
-
-**Evidence:** [LETTER]  
-**Explanation:** [WRITE HERE]
-
-### Claim
-
-> **Computer science seems broader than programming because:** [WRITE HERE]
-
-## Test the Claim You Were Unsure About
-
-**My uncertain claim after the video:** [WRITE HERE]  
-**Evidence item that helped me test it:** [LETTER]  
-**What happened to my claim?** Supported / More precise / Revised  
-**Explanation:** [WRITE HERE]
-
----
-
-# 4. Pair Discussion — Build a Better Definition (Optional Extension)
-
-Discuss your work with one partner. You may change your thinking, but do not delete Versions 1 or 2.
-
-## One Disagreement Worth Discussing
-
-**Example or evidence letter:** [WRITE HERE]  
-**My position:** [WRITE HERE]  
-**My partner's position:** [WRITE HERE]  
-**Evidence we used:** [WRITE HERE]
-
-## Pair Working Definition
-
-> **Computer science is:** [WRITE HERE]
-
-> **Programming fits into computer science because:** [WRITE HERE]
-
-**How this definition is broader or more precise than my first definition:** [WRITE HERE]
-
-**One uncertainty we still have:** [WRITE HERE]
-
----
-
-# 5. Team CS Field Map
-
-The complete nine-field map is optional extension in the 45-minute lesson.
-Complete Definition Version 3 and its change explanation only when this
-extension is assigned.
-
-Work in a team of 3–4. Assign all Evidence Bank letters **A–R** to the field or fields your team thinks fit best.
-
-A letter may appear in more than one row, but your team must be able to justify that choice.
-
-| CS Field | Evidence Letter(s) | One-Sentence Justification |
-|---|---|---|
-| Algorithms & Theory | [WRITE HERE] | [WRITE HERE] |
-| Data & Information | [WRITE HERE] | [WRITE HERE] |
-| Computer Systems & Networks | [WRITE HERE] | [WRITE HERE] |
-| Cybersecurity | [WRITE HERE] | [WRITE HERE] |
-| Human-Computer Interaction | [WRITE HERE] | [WRITE HERE] |
-| Software Engineering | [WRITE HERE] | [WRITE HERE] |
-| Artificial Intelligence | [WRITE HERE] | [WRITE HERE] |
-| Programming Languages & Abstraction | [WRITE HERE] | [WRITE HERE] |
-| Computing & Society | [WRITE HERE] | [WRITE HERE] |
-
-### Team Conclusions
-
-**One evidence item that naturally belongs to multiple fields:** [LETTER]  
-**Why:** [WRITE HERE]
-
-**One evidence item a beginner might incorrectly call “just coding”:** [LETTER]  
-**Why that description is incomplete:** [WRITE HERE]
-
-**One placement our team disputed:** [LETTER]  
-**Positions in the dispute:** [WRITE HERE]
-
-> **Programming is part of computer science because** [WRITE HERE], **but computer science is larger because** [WRITE HERE].
-
-## Definition — Version 3
-
-After the video, evidence investigation, pair discussion, and field map:
-
-> **My current definition of computer science is:** [WRITE HERE]
-
-### What Changed?
-
-**Version 1 → Version 2:** [WRITE HERE]  
-**Version 2 → Version 3:** [WRITE HERE]  
-**The evidence that most changed my thinking:** [LETTER / VIDEO IDEA + EXPLANATION]
-
----
-
-# 6. Exit Check — Transfer the Model
-
-Answer individually.
-
-1. **Computer science is not just** [WRITE HERE].
-2. **Computer science studies** [WRITE HERE].
-3. **Programming matters in CS because** [WRITE HERE].
-4. **One specific piece of evidence that changed my model today was** [WRITE HERE].
-
-## Transfer Prompt
-
-A student says:
-
-> “This class is basically a web-coding class.”
-
-Use **at least two specific pieces of evidence** from today's video, Evidence Bank, or field map to disagree, qualify, or agree.
-
-[WRITE HERE]
-
----
-
-# 7. Optional Extension Completion Check
-
-Complete this checklist only when the optional extension was assigned:
-
-- [ ] I kept all three versions of my CS definition.
-- [ ] I recorded the assigned idea from the selected Khan Academy segment.
-- [ ] I used the assigned Evidence Bank letters in Guided Practice.
-- [ ] I independently classified one new item: G, L, or Q.
-- [ ] My transfer response uses at least two specific pieces of evidence.
-- [ ] I replaced the `[WRITE HERE]` placeholders assigned in the required path.
+## Completion Check
+
+- [ ] I accurately distinguished computer science from programming.
+- [ ] I completed all computational-thinking moves.
+- [ ] My algorithm contains clear ordered steps.
+- [ ] I tested a normal case and an edge case.
+- [ ] I revised my solution using test evidence.
+- [ ] I recorded learning, a remaining question, and an improvement.
 
 **Suggested commit message:**
 
 ```text
-Complete Lesson 00 computer science discovery
+Complete Lesson 00 CS and computational thinking
 ```

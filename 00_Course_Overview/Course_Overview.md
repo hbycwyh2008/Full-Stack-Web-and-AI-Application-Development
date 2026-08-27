@@ -38,8 +38,9 @@ Optional extension only when core outcomes are complete.
 
 The course can support later AP CSP study, but the AP CSP relationship is
 documented separately and is **not repeated in Lesson 00**. Lesson 00 focuses
-only on what computer science is, how it differs from programming, and how
-students revise that model using evidence.
+on what computer science is, how it differs from programming, and how
+computational thinking supports problem solving through decomposition, pattern
+recognition, abstraction, algorithm design, testing, and refinement.
 
 ## Teaching Principle
 

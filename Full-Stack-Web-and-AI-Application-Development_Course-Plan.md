@@ -52,7 +52,7 @@ React/Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, Cursor-specific
 
 | Lessons | Unit | Main Evidence |
 |---|---|---|
-| 00–01 | CS Orientation + Software Lifecycle | CS field map, AP CSP discovery, lifecycle map, product teardown |
+| 00–01 | CS Orientation + Software Lifecycle | CS definition, computational-thinking problem solution, lifecycle map, product teardown |
 | 02–04 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
 | 05–07 | HCI User Research | needfinding sheet, ask/observe notes, survey questions |
 | 08–11 | Figma Product Design | brainstorm → 3 low-fi prototypes → eval + further needfinding → high-fi + evaluate again |

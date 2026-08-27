@@ -17,7 +17,14 @@ Use [02_Class_Missions/README.md](02_Class_Missions/README.md). It contains the 
 
 ## Lesson 00
 
-The opening lesson should answer **“What is computer science?”** through student classification and evidence. Keep the AP CSP CED discovery to approximately **10–15 minutes**. Its purpose is orientation, not AP test preparation.
+The opening lesson has two required cores:
+
+1. define computer science and distinguish it from programming;
+2. apply computational thinking — decomposition, pattern recognition,
+   abstraction, algorithm design, and test/refine — to a non-code problem.
+
+The AP CSP relationship is documented separately and is not repeated in this
+lesson.
 
 ## Classroom Flow
 

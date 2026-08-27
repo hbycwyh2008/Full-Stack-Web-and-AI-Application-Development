@@ -12,7 +12,9 @@
 > 5. Replace every `[WRITE HERE]` with your own answer.
 > 6. Change `[ ]` to `[x]` when you select a checkbox.
 >
-> If you are completing the full [Lesson 00 Student Workbook](lesson-00-student-workbook-template.md), complete **Section 6** there instead. Do not complete both versions.
+> This is a separate optional AP CSP resource. It is not part of
+> [Lesson 00](lesson-00-what-is-computer-science.md); complete it only when your
+> teacher assigns it separately.
 
 **Name:** [WRITE HERE]  
 **Date:** [WRITE HERE]  

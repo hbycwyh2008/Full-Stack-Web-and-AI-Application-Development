@@ -4,10 +4,21 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 
 | Poster | File | Use |
 |---|---|---|
+| **Full-Stack Course Overview** | [full-stack-course-overview.png](full-stack-course-overview.png) | Course journey, AI literacy strand, and student outcomes |
 | **Our Classroom Flow** | [classroom-flow.png](classroom-flow.png) | Every class session — learning cycle |
 | **Mastery Level** | [mastery-level.png](mastery-level.png) | Expectations — rebuild, explain, debug, own your work |
 | **CS Competition Pathways** | [cs-competition-pathways.png](cs-competition-pathways.png) | Optional enrichment — competitions and challenges beyond class |
 | **AI Use Policy** | [ai-use-policy.png](ai-use-policy.png) | Use AI as a learning tool, not a shortcut |
+
+---
+
+## Full-Stack Course Overview Poster
+
+**Message:** Design. Build. Test. Publish.
+
+The poster presents the Discover → Design → Build → Collaborate → Test → Create
+learning journey, the course's AI literacy strand, and the expected portfolio
+outcomes.
 
 ---
 

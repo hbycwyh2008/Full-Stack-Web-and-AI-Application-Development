@@ -1,46 +1,43 @@
 # Lesson 06 — Collect User Data (Ask + Observe)
 
-**Length:** 45 minutes  
-**Loop step:** Initial Needfinding (collect evidence)  
-**Mission:** Practice asking and observing so the team collects real user data, not opinions about a solution.  
-**One Required Resource / Evidence Source:** Coursera video below + consent script ([g7-printables.md](g7-printables.md))  
+**Length:** 45 minutes
+**Loop step:** Initial Needfinding (collect evidence)
+**OMSCS source:** CS6750 **3.3** Needfinding methods (interview / observation)
+**Principle lens:** **2.4 Human abilities** — attention, memory, and limits shape what users notice and forget
+**Mission:** Practice asking and observing so the team collects real user data, not opinions about a solution.
+**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.3** (ask/observe segments)
 **Durable Evidence:** ask notes + observe notes (at least two evidence lines each student)
 
 ### Skill Warm-up video (required)
 
 | Field | Assign this |
 |---|---|
-| Course | *User Research and Design* (University of Minnesota) |
-| Link | https://www.coursera.org/learn/design-research |
-| Module | **User Research Methods — Part 1** |
-| Video (default) | **Observations** (~15 min) — **stop at 8:00** |
-| Alternate | **Interview and Focus Groups** (~24 min) — **stop at 8:00** (use if today’s lab emphasizes Ask more than Watch) |
-| Access | Audit / preview OK; no certificate required |
+| Primary | OMSCS CS6750 **Lesson 3.3** needfinding methods — interview/observation excerpt from EdStem/Canvas |
+| Stop | **8:00** |
+| Index | https://omscs6750.gatech.edu/ |
 
-Teacher picks **one** video for the whole class (default = Observations). Do not play both.
+**Backup:** Minnesota *User Research and Design* → https://www.coursera.org/learn/design-research → **Observations** (default) or **Interview and Focus Groups** — stop at **8:00**. Teacher picks one.
 
-**Backup:** Google *Start the UX Design Process* → https://www.coursera.org/learn/start-ux-design-process → **Week 1** interview tips / conducting interviews → stop at **8 min**.
+Consent script: [g7-printables.md](g7-printables.md).
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned clip only (stop at 8:00). Mark examples of:
+Watch the assigned clip. Mark:
 
 - a useful open question;
 - a leading/bad question;
-- a concrete observation (what someone did);
-- an opinion that is **not** evidence.
+- a concrete observation;
+- one **human-ability** limit (attention, memory, overload) the video implies.
 
 Write: `I saw ___` / `I’m unsure about ___`.
 
-If video access fails, use a teacher sample ask/observe note sheet instead.
-
 ## 5–9 min — Talk Robin 1
 
-Pairs build a quick **Do / Avoid** list for asking and watching. Rewrite one weak question from the warm-up.
+Pairs build a **Do / Avoid** list for asking and watching. Rewrite one weak question. Note one way a user’s limited attention could change what you observe.
 
 ## 9–14 min — Entry Check
 
-Individually mark each item **good ask**, **bad ask**, or **observation**:
+Mark each item **good ask**, **bad ask**, or **observation**:
 
 - “Wouldn’t a reminder app help you?”
 - “Tell me about the last time you got stuck on homework.”
@@ -51,49 +48,47 @@ Write one reason for your least-certain choice.
 
 ## 14–19 min — Core Pattern
 
-Teacher models a 60-second consent + one good question + one observation note.
+Teacher models 60-second consent + one good question + one observation note.
 
-Must-know pattern:
+**Method pattern:**
 
 ```text
 Consent → Ask about the last time… → Listen → Note quote/action → Thank you
 ```
 
-Observation pattern:
+**Observation pattern:**
 
 ```text
 Task → Watch silently → Write what happened → Note where they got stuck
 ```
 
-Groups assign roles for a short lab: **asker**, **participant**, **observer**.
+**Principle lens:** do not overload participants; short tasks and clear questions respect human attention and memory.
+
+Roles: **asker**, **participant**, **observer**.
 
 ## 19–30 min — Guided Practice
 
-**Round A — Ask (about 5 min)**  
-Using the Needfinding Sheet unknowns from Lesson 05, asker uses consent + **3 questions** about past behavior. Observer writes quotes. Switch once if time allows.
+**Round A — Ask (~5 min)**
+Using Lesson 05 unknowns, asker uses consent + **3 past-behavior questions**. Observer writes quotes. Switch if time allows.
 
-**Round B — Observe (about 5 min)**  
-Participant completes a tiny task (example: find tomorrow’s homework on a device/page the teacher chooses). Observer writes:
+**Round B — Observe (~5 min)**
+Participant completes a tiny task. Observer writes actions, pauses/confusion, and one **interpretation** labeled as interpretation (not fact).
 
-- what they did;
-- where they paused or looked confused;
-- one possible need (labeled as **interpretation**, not fact).
-
-Teams keep notes anonymous (no full names).
+Keep notes anonymous.
 
 ## 30–40 min — Independent Rebuild
 
-Individually write two evidence lines from today’s lab:
+Write two evidence lines:
 
-1. One **quote** or paraphrase from asking.  
+1. One **quote** from asking.
 2. One **action** from observing.
 
-Then write one sentence: “A possible user need is ___ because ___.”
+Then: “A possible user need is ___ because ___.” Add one sentence on how a human-ability limit showed up (if any).
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Submit ask notes, observe notes, and the need sentence. Pair check: is the need tied to evidence, or only a guessed feature?
+Submit ask notes, observe notes, and the need sentence. Pair check: need tied to evidence, or only a guessed feature?
 
 ## Success Evidence
 
-Students can run a short consented ask, record an observation, and state one possible need backed by user data.
+Students can run a short consented ask, record an observation, respect attention/memory limits, and state one possible need backed by user data.

@@ -15,8 +15,8 @@
 
 - [ ] `00-course-orientation` — CS definition + computational thinking + software lifecycle
 - [ ] `01-github-foundations` — YouTube + GitHub Docs/Skills: repo, README, commits, history
-- [ ] `02-hci-user-research` — needfinding → ask/observe notes → survey questions
-- [ ] `03-figma-product-design` — flow/IA → wireframes → system → high-fi prototype
+- [ ] `02-hci-user-research` — OMSCS CS6750 map + needfinding → ask/observe → survey + micro-requirements
+- [ ] `03-figma-product-design` — OMSCS Methods: alternatives → 3 prototypes → evaluate → high-fi
 - [ ] `04-html-css-implementation` — semantic/responsive implementation
 - [ ] `05-javascript-interaction` — JavaScript + computational thinking
 - [ ] `06-ai-literacy` — four concentrated Mitchell lessons
@@ -44,9 +44,12 @@
 
 ## HCI + Figma
 
-- [ ] participant/research ethics rules appropriate to school context are clear
+- [ ] OMSCS CS6750 / EdStem lesson videos available for classroom projection ([mapping](../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md))
+- [ ] Coursera Minnesota/Google/Meta clips ready only as backup
+- [ ] participant/research ethics rules appropriate to school context are clear (G7 light consent)
 - [ ] Figma access confirmed
 - [ ] students have a place to store anonymized research evidence
+- [ ] teachers do not require full requirements docs before Capstone L28
 - [ ] accessibility testing resources/browser tools available
 
 ## Programming Environment

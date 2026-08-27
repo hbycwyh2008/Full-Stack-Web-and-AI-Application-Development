@@ -54,8 +54,8 @@ React/Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, Cursor-specific
 |---|---|---|
 | 00–01 | CS Orientation + Software Lifecycle | CS definition, computational-thinking problem solution, lifecycle map, product teardown |
 | 02–04 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
-| 05–07 | HCI User Research | needfinding sheet, ask/observe notes, survey questions |
-| 08–11 | Figma Product Design | brainstorm → 3 low-fi prototypes → eval + further needfinding → high-fi + evaluate again |
+| 05–07 | HCI User Research (OMSCS CS6750 Methods) | needfinding sheet, ask/observe notes, survey + micro need statements |
+| 08–11 | Figma Product Design (OMSCS CS6750 Methods) | alternatives → 3 low-fi → eval + further needfinding → high-fi + evaluate again |
 | 12–15 | HTML/CSS Implementation | semantic/responsive implementation from Figma |
 | 16–20 | JavaScript + Computational Thinking | algorithms, functions, data structures, DOM/events, forms/state, debugging |
 | 21–24 | AI Literacy | claim-evidence analysis, failure/generalization analysis, comparison map, understanding position |

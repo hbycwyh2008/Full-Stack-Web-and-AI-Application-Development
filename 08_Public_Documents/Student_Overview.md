@@ -30,7 +30,7 @@ Algorithms, information, abstraction, systems, HCI, software engineering, AI, an
 Issues, branches, commits, pull requests, review, merge, and release workflows.
 
 ### HCI + Figma
-Research real users, define requirements, create flows and wireframes, build prototypes, critique them, test them, and revise from evidence.
+Practice OMSCS-aligned needfinding (ask, observe, survey), write short evidence-based need statements, brainstorm alternatives, build low-fi and high-fi prototypes, evaluate with peers, and revise from evidence. Full requirements documents come later in the Capstone.
 
 ### Programming
 Use HTML, CSS, and JavaScript to implement interactive web products. Practice functions, conditions, loops, data structures, events, state, algorithms, debugging, and code analysis.

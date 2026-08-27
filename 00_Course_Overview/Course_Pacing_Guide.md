@@ -18,13 +18,13 @@ Assumption: approximately **45 minutes per core lesson**.
 
 Lesson 00 uses the canonical **45-minute seven-block flow**:
 
-- 0–5: Skill Warm-up — initial CS classification and Definition Version 1;
-- 5–9: Talk Robin 1;
-- 9–14: Entry Check;
-- 14–19: Core Pattern — CS is broader than programming;
-- 19–30: Guided Practice — selected Evidence Bank items;
-- 30–40: Independent Rebuild — classify new evidence and write Version 3;
-- 40–45: Talk Robin 2 + Evidence.
+- 0–5: Skill Warm-up — CS video excerpt + computational-thinking learning card;
+- 5–9: Talk Robin 1 — share learning, confusion, and prepared answers;
+- 9–14: Entry Check — whole-class share and misconception diagnosis;
+- 14–19: Core Pattern — define CS and teach the computational-thinking process;
+- 19–30: Guided Practice — solve the shared laptop-distribution problem;
+- 30–40: Independent Rebuild — apply, test, and refine the process independently;
+- 40–45: Talk Robin 2 + Evidence — explain, reflect, and submit proof.
 
 The previously completed AP CSP explanation is not repeated in Lesson 00.
 

@@ -13,7 +13,7 @@
 
 ## Unit Readiness
 
-- [ ] `00-course-orientation` — What is CS? + AP CSP discovery + software lifecycle
+- [ ] `00-course-orientation` — CS definition + computational thinking + software lifecycle
 - [ ] `01-github-foundations` — YouTube + GitHub Docs/Skills: repo, README, commits, history
 - [ ] `02-hci-user-research` — needfinding → ask/observe notes → survey questions
 - [ ] `03-figma-product-design` — flow/IA → wireframes → system → high-fi prototype
@@ -26,11 +26,12 @@
 
 ## Lesson 00 Materials
 
-- [ ] CS example cards prepared
-- [ ] CS field labels prepared
+- [ ] Khan Academy CS excerpt selected
+- [ ] computational-thinking learning card prepared
+- [ ] guided laptop-distribution scenario prepared
+- [ ] independent problem choices prepared
+- [ ] normal and edge test cases prepared
 - [ ] lifecycle cards prepared
-- [ ] [AP CSP CED Discovery Handout](../02_Class_Missions/00-course-orientation/ap-csp-ced-discovery-handout.md) available
-- [ ] teacher keeps AP CSP discovery to approximately 10–15 minutes
 
 ## GitHub Workflow
 

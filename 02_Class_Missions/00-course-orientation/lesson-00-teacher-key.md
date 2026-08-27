@@ -1,24 +1,30 @@
-# Lesson 00 Teacher Key — What Is Computer Science?
+# Lesson 00 Teacher Key — Computer Science and Computational Thinking
 
-This key supports [Lesson 00](lesson-00-what-is-computer-science.md) and the [student Markdown workbook](lesson-00-student-workbook-template.md).
+This key supports [Lesson 00](lesson-00-what-is-computer-science.md) and the
+[student workbook](lesson-00-student-workbook-template.md).
 
-Do not give this file to students before the evidence investigation. The point is not to reproduce a single answer key; students should make defensible classifications and revise their model from evidence.
+The lesson has two equally required outcomes:
+
+1. an accurate working definition of computer science;
+2. independent use of computational thinking to solve and refine a problem.
+
+Do not accept memorized vocabulary without a connected solution.
 
 ---
 
 ## 0–5 min — Skill Warm-up
 
-Use the selected Khan Academy segment or another assigned learning resource.
-This block supplies new input; it is not a quiz or classification activity.
+Use the selected Khan Academy excerpt and the workbook's Computational Thinking
+Card as one learning brief.
 
-Check that each student records:
+Check that students record:
 
 - one idea learned;
 - one unclear point;
-- an initial answer to “Is computer science the same as programming?”
+- an initial answer about using CS thinking before coding.
 
-Do not pause repeatedly to explain. Save clarification for the class share and
-Core Pattern.
+Do not correct every point during the resource. Save clarification for the
+class share and Core Pattern.
 
 ---
 
@@ -26,87 +32,147 @@ Core Pattern.
 
 Listen for balanced participation. Each student should share:
 
-1. something learned;
-2. something confusing;
-3. an answer to the prepared question.
+- a current CS definition;
+- one computational-thinking idea;
+- one unclear point;
+- an answer to the prepared question.
 
-Require the listener to paraphrase before replying. Do not turn this block into
-teacher-led correction.
+Require the listener to paraphrase before replying.
 
 ---
 
 ## 9–14 min — Entry Check
 
-Invite pairs to share with the whole class. Record claims without naming
-students under:
+Invite pairs to share with the whole class. Record claims under:
 
 - **We think we understand**
 - **We are unsure about**
 
-Use the prepared questions when needed:
+Listen for these misconceptions:
 
-1. What is a program?
-2. What does a programmer do?
-3. What can computer scientists study besides writing code?
+- “Computer science is just coding.”
+- “Computational thinking means thinking like a computer.”
+- “Computational thinking always requires a computer.”
+- “An algorithm must be written in a programming language.”
+- “Abstraction means making an explanation vague.”
+- “The first solution is finished if it works once.”
 
-Diagnose misconceptions here. Correct them in the next block so students first
-have a genuine opportunity to explain their thinking.
+Diagnose here; correct in Core Pattern.
 
 ---
 
 ## 14–19 min — Core Pattern
 
-Correct inaccurate claims from the class share and explicitly teach:
+### Core 1 — Definition of Computer Science
 
-- a program is a set of instructions for a computer;
-- programming is the creation/expression of those instructions;
-- computer science is broader than programming;
-- CS studies computation and information;
-- CS includes algorithms, data, systems and networks, cybersecurity, HCI,
-  software engineering, AI, programming languages, and computing's effects on
-  society;
-- programming is one important way computer scientists implement or test ideas.
+Students do not need identical wording, but their definitions should include:
 
-Students should record one corrected idea and why it changed. They do not need
-to copy a long teacher definition.
+- **computer science:** study of computation and information;
+- **program:** instructions a computer can execute;
+- **programming:** designing and expressing executable instructions;
+- programming is part of CS, not the whole field.
+
+A useful teacher definition is:
+
+> Computer science studies computation and information: what can be computed,
+> how data are represented and processed, how algorithms and systems work, and
+> how computing interacts with people and society.
+
+### Core 2 — Computational Thinking
+
+Teach the moves as a connected, revisable process:
+
+| Move | Must-know meaning |
+|---|---|
+| **Define** | State the actual problem, users, goal, constraints, and success criteria. |
+| **Decompose** | Break a complex problem into manageable parts. |
+| **Pattern recognition** | Notice repetition, similarity, trends, or recurring causes. |
+| **Abstraction** | Keep relevant information and ignore details that do not affect the solution. |
+| **Algorithm design** | Create unambiguous ordered steps or rules. |
+| **Test and refine** | Try normal and edge cases, find failures, and improve the process. |
+
+The four common computational-thinking practices are decomposition, pattern
+recognition, abstraction, and algorithm design. Define and test/refine make the
+problem-solving cycle explicit for this course.
 
 ---
 
 ## 19–30 min — Guided Practice
 
-Use these as suggested primary classifications:
+### Shared laptop-distribution problem
 
-| Evidence | Primary field | Key reasoning |
-|---|---|---|
-| **A** | Algorithms & Theory | Compares efficiency as input size grows. |
-| **E** | Computer Systems & Networks | Studies routing and network reliability. |
-| **I** | Human-Computer Interaction | Redesigns interaction after observing users. |
-| **K** | Software Engineering | Organizes collaborative development. |
-| **M** | Artificial Intelligence | Builds and evaluates an image classifier. |
-| **R** | Computing & Society | Examines privacy, labor, access, power, and social effects. |
+Accept different solutions when all steps connect. One defensible model:
 
-Model the reasoning pattern after the first two items. Accept justified
-cross-field answers, such as E with Algorithms, M with Data, or R with HCI,
-Cybersecurity, or AI.
+#### Define
+
+- **Goal:** distribute 15 laptops fairly to 30 students in under three minutes.
+- **Constraints:** two students share each device; device/charger pairs must
+  stay together; the record must be accurate and collect minimal information.
+- **Success:** every present pair has one working device and matching charger,
+  and the assignment record is correct.
+
+#### Decompose
+
+1. prepare devices and matching chargers;
+2. identify student pairs;
+3. assign a device ID to each pair;
+4. distribute devices;
+5. report failures or missing parts;
+6. return, inspect, and update the record.
+
+#### Pattern Recognition
+
+- repeated bottleneck: students wait while one person decides each assignment;
+- recurring failure: device and charger IDs become separated;
+- reusable structure: every pair performs the same check-out and return steps.
+
+#### Abstraction
+
+- **Relevant:** device ID, matching charger ID, assigned pair or seat group,
+  working/returned status.
+- **Usually unnecessary:** favorite color, home address, unrelated personal
+  details, or device appearance when the ID is readable.
+
+#### Algorithm
+
+1. Before class, place each labeled laptop with its matching labeled charger.
+2. Use stable seat pairs or teacher-assigned pairs.
+3. Preassign one device ID to each pair.
+4. One partner collects the device while the other opens the start-up task.
+5. Both partners check the device ID, charger ID, and start-up status.
+6. Record only exceptions; begin work immediately when the check passes.
+7. Reverse the process for return and mark each set returned.
+
+#### Test and Refine
+
+- **Absent student:** pair the present student according to a prepared fallback.
+- **Missing charger:** move the set to an exception area and issue a complete
+  spare set.
+- **Laptop does not start:** record the failure and replace the complete set.
+
+The exact algorithm may differ. Grade whether the choices address the stated
+goal and constraints.
 
 ---
 
 ## 30–40 min — Independent Rebuild
 
-Accept more than one defensible field when the student cites the evidence:
+A successful response:
 
-| Evidence | Strongest field | Defensible second field | Key reasoning |
-|---|---|---|---|
-| **G** | Cybersecurity | Systems & Networks | Analyzes unauthorized access and designs protection. |
-| **L** | Software Engineering | Algorithms & Programming | Uses testing and review to decide whether integration is safe. |
-| **Q** | Computing & Society | Artificial Intelligence | Investigates fairness in an automated decision system. |
+- defines a measurable goal rather than restating the situation;
+- decomposes the problem into at least three meaningful parts;
+- identifies a pattern that affects the solution;
+- distinguishes relevant from irrelevant information;
+- gives ordered, understandable steps;
+- tests both a normal case and an edge case;
+- makes a specific revision connected to test evidence.
 
-Students must also explain whether programming is the goal, a tool used to
-investigate the problem, or not directly required.
+Watch for disconnected lists where the pattern or abstraction never affects the
+algorithm. Ask:
 
-The student's new example should fit the selected field and not simply rename
-the original. The younger-student definition should make clear that programming
-belongs inside CS without reducing all of CS to coding.
+> “Show me where that observation changed one of your steps.”
+
+No code is required. Computational thinking is the assessed practice.
 
 ---
 
@@ -114,11 +180,12 @@ belongs inside CS without reducing all of CS to coding.
 
 Strong evidence includes:
 
-- a specific statement of what the student learned;
-- a genuine remaining question or unclear point;
-- one concrete action the student could improve next time;
-- an accurate independent G/L/Q classification and new example;
-- a transfer response using at least two pieces of evidence to address
-  “Computer science is basically coding.”
+- a CS definition that is broader than programming;
+- an accurate explanation of at least one computational-thinking move;
+- a complete independent problem-solving process;
+- a specific test-driven revision;
+- a genuine remaining question;
+- one concrete improvement for future problem solving.
 
-Do not reward a long definition more than a defensible, evidence-based one.
+Assess accuracy, connection, transfer, and revision. Do not reward length or
+vocabulary copying more than clear evidence-based reasoning.

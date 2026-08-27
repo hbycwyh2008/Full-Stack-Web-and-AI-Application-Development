@@ -13,7 +13,7 @@ mastery = explain + build + debug + test + revise + transfer
 
 | Evidence | Examples |
 |---|---|
-| **CS understanding** | Lesson 00 field classifications, three-version CS definition reflection, independent evidence transfer |
+| **CS understanding** | Lesson 00 CS definition, computational-thinking canvas, independent problem solution, edge-case test, and evidence-based refinement |
 | **Research evidence** | needfinding sheet, ask/observe notes, survey draft, anonymized notes |
 | **Product definition** | problem statement, requirements, constraints, success criteria |
 | **Design evidence** | brainstorm board, 3 low-fi prototypes, eval notes, high-fi Figma prototype, revision log |

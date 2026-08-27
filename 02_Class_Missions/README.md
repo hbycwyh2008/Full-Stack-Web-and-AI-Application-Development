@@ -17,15 +17,15 @@ The four posters establish the rules students will use in every later lesson:
 3. **AI Use Policy**
 4. **CS Competition Pathways**
 
-Only after students understand those four posters does Lesson 00 ask **What is
-computer science?** and use evidence to distinguish the discipline from
-programming.
+Only after students understand those four posters does Lesson 00 define
+**computer science**, distinguish it from programming, and use computational
+thinking to solve and refine a non-code problem.
 
 ## Priority Order
 
 ### Primary outcomes
 1. Understand and use the course learning culture defined by the four posters
-2. Understand computer science as a broad discipline
+2. Understand computer science and apply computational thinking to problems
 3. Complete the software-development lifecycle
 4. GitHub development and collaboration workflow
 5. HCI user research
@@ -46,7 +46,7 @@ programming.
 | Stage / Unit | Focus | Lessons |
 |---|---|---:|
 | [Required Orientation](00-course-orientation/required-orientation-four-posters.md) | Four posters + how this class works | prerequisite session |
-| [00 CS Orientation + Lifecycle](00-course-orientation/README.md) | What CS studies; AP CSP discovery; software lifecycle | 00–01 |
+| [00 CS Orientation + Lifecycle](00-course-orientation/README.md) | CS definition; computational thinking; software lifecycle | 00–01 |
 | [01 GitHub Foundations](01-github-foundations/README.md) | YouTube + GitHub Docs/Skills: repo, README, commits, history | 6 beginner lessons |
 | [02 HCI User Research](02-hci-user-research/README.md) | Needfinding, collect user data (ask/observe), writing survey questions | 05–07 |
 | [03 Figma Product Design](03-figma-product-design/README.md) | Brainstorm → 3 prototypes → evaluate + further needfinding → high-fi + evaluate again | 08–11 |

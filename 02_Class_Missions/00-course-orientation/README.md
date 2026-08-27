@@ -21,12 +21,13 @@ Students first understand:
 
 This orientation is a **prerequisite**, not an optional warm-up.
 
-### Lesson 00 — What Is Computer Science?
+### Lesson 00 — Computer Science and Computational Thinking
 
 [Lesson 00](lesson-00-what-is-computer-science.md)
 
-Only after the four posters are understood do students broaden their model of
-computer science and distinguish the discipline from programming.
+Only after the four posters are understood do students define computer science,
+distinguish it from programming, and apply computational thinking to a
+non-code problem.
 
 ### Lesson 01 — Product Teardown: Trace the Software Lifecycle
 
@@ -41,6 +42,8 @@ first: understand how this class works
       ↓
 then: understand what computer science is
       ↓
+then: use computational thinking to solve and refine a problem
+      ↓
 then: study how software moves through a full lifecycle
       ↓
 then: GitHub → HCI → Figma → HTML/CSS/JavaScript → AI literacy → testing/release → capstone
@@ -53,7 +56,7 @@ expectations used in every later lesson.
 ## Core Outputs
 
 - four-poster evidence + course-culture claim board;
-- CS field map;
+- CS definition + computational-thinking problem-solving canvas;
 - software-development lifecycle model;
 - first GitHub-ready learning evidence.
 

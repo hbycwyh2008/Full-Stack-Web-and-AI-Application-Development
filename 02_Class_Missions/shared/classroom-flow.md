@@ -7,9 +7,9 @@ Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
 → Guided Practice → Independent Rebuild → Talk Robin 2 + Evidence
 ```
 
-*We learn. Practice. Rebuild. Share.*
+*Different goals need different flows.*
 
-Poster: `08_Public_Documents/posters/classroom-flow.png`
+Poster: `08_Public_Documents/posters/classroom-flow.png` — **Learning a Skill** row; this file is the detailed 45-minute seven-block expansion of that row.
 
 ## The Seven Blocks (45 minutes)
 

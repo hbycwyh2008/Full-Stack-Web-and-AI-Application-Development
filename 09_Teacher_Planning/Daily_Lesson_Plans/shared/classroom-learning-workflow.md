@@ -1,6 +1,6 @@
 # Classroom Learning Workflow
 
-Every daily lesson follows the **Our Classroom Flow** poster. **Each lesson is 45 minutes.**
+Every daily lesson follows the **Different Learning Goals, Different Classroom Flows** poster. **Each lesson is 45 minutes.**
 
 Use **only** these block names:
 
@@ -9,7 +9,7 @@ Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
 → Guided Practice → Independent Rebuild → Talk Robin 2 + Evidence
 ```
 
-![Our Classroom Flow](../../../08_Public_Documents/posters/classroom-flow.png)
+![Different Learning Goals, Different Classroom Flows](../../../08_Public_Documents/posters/classroom-flow.png)
 
 Canonical file: [02_Class_Missions/shared/classroom-flow.md](../../../02_Class_Missions/shared/classroom-flow.md)
 

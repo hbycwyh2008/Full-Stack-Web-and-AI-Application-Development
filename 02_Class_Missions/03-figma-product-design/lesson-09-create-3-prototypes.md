@@ -3,7 +3,7 @@
 **Length:** 45 minutes
 **Loop step:** Create 3 Prototypes
 **OMSCS source:** CS6750 **3.5** Prototyping
-**Principle lens:** **2.3 Direct manipulation and visibility** — users should see what they can act on and get clear results
+**Principle lens:** **2.3 Direct Manipulation** — users should see what they can act on and get clear results
 **Mission:** Build three different low-fidelity prototypes for the same user goal, then pick a direction using evidence — not taste alone.
 **EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.5**
 **Durable Evidence:** three labeled low-fi prototypes + short comparison notes

@@ -22,9 +22,9 @@ Initial Needfinding (HCI 05–07)
 
 | Lesson | Method action (CS6750) | Principle lens | Evidence |
 |---|---|---|---|
-| [05 — Initial Needfinding](lesson-05-initial-needfinding.md) | 1.1 / 3.1 / 3.2 light / 3.3 needfinding | 2.2 Feedback cycles | Needfinding sheet + consent |
-| [06 — Collect User Data](lesson-06-collect-user-data.md) | 3.3 ask + observe | 2.4 Human abilities | Ask + observe notes |
-| [07 — Survey + Micro-Requirements](lesson-07-writing-survey-questions.md) | 3.3 survey + requirements bridge | 2.7 Task analysis (minimal) | 5-question survey + 2–3 need statements |
+| [05 — Initial Needfinding](lesson-05-initial-needfinding.md) | 1.1 / 3.1 / 3.2 light / 3.3 needfinding | 2.2 Feedback Cycles | Needfinding sheet + consent |
+| [06 — Collect User Data](lesson-06-collect-user-data.md) | 3.3 ask + observe | 2.4 Human Abilities | Ask + observe notes |
+| [07 — Survey + Micro-Requirements](lesson-07-writing-survey-questions.md) | 3.3 survey + requirements bridge | 2.7 Task Analysis (minimal) | 5-question survey + 2–3 need statements |
 
 ## Classroom flow
 

@@ -5,7 +5,7 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 | Poster | File | Use |
 |---|---|---|
 | **Full-Stack Course Overview** | [full-stack-course-overview.png](full-stack-course-overview.png) | Course journey, AI literacy strand, and student outcomes |
-| **Our Classroom Flow** | [classroom-flow.png](classroom-flow.png) | Every class session — learning cycle |
+| **Different Learning Goals, Different Classroom Flows** | [classroom-flow.png](classroom-flow.png) | Five goal-specific flows — pick the flow that matches the lesson |
 | **Mastery Level** | [mastery-level.png](mastery-level.png) | Expectations — rebuild, explain, debug, own your work |
 | **CS Competition Pathways** | [cs-competition-pathways.png](cs-competition-pathways.png) | Optional enrichment — competitions and challenges beyond class |
 | **AI Use Policy** | [ai-use-policy.png](ai-use-policy.png) | Use AI as a learning tool, not a shortcut |
@@ -24,19 +24,19 @@ outcomes.
 
 ## Classroom Flow Poster
 
-**Message:** We learn. Practice. Rebuild. Share.
+**Message:** Different goals need different flows.
 
-The poster shows the learning cycle at a high level. **Class mission files** use the detailed **90-minute seven-block** flow:
+The poster shows **five goal-specific classroom flows**. Choose the row that matches what students are learning to do:
 
-1. Entry Point Check (0–10 min)
-2. Individual Learning (10–25 min) — **one required resource**
-3. Talk Round 1 (25–40 min)
-4. Entry Points Check / Teacher Diagnosis (40–55 min)
-5. Guided Practice / Mission Task (55–75 min)
-6. Exit Check (75–85 min)
-7. Submission (85–90 min)
+| Flow | When to use |
+|---|---|
+| **Understanding an Idea** | Build understanding of key ideas (video → think → Talk Robin → teacher clarification → apply → exit ticket) |
+| **Learning a Skill** | Learn and practice a new skill (video/demo → guided practice → independent rebuild → modify/debug → evidence) |
+| **Researching & Designing** | Use evidence to understand needs and design solutions (problem → ask/observe → Talk Robin → collect/analyze → design → prototype) |
+| **Testing & Improving** | Find problems and make things better (test → observe → discuss → improve → retest → evidence) |
+| **Building Together** | Combine skills to create something as a team (goal → plan → build → review/integrate → improve → share) |
 
-**In class mission guides**, the **90-minute** block uses seven timed sections (see `02_Class_Missions/shared/classroom-flow.md`). Each lesson lists **one required resource**. Teacher daily lesson plans may use different timing notes.
+**Class mission guides** expand **Learning a Skill** into the canonical **45-minute seven-block** structure (Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern → Guided Practice → Independent Rebuild → Talk Robin 2 + Evidence). See `02_Class_Missions/shared/classroom-flow.md`. Each lesson lists **one required resource**.
 
 ---
 

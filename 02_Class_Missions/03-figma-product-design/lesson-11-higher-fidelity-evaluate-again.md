@@ -3,7 +3,7 @@
 **Length:** 45 minutes
 **Loop step:** Higher-Fidelity Prototype → Evaluate Again
 **OMSCS source:** CS6750 **3.5–3.6** iterate; **3.7** HCI and Agile spirit (short cycles)
-**Principle lens:** **2.2 Feedback cycles** + **2.3** clearer feedback / less friction toward an “invisible” next step
+**Principle lens:** **2.2 Feedback Cycles** + **2.3 Direct Manipulation** — clearer feedback / less friction on the next step
 **Mission:** Rebuild the improved direction as a clickable higher-fidelity prototype, run a second short evaluation, and record what changed.
 **EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lessons **3.5 / 3.6 / 3.7** (teacher picks the iterate/agile excerpt)
 **Durable Evidence:** clickable high-fi prototype + second-eval notes + before/after change log

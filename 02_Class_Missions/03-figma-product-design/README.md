@@ -19,9 +19,9 @@ Initial Needfinding (HCI 05–07)
 | Lesson | Method action (CS6750) | Principle lens | Evidence |
 |---|---|---|---|
 | [08 — Brainstorm Alternatives](lesson-08-brainstorm-alternatives.md) | 3.4 Design Alternatives | 2.6 Mental models | Brainstorm board + user flow |
-| [09 — Create 3 Prototypes](lesson-09-create-3-prototypes.md) | 3.5 Prototyping | 2.3 Direct manipulation / visibility | Three labeled low-fi prototypes |
-| [10 — Evaluate + Further Needfinding](lesson-10-evaluate-further-needfinding.md) | 3.6 Evaluation | 2.5 Heuristics (selected) | Eval notes + further questions + revisions |
-| [11 — Higher-Fi + Evaluate Again](lesson-11-higher-fidelity-evaluate-again.md) | 3.5–3.6 iterate; 3.7 spirit | 2.2 Feedback; 2.3 invisible interface | Clickable high-fi + second eval + change log |
+| [09 — Create 3 Prototypes](lesson-09-create-3-prototypes.md) | 3.5 Prototyping | 2.3 Direct Manipulation | Three labeled low-fi prototypes |
+| [10 — Evaluate + Further Needfinding](lesson-10-evaluate-further-needfinding.md) | 3.6 Evaluation | 2.5 Design Principles and Heuristics (selected) | Eval notes + further questions + revisions |
+| [11 — Higher-Fi + Evaluate Again](lesson-11-higher-fidelity-evaluate-again.md) | 3.5–3.6 iterate; 3.7 spirit | 2.2 Feedback Cycles; 2.3 Direct Manipulation | Clickable high-fi + second eval + change log |
 
 ## Classroom flow
 

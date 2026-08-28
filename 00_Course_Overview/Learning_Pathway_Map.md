@@ -3,7 +3,7 @@
 **Full-Stack Web & AI Application Development**  
 Design · Build · Test · Publish
 
-A browser-based, project-driven computer science course.
+A browser-based, project-driven computer science course — the **G8** band in the [CS Curriculum Pathway (G6–12) poster](../08_Public_Documents/posters/cs-curriculum-pathway-g6-12.png).
 
 ## The Learning Journey
 

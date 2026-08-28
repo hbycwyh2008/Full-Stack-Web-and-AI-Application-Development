@@ -6,15 +6,16 @@
 
 ## EdStem verification status
 
-Verified against teacher export:
-`(6) CS6750_ Human-Computer Interaction (Public Access) – Ed Lessons.pdf` (2026-08-28).
+Verified against teacher EdStem sidebar (2026-08-28):
+
+- PDF export: `(6) CS6750_ Human-Computer Interaction (Public Access) – Ed Lessons.pdf` (Units 1.1–3.3)
+- Screenshot: Units 3.3–5.3 (full Methods tail + Applications + Conclusion)
 
 | Range | Status |
 |---|---|
-| **1.1–3.3** | Confirmed on EdStem sidebar (titles below match the export) |
-| **3.4–5.3** | Not visible in that one-page export (list was scrolled only through 3.3). Titles kept from the official CS6750 site until a full sidebar export is provided |
+| **1.1–5.3** | Confirmed on EdStem sidebar |
 
-Match lessons by **Unit X.Y number**. Prefer EdStem card titles when they are shorter than the long-form course-site title.
+Match lessons by **Unit X.Y number**. Use **EdStem card titles** when assigning warm-up videos.
 
 ---
 
@@ -41,27 +42,27 @@ Match lessons by **Unit X.Y number**. Prefer EdStem card titles when they are sh
 | 2.9 | Interfaces and Politics |
 | 2.10 | Conclusion to Principles |
 
-### Unit 3 — Methods (3.1–3.3 EdStem verified; 3.4–3.8 from course site until full export)
-| Lesson | Title | Verified |
-|---|---|---|
-| 3.1 | Introduction to Methods | EdStem |
-| 3.2 | Ethics and Human Research | EdStem |
-| 3.3 | Needfinding and Requirements Gathering | EdStem |
-| 3.4 | Design Alternatives | course site (pending EdStem screenshot) |
-| 3.5 | Prototyping | course site (pending) |
-| 3.6 | Evaluation | course site (pending) |
-| 3.7 | HCI and Agile Development | course site (pending) |
-| 3.8 | Conclusion to Methods | course site (pending) |
-
-### Unit 4 — Applications (enrichment / capstone only; pending EdStem screenshot)
-| Lesson | Title |
+### Unit 3 — Methods (EdStem verified)
+| Lesson | EdStem title |
 |---|---|
-| 4.1 | Technologies |
-| 4.2 | Ideas |
-| 4.3 | Domains |
+| 3.1 | Introduction to Methods |
+| 3.2 | Ethics and Human Research |
+| 3.3 | Needfinding and Requirements Gathering |
+| 3.4 | Design Alternatives |
+| 3.5 | Prototyping |
+| 3.6 | Evaluation |
+| 3.7 | HCI and Agile Development |
+| 3.8 | Conclusion to Methods |
 
-### Unit 5 — Conclusion (unit exit reflection only; pending EdStem screenshot)
-| Lesson | Title |
+### Unit 4 — Applications (EdStem verified; enrichment / capstone only)
+| Lesson | EdStem title |
+|---|---|
+| 4.1 | Applications: Technology |
+| 4.2 | Applications: Ideas |
+| 4.3 | Applications: Domains |
+
+### Unit 5 — Conclusion (EdStem verified; unit exit reflection only)
+| Lesson | EdStem title |
 |---|---|
 | 5.1 | Course Recap |
 | 5.2 | Related Fields |
@@ -71,15 +72,15 @@ Match lessons by **Unit X.Y number**. Prefer EdStem card titles when they are sh
 
 ## Discover + Design lesson map
 
-| Course lesson | Method action (Unit 3) | Principle lens (Unit 2) | Durable evidence |
+| Course lesson | EdStem warm-up (primary) | Principle lens (Unit 2) | Durable evidence |
 |---|---|---|---|
-| **L05** Initial Needfinding + HCI intro | 1.1, 3.1, 3.2 (light), 3.3 needfinding | 2.2 Feedback Cycles | Needfinding sheet + consent line |
-| **L06** Collect User Data | 3.3 ask / observe | 2.4 Human Abilities | Ask notes + observe notes |
-| **L07** Survey + micro-requirements | 3.3 survey + requirements bridge | 2.7 Task Analysis (minimal) | 5-question survey + 2–3 verifiable need statements |
-| **L08** Brainstorm Alternatives | 3.4 | 2.6 Mental Models and Representations | Brainstorm board + user flow |
-| **L09** Create 3 Prototypes | 3.5 | 2.3 Direct Manipulation | Three labeled low-fi prototypes |
-| **L10** Evaluate + Further Needfinding | 3.6 | 2.5 Design Principles and Heuristics (3–5 selected) | Eval notes + further questions + revisions |
-| **L11** Higher-Fi + Evaluate Again | 3.5–3.6 iterate; 3.7 spirit | 2.2 Feedback Cycles; 2.3 Direct Manipulation | Clickable high-fi + second eval + change log |
+| **L05** Initial Needfinding + HCI intro | **1.1** or **3.3** needfinding segment | 2.2 Feedback Cycles | Needfinding sheet + consent line |
+| **L06** Collect User Data | **3.3** ask / observe segment | 2.4 Human Abilities | Ask notes + observe notes |
+| **L07** Survey + micro-requirements | **3.3** survey / requirements segment | 2.7 Task Analysis (minimal) | 5-question survey + 2–3 verifiable need statements |
+| **L08** Brainstorm Alternatives | **3.4** Design Alternatives | 2.6 Mental Models and Representations | Brainstorm board + user flow |
+| **L09** Create 3 Prototypes | **3.5** Prototyping | 2.3 Direct Manipulation | Three labeled low-fi prototypes |
+| **L10** Evaluate + Further Needfinding | **3.6** Evaluation (+ optional **2.5** clip) | 2.5 Design Principles and Heuristics (3–5 selected) | Eval notes + further questions + revisions |
+| **L11** Higher-Fi + Evaluate Again | **3.7** HCI and Agile **or** **3.6** iterate segment | 2.2 Feedback Cycles; 2.3 Direct Manipulation | Clickable high-fi + second eval + change log |
 
 ### Deferred (not early Discover/Design)
 
@@ -87,18 +88,19 @@ Match lessons by **Unit X.Y number**. Prefer EdStem card titles when they are sh
 |---|---|
 | Full requirements / backlog | Capstone L28 |
 | Formal usability / HCI experiments | Test L25 |
-| Unit 4 Applications | Capstone enrichment / optional reading |
-| Unit 5 Conclusion | Short Discover/Design exit reflection in L11 Talk Robin 2 |
+| **3.8** Conclusion to Methods | Teacher wrap-up only |
+| Unit 4 Applications (**4.1–4.3**) | Capstone enrichment / optional reading |
+| Unit 5 Conclusion (**5.1–5.3**) | Short exit reflection in L11 Talk Robin 2 |
 | 2.8 Distributed Cognition, 2.9 Interfaces and Politics | Teacher enrichment only |
 
 ---
 
 ## Warm-up source rule
 
-1. **Primary:** teacher projects the matching OMSCS CS6750 lesson video from EdStem (Unit X.Y). Stop by **8:00** unless the clip is shorter.
+1. **Primary:** teacher projects the matching EdStem lesson video (Unit X.Y). Stop by **8:00** unless the clip is shorter.
 2. **Course index:** https://omscs6750.gatech.edu/
 3. **EdStem:** https://edstem.org/us/courses/31962/lessons
-4. **Backup only:** Minnesota / Google Coursera clips listed in each lesson — use if OMSCS video access fails. Do not run both as required homework.
+4. **Backup only:** Minnesota / Google Coursera clips listed in each lesson — use if EdStem video access fails. Do not run both as required homework.
 
 ---
 

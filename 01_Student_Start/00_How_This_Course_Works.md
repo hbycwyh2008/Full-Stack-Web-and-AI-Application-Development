@@ -36,8 +36,8 @@ There is no single rigid routine used every day. Activities change with the skil
 - card sort / classification;
 - reverse engineering;
 - research interview / survey;
-- needfinding (ask, observe, notes);
-- Figma design studio (3 prototypes + evaluate);
+- needfinding (ask, observe, notes, survey, micro need statements);
+- Figma design studio (alternatives → 3 prototypes → evaluate → high-fi);
 - code tracing;
 - debugging investigation;
 - code review;

@@ -1,86 +1,86 @@
-# Lesson 07 — Writing Survey Questions
+# Lesson 07 — Survey Questions + Micro-Requirements
 
-**Length:** 45 minutes  
-**Loop step:** Initial Needfinding (survey as a data-collection tool)  
-**Mission:** Write survey questions that reveal real habits and problems, then improve them after a peer test.  
-**One Required Resource / Evidence Source:** Coursera video below **or** [g7-printables.md](g7-printables.md) bad→good survey card  
-**Durable Evidence:** 5-question survey + one rewritten question after peer test
+**Length:** 45 minutes
+**Loop step:** Initial Needfinding (survey) + bridge to requirements
+**OMSCS source:** CS6750 **3.3** Needfinding and Requirements Gathering
+**Principle lens:** **2.7 Task analysis** (minimal) — a requirement names a user task or outcome, not a UI decoration
+**Mission:** Write survey questions that reveal habits and problems, then turn evidence into 2–3 verifiable micro need/requirement statements (not a full spec).
+**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.3** (survey / requirements segments)
+**Durable Evidence:** 5-question survey + one rewritten question + 2–3 micro need/requirement statements
 
 ### Skill Warm-up video (required)
 
 | Field | Assign this |
 |---|---|
-| Course | *Start the UX Design Process: Empathize, Define, and Ideate* (Google) |
-| Link | https://www.coursera.org/learn/start-ux-design-process |
-| Where | **Week 1 — Empathizing with users** |
-| Video | The Week 1 clip on **research / interview / screener survey questions** (titles vary slightly by Coursera UI) |
-| Stop | **8:00 max** — do not continue into persona build |
-| Access | Audit / preview OK; no certificate required |
+| Primary | OMSCS CS6750 **Lesson 3.3** requirements-gathering / survey excerpt from EdStem/Canvas |
+| Stop | **8:00** |
+| Index | https://omscs6750.gatech.edu/ |
 
-**Alternate (clearer survey-writing lecture, denser):** *UX Research at Scale: Surveys, Analytics, Online Testing* (University of Minnesota) → https://www.coursera.org/learn/ux-research-at-scale → module on writing questions → **Basic Guidelines for Writing Questions** (~20 min) — **stop at 8:00**.
-
-**No-video fallback:** project [g7-printables.md](g7-printables.md) section **Bad → good survey examples** as the warm-up.
+**Backup:** Google *Start the UX Design Process* → https://www.coursera.org/learn/start-ux-design-process → Week 1 research/survey questions → stop at **8:00**.
+**No-video fallback:** [g7-printables.md](g7-printables.md) **Bad → good survey examples**.
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned clip (stop at 8:00) **or** study the bad→good survey card. Write:
+Watch the clip **or** study the bad→good card. Write:
 
-1. One rule for a good survey question.  
-2. One question style to avoid.
+1. One rule for a good survey question.
+2. One difference between a **user need** and a **product feature**.
 
 ## 5–9 min — Talk Robin 1
 
-Pairs sort sample items into **keep** / **fix** / **drop**. Agree on one shared rule for today’s survey.
+Pairs sort sample items into **keep** / **fix** / **drop**. Agree on one survey rule and one example of a need stated as a task (“Student can ___”).
 
 ## 9–14 min — Entry Check
 
-Individually rewrite each weak question into a stronger survey item:
+Rewrite each weak question:
 
-1. “Would you use our awesome study app?”  
-2. “Do you like reminders and also dark mode?”  
+1. “Would you use our awesome study app?”
+2. “Do you like reminders and also dark mode?”
 3. “How will you feel if AI plans your week?”
 
-Mark whether your rewrite asks about **past behavior**, **current habit**, or **a rating**.
+Mark whether the rewrite asks about **past behavior**, **current habit**, or **a rating**.
 
 ## 14–19 min — Core Pattern
 
-Teacher teaches G7 survey rules (board):
+**Survey rules (board):**
 
-1. Ask about **real past or current behavior**, not “Will you love our app?”  
-2. **One thing per question**.  
-3. Prefer open questions when you need stories; use ratings when you need quick counts.  
-4. Offer “prefer not to say” for personal items; avoid private data.  
-5. Test your survey on one person before sending it widely.
+1. Ask **past/current behavior**, not “Will you love our app?”
+2. **One thing** per question.
+3. Open for stories; ratings for quick counts.
+4. Prefer-not-to-say for personal items; no private data.
+5. Peer-test before sending widely.
 
-Show a mini template:
+**Micro-requirements bridge (not a full document):**
 
-- Q1–Q3 open behavior questions  
-- Q4 one rating (1–5)  
-- Q5 optional comment  
+```text
+evidence (quote/action/survey) → user need → verifiable statement
+“When [situation], the user can [task/outcome] so that [success].”
+```
+
+Full requirements specs stay in Capstone Lesson 28. Today only **2–3** statements.
 
 ## 19–30 min — Guided Practice
 
-Using Lesson 05–06 unknowns and notes, each team drafts a **5-question survey** for classmates (or family, if school policy allows).
-
-Checklist while drafting:
+Teams draft a **5-question survey** from Lessons 05–06 unknowns:
 
 - at least **3 open** questions;
 - **0** “Would you use my app?” items;
-- consent sentence at the top;
-- no request for phone numbers, passwords, or grades.
+- consent at the top.
 
-Peer-test: each student answers another team’s survey for 3 minutes and stars any confusing question.
+Peer-test 3 minutes; star confusing items.
+
+Then draft **2–3 micro need/requirement statements** tied to today’s evidence (task-analysis lens: name the user task, not the button color).
 
 ## 30–40 min — Independent Rebuild
 
-Individually rewrite the **most confusing** survey question from the peer test. Explain in one sentence why the old version was weak.
+Rewrite the most confusing survey question and explain why the old version was weak.
 
-Optional stretch: turn one survey question into an interview follow-up probe (“Can you walk me through the last time that happened?”).
+Rewrite one micro-requirement so it is **testable** (someone could later check success/fail).
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Submit final 5-question survey + rewritten question. Share one finding the team wants to carry into **Brainstorm Alternatives** (Figma Lesson 08).
+Submit survey + rewritten question + micro-requirements. Share one finding for **Brainstorm Alternatives** (Lesson 08).
 
 ## Success Evidence
 
-Students can write and improve survey questions that collect user data without leading people into liking a pre-chosen solution.
+Students can improve survey questions, avoid leading “would you use it?” prompts, and write a few verifiable need statements without producing a full requirements document.

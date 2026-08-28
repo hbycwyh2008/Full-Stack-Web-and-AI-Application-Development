@@ -1,62 +1,72 @@
 # Lesson 10 — Evaluate + Further Needfinding
 
-**Length:** 45 minutes  
-**Loop step:** Evaluate + Further Needfinding  
-**Mission:** Test the chosen low-fi prototype with a peer, collect new evidence, and turn surprises into new needfinding questions or design changes.  
-**One Required Resource / Evidence Source:** chosen low-fi prototype from Lesson 09  
+**Length:** 45 minutes
+**Loop step:** Evaluate + Further Needfinding
+**OMSCS source:** CS6750 **3.6** Evaluation
+**Principle lens:** **2.5 Design principles and heuristics** — use 3–5 selected heuristics as a checklist, not as taste
+**Mission:** Test the chosen low-fi prototype with a peer, collect new evidence, and turn surprises into needfinding questions or design changes.
+**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.6** (+ optional **2.5** heuristics excerpt)
 **Durable Evidence:** evaluation notes + 2 further-needfinding questions + revision list
+
+### Skill Warm-up video (required)
+
+| Field | Assign this |
+|---|---|
+| Primary | OMSCS CS6750 **Lesson 3.6** Evaluation excerpt from EdStem/Canvas |
+| Optional add-on | Brief **2.5** heuristics clip if time allows within Warm-up window |
+| Stop | **8:00** total |
+| Index | https://omscs6750.gatech.edu/ |
+
+**Backup:** Minnesota *Evaluating User Interfaces* intro (≤ 8 min) or a sample eval sheet.
+
+Bring the chosen low-fi prototype from Lesson 09.
 
 ## 0–5 min — Skill Warm-up
 
-Watch a short usability/eval clip (Minnesota *Evaluating User Interfaces* intro, ≤ 5–8 min) **or** read a sample eval sheet. Write what an evaluator should record.
+Watch the clip. Write what an evaluator should record, and list **3 heuristics** you will use today (examples: visibility of system status; match to real world / mental model; error prevention; recognition over recall; consistency).
 
 ## 5–9 min — Talk Robin 1
 
-Pairs write one clear **task script** for the tester (example: “Add a study reminder for tomorrow, then show you are done.”). Avoid hinting which button to press.
+Pairs write one clear **task script** for the tester. Avoid hinting which button to press. Confirm the 3 heuristics both partners will watch for.
 
 ## 9–14 min — Entry Check
 
-Individually mark each note **evidence** or **opinion**:
+Mark each note **evidence** or **opinion**:
 
-- “Tester tapped Settings three times.”  
-- “The blue button looks nicer.”  
-- “Tester asked ‘Where do I save?’”  
+- “Tester tapped Settings three times.”
+- “The blue button looks nicer.”
+- “Tester asked ‘Where do I save?’”
 - “I think users love dashboards.”
 
 ## 14–19 min — Core Pattern
 
-Must-know evaluation loop:
+**Method evaluation loop:**
 
 ```text
 Give a task → Watch → Note → Ask one follow-up → Thank
 Then: What new thing did we learn about user needs?
 ```
 
-Roles: **facilitator**, **tester** (from another team if possible), **note-taker**.
+**Heuristic lens:** after the session, tag at least one note with a heuristic name (e.g., “visibility”).
+
+Roles: **facilitator**, **tester** (other team if possible), **note-taker**.
 
 ## 19–30 min — Guided Practice
 
-Run a **5–7 minute** peer evaluation on the chosen prototype.
+Run a **5–7 minute** peer evaluation.
 
-Record:
+Record: task success · pauses/help · exact confusion words · one surprise · one heuristic hit/miss.
 
-- task success (yes / partial / no);
-- where the tester paused or asked for help;
-- exact words when confused;
-- one surprising behavior.
-
-Then write **two further needfinding questions** sparked by the test (things you still do not know).
-
-Optional light Figma craft (if time): fix only repeated labels/buttons that blocked the task — not a full design system.
+Write **two further needfinding questions**. Optional: fix only labels/buttons that blocked the task.
 
 ## 30–40 min — Independent Rebuild
 
-Individually list **three revisions** ranked Must / Should / Later, each tied to an evaluation note. Rewrite one screen label or step that caused confusion.
+List **three revisions** Must / Should / Later, each tied to an evaluation note or heuristic. Rewrite one confusing label or step.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Submit eval notes, further-needfinding questions, and revision list. Share one change that will enter the high-fi build next class.
+Submit eval notes, further-needfinding questions, and revision list. Share one change for the high-fi build.
 
 ## Success Evidence
 
-Students can evaluate a prototype with a real task, separate evidence from taste, and produce new needfinding questions plus concrete revisions.
+Students can evaluate with a real task, separate evidence from taste, apply a few heuristics, and produce new needfinding questions plus concrete revisions.

@@ -59,9 +59,9 @@ AI Literacy: one Mitchell passage (in class only)
 
 | Journey stage | Coursera course (exact name) | Provider | Link | Why it fits **this** course |
 |---|---|---|---|---|
-| **Discover** | **User Research and Design** (L05–06) + Google **Start the UX Design Process** (L07) | Minnesota; Google | https://www.coursera.org/learn/design-research · https://www.coursera.org/learn/start-ux-design-process | Exact clips listed in HCI lesson files: Intro to User Research; Observations/Interview; Week 1 survey/interview questions. |
-| **Design** | **Prototyping and Design** | University of Minnesota | https://www.coursera.org/learn/prototyping-design | Low-fi → hi-fi prototyping, design rationale, accessibility—feeds our Figma prototype outcome. |
-| **Design (Figma tool)** | **Principles of UX/UI Design** | Meta | https://www.coursera.org/learn/principles-of-ux-ui-design | Explicit Figma wireframes/prototypes; bridges research ideas to the tool students actually use. |
+| **Discover** | **OMSCS CS6750** Lessons **1.1 / 3.1–3.3** (primary) | Georgia Tech OMSCS | https://omscs6750.gatech.edu/ · [EdStem 31962](https://edstem.org/us/courses/31962/lessons) | Canonical HCI map: [`02-hci-user-research/omscs-cs6750-mapping.md`](../../../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md). Coursera Minnesota/Google = backup only. |
+| **Design** | **OMSCS CS6750** Lessons **3.4–3.7** + principles **2.3 / 2.5 / 2.6** (primary) | Georgia Tech OMSCS | https://omscs6750.gatech.edu/ · EdStem 31962 | Alternatives → prototype → evaluate → iterate. Minnesota/Meta Coursera = backup only. |
+| **Design (Figma tool)** | **Principles of UX/UI Design** (backup tool craft) | Meta | https://www.coursera.org/learn/principles-of-ux-ui-design | Optional Figma craft if OMSCS video access fails or extra tool practice is needed. |
 | **Build** | **HTML, CSS, and Javascript for Web Developers** *(Specialization)* | Johns Hopkins University | https://www.coursera.org/specializations/html-css-javascript-for-web-developers | Same stack as our Build stage: HTML5 → CSS3 (+ Bootstrap) → JS. Browser-first, project-shaped lessons. |
 | **Collaborate** | **Not Coursera** — GitHub official Docs + Skills + your YouTube warm-ups (see below) | GitHub | (links in Collaborate section) | Matches what you already wrote in Phase 0 / Git unit: official Hello World, Quickstart, Skills practice + short YouTube clips. |
 | **Test** | **Evaluating User Interfaces** | University of Minnesota | https://www.coursera.org/learn/ui-testing | Heuristics + usability testing with users—maps to Test stage HCI experiments and evidence. |
@@ -82,75 +82,67 @@ Exact in-class passages: [`required-reading-map.md`](../../../02_Class_Missions/
 
 ## Stage-by-stage: Steps 1–3 designs
 
-Use one design below per class meeting. Web stages use the named Coursera clip; **AI Literacy uses Mitchell only**. Keep Talk Robin + Entry Check structure fixed.
+Use one design below per class meeting. Discover/Design use **OMSCS CS6750** as primary Skill Warm-up (Coursera backup only); other web stages may still use Coursera; **AI Literacy uses Mitchell only**. Keep Talk Robin + Entry Check structure fixed.
 
 ---
 
-### A. Discover — Needfinding, user data & survey questions (G7)
+### A. Discover — Needfinding, user data & micro-requirements (G7)
 
-**Exact clips are also copied into each HCI lesson file** under “Skill Warm-up video (required).”
+**Primary source:** OMSCS CS6750 (EdStem/Canvas). Exact Unit X.Y targets are in each HCI lesson file and in [`omscs-cs6750-mapping.md`](../../../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md).
 
-**Courses used:**
+**Loop framing:** HCI Lessons 05–07 are **Initial Needfinding** only. Brainstorm → 3 prototypes → evaluate → higher-fi continue in Figma 08–11.
 
-1. *User Research and Design* (University of Minnesota) — https://www.coursera.org/learn/design-research *(Lessons 05–06)*
-2. *Start the UX Design Process: Empathize, Define, and Ideate* (Google) — https://www.coursera.org/learn/start-ux-design-process *(Lesson 07)*
-
-**Loop framing for teachers:** HCI lessons are **Initial Needfinding** only. Brainstorm → 3 prototypes → evaluate → higher-fi continue in Figma Lessons 08–11.
-
-| Lesson | Warm-up focus | Exact Coursera clip to assign | Why this clip |
+| Lesson | OMSCS primary (stop ≤ 8:00) | Principle lens | Coursera backup only |
 |---|---|---|---|
-| **05** Initial Needfinding | Why do user research | Minnesota → Module **User Research Methods — Part 1** → **Introduction to User Research** (~3 min, full) | Frames needfinding: don’t guess needs. |
-| **06** Collect user data | Ask / observe | Minnesota → same module → **Observations** (~15 min, **stop 8:00**); alternate **Interview and Focus Groups** (stop 8:00) | Matches ask + watch lab. |
-| **07** Writing survey questions | Survey / research questions | Google Course 2 → **Week 1** research/interview/screener-survey questions clip (**stop 8:00**); fallback printable bad→good card | Matches survey rewrite practice. |
-| Consent | Keep light for G7 | Teacher 30-second consent script (`02-hci-user-research/g7-printables.md`) — prefer over full *Ethics and Consent* lecture | Peer research without adult ethics overload. |
+| **05** Initial Needfinding | **1.1** or **3.3** needfinding intro | **2.2** Feedback cycles | Minnesota → **Introduction to User Research** (~3 min) |
+| **06** Collect user data | **3.3** interview/observation | **2.4** Human abilities | Minnesota → **Observations** or **Interview** (stop 8:00) |
+| **07** Survey + micro-requirements | **3.3** survey/requirements bridge | **2.7** Task analysis (minimal) | Google Week 1 survey questions (stop 8:00) or printables |
+| Consent | G7 light consent (`g7-printables.md`) — not full graduate IRB / ethics lecture | — | — |
 
 **Skill Warm-up task (students)**
-Watch/read the assigned clip. Write two lines:
+Watch the OMSCS clip (or backup). Write:
 
-1. One thing the researcher did.
-2. One thing I’m still confused about.
+1. One method idea (needfinding / ask / observe / survey).
+2. One unclear point.
+3. One principle-lens note from today’s lesson header.
 
 **Talk Robin 1 prompts**
 
-- You: “What was done in the research example was…”
+- You: “What was done in the warm-up was…”
 - Partner: “What was confusing was…”
 - Together: “One question we would ask a real user of our project is…”
 
 **Entry Check (individual)**
 
-1. Name one way to collect user data from the warm-up (ask / observe / survey).
-2. Why is “I think users want X” weaker evidence than an observation or interview note?
+1. Name one way to collect user data (ask / observe / survey).
+2. Why is “I think users want X” weaker than an observation or interview note?
 3. Write one consent rule before asking a classmate.
 
-**Why this stack fits Discover:** Google Empathize clips are G7-friendlier for “know the methods”; Minnesota remains optional deepen. Discover produces **needfinding evidence + survey craft**, not a full requirements document.
+**Why this stack fits Discover:** Methods from CS6750 Unit 3; Principles as lenses; Coursera only if OMSCS video access fails. Discover produces **needfinding evidence + survey craft + 2–3 micro need statements**, not a full requirements document (Capstone L28).
 
 ---
 
 ### B. Design — Brainstorm, 3 prototypes, evaluate, higher-fi (Figma)
 
-**Primary Coursera courses:**
+**Primary source:** OMSCS CS6750 Methods **3.4–3.7** with principle lenses **2.3 / 2.5 / 2.6 / 2.2**. See lesson headers and the mapping doc.
 
-1. *Prototyping and Design* (University of Minnesota) — design thinking / prototyping
-2. *Principles of UX/UI Design* (Meta) — Figma practice
-3. *Evaluating User Interfaces* (University of Minnesota) — short eval warm-up for Lesson 10
+**Maps to Lessons 08–11:** Brainstorm Alternatives → Create 3 Prototypes → Evaluate + Further Needfinding → Higher-Fidelity → Evaluate Again.
 
-**Maps to Lessons 08–11 loop:** Brainstorm Alternatives → Create 3 Prototypes → Evaluate + Further Needfinding → Higher-Fidelity → Evaluate Again.
-
-| Warm-up focus | Coursera resource to assign | Why this clip |
-|---|---|---|
-| Why many alternatives | *Prototyping and Design* → early prototyping / alternatives video (≤ 8 min) | Supports Lesson 08–09 “3 prototypes” |
-| Why prototype | Same course → paper/tool prototyping intro | Justifies design-before-code |
-| Figma craft | *Principles of UX/UI Design* → wireframe/prototype lesson | Tool match for low-fi → high-fi |
-| Evaluate with users | *Evaluating User Interfaces* → usability test intro (≤ 8 min) | Feeds Lesson 10–11 eval labs |
+| Lesson | OMSCS primary (stop ≤ 8:00) | Principle lens | Coursera backup only |
+|---|---|---|---|
+| **08** Alternatives | **3.4** | **2.6** Mental models | Minnesota *Prototyping and Design* alternatives intro |
+| **09** 3 prototypes | **3.5** | **2.3** Direct manipulation / visibility | Meta Figma wireframe/prototype craft |
+| **10** Evaluate | **3.6** (+ optional **2.5**) | **2.5** Heuristics (3–5) | Minnesota *Evaluating User Interfaces* usability intro |
+| **11** High-fi + evaluate again | **3.7** or iterate from **3.6** | **2.2** Feedback cycles | Teacher high-fi demo if video blocked |
 
 **Skill Warm-up task**
-After the clip: sketch **3 boxes** for today (e.g. Home → Task → Result) on paper or Figma; label one user action.
+After the OMSCS clip: note the method action + principle lens; sketch **3 boxes** for today (Home → Task → Result) if helpful.
 
 **Talk Robin 1 prompts**
 
 - You: “My three screens / alternatives are…”
 - Partner: “A user might get stuck at…”
-- Together: “One thing the Coursera clip said that we should copy is…”
+- Together: “One OMSCS idea we should apply today is…”
 
 **Entry Check**
 
@@ -158,7 +150,7 @@ After the clip: sketch **3 boxes** for today (e.g. Home → Task → Result) on 
 2. Name one reason to compare **three** prototypes before polishing one.
 3. Circle which is better first: (A) pixel-perfect colors (B) clear user flow.
 
-**Why these courses fit Design:** Minnesota supplies prototyping/eval theory; Meta supplies Figma craft—aligned with the iterate loop after HCI needfinding.
+**Why this stack fits Design:** CS6750 Methods are the spine; Unit 2 principles are lenses; Figma is the medium; Coursera is backup only.
 
 ---
 

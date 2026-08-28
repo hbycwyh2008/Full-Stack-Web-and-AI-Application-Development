@@ -22,7 +22,9 @@ A repository with many commits but no meaningful development history is not auto
 
 ## 2. HCI User Research — 15%
 
-Assess stakeholder/assumption analysis, ethical research planning, quality of interviews/observation, separation of evidence from interpretation, synthesis, problem definition, requirements, and traceability from evidence to decisions.
+Assess light ethical consent, needfinding (guess vs unknown), quality of ask/observe notes, survey craft, separation of evidence from interpretation, and **2–3 micro need/requirement statements** tied to evidence.
+
+Do **not** require a full requirements specification in Discover (Lessons 05–07). Full requirements, synthesis maps, and backlog traceability are assessed in Capstone.
 
 ## 3. Figma Product Design — 15%
 

@@ -6,9 +6,9 @@ Teacher may print or project these cards. Keep language short.
 
 ## 1) 30-second consent script
 
-> “Hi — we are learning how to understand users for a class project.  
-> Can I ask you a few questions / watch you try a short task?  
-> You can skip any question. We will not collect private information.  
+> “Hi — we are learning how to understand users for a class project.
+> Can I ask you a few questions / watch you try a short task?
+> You can skip any question. We will not collect private information.
 > Is that OK?”
 
 If the answer is no: thank them and stop.
@@ -25,10 +25,10 @@ If the answer is no: thank them and stop.
 
 Needfinding sheet fields:
 
-1. Topic:  
-2. We know:  
-3. We do not know:  
-4. First method (ask / observe / survey):  
+1. Topic:
+2. We know:
+3. We do not know:
+4. First method (ask / observe / survey):
 5. Data we will **not** collect:
 
 ---
@@ -44,11 +44,11 @@ Needfinding sheet fields:
 
 Survey draft template:
 
-1. Consent line  
-2. Open: Last time…  
-3. Open: When that happens, what do you do?  
-4. Open: What still feels hard?  
-5. Rating 1–5: How often does this problem happen in a normal week?  
+1. Consent line
+2. Open: Last time…
+3. Open: When that happens, what do you do?
+4. Open: What still feels hard?
+5. Rating 1–5: How often does this problem happen in a normal week?
 6. Optional: Anything else we should know? (prefer not to say OK)
 
 ---

@@ -4,7 +4,8 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 
 | Poster | File | Use |
 |---|---|---|
-| **Full-Stack Course Overview** | [full-stack-course-overview.png](full-stack-course-overview.png) | Course journey, AI literacy strand, and student outcomes |
+| **Full-Stack Course Overview** | [full-stack-course-overview.png](full-stack-course-overview.png) | This course — journey, AI literacy strand, and student outcomes |
+| **CS Curriculum Pathway (G6–12)** | [cs-curriculum-pathway-g6-12.png](cs-curriculum-pathway-g6-12.png) | School-wide CS progression from foundations to specialization |
 | **Different Learning Goals, Different Classroom Flows** | [classroom-flow.png](classroom-flow.png) | Five goal-specific flows — pick the flow that matches the lesson |
 | **Mastery Level** | [mastery-level.png](mastery-level.png) | Expectations — rebuild, explain, debug, own your work |
 | **CS Competition Pathways** | [cs-competition-pathways.png](cs-competition-pathways.png) | Optional enrichment — competitions and challenges beyond class |
@@ -19,6 +20,25 @@ Official classroom posters for **Full-Stack Web and AI Application Development**
 The poster presents the Discover → Design → Build → Collaborate → Test → Create
 learning journey, the course's AI literacy strand, and the expected portfolio
 outcomes.
+
+---
+
+## CS Curriculum Pathway Poster (G6–12)
+
+**Message:** From foundations to advanced specialization.
+
+The poster shows the **school-wide CS progression** for Grades 6–12:
+
+| Band | Focus |
+|---|---|
+| **G6–G7** | Web programming foundations through games and projects (HTML, CSS, JavaScript, Bootstrap; integrated AI literacy) |
+| **G8** | Software Design, Development & AI — this course (*From Idea to Product with Web & AI*) |
+| **G9** | AP Computer Science Principles |
+| **G10–G12** | Specialization tracks — Programming/CS, AI, or Cybersecurity & Networking |
+
+**Core philosophy:** foundational → specialized progression, spiral learning, project-based work, and flexible pathways (placement, track choice, exploration over time).
+
+This course sits in the **G8** band. For the in-course lesson sequence, see `00_Course_Overview/Learning_Pathway_Map.md`.
 
 ---
 

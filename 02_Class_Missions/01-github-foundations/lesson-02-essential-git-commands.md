@@ -1,18 +1,32 @@
-# Lesson 2: Essential Git Commands
+# Lesson 2: Git States and Essential Commands
 
-**Phase:** 0 — Git & GitHub
-**Duration:** 45 minutes
-**Official playlist position:** #2
-**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
+**Phase:** 0 — Git & GitHub  
+**Duration:** 45 minutes  
+**Official playlist position:** #2  
+**Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)  
 **Student repo:** `YourName-Full-Stack-Web-and-AI-Application-Development`
 
 ---
 
 ## Lesson Goal
 
-After watching the official video, students can match the core Git commands to the stages of a normal local workflow.
+Students can explain the Git state model and use core commands because they understand **what changes state**, not because they memorized a command list.
 
-This lesson uses **one video and one guided practice**. Do not re-teach the Classroom Flow posters and do not assign another playlist video as homework.
+By the end of the lesson, students should be able to explain:
+
+```text
+Working Directory
+→ Staging Area
+→ Commit History
+```
+
+and connect the model to:
+
+```text
+git status → git add → git commit → git log
+```
+
+This lesson deliberately separates the **local Git model** from later GitHub synchronization and collaboration skills.
 
 ---
 
@@ -21,33 +35,44 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | Role | What |
 |---|---|
 | **Video** | **Playlist #2** — [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU) |
-| **Guided practice** | Run a Git command lab or complete the no-install command-sequence fallback |
-| **Practice source** | Teacher-designed terminal lab with a no-install fallback; no close video-aligned GitHub Skills exercise selected |
-| **Evidence** | Local `02-git-command-reference.md` plus terminal commit or command-sequence check |
-| **Exit Ticket** | `learning-log.md` → Lesson 2 |
-
-> Playlist #10, GitHub Actions, is excluded from this unit. Lesson numbers after Lesson 9 therefore differ from playlist positions.
+| **Core concept** | Working Directory → Staging Area → Commit History |
+| **Guided practice** | Move one change through the three-state model and verify each transition |
+| **Evidence** | Local `02-git-state-model.md` plus a real local commit |
+| **Exit Ticket** | Explain a command by naming the state change it causes |
 
 ---
 
-## Core Vocabulary
+## Start With the Model, Not the Commands
+
+A Git command is useful only if you understand what it does to the project state.
+
+```text
+WORKING DIRECTORY
+Files you are currently editing
+        |
+        | git add
+        v
+STAGING AREA
+Changes selected for the next snapshot
+        |
+        | git commit
+        v
+COMMIT HISTORY
+Recorded snapshots of the project
+```
+
+`git status` helps you inspect where your changes are.  
+`git log` lets you inspect recorded commit history.
+
+### Core Vocabulary
 
 | Term | Meaning |
 |---|---|
-| **status** | Inspect changed and staged files |
-| **add** | Stage changes for the next commit |
-| **push / pull** | Send commits to GitHub / receive changes from GitHub |
-
----
-
-## Core Pattern
-
-```text
-one official video
-→ one focused practice
-→ one saved practice artifact
-→ Lesson 2 learning-log entry
-```
+| **Working Directory** | The files you are currently viewing and editing |
+| **Staging Area** | The changes selected to become part of the next commit |
+| **Commit History** | The sequence of recorded project snapshots |
+| **commit** | A meaningful recorded snapshot |
+| **status** | A report showing the current state of tracked changes |
 
 ---
 
@@ -55,13 +80,12 @@ one official video
 
 | Time | Block |
 |---|---|
-| **0–10 min** | **Skill Warm-up** — watch this lesson's official video only; stop at 10 minutes if needed |
-| **10–13 min** | **Talk Robin 1** — explain one idea from the video |
-| **13–17 min** | **Entry Check** — retrieve prior knowledge needed today |
-| **17–21 min** | **Core Pattern** — teacher models the smallest complete workflow |
-| **21–32 min** | **Guided Practice** — complete the named task with checkpoints |
-| **32–40 min** | **Independent Rebuild** — repeat or finish without step-by-step prompting |
-| **40–45 min** | **Talk Robin 2 + Evidence** — show the artifact and commit the learning log |
+| **0–10 min** | **Skill Warm-up** — watch playlist #2; listen for commands and what they do |
+| **10–14 min** | **Retrieve the Snapshot Idea** — connect back to `commit = snapshot` |
+| **14–21 min** | **Build the Three-State Model** — Working Directory → Staging Area → Commit History |
+| **21–33 min** | **Guided Practice** — edit → inspect → stage → inspect → commit → inspect history |
+| **33–40 min** | **Independent Rebuild** — repeat with a second change without prompts |
+| **40–45 min** | **Explain + Evidence** — explain each command through the state model |
 
 ---
 
@@ -69,66 +93,129 @@ one official video
 
 Watch **playlist #2 only**: [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU).
 
-While watching, record:
+Record commands you hear, but do **not** try to memorize them yet. For each command, ask:
 
-- One new term
-- One action demonstrated
-- One question to test during practice
+> What does this command inspect or change?
 
-### 10–13 min: Talk Robin 1
+---
 
-- **A:** “The video's main idea is…”
-- **B:** “A step I need to remember is…”
+### 10–14 min: Retrieve the Snapshot Idea
 
-### 13–17 min: Entry Check
+Return to the earlier idea:
 
-1. What artifact did you create last lesson?
-2. Where can you verify a change in GitHub?
-3. What must never be copied into a public repository?
+> **Commit = snapshot.**
 
-### 17–21 min: Core Pattern
+Discuss:
 
-Teacher demonstrates the task once and points out where students can verify the result. Students identify the action, the artifact, and the evidence before beginning.
+1. If a commit is a snapshot, should every unfinished edit automatically become part of it?
+2. How might Git let us choose which changes belong in the next snapshot?
 
-### 21–32 min: Guided Practice
+This question introduces the purpose of the staging area.
 
-1. In a teacher-provided practice folder, run `git init`, `git status`, create or edit one file, then run `git add` and `git commit`.
-2. Record each command and what changed after it in `02-git-command-reference.md`.
-3. Add `push`, `pull`, `branch`, and `switch` to the reference, marking commands not yet executed.
-4. If Git is unavailable, use shuffled command cards, put them in a valid workflow order, and explain each transition. Keep the file for Lesson 4.
+---
 
-### 32–40 min: Independent Rebuild
+### 14–21 min: Build the Three-State Model
 
-Close the video and command reference. For a newly edited file, independently write or execute the sequence to inspect, stage, commit, and later synchronize it. Predict what each command changes. The terminal route must end with a real commit; the fallback route must explain where `push` and `pull` fit.
+Teacher models one file moving through the workflow:
 
-### 40–45 min: Talk Robin 2 + Evidence
-
-Given an edited file, say which commands come next and why.
-
-Add to `learning-log.md`:
-
-```markdown
-## Lesson 2
-- What I did:
-- What I learned:
-- What was hard:
-- Evidence link:
+```text
+Edit file
+↓
+git status
+↓
+git add filename
+↓
+git status
+↓
+git commit -m "Describe the change"
+↓
+git log
 ```
 
-Save the Lesson 2 learning-log entry locally. It will be added to the course repository in Lesson 3. **Homework is only the unfinished learning-log entry; no video homework.**
+Students must identify the state after each step.
+
+Key distinction:
+
+- `git status` **inspects** state.
+- `git add` moves selected changes toward the next snapshot.
+- `git commit` records the staged changes as a snapshot.
+- `git log` inspects recorded snapshots.
+
+---
+
+### 21–33 min: Guided Practice
+
+In a teacher-provided practice folder:
+
+1. Run `git init` if the folder is not already a repository.
+2. Create or edit one file.
+3. Run `git status`. Identify the change in the **Working Directory**.
+4. Run `git add <filename>`.
+5. Run `git status` again. Identify the change in the **Staging Area**.
+6. Run `git commit -m "Add first practice note"`.
+7. Run `git log` and locate the new snapshot in **Commit History**.
+8. In `02-git-state-model.md`, draw or describe the three-state model and explain what each command did.
+
+If Git is unavailable, use teacher-provided state and command cards and explain every transition rather than merely ordering commands.
+
+---
+
+### 33–40 min: Independent Rebuild
+
+Without looking at the worked example:
+
+1. Make a second change.
+2. Decide how to inspect it.
+3. Stage it.
+4. Verify that it is staged.
+5. Commit it with a meaningful message.
+6. Find the new snapshot in history.
+
+Then explain the sequence using **states**, not only command names.
+
+---
+
+### 40–45 min: Explain + Evidence
+
+Complete these statements in your own words:
+
+- My edited file begins in the __________.
+- `git add` moves selected changes to the __________.
+- `git commit` records the staged changes as a __________.
+- `git status` helps me __________.
+- `git log` helps me __________.
+
+Save `02-git-state-model.md` locally for later upload.
+
+---
+
+## Not Yet the Focus
+
+You may hear commands such as `push`, `pull`, `branch`, or `switch` in the video. They are useful, but they are **not the mastery target of this lesson**.
+
+First master:
+
+```text
+edit → inspect → stage → commit → inspect history
+```
+
+Later lessons connect this local Git model to GitHub repositories, branches, pull requests, and collaboration.
 
 ---
 
 ## Common Mistakes
 
-- Watching or assigning a second playlist video
-- Completing clicks without checking the resulting artifact
+- Memorizing commands without knowing which state they inspect or change
+- Thinking `git add` creates a commit
+- Thinking every edited file automatically enters the next commit
+- Treating `git commit` as ordinary file saving instead of recording a project snapshot
 - Using vague commit messages such as `update`
-- Publishing passwords, tokens, recovery codes, or other private information
-- Treating a screenshot as a substitute for repository evidence
+- Publishing passwords, tokens, or other private information
 
 ---
 
 ## Teacher Notes
 
-Lesson 3 continues with the next official playlist video.
+Keep asking **“Where is the change now?”** rather than **“What command comes next?”**. The goal is a mental model students can later use to debug Git workflows.
+
+Lesson 3 connects this local Git understanding to the long-term course repository on GitHub.

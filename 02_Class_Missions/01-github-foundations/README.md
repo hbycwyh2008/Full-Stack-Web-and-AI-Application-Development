@@ -1,13 +1,21 @@
 # 01 — GitHub Foundations
 
-Student-facing GitHub beginner unit for **Collaborate**.
+Student-facing GitHub + Git beginner unit for **Collaborate**.
+
+## Design Principle
+
+This unit is intentionally split into two layers:
+
+1. **GitHub in the browser first** — students learn the visible collaboration workflow, create a real course repository, write Markdown, upload files, create issues, open pull requests, review, and merge.
+2. **Git locally second** — students then learn version control and the local-to-remote development loop: initialize or clone, pull, branch, edit, stage, commit, push, open a PR, merge, and sync again.
+
+The goal is a complete mental and practical loop rather than following the official video playlist in order.
 
 ## Unit Structure
 
 - **15 lessons × 45 minutes**
-- **One official GitHub video per lesson**
-- The playlist contains 16 videos; **playlist #10, GitHub Actions, is excluded**
-- Keep the official playlist order. Course Lesson 10 continues with playlist #11.
+- Official GitHub beginner videos are used as skill warm-ups where they match the lesson goal
+- Playlist order is **not** treated as the curriculum order
 - One focused practice and one `learning-log.md` entry per lesson
 - No video homework
 
@@ -17,52 +25,146 @@ Student-facing GitHub beginner unit for **Collaborate**.
 YourName-Full-Stack-Web-and-AI-Application-Development
 ```
 
-Example: `LiMing-Full-Stack-Web-and-AI-Application-Development`. Use hyphens and do not fork the teacher course repository.
+Example: `LiMing-Full-Stack-Web-and-AI-Application-Development`.
+Use hyphens and do not fork the teacher course repository.
 
-## Official Playlist
+---
 
-[GitHub for Beginners](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f)
+# Learning Sequence
 
-| Course lesson | Playlist position | Official video |
+## Stage A — See the Whole GitHub Workflow
+
+### Lesson 0 — What Is GitHub? + Hello World Workflow
+
+Students first see the whole collaboration model:
+
+```text
+Repository
+→ Branch
+→ Make changes
+→ Commit
+→ Pull Request
+→ Review
+→ Merge
+```
+
+They complete GitHub Hello World and GitHub Skills: Introduction to GitHub.
+
+This gives students a complete workflow before individual skills are isolated.
+
+---
+
+## Stage B — GitHub Browser Skills
+
+Students next learn the browser-based GitHub skills needed to manage a real repository.
+
+| # | Lesson | Main skill |
 |---|---|---|
-| 1 | #1 | [A brief introduction to Git for beginners](https://www.youtube.com/watch?v=r8jQ9hVA2qs) |
-| 2 | #2 | [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU) |
-| 3 | #3 | [How to create your first GitHub repository: A beginner's guide](https://www.youtube.com/watch?v=-RZ03WHqkaY) |
-| 4 | #4 | [How to upload files and folders to GitHub: GitHub for Beginners](https://www.youtube.com/watch?v=tlu5e0TxSzo) |
-| 5 | #5 | [How to add code to your repository](https://www.youtube.com/watch?v=g2XjJhrGGg4) |
-| 6 | #6 | [How to create a pull request in 4 min](https://www.youtube.com/watch?v=nCKdihvneS0) |
-| 7 | #7 | [How to merge a pull request](https://www.youtube.com/watch?v=FDXSgyDGmho) |
-| 8 | #8 | [GitHub Profile Tips to standout (& stay secure)](https://www.youtube.com/watch?v=T_PKBNImooA) |
-| 9 | #9 | [How to use GitHub issues and projects](https://www.youtube.com/watch?v=c67GaAkf1BE) |
-| 10 | #11 | [Getting started with GitHub security](https://www.youtube.com/watch?v=zhxXaFzzJYA) |
-| 11 | #12 | [Getting started with GitHub Pages for beginners](https://www.youtube.com/watch?v=b2r9Cdvssi0) |
-| 12 | #13 | [Getting started with Markdown on GitHub](https://www.youtube.com/watch?v=LxeclcePg-c) |
-| 13 | #14 | [Getting started with open source contributions for beginners](https://www.youtube.com/watch?v=WldXhauP024) |
-| 14 | #15 | [How to use Git and GitHub in VS Code](https://www.youtube.com/watch?v=NFjz1AGKA4c) |
-| 15 | #16 | [Answering the most common GitHub beginner questions](https://www.youtube.com/watch?v=ZgARMqR3qq8) |
+| 1 | [Markdown for README and Documentation](lesson-12-markdown.md) | Write and preview Markdown before creating the long-term repository |
+| 2 | [Create Your First Course Repository](lesson-03-first-github-repository.md) | Create the long-term repository with a useful `README.md` and `learning-log.md` |
+| 3 | [Upload Files and Folders](lesson-04-upload-files-and-folders.md) | Add existing local artifacts through the GitHub web interface |
+| 4 | [Add Code to a Repository](lesson-05-add-code-to-repository.md) | Add/edit code and understand repository history |
+| 5 | [GitHub Issues and Projects](lesson-09-issues-and-projects.md) | Turn work into trackable issues before implementing changes |
+| 6 | [Create a Pull Request](lesson-06-create-pull-request.md) | Propose changes through a PR |
+| 7 | [Review and Merge a Pull Request](lesson-07-merge-pull-request.md) | Review, discuss, merge, and verify the result |
 
-**Excluded:** playlist #10, [How to use GitHub Actions](https://www.youtube.com/watch?v=BQrohJ3PT7I). It does not receive a lesson in this unit.
+At the end of Stage B, students can complete a GitHub-only collaboration loop without local Git.
+
+---
+
+## Stage C — Git and Version Control
+
+Once students know what GitHub actions *mean*, they learn the local mechanism underneath them.
+
+| # | Lesson | Main skill |
+|---|---|---|
+| 8 | [Git and Version Control](lesson-01-git-introduction.md) | Understand Git, snapshots, history, and why version control exists |
+| 9 | [Essential Git Commands](lesson-02-essential-git-commands.md) | Work with `git status`, `git add`, `git commit`, `git log`, branches, and remotes |
+| 10 | Local Repository → GitHub | Create or initialize a local project, connect a remote, and push |
+| 11 | Sync Before You Work | Start from the newest remote state using `git pull` or an appropriate fetch/pull workflow |
+| 12 | Branch → Edit → Commit → Push | Create a feature branch locally, make changes, stage, commit, and push |
+| 13 | Complete Local-to-Remote Workflow | Open PR → review → merge → switch back → pull the merged result |
+
+The repeatable development loop is:
+
+```text
+Start work
+→ git pull
+→ git switch -c feature-name
+→ edit files
+→ git status
+→ git add
+→ git commit
+→ git push -u origin feature-name
+→ open Pull Request
+→ review
+→ merge
+→ git switch main
+→ git pull
+→ next task
+```
+
+This is the workflow students should eventually be able to perform without prompts.
+
+---
+
+## Stage D — GitHub Platform Extensions
+
+These are useful after the core collaboration workflow is already secure.
+
+| # | Lesson | Main skill |
+|---|---|---|
+| 14 | [Git and GitHub in VS Code](lesson-14-git-and-github-in-vscode.md) | Perform the same Git workflow through VS Code |
+| 15 | [Beginner FAQ and Mastery Check](lesson-15-beginner-faq-and-mastery-check.md) | Verify independent mastery and diagnose common Git/GitHub mistakes |
+
+Optional or later-extension topics:
+
+- [GitHub Profile and Account Security](lesson-08-profile-and-account-security.md)
+- [Repository Security](lesson-10-github-security.md)
+- [Publish with GitHub Pages](lesson-11-github-pages.md)
+- [Open Source Contributions](lesson-13-open-source-contributions.md)
+
+These are valuable, but they should not interrupt the core GitHub → Git → full workflow progression.
+
+---
+
+## Core Concept Progression
+
+```text
+See the whole workflow
+→ learn Markdown
+→ create a real repository
+→ manage files and code on GitHub
+→ use Issues
+→ create Pull Requests
+→ review and merge
+→ understand Git/version control
+→ use Git commands locally
+→ connect local and remote repositories
+→ pull before work
+→ branch/edit/commit/push
+→ PR/review/merge
+→ pull again
+```
+
+This produces a complete closed loop instead of a collection of disconnected Git and GitHub features.
+
+---
 
 ## Classroom Pattern
 
 ```text
-Skill Warm-up       → one official playlist video
-Guided Practice     → one focused task tied to that video
-Independent Rebuild → complete or repeat without prompts
-Evidence            → saved artifact + learning-log entry
+Skill Warm-up
+→ Guided Practice
+→ Independent Rebuild
+→ Evidence
 ```
 
-If a video is longer than the 10-minute warm-up, stop at 10 minutes and continue with practice. Do not add a second video.
-
-Lessons 1–2 save evidence locally because the repository-creation video is
-Lesson 3. Lesson 3 creates the repository and `learning-log.md`; Lesson 4
-uploads the saved Lesson 1–2 notes. From Lesson 3 onward, evidence is committed
-to GitHub.
+Each lesson should create visible evidence in the student's course repository whenever possible.
 
 ## Learning Log
 
-Draft Lessons 1–2 locally, then keep one repository file named
-`learning-log.md` from Lesson 3 onward:
+After the course repository is created, students maintain one file:
 
 ```markdown
 # Learning Log
@@ -74,45 +176,38 @@ Draft Lessons 1–2 locally, then keep one repository file named
 - Evidence link:
 ```
 
-## Lessons
+Before the course repository exists, students may temporarily save lesson evidence locally and upload it once the repository is created.
 
-| # | Lesson | One official video | One guided practice |
-|---|---|---|---|
-| 1 | [Git and Version Control](lesson-01-git-introduction.md) | #1 [A brief introduction to Git for beginners](https://www.youtube.com/watch?v=r8jQ9hVA2qs) | Rebuild the snapshot model in a local note |
-| 2 | [Essential Git Commands](lesson-02-essential-git-commands.md) | #2 [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU) | Run a small terminal lab or command-card fallback |
-| 3 | [Create Your First GitHub Repository](lesson-03-first-github-repository.md) | #3 [How to create your first GitHub repository: A beginner's guide](https://www.youtube.com/watch?v=-RZ03WHqkaY) | Create `YourName-Full-Stack-Web-and-AI-Application-Development` with a README |
-| 4 | [Upload Files and Folders](lesson-04-upload-files-and-folders.md) | #4 [How to upload files and folders to GitHub: GitHub for Beginners](https://www.youtube.com/watch?v=tlu5e0TxSzo) | Upload the saved Lesson 1–2 notes, then rebuild with a second folder |
-| 5 | [Add Code to a Repository](lesson-05-add-code-to-repository.md) | #5 [How to add code to your repository](https://www.youtube.com/watch?v=g2XjJhrGGg4) | Clone → branch → add code → stage → commit → push |
-| 6 | [Create a Pull Request](lesson-06-create-pull-request.md) | #6 [How to create a pull request in 4 min](https://www.youtube.com/watch?v=nCKdihvneS0) | Open a Skills PR, then independently open one in the course repo |
-| 7 | [Review and Merge a Pull Request](lesson-07-merge-pull-request.md) | #7 [How to merge a pull request](https://www.youtube.com/watch?v=FDXSgyDGmho) | Review and merge both PRs + diagnose a prepared conflict |
-| 8 | [GitHub Profile and Account Security](lesson-08-profile-and-account-security.md) | #8 [GitHub Profile Tips to standout (& stay secure)](https://www.youtube.com/watch?v=T_PKBNImooA) | Make one safe profile improvement and privately verify account safety |
-| 9 | [GitHub Issues and Projects](lesson-09-issues-and-projects.md) | #9 [How to use GitHub issues and projects](https://www.youtube.com/watch?v=c67GaAkf1BE) | Create one issue and track it on a project |
-| 10 | [Repository Security](lesson-10-github-security.md) | #11 [Getting started with GitHub security](https://www.youtube.com/watch?v=zhxXaFzzJYA) | Inspect security features, improve `.gitignore`, and audit fake risks |
-| 11 | [Publish with GitHub Pages](lesson-11-github-pages.md) | #12 [Getting started with GitHub Pages for beginners](https://www.youtube.com/watch?v=b2r9Cdvssi0) | Publish the Lesson 5 HTML page with GitHub Pages |
-| 12 | [Markdown on GitHub](lesson-12-markdown.md) | #13 [Getting started with Markdown on GitHub](https://www.youtube.com/watch?v=LxeclcePg-c) | Use Markdown Skills, then create the complete course-repo practice file |
-| 13 | [Open Source Contributions](lesson-13-open-source-contributions.md) | #14 [Getting started with open source contributions for beginners](https://www.youtube.com/watch?v=WldXhauP024) | Fork and branch in a teacher-approved repository without unsolicited PRs |
-| 14 | [Git and GitHub in VS Code](lesson-14-git-and-github-in-vscode.md) | #15 [How to use Git and GitHub in VS Code](https://www.youtube.com/watch?v=NFjz1AGKA4c) | Independently complete inspect → stage → commit → push → verify |
-| 15 | [Beginner FAQ and Mastery Check](lesson-15-beginner-faq-and-mastery-check.md) | #16 [Answering the most common GitHub beginner questions](https://www.youtube.com/watch?v=ZgARMqR3qq8) | Complete the written and practical GitHub mastery check |
+---
 
 ## GitHub Skills Used
 
-- Lesson 6: [Introduction to GitHub](https://github.com/skills/introduction-to-github) — create the pull request
-- Lesson 7: finish and merge the same Skills pull request
-- Lesson 12: [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
+- Lesson 0: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+- Markdown lesson: [Communicate using Markdown](https://github.com/skills/communicate-using-markdown)
 
-These exercises are used only where their stated learning goals match the
-video. GitHub Skills uses Actions behind the scenes to deliver feedback, but
-students are **not** learning or configuring Actions in this unit. Every Skills
-lesson also includes an own-repository rebuild so bot prompts are not mistaken
-for independent mastery. Lessons without a matching Skills exercise use the
-teacher-designed rebuild specified in that lesson.
+GitHub Skills is used only where its learning goal directly matches the lesson. Students must also rebuild the same skill in their own course repository so guided bot instructions are not mistaken for independent mastery.
 
-Some other Skills exercises are related but intentionally not required:
-Review pull requests adds review-assignment and suggested-change scope beyond
-the Lesson 7 merge video; the security Skills split the broader Lesson 10 video
-across separate courses; and the Pages Skill builds a Jekyll blog rather than
-the lesson's simple static page. They are optional extensions after the
-video-aligned rebuild is complete.
+---
+
+## Teacher Guidance
+
+Do **not** teach this unit as “watch the official playlist from #1 to #16.”
+
+The official videos are resources, not the instructional sequence.
+
+The curriculum sequence is based on dependency:
+
+```text
+GitHub workflow mental model
+→ Markdown + repository creation
+→ GitHub browser collaboration
+→ Git/version-control model
+→ local commands
+→ local/remote synchronization
+→ full professional workflow
+```
+
+That sequence better matches how students will actually work in later Full-Stack and AI application projects.
 
 ## Related Teacher Materials
 

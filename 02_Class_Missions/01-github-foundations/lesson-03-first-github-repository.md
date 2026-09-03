@@ -1,4 +1,4 @@
-# Lesson 3: Create Your Course Repository and Connect the Workflow
+# Lesson 2: Create Your First Course Repository
 
 **Phase:** 0 — Git & GitHub  
 **Duration:** 45 minutes  
@@ -10,18 +10,17 @@
 
 ## Lesson Goal
 
-Students create the **long-term repository they will use for this course** and connect what they already understand about local Git states to a persistent GitHub project.
+Students create the **long-term repository they will use for this course** after first learning the whole GitHub workflow and the Markdown needed to write a useful README.
 
-This is **not the students' first exposure to creating a GitHub repository**. In Lesson 0, students already created a small Hello World repository while learning the whole GitHub Workflow. That repository was a guided conceptual practice.
+This is not the students' first encounter with GitHub. In Lesson 0 they already completed a small Hello World workflow. In Lesson 1 they learned the Markdown syntax needed to document a repository properly.
 
-Today students create the repository that will hold their course work and learning evidence over time.
+By the end of this lesson, students can:
 
-By the end of the lesson, students can distinguish:
-
-```text
-Lesson 0 Hello World repo = guided practice for understanding the workflow
-Course repo = long-term project and evidence repository
-```
+- create a new GitHub repository intentionally rather than as a tutorial click-through;
+- initialize it with a useful `README.md`;
+- create a `learning-log.md` file;
+- explain why the course repository is different from the temporary Hello World practice repository;
+- verify repository visibility, files, and commit history.
 
 ---
 
@@ -30,7 +29,7 @@ Course repo = long-term project and evidence repository
 | Role | What |
 |---|---|
 | **Video** | **Playlist #3** — [How to create your first GitHub repository: A beginner's guide](https://www.youtube.com/watch?v=-RZ03WHqkaY) |
-| **Core concept** | A GitHub repository is a persistent project space with tracked history |
+| **Prerequisite** | Lesson 0 GitHub workflow + Lesson 1 Markdown |
 | **Guided practice** | Create and structure the official course repository |
 | **Evidence** | Public repository `YourName-Full-Stack-Web-and-AI-Application-Development` |
 | **Exit Ticket** | Explain how this repository differs from the Lesson 0 Hello World practice repository |
@@ -39,7 +38,7 @@ Course repo = long-term project and evidence repository
 
 ## Connect Back to Earlier Lessons
 
-You have already seen the whole GitHub collaboration workflow:
+You have already seen the collaboration workflow:
 
 ```text
 Repository
@@ -51,15 +50,9 @@ Repository
 → Merge
 ```
 
-You have also learned the local Git state model:
+You have also learned how Markdown creates readable GitHub documentation.
 
-```text
-Working Directory
-→ Staging Area
-→ Commit History
-```
-
-Today we create the **course repository** that later lessons will use to connect these two models in real development work.
+Today those two ideas come together in the repository that will hold your work for the rest of the course.
 
 ---
 
@@ -68,7 +61,7 @@ Today we create the **course repository** that later lessons will use to connect
 | Term | Meaning |
 |---|---|
 | **repository** | A project together with its tracked history |
-| **README** | The front page that explains the purpose and structure of a repository |
+| **README** | The front page that explains the repository's purpose and structure |
 | **commit history** | The recorded snapshots showing how a project changes over time |
 | **public / private** | Who is allowed to view the repository |
 | **course repository** | The long-term repository used to organize this course's work and evidence |
@@ -110,7 +103,8 @@ Discuss:
 
 1. Why did we create the Hello World repository in Lesson 0?
 2. Why do we now need a separate course repository?
-3. What should a repository contain if we want to use it for many weeks of work?
+3. Why is it useful that you already know Markdown before creating the README?
+4. What should a repository contain if we want to use it for many weeks of work?
 
 Key idea:
 
@@ -135,7 +129,24 @@ README.md
 learning-log.md
 ```
 
-The README should identify the course and explain the repository's purpose. The learning log will accumulate evidence across later lessons.
+The README should not be an empty placeholder. Students should use the Markdown skills from the previous lesson to make it readable and useful.
+
+Recommended README structure:
+
+```markdown
+# Full-Stack Web and AI Application Development
+
+## Purpose
+A short explanation of what this repository is for.
+
+## Learning Goals
+- Goal 1
+- Goal 2
+- Goal 3
+
+## Evidence
+Course work and learning evidence will be added here throughout the course.
+```
 
 ---
 
@@ -145,13 +156,14 @@ The README should identify the course and explain the repository's purpose. The 
    `YourName-Full-Stack-Web-and-AI-Application-Development`.
 2. Do **not** fork the teacher repository.
 3. Initialize the repository with `README.md`.
-4. In the README, add:
+4. Edit the README using Markdown and include:
    - the course name;
    - a short statement of the repository's purpose;
-   - three learning goals.
+   - three learning goals;
+   - one clearly formatted section using headings and a list.
 5. Create `learning-log.md`.
-6. Add the saved Lesson 1 and Lesson 2 evidence references or entries.
-7. Add a Lesson 3 entry.
+6. Add a Lesson 0 workflow entry and a Lesson 1 Markdown entry.
+7. Add a Lesson 2 repository-creation entry.
 8. Use a meaningful commit message such as:
    `Create course repository and learning log`.
 
@@ -165,7 +177,7 @@ Close the video and instructions. From the GitHub dashboard, independently locat
 
 - exact repository name;
 - public visibility;
-- `README.md`;
+- rendered `README.md`;
 - `learning-log.md`;
 - meaningful commit history.
 
@@ -185,9 +197,10 @@ Complete this comparison:
 Add to `learning-log.md`:
 
 ```markdown
-## Lesson 3 — Course Repository
+## Lesson 2 — Course Repository
 - What I created:
 - Why this repository exists:
+- How Markdown helped me create the README:
 - How it differs from Hello World:
 - Evidence link:
 ```
@@ -200,7 +213,8 @@ Add to `learning-log.md`:
 - Naming the course repository incorrectly
 - Forking the teacher repository instead of creating the student's own repository
 - Treating README as an empty placeholder
-- Creating files without checking the resulting commit history
+- Forgetting to use Markdown structure in the README
+- Creating files without checking commit history
 - Using vague commit messages such as `update`
 - Publishing passwords, tokens, recovery codes, or other private information
 
@@ -208,11 +222,14 @@ Add to `learning-log.md`:
 
 ## Teacher Notes
 
-The conceptual distinction matters:
+The dependency order is intentional:
 
-- **Lesson 0:** whole-workflow mental model and guided GitHub experience;
-- **Lesson 1:** why version control exists and why commits are snapshots;
-- **Lesson 2:** local Git state model and the commands that operate on it;
-- **Lesson 3:** establish the long-term GitHub repository students will use for authentic course work.
+```text
+Lesson 0 — whole GitHub workflow
+Lesson 1 — Markdown
+Lesson 2 — create the real course repository
+```
 
-Lesson 4 can now focus on bringing existing files/evidence into that course repository without pretending students are seeing GitHub for the first time.
+Students now have enough context to understand what a repository is for and enough Markdown knowledge to create a meaningful README immediately.
+
+The following lessons stay in the GitHub browser before local Git is introduced.

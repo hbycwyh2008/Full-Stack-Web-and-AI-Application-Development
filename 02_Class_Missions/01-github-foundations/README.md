@@ -4,20 +4,13 @@ Student-facing GitHub + Git beginner unit for **Collaborate**.
 
 ## Design Principle
 
-This unit is intentionally split into two layers:
+This unit is intentionally taught in three conceptual steps:
 
-1. **GitHub in the browser first** — students learn the visible collaboration workflow, create a real course repository, write Markdown, upload files, create issues, open pull requests, review, and merge.
-2. **Git locally second** — students then learn version control and the local-to-remote development loop: initialize or clone, pull, branch, edit, stage, commit, push, open a PR, merge, and sync again.
+1. **See the whole GitHub workflow first** — students experience repository → branch → commit → pull request → review → merge through Hello World and Introduction to GitHub.
+2. **Master the browser-based GitHub workflow** — students learn Markdown, create their course repository, manage files/code, create Issues, open Pull Requests, and review/merge them.
+3. **Connect local Git to the GitHub workflow** — only after students already understand what happens on GitHub do they learn version control and the complete local ↔ remote command loop.
 
-The goal is a complete mental and practical loop rather than following the official video playlist in order.
-
-## Unit Structure
-
-- **15 lessons × 45 minutes**
-- Official GitHub beginner videos are used as skill warm-ups where they match the lesson goal
-- Playlist order is **not** treated as the curriculum order
-- One focused practice and one `learning-log.md` entry per lesson
-- No video homework
+The official playlist is a resource collection, not the curriculum order.
 
 ## Student Repository
 
@@ -36,7 +29,7 @@ Use hyphens and do not fork the teacher course repository.
 
 ### Lesson 0 — What Is GitHub? + Hello World Workflow
 
-Students first see the whole collaboration model:
+Students first see and experience the complete collaboration model:
 
 ```text
 Repository
@@ -50,104 +43,141 @@ Repository
 
 They complete GitHub Hello World and GitHub Skills: Introduction to GitHub.
 
-This gives students a complete workflow before individual skills are isolated.
+The purpose is orientation: students know what the whole workflow looks like before individual skills are isolated.
 
 ---
 
-## Stage B — GitHub Browser Skills
+## Stage B — GitHub Browser Workflow
 
-Students next learn the browser-based GitHub skills needed to manage a real repository.
+Students now learn the visible GitHub-side workflow in dependency order.
 
 | # | Lesson | Main skill |
 |---|---|---|
 | 1 | [Markdown for README and Documentation](lesson-12-markdown.md) | Write and preview Markdown before creating the long-term repository |
 | 2 | [Create Your First Course Repository](lesson-03-first-github-repository.md) | Create the long-term repository with a useful `README.md` and `learning-log.md` |
-| 3 | [Upload Files and Folders](lesson-04-upload-files-and-folders.md) | Add existing local artifacts through the GitHub web interface |
+| 3 | [Upload Files and Folders](lesson-04-upload-files-and-folders.md) | Add existing artifacts through the GitHub web interface |
 | 4 | [Add Code to a Repository](lesson-05-add-code-to-repository.md) | Add/edit code and understand repository history |
-| 5 | [GitHub Issues and Projects](lesson-09-issues-and-projects.md) | Turn work into trackable issues before implementing changes |
-| 6 | [Create a Pull Request](lesson-06-create-pull-request.md) | Propose changes through a PR |
+| 5 | [GitHub Issues and Projects](lesson-09-issues-and-projects.md) | Define and track work before implementing it |
+| 6 | [Create a Pull Request](lesson-06-create-pull-request.md) | Propose a change through a branch and Pull Request |
 | 7 | [Review and Merge a Pull Request](lesson-07-merge-pull-request.md) | Review, discuss, merge, and verify the result |
 
-At the end of Stage B, students can complete a GitHub-only collaboration loop without local Git.
-
----
-
-## Stage C — Git and Version Control
-
-Once students know what GitHub actions *mean*, they learn the local mechanism underneath them.
-
-| # | Lesson | Main skill |
-|---|---|---|
-| 8 | [Git and Version Control](lesson-01-git-introduction.md) | Understand Git, snapshots, history, and why version control exists |
-| 9 | [Essential Git Commands](lesson-02-essential-git-commands.md) | Work with `git status`, `git add`, `git commit`, `git log`, branches, and remotes |
-| 10 | Local Repository → GitHub | Create or initialize a local project, connect a remote, and push |
-| 11 | Sync Before You Work | Start from the newest remote state using `git pull` or an appropriate fetch/pull workflow |
-| 12 | Branch → Edit → Commit → Push | Create a feature branch locally, make changes, stage, commit, and push |
-| 13 | Complete Local-to-Remote Workflow | Open PR → review → merge → switch back → pull the merged result |
-
-The repeatable development loop is:
+**Lessons 5–7 must come before the local Git command lesson.** By the end of Lesson 7, students already understand the full GitHub-side collaboration workflow:
 
 ```text
-Start work
-→ git pull
-→ git switch -c feature-name
-→ edit files
-→ git status
-→ git add
-→ git commit
-→ git push -u origin feature-name
-→ open Pull Request
-→ review
-→ merge
-→ git switch main
-→ git pull
-→ next task
+Issue
+→ Branch / change
+→ Commit
+→ Pull Request
+→ Review
+→ Merge
 ```
 
-This is the workflow students should eventually be able to perform without prompts.
+This matters because later commands such as `git push` and `git pull` should connect to actions students already understand, rather than introduce both the command and the collaboration concept at the same time.
 
 ---
 
-## Stage D — GitHub Platform Extensions
+## Stage C — Git, Version Control, and the Complete Local ↔ Remote Loop
 
-These are useful after the core collaboration workflow is already secure.
+Once students understand the GitHub-side workflow, they learn the local mechanism underneath it.
 
 | # | Lesson | Main skill |
 |---|---|---|
-| 14 | [Git and GitHub in VS Code](lesson-14-git-and-github-in-vscode.md) | Perform the same Git workflow through VS Code |
-| 15 | [Beginner FAQ and Mastery Check](lesson-15-beginner-faq-and-mastery-check.md) | Verify independent mastery and diagnose common Git/GitHub mistakes |
+| 8 | [Git and Version Control](lesson-01-git-introduction.md) | Understand why Git exists: snapshots, history, branches, local vs remote |
+| 9 | [Essential Git Commands — Complete Git ↔ GitHub Workflow](lesson-02-essential-git-commands.md) | Connect local work to GitHub with `init/clone`, `status`, `add`, `commit`, `switch`, `pull`, `push`, branches, remotes, PRs, merge, and resync |
+| 10 | [Git and GitHub in VS Code](lesson-14-git-and-github-in-vscode.md) | Repeat the complete workflow inside a real development environment |
+| 11 | [Beginner FAQ and Mastery Check](lesson-15-beginner-faq-and-mastery-check.md) | Perform and explain the full workflow independently |
 
-Optional or later-extension topics:
+Lesson 9 is **not** a disconnected command-list lesson. It is the integration lesson that reveals how the local Git side connects to the GitHub workflow students already know.
+
+The target loop is:
+
+```text
+Start from current main
+→ git switch main
+→ git pull
+
+Create isolated work
+→ git switch -c feature-name
+
+Develop locally
+→ edit files
+→ git status
+→ git add ...
+→ git commit -m "..."
+
+Send work to GitHub
+→ git push -u origin feature-name
+
+GitHub collaboration
+→ Pull Request
+→ Review
+→ Merge
+
+Return local main to the newest remote state
+→ git switch main
+→ git pull
+
+→ next Issue / task
+```
+
+A compact professional loop is therefore:
+
+```text
+Issue
+→ pull
+→ branch
+→ edit
+→ add
+→ commit
+→ push
+→ Pull Request
+→ review
+→ merge
+→ switch main
+→ pull
+```
+
+The three-state model remains important:
+
+```text
+Working Directory
+→ Staging Area
+→ Commit History
+```
+
+but it explains only the local `add/commit` portion of the larger workflow. It must not be taught as if it were the boundary of the Git/GitHub process.
+
+---
+
+## Stage D — Optional GitHub Platform Extensions
+
+These are useful after the core GitHub → Git → full workflow progression is secure:
 
 - [GitHub Profile and Account Security](lesson-08-profile-and-account-security.md)
 - [Repository Security](lesson-10-github-security.md)
 - [Publish with GitHub Pages](lesson-11-github-pages.md)
 - [Open Source Contributions](lesson-13-open-source-contributions.md)
 
-These are valuable, but they should not interrupt the core GitHub → Git → full workflow progression.
+These topics are valuable, but they should not interrupt the dependency chain of the core workflow.
 
 ---
 
 ## Core Concept Progression
 
 ```text
-See the whole workflow
+See the whole GitHub workflow
 → learn Markdown
 → create a real repository
 → manage files and code on GitHub
-→ use Issues
+→ define work with Issues
 → create Pull Requests
 → review and merge
 → understand Git/version control
-→ use Git commands locally
-→ connect local and remote repositories
-→ pull before work
-→ branch/edit/commit/push
-→ PR/review/merge
-→ pull again
+→ connect local Git to GitHub
+→ repeat the complete local ↔ remote loop
 ```
 
-This produces a complete closed loop instead of a collection of disconnected Git and GitHub features.
+This produces one coherent development workflow instead of a collection of disconnected Git and GitHub features.
 
 ---
 
@@ -176,8 +206,6 @@ After the course repository is created, students maintain one file:
 - Evidence link:
 ```
 
-Before the course repository exists, students may temporarily save lesson evidence locally and upload it once the repository is created.
-
 ---
 
 ## GitHub Skills Used
@@ -193,21 +221,20 @@ GitHub Skills is used only where its learning goal directly matches the lesson. 
 
 Do **not** teach this unit as “watch the official playlist from #1 to #16.”
 
-The official videos are resources, not the instructional sequence.
-
-The curriculum sequence is based on dependency:
+The curriculum sequence is based on instructional dependency:
 
 ```text
 GitHub workflow mental model
 → Markdown + repository creation
-→ GitHub browser collaboration
+→ Issues + PR + review/merge
 → Git/version-control model
-→ local commands
-→ local/remote synchronization
-→ full professional workflow
+→ complete local Git ↔ GitHub command workflow
+→ independent repetition in VS Code
 ```
 
-That sequence better matches how students will actually work in later Full-Stack and AI application projects.
+The critical transition is:
+
+> Students first understand **what happens on GitHub**. Then they learn **how local Git drives that same workflow from their own computer**.
 
 ## Related Teacher Materials
 

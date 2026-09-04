@@ -1,4 +1,4 @@
-# Lesson 2: Git States and Essential Commands
+# Lesson 9: Essential Git Commands — Complete Git ↔ GitHub Workflow
 
 **Phase:** 0 — Git & GitHub  
 **Duration:** 45 minutes  
@@ -10,23 +10,40 @@
 
 ## Lesson Goal
 
-Students can explain the Git state model and use core commands because they understand **what changes state**, not because they memorized a command list.
-
-By the end of the lesson, students should be able to explain:
+Students already understand the GitHub browser workflow:
 
 ```text
-Working Directory
-→ Staging Area
-→ Commit History
+Issue
+→ Branch / change
+→ Commit
+→ Pull Request
+→ Review
+→ Merge
 ```
 
-and connect the model to:
+They also understand why Git exists, what a commit snapshot is, and the difference between local and remote repositories.
+
+This lesson now connects those two understandings into one complete workflow.
+
+By the end of the lesson, students can perform and explain:
 
 ```text
-git status → git add → git commit → git log
+git switch main
+→ git pull
+→ git switch -c feature-name
+→ edit
+→ git status
+→ git add
+→ git commit
+→ git push
+→ Pull Request
+→ Review
+→ Merge
+→ git switch main
+→ git pull
 ```
 
-This lesson deliberately separates the **local Git model** from later GitHub synchronization and collaboration skills.
+The goal is **not command memorization**. The goal is understanding how each command moves work through the local ↔ remote development loop.
 
 ---
 
@@ -35,44 +52,209 @@ This lesson deliberately separates the **local Git model** from later GitHub syn
 | Role | What |
 |---|---|
 | **Video** | **Playlist #2** — [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU) |
-| **Core concept** | Working Directory → Staging Area → Commit History |
-| **Guided practice** | Move one change through the three-state model and verify each transition |
-| **Evidence** | Local `02-git-state-model.md` plus a real local commit |
-| **Exit Ticket** | Explain a command by naming the state change it causes |
+| **Core concept** | Local Git commands drive the same GitHub workflow students already know |
+| **Guided practice** | Complete one end-to-end feature workflow from local repository to GitHub and back |
+| **Evidence** | Real branch, commit, push, Pull Request, merge, and final synced `main` |
+| **Exit Ticket** | Explain the purpose of each command in the complete loop |
 
 ---
 
-## Start With the Model, Not the Commands
+## Start With the Whole System
 
-A Git command is useful only if you understand what it does to the project state.
+Do not begin with a disconnected command list.
+
+First show the complete system:
 
 ```text
-WORKING DIRECTORY
-Files you are currently editing
-        |
-        | git add
-        v
-STAGING AREA
-Changes selected for the next snapshot
-        |
-        | git commit
-        v
-COMMIT HISTORY
-Recorded snapshots of the project
+LOCAL COMPUTER                         GITHUB
+
+main
+  │
+  │ git pull  <────────────────────── latest remote main
+  │
+  ├─ git switch -c feature-name
+  │
+  ├─ edit files
+  │
+  ├─ git status
+  │
+  ├─ git add
+  │
+  ├─ git commit
+  │
+  └─ git push ───────────────────────→ feature branch
+                                         │
+                                         ├─ Pull Request
+                                         ├─ Review
+                                         └─ Merge → main
+
+main
+  │
+  └─ git pull  <────────────────────── merged remote main
 ```
 
-`git status` helps you inspect where your changes are.  
-`git log` lets you inspect recorded commit history.
+Students have already practiced the right-hand side in the browser. Today they learn how the left-hand side connects to it.
 
-### Core Vocabulary
+---
 
-| Term | Meaning |
-|---|---|
-| **Working Directory** | The files you are currently viewing and editing |
-| **Staging Area** | The changes selected to become part of the next commit |
-| **Commit History** | The sequence of recorded project snapshots |
-| **commit** | A meaningful recorded snapshot |
-| **status** | A report showing the current state of tracked changes |
+## Core Commands by Purpose
+
+| Purpose | Command | Meaning |
+|---|---|---|
+| Inspect current state | `git status` | Show changed, staged, and untracked work |
+| Create a local Git repository | `git init` | Start tracking a local project with Git |
+| Copy an existing remote repository | `git clone <url>` | Create a local working copy connected to a remote |
+| Inspect remotes | `git remote -v` | Show configured remote locations |
+| Get newest shared work | `git pull` | Fetch and integrate changes from the tracked remote branch |
+| Create and switch branch | `git switch -c feature-name` | Start isolated work on a new branch |
+| Switch branches | `git switch main` | Move the working directory to another branch |
+| Select changes | `git add <file>` | Stage changes for the next commit |
+| Record a snapshot | `git commit -m "message"` | Save staged changes in local history |
+| Send branch to GitHub | `git push -u origin feature-name` | Publish the local branch and set its upstream |
+| Inspect history | `git log --oneline` | View recorded commits |
+
+Students should be able to answer **why** a command is needed and what changes after it runs.
+
+---
+
+## The Local Three-State Model Still Matters
+
+Within the larger workflow, local edits still move through:
+
+```text
+Working Directory
+→ Staging Area
+→ Commit History
+```
+
+That corresponds to:
+
+```text
+edit
+→ git add
+→ git commit
+```
+
+But this is only one section of the complete workflow. It does **not** explain synchronization with GitHub by itself.
+
+---
+
+## Two Ways a Project Can Begin
+
+### A. Existing GitHub repository
+
+This will often be the normal course workflow:
+
+```bash
+git clone <repository-url>
+cd <repository-folder>
+```
+
+Then verify:
+
+```bash
+git status
+git remote -v
+```
+
+### B. Existing local project that is not yet a Git repository
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+```
+
+Then connect a GitHub remote when appropriate:
+
+```bash
+git remote add origin <repository-url>
+git push -u origin main
+```
+
+Students should understand the distinction between `init` and `clone`, not blindly run both.
+
+---
+
+## The Repeatable Daily Workflow
+
+### Step 1 — Start from the newest `main`
+
+```bash
+git switch main
+git pull
+```
+
+Purpose: do not begin new work from an outdated local copy.
+
+### Step 2 — Create a branch for the Issue or task
+
+```bash
+git switch -c feature-name
+```
+
+Purpose: isolate the new work instead of changing `main` directly.
+
+### Step 3 — Edit and inspect
+
+Make the required change, then:
+
+```bash
+git status
+```
+
+Purpose: verify exactly what changed before staging anything.
+
+### Step 4 — Stage intentionally
+
+```bash
+git add <filename>
+```
+
+or, when appropriate:
+
+```bash
+git add .
+```
+
+Purpose: choose what belongs in the next snapshot.
+
+### Step 5 — Commit the snapshot
+
+```bash
+git commit -m "Describe the change"
+```
+
+Purpose: record a meaningful local checkpoint.
+
+### Step 6 — Push the branch to GitHub
+
+```bash
+git push -u origin feature-name
+```
+
+Purpose: publish the local branch so GitHub can host the collaboration step.
+
+### Step 7 — Complete the GitHub workflow
+
+On GitHub:
+
+```text
+Open Pull Request
+→ Review / discussion
+→ Merge
+```
+
+This is not new content. Students already learned it in Lessons 6–7.
+
+### Step 8 — Resynchronize local `main`
+
+```bash
+git switch main
+git pull
+```
+
+Purpose: bring the merged remote result back to the local computer before the next task.
 
 ---
 
@@ -80,142 +262,182 @@ Recorded snapshots of the project
 
 | Time | Block |
 |---|---|
-| **0–10 min** | **Skill Warm-up** — watch playlist #2; listen for commands and what they do |
-| **10–14 min** | **Retrieve the Snapshot Idea** — connect back to `commit = snapshot` |
-| **14–21 min** | **Build the Three-State Model** — Working Directory → Staging Area → Commit History |
-| **21–33 min** | **Guided Practice** — edit → inspect → stage → inspect → commit → inspect history |
-| **33–40 min** | **Independent Rebuild** — repeat with a second change without prompts |
-| **40–45 min** | **Explain + Evidence** — explain each command through the state model |
+| **0–10 min** | **Skill Warm-up** — watch playlist #2 and identify commands used across the full workflow |
+| **10–15 min** | **Retrieve** — rebuild Issue → PR → Review → Merge from memory |
+| **15–22 min** | **Model** — teacher demonstrates the complete local ↔ GitHub loop once |
+| **22–35 min** | **Guided Practice** — students complete one branch → commit → push → PR → merge → pull cycle |
+| **35–41 min** | **Independent Rebuild** — repeat the command sequence with a second tiny change, using minimal prompts |
+| **41–45 min** | **Explain + Evidence** — students explain why each step exists and verify local/remote synchronization |
 
 ---
 
-### 0–10 min: Skill Warm-up
+## Guided Practice — One Complete Feature Cycle
 
-Watch **playlist #2 only**: [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU).
+Use the student's course repository.
 
-Record commands you hear, but do **not** try to memorize them yet. For each command, ask:
+### 1. Verify the starting point
 
-> What does this command inspect or change?
-
----
-
-### 10–14 min: Retrieve the Snapshot Idea
-
-Return to the earlier idea:
-
-> **Commit = snapshot.**
-
-Discuss:
-
-1. If a commit is a snapshot, should every unfinished edit automatically become part of it?
-2. How might Git let us choose which changes belong in the next snapshot?
-
-This question introduces the purpose of the staging area.
-
----
-
-### 14–21 min: Build the Three-State Model
-
-Teacher models one file moving through the workflow:
-
-```text
-Edit file
-↓
+```bash
+git switch main
+git pull
 git status
-↓
-git add filename
-↓
-git status
-↓
-git commit -m "Describe the change"
-↓
-git log
 ```
 
-Students must identify the state after each step.
+### 2. Create a branch
 
-Key distinction:
-
-- `git status` **inspects** state.
-- `git add` moves selected changes toward the next snapshot.
-- `git commit` records the staged changes as a snapshot.
-- `git log` inspects recorded snapshots.
-
----
-
-### 21–33 min: Guided Practice
-
-In a teacher-provided practice folder:
-
-1. Run `git init` if the folder is not already a repository.
-2. Create or edit one file.
-3. Run `git status`. Identify the change in the **Working Directory**.
-4. Run `git add <filename>`.
-5. Run `git status` again. Identify the change in the **Staging Area**.
-6. Run `git commit -m "Add first practice note"`.
-7. Run `git log` and locate the new snapshot in **Commit History**.
-8. In `02-git-state-model.md`, draw or describe the three-state model and explain what each command did.
-
-If Git is unavailable, use teacher-provided state and command cards and explain every transition rather than merely ordering commands.
-
----
-
-### 33–40 min: Independent Rebuild
-
-Without looking at the worked example:
-
-1. Make a second change.
-2. Decide how to inspect it.
-3. Stage it.
-4. Verify that it is staged.
-5. Commit it with a meaningful message.
-6. Find the new snapshot in history.
-
-Then explain the sequence using **states**, not only command names.
-
----
-
-### 40–45 min: Explain + Evidence
-
-Complete these statements in your own words:
-
-- My edited file begins in the __________.
-- `git add` moves selected changes to the __________.
-- `git commit` records the staged changes as a __________.
-- `git status` helps me __________.
-- `git log` helps me __________.
-
-Save `02-git-state-model.md` locally for later upload.
-
----
-
-## Not Yet the Focus
-
-You may hear commands such as `push`, `pull`, `branch`, or `switch` in the video. They are useful, but they are **not the mastery target of this lesson**.
-
-First master:
-
-```text
-edit → inspect → stage → commit → inspect history
+```bash
+git switch -c lesson-09-git-workflow
 ```
 
-Later lessons connect this local Git model to GitHub repositories, branches, pull requests, and collaboration.
+### 3. Make a small change
+
+Create or update:
+
+```text
+github-foundations/09-complete-git-workflow.md
+```
+
+Include:
+
+- the full workflow diagram;
+- the difference between `init` and `clone`;
+- the purpose of `pull`, `add`, `commit`, and `push`;
+- one rule for good branch names;
+- one rule for good commit messages.
+
+### 4. Inspect, stage, and commit
+
+```bash
+git status
+git add github-foundations/09-complete-git-workflow.md
+git status
+git commit -m "Document complete Git workflow"
+git log --oneline
+```
+
+### 5. Push
+
+```bash
+git push -u origin lesson-09-git-workflow
+```
+
+### 6. Use the GitHub workflow already learned
+
+- Open a Pull Request.
+- Check the changed files.
+- Review the change.
+- Merge the Pull Request.
+
+### 7. Close the loop locally
+
+```bash
+git switch main
+git pull
+git status
+```
+
+Verify that `09-complete-git-workflow.md` now exists on local `main`.
+
+---
+
+## Independent Rebuild
+
+Without the step-by-step instructions, complete a second tiny workflow:
+
+```text
+start on updated main
+→ create branch
+→ change one file
+→ inspect
+→ stage
+→ commit
+→ push
+→ PR
+→ merge
+→ return to main
+→ pull
+→ verify
+```
+
+The teacher should intervene only for a genuine Git error, not because the student forgot the next command.
+
+---
+
+## Exit Ticket
+
+Explain each answer in terms of project state or synchronization:
+
+1. Why should `git pull` normally happen before starting a new task?
+2. Why create a feature branch instead of editing `main` directly?
+3. What is the difference between `git add` and `git commit`?
+4. Where does a commit exist immediately after `git commit` but before `git push`?
+5. What does `git push` make possible on GitHub?
+6. Why do we `git switch main` and `git pull` after a PR is merged?
+7. What is the difference between `git init` and `git clone`?
+
+---
+
+## Mastery Standard
+
+A student has mastered this lesson when they can independently execute and explain:
+
+```text
+Issue / task
+→ git switch main
+→ git pull
+→ git switch -c branch-name
+→ edit
+→ git status
+→ git add
+→ git commit
+→ git push
+→ Pull Request
+→ Review
+→ Merge
+→ git switch main
+→ git pull
+```
+
+They should also be able to diagnose the workflow by asking:
+
+- Which branch am I on?
+- Is my local `main` current?
+- What changed?
+- What is staged?
+- What is committed only locally?
+- What has been pushed to GitHub?
+- Has the PR been merged?
+- Has local `main` pulled the merged result?
 
 ---
 
 ## Common Mistakes
 
-- Memorizing commands without knowing which state they inspect or change
-- Thinking `git add` creates a commit
-- Thinking every edited file automatically enters the next commit
-- Treating `git commit` as ordinary file saving instead of recording a project snapshot
-- Using vague commit messages such as `update`
-- Publishing passwords, tokens, or other private information
+- Running commands as a memorized chant without understanding state
+- Starting new work on stale `main`
+- Editing `main` directly instead of a feature branch
+- Confusing `git add` with `git commit`
+- Assuming `git commit` automatically sends work to GitHub
+- Assuming `git push` automatically merges work into `main`
+- Forgetting to return to `main` and pull after the PR is merged
+- Running `git init` inside a repository that was already cloned
+- Using vague branch or commit names such as `test`, `stuff`, or `update`
 
 ---
 
 ## Teacher Notes
 
-Keep asking **“Where is the change now?”** rather than **“What command comes next?”**. The goal is a mental model students can later use to debug Git workflows.
+This lesson must come **after** students have already learned:
 
-Lesson 3 connects this local Git understanding to the long-term course repository on GitHub.
+```text
+Issues
+→ Pull Requests
+→ Review
+→ Merge
+```
+
+Do not artificially restrict the official commands video to only `status → add → commit`. Use it to connect the local Git side to the GitHub-side workflow students already understand.
+
+The three-state model is still useful for explaining staging and commits, but the instructional target is the complete local ↔ remote loop.
+
+Lesson 10 should repeat the same workflow in VS Code rather than introduce a different Git model.

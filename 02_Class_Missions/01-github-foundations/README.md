@@ -153,10 +153,10 @@ but it explains only the local `add/commit` portion of the larger workflow. It m
 These are useful after the core GitHub → Git → full workflow progression is secure:
 
 - [GitHub Profile and Account Security](lesson-08-profile-and-account-security.md)
-- [Repository Security — Lesson 10 (Optional)](lesson-10-github-security.md)
+- **OPTIONAL — Lesson 10:** [Repository Security](lesson-10-optional-repository-security.md)
 - [Publish with GitHub Pages](lesson-11-github-pages.md)
-- [Open Source Contributions — Lesson 13 (Optional)](lesson-13-open-source-contributions.md)
-- [Beginner FAQ and Mastery Check — Lesson 15 (Optional)](lesson-15-beginner-faq-and-mastery-check.md)
+- **OPTIONAL — Lesson 13:** [Open Source Contributions](lesson-13-optional-open-source-contributions.md)
+- **OPTIONAL — Lesson 15:** [Beginner FAQ and Mastery Check](lesson-15-optional-beginner-faq-and-mastery-check.md)
 
 **Lessons 10, 13, and 15 are optional.** They are enrichment or mastery extensions and are not required to complete the core GitHub Foundations pathway.
 

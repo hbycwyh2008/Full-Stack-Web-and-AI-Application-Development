@@ -85,7 +85,6 @@ Once students understand the GitHub-side workflow, they learn the local mechanis
 | 8 | [Git and Version Control](lesson-01-git-introduction.md) | Understand why Git exists: snapshots, history, branches, local vs remote |
 | 9 | [Essential Git Commands — Complete Git ↔ GitHub Workflow](lesson-02-essential-git-commands.md) | Connect local work to GitHub with `init/clone`, `status`, `add`, `commit`, `switch`, `pull`, `push`, branches, remotes, PRs, merge, and resync |
 | 10 | [Git and GitHub in VS Code](lesson-14-git-and-github-in-vscode.md) | Repeat the complete workflow inside a real development environment |
-| 11 | [Beginner FAQ and Mastery Check](lesson-15-beginner-faq-and-mastery-check.md) | Perform and explain the full workflow independently |
 
 Lesson 9 is **not** a disconnected command-list lesson. It is the integration lesson that reveals how the local Git side connects to the GitHub workflow students already know.
 
@@ -154,9 +153,12 @@ but it explains only the local `add/commit` portion of the larger workflow. It m
 These are useful after the core GitHub → Git → full workflow progression is secure:
 
 - [GitHub Profile and Account Security](lesson-08-profile-and-account-security.md)
-- [Repository Security](lesson-10-github-security.md)
+- [Repository Security — Lesson 10 (Optional)](lesson-10-github-security.md)
 - [Publish with GitHub Pages](lesson-11-github-pages.md)
-- [Open Source Contributions](lesson-13-open-source-contributions.md)
+- [Open Source Contributions — Lesson 13 (Optional)](lesson-13-open-source-contributions.md)
+- [Beginner FAQ and Mastery Check — Lesson 15 (Optional)](lesson-15-beginner-faq-and-mastery-check.md)
+
+**Lessons 10, 13, and 15 are optional.** They are enrichment or mastery extensions and are not required to complete the core GitHub Foundations pathway.
 
 These topics are valuable, but they should not interrupt the dependency chain of the core workflow.
 

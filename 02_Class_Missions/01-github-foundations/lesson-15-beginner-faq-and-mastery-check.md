@@ -1,6 +1,7 @@
-# Lesson 15: Beginner FAQ and Mastery Check
+# Lesson 15: Beginner FAQ and Mastery Check (Optional)
 
 **Phase:** 0 — Git & GitHub
+**Status:** Optional extension
 **Duration:** 45 minutes
 **Official playlist position:** #16
 **Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
@@ -26,6 +27,8 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | **Evidence** | `mastery-check/final-github-practice.md` plus one final commit |
 | **Exit Ticket** | `learning-log.md` → Lesson 15 |
 
+> **Optional:** This lesson is a mastery extension and is not required to complete the core GitHub Foundations pathway.
+>
 > Playlist #10, GitHub Actions, is excluded from this unit. Lesson numbers after Lesson 9 therefore differ from playlist positions.
 
 ---
@@ -115,7 +118,7 @@ Add to `learning-log.md`:
 - Evidence link:
 ```
 
-Commit the learning-log update if the lesson's practice did not already require that exact commit. **Homework is only the unfinished Lesson 15 learning-log entry; no video homework.**
+Commit the learning-log update if the lesson's practice did not already require that exact commit. **If this optional lesson is assigned, homework is only the unfinished Lesson 15 learning-log entry; no video homework.**
 
 ---
 
@@ -131,4 +134,4 @@ Commit the learning-log update if the lesson's practice did not already require 
 
 ## Teacher Notes
 
-This is the final GitHub Foundations lesson. Use the rubric for the summative result.
+This is an optional mastery extension, not a required final lesson. Use it when you want an additional summative check after students have already completed the core GitHub Foundations pathway.

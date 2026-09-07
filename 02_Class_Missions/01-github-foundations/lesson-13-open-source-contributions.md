@@ -1,6 +1,7 @@
-# Lesson 13: Open Source Contributions
+# Lesson 13: Open Source Contributions (Optional)
 
 **Phase:** 0 — Git & GitHub
+**Status:** Optional extension
 **Duration:** 45 minutes
 **Official playlist position:** #14
 **Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
@@ -26,6 +27,8 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | **Evidence** | Teacher-approved fork/branch evidence plus contribution plan |
 | **Exit Ticket** | `learning-log.md` → Lesson 13 |
 
+> **Optional:** This lesson is enrichment and is not required to complete the core GitHub Foundations pathway.
+>
 > Playlist #10, GitHub Actions, is excluded from this unit. Lesson numbers after Lesson 9 therefore differ from playlist positions.
 
 ---
@@ -115,7 +118,7 @@ Add to `learning-log.md`:
 - Evidence link:
 ```
 
-Commit the learning-log update if the lesson's practice did not already require that exact commit. **Homework is only the unfinished Lesson 13 learning-log entry; no video homework.**
+Commit the learning-log update if the lesson's practice did not already require that exact commit. **If this optional lesson is assigned, homework is only the unfinished Lesson 13 learning-log entry; no video homework.**
 
 ---
 
@@ -131,4 +134,4 @@ Commit the learning-log update if the lesson's practice did not already require 
 
 ## Teacher Notes
 
-Lesson 14 continues with the next official playlist video.
+This is an optional extension. It should be used after students are already comfortable with branches, pull requests, review, merge, and the local Git ↔ GitHub workflow.

@@ -1,6 +1,7 @@
-# Lesson 10: Repository Security
+# Lesson 10: Repository Security (Optional)
 
 **Phase:** 0 — Git & GitHub
+**Status:** Optional extension
 **Duration:** 45 minutes
 **Official playlist position:** #11
 **Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
@@ -26,6 +27,8 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | **Evidence** | Security settings check, `.gitignore`, and repository security checklist |
 | **Exit Ticket** | `learning-log.md` → Lesson 10 |
 
+> **Optional:** This lesson is enrichment and is not required to complete the core GitHub Foundations pathway.
+>
 > Playlist #10, GitHub Actions, is excluded from this unit. Lesson numbers after Lesson 9 therefore differ from playlist positions.
 
 ---
@@ -115,7 +118,7 @@ Add to `learning-log.md`:
 - Evidence link:
 ```
 
-Commit the learning-log update if the lesson's practice did not already require that exact commit. **Homework is only the unfinished Lesson 10 learning-log entry; no video homework.**
+Commit the learning-log update if the lesson's practice did not already require that exact commit. **If this optional lesson is assigned, homework is only the unfinished Lesson 10 learning-log entry; no video homework.**
 
 ---
 
@@ -131,6 +134,4 @@ Commit the learning-log update if the lesson's practice did not already require 
 
 ## Teacher Notes
 
-Optional extensions after required evidence: [Introduction to secret protection](https://github.com/skills/introduction-to-secret-scanning) focuses on secret scanning, while [Secure your repository supply chain](https://github.com/skills/secure-repository-supply-chain) focuses on dependencies and Dependabot. Neither replaces this lesson’s broader video-aligned rebuild.
-
-Lesson 11 continues with the next official playlist video.
+This is an optional extension after the required GitHub Foundations evidence is secure. [Introduction to secret protection](https://github.com/skills/introduction-to-secret-scanning) focuses on secret scanning, while [Secure your repository supply chain](https://github.com/skills/secure-repository-supply-chain) focuses on dependencies and Dependabot. Neither replaces this lesson’s broader video-aligned rebuild.

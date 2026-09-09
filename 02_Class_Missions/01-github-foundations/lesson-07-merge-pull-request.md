@@ -1,18 +1,49 @@
-# Lesson 7: Review and Merge a Pull Request
+# Lesson 7: Owner Review, Merge, and Team Sync
 
-**Phase:** 0 — Git & GitHub
-**Duration:** 45 minutes
-**Official playlist position:** #7
+**Phase:** 0 — Git & GitHub  
+**Duration:** 45 minutes  
+**Official playlist position:** #7  
 **Flow:** [classroom-flow-45-min.md](../shared/classroom-flow-45-min.md)
-**Student repo:** `YourName-Full-Stack-Web-and-AI-Application-Development`
 
 ---
 
 ## Lesson Goal
 
-After watching the official video, students can review a pull request, merge it, and confirm that the target branch contains the change.
+Students complete the team collaboration workflow started in Lesson 6.
 
-This lesson uses **one video and one guided practice**. Do not re-teach the Classroom Flow posters and do not assign another playlist video as homework.
+By the end of the lesson, students can:
+
+- explain the difference between **contributor** and **maintainer** responsibilities,
+- review a pull request before integration,
+- merge approved feature work into `main`,
+- verify the final repository state, and
+- synchronize the updated `main` branch back to every local repository.
+
+> **Classroom rule:** collaborators create pull requests; the Owner / Maintainer controls integration into `main`.
+
+---
+
+## Team Roles
+
+Continue with the same team of three from Lesson 6.
+
+| Role | Responsibility Today |
+|---|---|
+| **Owner / Maintainer** | Reviews collaborator PRs, checks the Owner's own HTML PR, merges all approved work into `main` |
+| **Collaborator 1** | Responds to feedback on the CSS PR and waits for merge |
+| **Collaborator 2** | Responds to feedback on the JavaScript PR and waits for merge |
+
+### Responsibility Boundary
+
+```text
+Collaborators
+feature branch → push → pull request → wait / respond to feedback
+
+Owner / Maintainer
+inspect → review → merge → verify main
+```
+
+Not every team member merges into `main`.
 
 ---
 
@@ -21,12 +52,9 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 | Role | What |
 |---|---|
 | **Video** | **Playlist #7** — [How to merge a pull request](https://www.youtube.com/watch?v=FDXSgyDGmho) |
-| **Guided practice** | Review and merge both pull requests, then diagnose a prepared merge conflict |
-| **Practice source** | Continuation of [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github) plus an own-repo rebuild |
-| **Evidence** | Merged Skills and course-repository pull requests |
+| **Class practice** | Owner reviews and merges the three PRs from Lesson 6 |
+| **Evidence** | Three merged PRs and a final `main` containing HTML, CSS, and JavaScript |
 | **Exit Ticket** | `learning-log.md` → Lesson 7 |
-
-> Playlist #10, GitHub Actions, is excluded from this unit. Lesson numbers after Lesson 9 therefore differ from playlist positions.
 
 ---
 
@@ -34,20 +62,30 @@ This lesson uses **one video and one guided practice**. Do not re-teach the Clas
 
 | Term | Meaning |
 |---|---|
-| **review** | Check a proposed change before accepting it |
-| **merge** | Integrate changes from one branch into another |
-| **merged** | Pull-request state showing integration is complete |
+| **review** | Inspect proposed changes before integration |
+| **approve** | Formal reviewer decision that a collaborator's PR is ready to merge |
+| **merge** | Integrate one branch's changes into another branch |
+| **maintainer** | Person responsible for repository integration decisions |
+| **sync** | Bring the updated remote branch back to a local repository |
+| **pull** | Download and integrate remote changes into the current local branch |
 
 ---
 
-## Core Pattern
+## Core Collaboration Model
 
 ```text
-one official video
-→ one focused practice
-→ one visible GitHub artifact
-→ Lesson 7 learning-log entry
+feature-html ──────────→ PR ──┐
+                              │
+feature-css ───────────→ PR ──┼──→ Owner / Maintainer → main
+                              │
+feature-javascript ────→ PR ──┘
+
+main on GitHub
+      ↓ git pull
+main on each student's computer
 ```
+
+The Owner controls integration. Collaborators do not independently merge their own PRs into `main` during this exercise.
 
 ---
 
@@ -55,81 +93,246 @@ one official video
 
 | Time | Block |
 |---|---|
-| **0–10 min** | **Skill Warm-up** — watch this lesson's official video only; stop at 10 minutes if needed |
-| **10–13 min** | **Talk Robin 1** — explain one idea from the video |
-| **13–17 min** | **Entry Check** — retrieve prior knowledge needed today |
-| **17–21 min** | **Core Pattern** — teacher models the smallest complete workflow |
-| **21–32 min** | **Guided Practice** — complete the named task with checkpoints |
-| **32–40 min** | **Independent Rebuild** — repeat or finish without step-by-step prompting |
-| **40–45 min** | **Talk Robin 2 + Evidence** — show the artifact and commit the learning log |
+| **0–8 min** | **Skill Warm-up** — watch Playlist #7 and identify review → merge → verify |
+| **8–13 min** | **Role Check** — confirm Owner vs collaborator responsibilities |
+| **13–28 min** | **PR Review and Merge** — Owner processes CSS, JavaScript, and HTML PRs |
+| **28–36 min** | **Verify `main`** — inspect final files and repository history |
+| **36–42 min** | **Team Sync** — everyone pulls the updated `main` |
+| **42–45 min** | **Evidence + Exit Ticket** |
 
 ---
 
-### 0–10 min: Skill Warm-up
+## 0–8 min: Skill Warm-up
 
-Watch **playlist #7 only**: [How to merge a pull request](https://www.youtube.com/watch?v=FDXSgyDGmho).
+Watch **Playlist #7 only**: [How to merge a pull request](https://www.youtube.com/watch?v=FDXSgyDGmho).
 
-While watching, record:
+While watching, answer:
 
-- One new term
-- One action demonstrated
-- One question to test during practice
+1. What should be checked before merge?
+2. Who is responsible for deciding whether the change enters `main` in our classroom workflow?
+3. How can you confirm the merge actually changed `main`?
 
-### 10–13 min: Talk Robin 1
+---
 
-- **A:** “The video's main idea is…”
-- **B:** “A step I need to remember is…”
+## 8–13 min: Role Check
 
-### 13–17 min: Entry Check
+Before touching the PRs, the team states the workflow aloud:
 
-1. What artifact did you create last lesson?
-2. Where can you verify a change in GitHub?
-3. What must never be copied into a public repository?
+```text
+Collaborator:
+branch → code → commit → push → PR → wait
 
-### 17–21 min: Core Pattern
+Owner / Maintainer:
+review → merge → verify
+```
 
-Teacher demonstrates the task once and points out where students can verify the result. Students identify the action, the artifact, and the evidence before beginning.
+Then confirm that Lesson 6 ended with three open PRs:
 
-### 21–32 min: Guided Practice
+```text
+feature-html       → main
+feature-css        → main
+feature-javascript → main
+```
 
-1. Reopen the two pull requests from Lesson 6 and inspect each **Files changed** tab.
-2. In the course-repository pull request, leave one review comment that names a specific line or improvement.
-3. Merge the Skills pull request and then merge the course-repository pull request.
-4. Return to each default branch and verify the merged file. Delete the merged branch if offered.
-5. Use a teacher-prepared conflicting pull request to identify the two competing edits and observe **Resolve conflicts**. Students explain which content should remain; a solo conflict lab is not required in this 45-minute lesson.
+---
 
-### 32–40 min: Independent Rebuild
+## 13–28 min: Owner Reviews and Merges
 
-With the video closed, independently review and merge the course-repository pull request from Lesson 6. Inspect Files changed, leave one specific review comment, verify the target branch, merge, and locate the change on the default branch. Then explain why GitHub blocks a merge conflict until a person resolves the competing edits.
+The Owner processes each pull request one at a time.
 
-### 40–45 min: Talk Robin 2 + Evidence
+### A. Review Collaborator 1 — CSS
 
-Show both merged pull requests, locate each merged change on its default branch, and explain one merge-conflict decision from the prepared example.
+Owner checks:
+
+- PR title and description
+- base = `main`
+- compare = `feature-css`
+- **Files changed**
+- only the intended CSS feature is included
+
+If acceptable:
+
+```text
+Owner reviews
+      ↓
+Owner approves
+      ↓
+Owner merges
+```
+
+If changes are needed, the Owner leaves a specific review comment. Collaborator 1 updates the same `feature-css` branch, commits, and pushes again. The open PR updates automatically.
+
+---
+
+### B. Review Collaborator 2 — JavaScript
+
+Repeat the same process for:
+
+```text
+feature-javascript → main
+```
+
+The Owner reviews and merges only after checking the proposed change.
+
+---
+
+### C. Process the Owner's HTML PR
+
+The Owner also created:
+
+```text
+feature-html → main
+```
+
+The Owner must still inspect:
+
+- PR description
+- base / compare direction
+- **Files changed**
+- expected HTML structure
+
+Then the Owner performs a **self-review** and merges the PR.
+
+> The Owner does not formally “approve” their own PR. The classroom expectation is that the Owner still uses the PR as a checkpoint instead of bypassing the workflow and committing directly to `main`.
+
+---
+
+## 28–36 min: Verify the Final `main`
+
+After all three PRs are merged, the GitHub `main` branch should contain:
+
+```text
+README.md
+index.html
+style.css
+script.js
+```
+
+The team verifies:
+
+1. all three PRs show **Merged**,
+2. `main` contains all three feature files,
+3. the commit / PR history shows how the features entered the repository,
+4. no collaborator directly pushed feature work into `main`.
+
+Expected workflow:
+
+```text
+feature-html       ─┐
+feature-css         ├→ reviewed / checked → merged → main
+feature-javascript ─┘
+```
+
+---
+
+## 36–42 min: Everyone Synchronizes Their Local Repository
+
+After the merges, each student's local repository is now behind the remote `main`.
+
+Each student runs:
+
+```bash
+git switch main
+git pull origin main
+git status
+```
+
+Then verify locally:
+
+```text
+README.md
+index.html
+style.css
+script.js
+```
+
+This closes the collaboration cycle:
+
+```text
+CLONE
+  ↓
+BRANCH
+  ↓
+CODE
+  ↓
+ADD
+  ↓
+COMMIT
+  ↓
+PUSH
+  ↓
+PULL REQUEST
+  ↓
+REVIEW
+  ↓
+MERGE
+  ↓
+PULL
+```
+
+---
+
+## 42–45 min: Evidence + Exit Ticket
+
+Each team must show:
+
+- three merged pull requests,
+- final `main` with all three feature files,
+- each member's local `main` synchronized with GitHub.
 
 Add to `learning-log.md`:
 
 ```markdown
-## Lesson 7
-- What I did:
-- What I learned:
-- What was hard:
+## Lesson 7 — Review, Merge, and Sync
+- My role:
+- Who was allowed to merge into main?
+- What did the Owner check before merging?
+- Why do collaborators stop after creating a PR?
+- What does git pull do after the merge?
 - Evidence link:
 ```
 
-Commit the learning-log update if the lesson's practice did not already require that exact commit. **Homework is only the unfinished Lesson 7 learning-log entry; no video homework.**
+---
+
+## Success Criteria
+
+At the end of Lesson 7:
+
+```text
+GitHub Repository
+│
+└── main
+    ├── README.md
+    ├── index.html
+    ├── style.css
+    └── script.js
+```
+
+And every student has the same updated `main` locally.
 
 ---
 
 ## Common Mistakes
 
-- Watching or assigning a second playlist video
-- Completing clicks without checking the resulting artifact
-- Using vague commit messages such as `update`
-- Publishing passwords, tokens, recovery codes, or other private information
-- Treating a screenshot as a substitute for repository evidence
+- Assuming every collaborator should merge their own PR
+- Clicking Merge without reading **Files changed**
+- Confusing “create PR” with “merge PR”
+- Owner bypassing the workflow and editing directly on `main`
+- Calling the Owner's self-check a formal approval
+- Forgetting to return to `main` before `git pull`
+- Forgetting that a merged remote `main` does not automatically update local repositories
 
 ---
 
 ## Teacher Notes
 
-The official video also demonstrates merge conflicts. Use a prepared conflict for diagnosis and explanation; do not consume the full class creating accidental conflicts. Lesson 8 continues with the next official playlist video.
+The instructional priority is **role separation**:
+
+```text
+Contributor proposes changes.
+Maintainer integrates changes.
+```
+
+Do not intentionally introduce merge conflicts in this first collaboration cycle. Students should first master a clean end-to-end workflow with separate files and clearly defined responsibilities.
+
+A later lesson or extension can deliberately have two branches modify the same part of a file to teach merge-conflict resolution after this workflow is stable.

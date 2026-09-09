@@ -1,59 +1,60 @@
-# GitHub Team Launch — Collaborator B: JavaScript
+# Role Card — Collaborator B / JavaScript
 
-## Your Role
-
-You are responsible for the page interaction.
-
-### Your branch
+## Your Feature
 
 ```text
-feature-javascript
-```
-
-### Your Issue
-
-```text
-Add JavaScript interaction
+Branch: feature-javascript
+Issue: Add JavaScript interaction
+Primary file: script.js
 ```
 
 ## Your Workflow
 
+1. Accept the Owner's collaborator invitation.
+2. Clone the **shared** `team-web-launch` repository locally.
+3. Confirm the JavaScript Issue is assigned to your GitHub account.
+4. Create `feature-javascript` locally.
+5. Replace the starter TODO with a real interaction in `script.js` without taking over `index.html` or `style.css`.
+6. Stage and commit locally with a meaningful message.
+7. Push `feature-javascript` into the shared repository.
+8. Open `feature-javascript → main` as a Pull Request.
+9. Include **What changed**, **Why**, **Testing**, and `Closes #<your actual JavaScript Issue number>`.
+10. Wait for the Owner's review. Do not merge your own PR.
+11. If the Owner requests changes, edit locally, commit, and push to the **same branch** so the existing PR updates.
+12. After all team PRs are merged, complete **🔄 Local Sync Check** by pulling `main` and posting the required `SYNCED SHORT_SHA` proof.
+13. Complete **🧠 Final Reflection** after it appears.
+
+## JavaScript Requirement
+
+The final integrated JavaScript must include a real event listener and update something on the page. The automatic checker validates that the starter TODO is gone and that the live Pages JavaScript asset contains interaction logic.
+
+## Commit Rule
+
+The checker expects local-style Git commit evidence. Do not complete the JavaScript feature only through GitHub's web editor.
+
+Use a meaningful message such as:
+
 ```text
-accept invitation
-→ clone shared repo
-→ create feature-javascript
-→ edit script.js
-→ git status
-→ git add
-→ git commit
-→ git push
-→ open PR into main
-→ wait for Owner review
-→ respond to feedback if needed
-→ wait for Owner to merge
-→ switch to main
-→ pull final version
+Add button interaction
 ```
 
-## Your Pull Request Must Explain
+not:
 
-- what interaction you added;
-- what user action triggers it;
-- how you tested it;
-- which Issue it closes.
-
-## If the Owner Requests Changes
-
-Update the same `feature-javascript` branch.
-
-```bash
-git add .
-git commit -m "Address review feedback"
-git push
+```text
+update
+final
+fix
 ```
 
-Do **not** open a second Pull Request. The existing PR will update automatically.
+## Your Stop Point
 
-## Stop Point
+```text
+feature-javascript
+→ local commit
+→ push
+→ PR
+→ respond to review
+→ WAIT FOR OWNER TO MERGE
+```
 
-After opening your Pull Request, do not merge it yourself. The Owner / Maintainer is responsible for review and integration into `main`.
+Use **🚀 GitHub Team Launch Progress** to see which checkpoint is next.

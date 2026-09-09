@@ -1,7 +1,7 @@
 # Final Challenge: GitHub Team Launch
 
 **Phase:** 0 — Git & GitHub  
-**Format:** Team mastery challenge  
+**Format:** Automated team mastery challenge  
 **Team size:** 3 students  
 **Goal:** Complete a realistic Git/GitHub collaboration workflow and publish the finished site with GitHub Pages.
 
@@ -11,9 +11,15 @@
 
 Your team has been asked to build and publish a small interactive website.
 
-You must use a professional collaboration workflow. **No one develops directly on `main`.** Every change must enter `main` through a Pull Request.
+You must use a professional collaboration workflow. **No one develops directly on `main`.** Every feature enters `main` through a Pull Request.
 
-This is a mastery challenge, not a code-along. Early missions include light guidance; later missions describe the goal and expect your team to choose the correct Git/GitHub action.
+This is not a code-along. GitHub automatically checks your repository and maintains one Mission Control Issue:
+
+```text
+🚀 GitHub Team Launch Progress
+```
+
+Use that Issue to see your score and the next incomplete mission.
 
 ---
 
@@ -25,17 +31,15 @@ This is a mastery challenge, not a code-along. Early missions include light guid
 | **Collaborator A** | CSS styling | Creates and updates the CSS Pull Request |
 | **Collaborator B** | JavaScript interaction | Creates and updates the JavaScript Pull Request |
 
-### Team rule
-
 ```text
 Collaborators
-clone → branch → code → add → commit → push → PR → WAIT
+clone → branch → code → add → commit → push → PR → WAIT / RESPOND TO REVIEW
 
 Owner / Maintainer
 review → request changes or approve → merge → verify main
 ```
 
-The Owner also works on `feature-html` and opens a Pull Request for that work. The Owner performs a self-check before merging their own PR; this is not the same as formally approving their own review.
+The Owner also works on `feature-html` and opens a Pull Request for HTML. The Owner self-checks that PR before merging; this is not the same as formally approving their own review.
 
 ---
 
@@ -43,67 +47,88 @@ The Owner also works on `feature-html` and opens a Pull Request for that work. T
 
 ## Owner
 
-Create a new GitHub repository named:
+Create a repository named:
 
 ```text
 team-web-launch
 ```
 
-Initialize it with a `README.md`, then invite Collaborator A and Collaborator B.
+Invite Collaborator A and Collaborator B.
 
-## Checkpoint
+Then copy the **contents** of the challenge `starter/` folder into the repository root, including the hidden workflow file:
 
-Your team should be able to verify:
+```text
+team-web-launch/
+├── .github/
+│   └── workflows/
+│       └── team-launch-progress.yml
+├── index.html
+├── style.css
+└── script.js
+```
 
-- [ ] Repository exists
-- [ ] Owner has access
-- [ ] Collaborator A has accepted the invitation
-- [ ] Collaborator B has accepted the invitation
-- [ ] `main` is the shared integration branch
+Commit the starter files to the default branch.
 
-**Unlock condition:** all three students can open the repository.
+If **🚀 GitHub Team Launch Progress** does not appear automatically, go to **Actions → GitHub Team Launch Auto Checker → Run workflow** once.
+
+### Mission 1 Check
+
+All three students must work in the **same shared repository**. Do not use forks for this challenge.
+
+The checker later confirms collaborator access by detecting three distinct PR authors whose feature branches all belong to this repository.
 
 ---
 
 # Mission 2 — Plan the Work Before Coding
 
-Create three GitHub Issues:
+Create exactly these three feature Issues:
 
 ```text
-Issue #1 — Build HTML structure
-Issue #2 — Add page styling
-Issue #3 — Add JavaScript interaction
+Build HTML structure
+Add page styling
+Add JavaScript interaction
 ```
 
-Assign the work:
+GitHub will assign the actual Issue numbers. Record those numbers; **do not assume they are #1, #2, and #3**.
+
+Assign:
 
 ```text
-Owner          → HTML
-Collaborator A → CSS
-Collaborator B → JavaScript
+Owner          → Build HTML structure
+Collaborator A → Add page styling
+Collaborator B → Add JavaScript interaction
 ```
 
-Create or use a GitHub Project board with:
+Create a GitHub Project with a simple workflow such as:
 
 ```text
 Todo | In Progress | Done
 ```
 
-Add the three Issues to the board.
+Add all three feature Issues to the Project and make the Project public for automatic checking.
 
-## Checkpoint
+After the three Issues exist, the checker creates:
 
-Before coding, each team member must be able to answer:
+```text
+📋 Project Evidence
+```
 
-> Which Issue are you responsible for, and what does "Done" mean for that Issue?
+Follow the instructions in that Issue. Submit the public Project URL and links to all three feature Issues.
+
+### Automatic checks
+
+The checker verifies:
+
+- all three exact feature Issue titles;
+- correct role assignments once the PR authors reveal the team roles;
+- the public Project evidence URL is reachable;
+- links to all three feature Issues are included.
 
 ---
 
 # Mission 3 — Clone the Shared Repository
 
-All three team members clone the same shared repository to their own computers.
-
-Suggested verification commands:
+All three students clone the same repository to their own computers.
 
 ```bash
 git clone <repository-url>
@@ -111,7 +136,7 @@ cd team-web-launch
 git status
 ```
 
-## Quick Check
+### Quick Check
 
 Where are you working after cloning?
 
@@ -121,11 +146,13 @@ Where are you working after cloning?
 
 **Correct concept:** B.
 
+For this challenge, feature work must include local-style Git commit evidence. Do not complete the feature only through GitHub's web editor.
+
 ---
 
 # Mission 4 — Create Feature Branches
 
-Create one branch per feature:
+Use these exact branch names:
 
 ```text
 Owner          → feature-html
@@ -133,13 +160,11 @@ Collaborator A → feature-css
 Collaborator B → feature-javascript
 ```
 
-Example command pattern:
+Example:
 
 ```bash
-git switch -c feature-name
+git switch -c feature-html
 ```
-
-The team structure should now be:
 
 ```text
                  main
@@ -150,7 +175,7 @@ The team structure should now be:
      Owner      Collab A      Collab B
 ```
 
-## Quick Check
+### Quick Check
 
 Why are you not developing directly on `main`?
 
@@ -160,23 +185,19 @@ Why are you not developing directly on `main`?
 
 # Mission 5 — Build, Stage, and Commit
 
-Each student completes only their assigned feature.
-
-Recommended starter files:
+Each person edits the source file assigned to their role:
 
 ```text
-index.html
-style.css
-script.js
+Owner          → index.html
+Collaborator A → style.css
+Collaborator B → script.js
 ```
 
-Your local work is now complete. Record it in Git history.
+Do not take over another role's source file during the feature PR.
 
-Use `git status` to decide what needs to happen next.
+The starter files contain placeholders. Your finished feature must replace them with substantive work.
 
-## Concept Check
-
-Complete this model:
+Use Git locally to inspect, stage, and record your work:
 
 ```text
 Working Directory
@@ -186,14 +207,13 @@ Staging Area
 Commit History
 ```
 
-## Commit quality requirement
-
-Do not use vague messages such as:
+Do not use vague commit messages such as:
 
 ```text
 update
 stuff
 final
+fix
 ```
 
 Use a message that names the change, for example:
@@ -204,13 +224,13 @@ Add responsive page styling
 Add button interaction
 ```
 
+The automatic checker inspects the commits in each PR and rejects generic messages or feature work that appears to have been completed only through GitHub web editing.
+
 ---
 
-# Mission 6 — Share Your Feature
+# Mission 6 — Push Your Feature
 
-Your commit exists locally, but your teammates cannot yet see your branch on GitHub.
-
-Choose and perform the Git action that publishes your branch to the remote repository.
+Your commit exists locally, but your team cannot review the branch on GitHub until you push it.
 
 Example pattern:
 
@@ -218,9 +238,7 @@ Example pattern:
 git push -u origin feature-name
 ```
 
-## Checkpoint
-
-GitHub should show all three feature branches:
+GitHub should eventually show evidence for:
 
 ```text
 feature-html
@@ -232,21 +250,23 @@ feature-javascript
 
 # Mission 7 — Open Pull Requests
 
-Each student opens a Pull Request:
+Each student opens a Pull Request into `main`:
 
 ```text
-feature-* → main
+feature-html       → main
+feature-css        → main
+feature-javascript → main
 ```
 
-Every Pull Request must contain:
+Each PR needs:
 
 - a meaningful title;
-- what changed;
-- why the change was needed;
-- how it was tested;
-- a reference to the related Issue.
+- **What changed**;
+- **Why**;
+- **Testing**;
+- the actual related Issue number using closing syntax.
 
-Example:
+Example only — replace `#7` with the real Issue number GitHub assigned:
 
 ```markdown
 ## What changed
@@ -258,22 +278,22 @@ The page needed a readable desktop and mobile layout.
 ## Testing
 Tested in the browser at desktop and mobile widths.
 
-Closes #2
+Closes #7
 ```
 
-## Decision Check
+The checker verifies that the closing number matches the correct feature Issue.
 
-A collaborator sees the green **Merge** button. What should they do?
+### Decision Check
 
-> Stop and wait for the Maintainer to review the Pull Request.
+A collaborator sees a Merge button. What should they do?
+
+> Wait for the Owner / Maintainer to review and integrate the work.
 
 ---
 
-# Mission 8 — Review Before Merge
+# Mission 8 — Review and Respond to Feedback
 
-The Owner / Maintainer now reviews the collaborator Pull Requests.
-
-Use this review flow:
+The Owner reviews **both** collaborator Pull Requests.
 
 ```text
 Open PR
@@ -284,123 +304,100 @@ Inspect Files changed
   ↓
 Test the feature
   ↓
-Review
+Leave substantive review
   ↓
 Request changes OR approve
-  ↓
-Merge when ready
 ```
 
-The Owner must leave at least one specific, meaningful review comment on each collaborator PR.
+Both collaborator PRs need meaningful Owner review evidence.
 
-Good examples:
+In addition, **at least one collaborator PR must complete a real feedback cycle**:
 
 ```text
-The layout remains readable at narrow widths. Good to merge.
-```
-
-```text
-Please rename this class so it matches the naming used in the HTML.
-```
-
-If changes are requested, the collaborator updates the **same branch** and pushes another commit.
-
-Example pattern:
-
-```bash
-git add .
+Owner submits Changes Requested
+        ↓
+Collaborator edits locally
+        ↓
+git add ...
 git commit -m "Address review feedback"
 git push
+        ↓
+The SAME Pull Request updates
+        ↓
+Owner re-reviews
 ```
 
-Observe what happens to the existing Pull Request.
+This is required. A simple conversation comment is not enough for this checkpoint; the checker looks for a `CHANGES_REQUESTED` review followed by a later commit on that same PR.
 
-## Key concept
+### Key Concept
 
-> A Pull Request follows the branch. New commits pushed to that branch automatically appear in the same Pull Request.
+> A Pull Request follows the branch. New commits pushed to that branch automatically appear in the existing Pull Request.
 
 ---
 
 # Mission 9 — Merge and Close the Work
 
-The Owner merges approved collaborator Pull Requests into `main`.
+The Owner merges approved collaborator PRs into `main`, then self-checks and merges the HTML PR.
 
-The Owner also performs a self-check of `feature-html` and merges the HTML Pull Request.
+Because each PR uses the correct `Closes #...` syntax, the three feature Issues should close when their PRs merge.
 
-If the PR description uses syntax such as:
-
-```text
-Closes #2
-```
-
-verify what happens to the linked Issue after the Pull Request is merged.
-
-Move completed Project items to:
+The checker requires:
 
 ```text
-Done
+3 merged feature PRs
++
+3 closed feature Issues
 ```
 
-## Workflow Check
-
-Your team should now be able to explain:
-
-```text
-Issue
-  ↓
-Feature Branch
-  ↓
-Commit
-  ↓
-Push
-  ↓
-Pull Request
-  ↓
-Review
-  ↓
-Merge
-  ↓
-Issue Closed
-```
+Update your Project to show the completed work.
 
 ---
 
-# Mission 10 — Sync Everyone's Local Repository
+# Mission 10 — Prove Everyone Synced Local `main`
 
-The remote `main` now contains the team's integrated work.
+After all three PRs are merged, the checker creates:
 
-Every team member must update their own local `main`.
+```text
+🔄 Local Sync Check
+```
 
-Expected pattern:
+Every team member must now run locally:
 
 ```bash
 git switch main
 git pull
+git rev-parse --short HEAD
 ```
 
-## Checkpoint
-
-Every team member should now have the final project locally:
+Then each person comments on **🔄 Local Sync Check** using the exact format:
 
 ```text
-index.html
-style.css
-script.js
+SYNCED SHORT_SHA
 ```
 
-## Quick Check
+Example:
 
-Your Pull Request was merged on GitHub. Why was your local `main` not updated automatically?
+```text
+SYNCED a1b2c3d
+```
 
-> Local and remote repositories are separate copies. You must synchronize them.
+The checker verifies:
+
+- the comment comes from each detected team member;
+- it was posted after the feature merges;
+- the SHA matches the current remote `main`.
+
+### Quick Check
+
+Why did your local `main` need to be updated after the remote PR merge?
+
+> Local and remote repositories are separate copies and must be synchronized.
 
 ---
 
 # Final Mission — Publish with GitHub Pages
 
-The Owner deploys the completed website from the final `main` branch using GitHub Pages.
-
-Verify the full delivery chain:
+The Owner publishes the integrated `main` branch with GitHub Pages.
 
 ```text
 Repository
@@ -412,77 +409,89 @@ GitHub Pages
 Public Website
 ```
 
-Open the published site and verify:
+The automatic checker requests the live site and verifies that:
 
-- [ ] HTML structure loads
-- [ ] CSS styling loads
-- [ ] JavaScript interaction works
-- [ ] the deployed version matches the final `main`
+- the HTML page responds;
+- `style.css` responds;
+- `script.js` responds;
+- HTML references the CSS and JavaScript files;
+- CSS contains substantive styling;
+- JavaScript contains a real event listener;
+- the starter placeholders have been replaced in the integrated project.
+
+A Pages deployment can take time. If the checker runs before deployment finishes, wait for GitHub Pages to complete and trigger another normal repository event or run the checker manually.
 
 ---
 
-# Final Evidence
+# Final Reflection — Automatically Checked
 
-Submit:
+After the live site passes, the checker creates:
 
 ```text
-Team repository URL:
-GitHub Project URL:
-HTML Pull Request URL:
-CSS Pull Request URL:
-JavaScript Pull Request URL:
-Published GitHub Pages URL:
+🧠 Final Reflection
 ```
 
-Each student also adds a short reflection to their learning log:
-
-```markdown
-## GitHub Team Launch Challenge
-- My role:
-- My Issue:
-- My branch:
-- What I contributed:
-- One review or integration decision I observed:
-- Why teams use Pull Requests instead of letting everyone merge directly into main:
-- Evidence link:
-```
-
----
-
-# Completion Check
-
-By the end of this challenge, you should be able to:
-
-- [ ] clone a shared repository
-- [ ] distinguish local and remote repositories
-- [ ] work on a feature branch
-- [ ] stage and commit changes
-- [ ] push a feature branch
-- [ ] organize work with Issues and Projects
-- [ ] open a Pull Request
-- [ ] respond to review feedback
-- [ ] explain the Maintainer's role
-- [ ] merge approved work into `main`
-- [ ] synchronize local `main` after remote changes
-- [ ] publish a website with GitHub Pages
-
----
-
-# Challenge Rule: No Artificial Merge Conflict
-
-This final challenge tests the normal professional workflow:
+Every team member posts one comment beginning with:
 
 ```text
-Plan
-→ Branch
-→ Develop
-→ Commit
-→ Push
-→ PR
-→ Review
-→ Merge
-→ Sync
-→ Deploy
+REFLECTION:
 ```
 
-Do not intentionally create a merge conflict during the main challenge. Merge conflicts can be practiced later as a separate extension challenge.
+Requirements:
+
+- at least 120 characters;
+- explain your own role/contribution;
+- use at least two relevant concepts such as `branch`, `commit`, `push`, `Pull Request`, `review`, `merge`, `local`, or `remote`.
+
+Example structure:
+
+```text
+REFLECTION: I worked as ... My branch ... The Pull Request ...
+```
+
+Do not copy another student's reflection.
+
+---
+
+# Completion
+
+Your team does not submit screenshots as the primary evidence.
+
+Watch:
+
+```text
+🚀 GitHub Team Launch Progress
+```
+
+The challenge is complete when all automatic checkpoints pass and that Progress Issue closes automatically.
+
+The assessed workflow is:
+
+```text
+Issue
+→ Project
+→ clone
+→ branch
+→ edit
+→ add
+→ commit
+→ push
+→ Pull Request
+→ Owner review
+→ Changes Requested
+→ follow-up commit
+→ merge
+→ Issue closed
+→ switch main
+→ pull
+→ SHA sync proof
+→ GitHub Pages
+→ reflection
+→ COMPLETE
+```
+
+---
+
+## Challenge Rule: No Artificial Merge Conflict
+
+Do not intentionally create a merge conflict during this final challenge. Merge conflicts are a separate extension after the normal collaboration workflow is secure.

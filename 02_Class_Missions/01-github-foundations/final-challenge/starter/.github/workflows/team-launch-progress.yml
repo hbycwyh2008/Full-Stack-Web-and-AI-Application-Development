@@ -1,0 +1,183 @@
+name: GitHub Team Launch Progress
+
+on:
+  workflow_dispatch:
+  issues:
+    types: [opened, closed, reopened]
+  pull_request:
+    types: [opened, reopened, synchronize, closed]
+  push:
+    branches: ['**']
+  page_build:
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: read
+  pages: read
+
+jobs:
+  check-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update challenge progress
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const progressTitle = '🚀 GitHub Team Launch Progress';
+            const featureBranches = ['feature-html', 'feature-css', 'feature-javascript'];
+
+            const { data: repository } = await github.rest.repos.get({ owner, repo });
+            const defaultBranch = repository.default_branch;
+
+            const branches = await github.paginate(github.rest.repos.listBranches, {
+              owner,
+              repo,
+              per_page: 100
+            });
+            const branchNames = new Set(branches.map(branch => branch.name));
+
+            const allIssues = await github.paginate(github.rest.issues.listForRepo, {
+              owner,
+              repo,
+              state: 'all',
+              per_page: 100
+            });
+
+            const teamIssues = allIssues.filter(item =>
+              !item.pull_request && item.title !== progressTitle
+            );
+
+            const pulls = await github.paginate(github.rest.pulls.list, {
+              owner,
+              repo,
+              state: 'all',
+              per_page: 100
+            });
+
+            const pullFor = branch => pulls.find(pr =>
+              pr.head.ref === branch && pr.base.ref === defaultBranch
+            );
+
+            const featureEvidence = featureBranches.every(branch =>
+              branchNames.has(branch) || Boolean(pullFor(branch))
+            );
+
+            const prEvidence = featureBranches.every(branch => Boolean(pullFor(branch)));
+            const mergedEvidence = featureBranches.every(branch => Boolean(pullFor(branch)?.merged_at));
+
+            let reviewEvidence = true;
+            for (const branch of ['feature-css', 'feature-javascript']) {
+              const pr = pullFor(branch);
+              if (!pr) {
+                reviewEvidence = false;
+                continue;
+              }
+
+              try {
+                const reviews = await github.paginate(github.rest.pulls.listReviews, {
+                  owner,
+                  repo,
+                  pull_number: pr.number,
+                  per_page: 100
+                });
+                const meaningfulReview = reviews.some(review =>
+                  review.user?.login === owner &&
+                  ['APPROVED', 'CHANGES_REQUESTED', 'COMMENTED'].includes(review.state)
+                );
+                if (!meaningfulReview) reviewEvidence = false;
+              } catch (error) {
+                core.warning(`Could not inspect reviews for PR #${pr.number}: ${error.message}`);
+                reviewEvidence = false;
+              }
+            }
+
+            const closedTeamIssues = teamIssues.filter(issue => issue.state === 'closed').length;
+
+            let pagesEvidence = false;
+            let pagesUrl = '';
+            try {
+              const { data: pages } = await github.rest.repos.getPages({ owner, repo });
+              pagesEvidence = Boolean(pages?.html_url);
+              pagesUrl = pages?.html_url || '';
+            } catch (error) {
+              core.info('GitHub Pages is not configured yet.');
+            }
+
+            const marks = value => value ? '✅' : '⬜';
+
+            let nextMission = 'Create the shared repository and begin Mission 1.';
+            if (teamIssues.length < 3) {
+              nextMission = 'Mission 2: create and assign the three feature Issues.';
+            } else if (!featureEvidence) {
+              nextMission = 'Mission 4: create the HTML, CSS, and JavaScript feature branches.';
+            } else if (!prEvidence) {
+              nextMission = 'Missions 5–7: commit, push, and open all three Pull Requests into main.';
+            } else if (!reviewEvidence) {
+              nextMission = 'Mission 8: the Owner should review the CSS and JavaScript Pull Requests.';
+            } else if (!mergedEvidence) {
+              nextMission = 'Mission 9: merge approved work into main.';
+            } else if (closedTeamIssues < 3) {
+              nextMission = 'Mission 9: verify the linked Issues are closed and Project work is complete.';
+            } else if (!pagesEvidence) {
+              nextMission = 'Final Mission: publish the integrated main branch with GitHub Pages.';
+            } else {
+              nextMission = '🏁 Repository checkpoints complete. Finish the local sync and individual reflection.';
+            }
+
+            const body = `# GitHub Team Launch Progress
+
+            This issue is updated automatically by the challenge checker. Students do **not** need to study GitHub Actions; it is only the exercise feedback system.
+
+            ## Automated Checkpoints
+
+            ${marks(teamIssues.length >= 3)} Three feature Issues exist  
+            ${marks(featureEvidence)} Evidence exists for all three feature branches  
+            ${marks(prEvidence)} HTML, CSS, and JavaScript Pull Requests target \`${defaultBranch}\`  
+            ${marks(reviewEvidence)} Owner review evidence exists on collaborator Pull Requests  
+            ${marks(mergedEvidence)} All three feature Pull Requests are merged  
+            ${marks(closedTeamIssues >= 3)} Three feature Issues are closed  
+            ${marks(pagesEvidence)} GitHub Pages is configured${pagesUrl ? ` — ${pagesUrl}` : ''}
+
+            ## Next Mission
+
+            **${nextMission}**
+
+            ## Manual Checkpoints
+
+            These cannot be reliably verified by this workflow and still require student/teacher evidence:
+
+            - [ ] Both collaborators accepted the repository invitation
+            - [ ] The three Issues are assigned to the correct team members
+            - [ ] The Issues are organized in a GitHub Project
+            - [ ] Commit messages are meaningful
+            - [ ] Every team member ran \`git switch main\` and \`git pull\` after the merges
+            - [ ] HTML, CSS, and JavaScript work on the published site
+            - [ ] Every student completed the individual reflection
+
+            ---
+
+            Last checked from event: \`${context.eventName}\`.
+            `;
+
+            const progressIssues = allIssues.filter(item =>
+              !item.pull_request && item.title === progressTitle
+            );
+
+            if (progressIssues.length > 0) {
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: progressIssues[0].number,
+                body
+              });
+            } else {
+              await github.rest.issues.create({
+                owner,
+                repo,
+                title: progressTitle,
+                body
+              });
+            }

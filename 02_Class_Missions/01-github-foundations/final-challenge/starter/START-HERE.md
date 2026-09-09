@@ -1,6 +1,6 @@
 # Starter Setup — GitHub Team Launch
 
-This folder contains the optional starter project and the automatic progress checker.
+This folder contains the starter website and the automatic Mission Control checker.
 
 ## Owner Setup
 
@@ -18,18 +18,52 @@ team-web-launch/
 └── script.js
 ```
 
-The `.github` folder is hidden on some computers. Make sure it is included.
+The `.github` folder may be hidden on some computers. It must be included.
 
-After these starter files are on the repository's default branch, the workflow will maintain an Issue named:
+After these files are committed to the repository's default branch, open **Actions → GitHub Team Launch Auto Checker → Run workflow** once if the first progress Issue has not appeared automatically.
+
+The workflow maintains:
 
 ```text
 🚀 GitHub Team Launch Progress
 ```
 
-That Issue acts like a GitHub Skills checkpoint page. It updates when the team creates Issues, pushes branches, opens or merges Pull Requests, and configures GitHub Pages.
+Treat that Issue as the challenge dashboard. It shows the current automatic score and the next mission.
 
-## Important
+## Important Rules
 
-Students do **not** need to learn GitHub Actions for this challenge. The workflow is only the automatic feedback mechanism behind the exercise.
+- Students do **not** study or edit the GitHub Actions workflow.
+- Do not complete feature work with GitHub's web editor. Each feature must contain local-style Git commit evidence.
+- Use the exact feature branch names and Issue titles from the challenge.
+- All feature branches must be pushed into this shared repository, not separate forks.
+- The Owner reviews and merges collaborator PRs.
 
-The checker intentionally leaves some items for manual verification, including collaborator invitations, Project-board organization, local `git pull`, code quality, and the final reflection.
+## Project Evidence
+
+After the three required feature Issues exist, the checker creates:
+
+```text
+📋 Project Evidence
+```
+
+Make the team's GitHub Project public, then follow the comment format in that Issue. The standard checker verifies the public Project URL and the three Issue links.
+
+For strict Project-v2 membership checking, the teacher can optionally create a repository secret named `PROJECT_TOKEN` with GitHub Projects read permission. Students never need access to that secret.
+
+## Later Automatic Evidence
+
+The checker will also create:
+
+```text
+🔄 Local Sync Check
+```
+
+after the three PRs are merged, and:
+
+```text
+🧠 Final Reflection
+```
+
+after the live GitHub Pages site passes.
+
+Follow the exact comment formats in those Issues. When every automated checkpoint passes, **🚀 GitHub Team Launch Progress** closes automatically.

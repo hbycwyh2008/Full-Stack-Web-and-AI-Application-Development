@@ -1,83 +1,65 @@
-# GitHub Team Launch Challenge Pack
+# GitHub Team Launch — Interactive Exercise
 
-This is the final Git/GitHub mastery exercise for the GitHub Foundations unit. It is designed to behave like a GitHub Skills activity: students complete real GitHub work, while an automatic Mission Control Issue checks the repository and tells the team what to do next.
+The classroom version now uses a **standalone GitHub Skills-style template exercise** instead of manually copying the old starter pack.
 
-## Student Materials
+## Student Entry
 
-- [Main Student Mission](../final-github-team-launch-challenge.md)
-- [Checkpoint Card](checkpoint-card.md)
-- [Owner / Maintainer Card](owner-maintainer-card.md)
-- [Collaborator A — CSS Card](collaborator-a-css-card.md)
-- [Collaborator B — JavaScript Card](collaborator-b-javascript-card.md)
+**[Open GitHub Team Launch](https://github.com/hbycwyh2008/github-team-launch-skill)**
 
-## Teacher Materials
-
-- [Teacher Guide](teacher-guide.md)
-- [Automatic Checker Notes](interactive-checker.md)
-
-## Starter Pack — Required for Automatic Checking
-
-Copy the **contents** of `starter/` into the root of the team's new `team-web-launch` repository:
-
-- [Starter Setup](starter/START-HERE.md)
-- [Starter HTML](starter/index.html)
-- [Starter CSS](starter/style.css)
-- [Starter JavaScript](starter/script.js)
-- `starter/.github/workflows/team-launch-progress.yml` — automatic Mission Control checker
-
-After the workflow is installed, GitHub automatically maintains an Issue named:
+Students click **Copy Exercise →**, create a public repository under the Owner's personal GitHub account, wait about 20 seconds, then open:
 
 ```text
-🚀 GitHub Team Launch Progress
+Issues → 🚀 GitHub Team Launch Exercise
 ```
 
-That Issue is the team's source of truth. It shows the current score, passed checkpoints, detected roles, evidence URLs, and the next mission.
+The Issue automatically posts the next unlocked step and shows progress.
 
-## What Is Checked Automatically
-
-The checker validates the workflow itself rather than screenshots. It checks:
-
-- correctly named feature Issues;
-- public Project evidence and Issue links;
-- feature branches;
-- three distinct team roles working in the same shared repository;
-- correct Issue assignments;
-- local-style commits and meaningful commit messages;
-- PR quality and correct `Closes #...` syntax;
-- HTML/CSS/JavaScript file ownership by role;
-- Owner review on both collaborator PRs;
-- at least one real **Changes Requested → follow-up commit** cycle;
-- merges and automatic Issue closure;
-- local `main` synchronization from all three students using SHA proof;
-- non-placeholder integrated HTML/CSS/JavaScript on `main`;
-- live GitHub Pages HTML/CSS/JavaScript;
-- an individual reflection comment from every team member.
-
-## Project Check
-
-GitHub's normal Actions `GITHUB_TOKEN` cannot directly read Projects v2. The default classroom checker therefore verifies a **public Project URL** plus links to all three feature Issues.
-
-For strict Project-membership verification, the teacher may add a repository secret named `PROJECT_TOKEN` with GitHub Projects read permission. The checker will then also verify that all three Issues are actually present in the submitted Project.
-
-## Mastery Flow
+## Interactive Flow
 
 ```text
-Issue / Project
-→ clone
-→ feature branch
-→ edit
-→ add
-→ commit
-→ push
-→ Pull Request
-→ Owner review
-→ changes requested / response
-→ merge
-→ switch main
-→ pull
-→ GitHub Pages
-→ reflection
-→ automatic completion
+Step 1  Issues + Project evidence
+Step 2  Clone + feature branches
+Step 3  Local commits + Pull Requests
+Step 4  Owner review + Changes Requested feedback cycle
+Step 5  Owner merge + Issue closure + local main sync
+Step 6  GitHub Pages
+Step 7  Reflection
+        ↓
+🏆 Exercise complete
 ```
 
-A team finishes when **🚀 GitHub Team Launch Progress** reaches all checkpoints and closes automatically.
+## Team Roles
+
+- **Owner / Maintainer** — HTML, repository ownership, collaborator invitations, review, merge, Pages.
+- **Collaborator A** — CSS.
+- **Collaborator B** — JavaScript.
+
+All three students use distinct GitHub accounts and work in the **same shared repository**. No forks and no direct development on `main`.
+
+## Teacher Check
+
+Use `🚀 GitHub Team Launch Exercise` as the source of truth. It closes automatically when all seven stages pass.
+
+The only manual spot-check is the submitted public GitHub Project. Confirm that these three feature Issues are actually present:
+
+```text
+Build HTML structure
+Add page styling
+Add JavaScript interaction
+```
+
+The workflow automatically checks the rest: exact Issues, feature branches, three distinct PR authors, Issue assignments, local-style commits, meaningful commit messages, PR quality, file ownership, Owner review, a required Changes Requested → follow-up commit cycle, Owner merges, Issue closure, sync SHA proofs, integrated HTML/CSS/JavaScript, live Pages assets, and three reflections.
+
+---
+
+## Legacy Authoring Materials
+
+The files still stored in this folder (`checkpoint-card.md`, role cards, `teacher-guide.md`, `interactive-checker.md`, and `starter/`) are retained only as **legacy/reference materials** from the earlier manual-copy version. Students should not use the old `starter/` workflow for the final challenge.
+
+The current student mission is:
+
+- [Final Challenge: GitHub Team Launch](../final-github-team-launch-challenge.md)
+
+The current standalone exercise is:
+
+- [GitHub Team Launch interactive template](https://github.com/hbycwyh2008/github-team-launch-skill)

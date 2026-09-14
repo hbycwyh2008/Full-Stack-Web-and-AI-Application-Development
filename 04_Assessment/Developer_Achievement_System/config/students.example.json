@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "Alice",
+      "github": "alice123",
+      "enabled": true,
+      "assignments": [
+        {
+          "id": "github-workflow-quiz",
+          "repo": "github-feature-branch-pr-workflow",
+          "base_branch": "main",
+          "feature_branch": "quiz-{github}",
+          "xp_on_ci_success": {
+            "testing": 1
+          }
+        },
+        {
+          "id": "javascript-functions",
+          "repo": "javascript-functions",
+          "base_branch": "main",
+          "feature_branch": "js-{github}",
+          "xp_on_ci_success": {
+            "javascript": 3,
+            "testing": 1
+          }
+        }
+      ],
+      "manual_xp": {
+        "hci_ui": 0,
+        "collaboration": 0
+      }
+    }
+  ]
+}

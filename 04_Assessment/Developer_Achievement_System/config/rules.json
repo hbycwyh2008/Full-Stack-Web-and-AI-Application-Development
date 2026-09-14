@@ -1,0 +1,61 @@
+{
+  "skills": {
+    "git_workflow": {
+      "label": "Git Workflow",
+      "badges": [
+        {"xp": 5, "name": "Git Explorer"},
+        {"xp": 15, "name": "Git Workflow Pro"},
+        {"xp": 30, "name": "Repository Master"}
+      ]
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "badges": [
+        {"xp": 5, "name": "JS Starter"},
+        {"xp": 15, "name": "JavaScript Builder"},
+        {"xp": 30, "name": "JS Developer"}
+      ]
+    },
+    "testing": {
+      "label": "Testing",
+      "badges": [
+        {"xp": 5, "name": "Test Starter"},
+        {"xp": 15, "name": "Test Engineer"},
+        {"xp": 30, "name": "Quality Engineer"}
+      ]
+    },
+    "debugging": {
+      "label": "Debugging",
+      "badges": [
+        {"xp": 5, "name": "Bug Hunter"},
+        {"xp": 15, "name": "Debugger"},
+        {"xp": 30, "name": "Debugging Specialist"}
+      ]
+    },
+    "hci_ui": {
+      "label": "HCI / UI",
+      "badges": [
+        {"xp": 5, "name": "UI Explorer"},
+        {"xp": 15, "name": "UI Designer"},
+        {"xp": 30, "name": "Product Designer"}
+      ]
+    },
+    "collaboration": {
+      "label": "Collaboration",
+      "badges": [
+        {"xp": 5, "name": "Contributor"},
+        {"xp": 15, "name": "Code Reviewer"},
+        {"xp": 30, "name": "Team Developer"}
+      ]
+    }
+  },
+  "automatic_xp": {
+    "feature_branch_evidence": {"skill": "git_workflow", "xp": 1},
+    "commit_evidence": {"skill": "git_workflow", "xp": 1},
+    "valid_pull_request": {"skill": "git_workflow", "xp": 1},
+    "merged_pull_request": {"skill": "git_workflow", "xp": 1},
+    "successful_ci": {"skill": "git_workflow", "xp": 1},
+    "testing_success": {"skill": "testing", "xp": 1},
+    "debug_recovery": {"skill": "debugging", "xp": 1}
+  }
+}

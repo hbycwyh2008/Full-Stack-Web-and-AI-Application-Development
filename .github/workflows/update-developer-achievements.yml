@@ -1,0 +1,45 @@
+name: Update Developer Achievement Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-achievements:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out course repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan student GitHub evidence
+        env:
+          GH_SCANNER_TOKEN: ${{ secrets.GH_SCANNER_TOKEN }}
+        run: python 04_Assessment/Developer_Achievement_System/scripts/scan.py
+
+      - name: Publish dashboard data
+        run: python 04_Assessment/Developer_Achievement_System/scripts/generate_site.py
+
+      - name: Commit refreshed achievement data
+        run: |
+          git config user.name "Developer Achievement Bot"
+          git config user.email "developer-achievement-bot@users.noreply.github.com"
+          git add \
+            04_Assessment/Developer_Achievement_System/data/achievements.json \
+            docs/data.json \
+            docs/rules.json
+          if git diff --cached --quiet; then
+            echo "No achievement changes to commit."
+            exit 0
+          fi
+          git commit -m "Update developer achievement data"
+          git push

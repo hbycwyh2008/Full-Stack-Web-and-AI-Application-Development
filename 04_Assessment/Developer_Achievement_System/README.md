@@ -30,8 +30,8 @@ Git Workflow, Testing, and Debugging can be derived automatically from GitHub ev
 1. Copy `config/students.example.json` to the structure in `config/students.json` and add real students.
 2. For each assignment, provide the student's repository name and expected feature branch.
 3. Merge the system into `main`.
-4. Run **Update Developer Achievement Dashboard** from GitHub Actions once to test it.
-5. Enable GitHub Pages from `main` / `/docs` to publish the dashboard.
+4. In **Settings -> Pages**, set **Source** to **GitHub Actions**.
+5. Run **Update Developer Achievement Dashboard** from GitHub Actions once. The same workflow scans evidence, refreshes dashboard data, and deploys `/docs` to GitHub Pages.
 
 For public student repositories, no additional credential is required. If a repository is private, create a repository secret named `GH_SCANNER_TOKEN` with read access to the required student repositories.
 
@@ -110,8 +110,13 @@ scripts/generate_site.py
 docs/data.json + docs/rules.json
         |
         v
-GitHub Pages dashboard
+GitHub Actions Pages deployment
+        |
+        v
+Developer Achievement Dashboard
 ```
+
+The deployment workflow runs hourly, can be run manually, and also runs when dashboard-related files change on `main`.
 
 ## Design rule
 

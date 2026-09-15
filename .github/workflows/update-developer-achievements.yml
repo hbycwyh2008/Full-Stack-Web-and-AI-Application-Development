@@ -4,13 +4,29 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "docs/**"
+      - "04_Assessment/Developer_Achievement_System/**"
+      - ".github/workflows/update-developer-achievements.yml"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: developer-achievement-dashboard
+  cancel-in-progress: false
 
 jobs:
-  update-achievements:
+  update-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Check out course repository
@@ -39,7 +55,19 @@ jobs:
             docs/rules.json
           if git diff --cached --quiet; then
             echo "No achievement changes to commit."
-            exit 0
+          else
+            git commit -m "Update developer achievement data"
+            git push
           fi
-          git commit -m "Update developer achievement data"
-          git push
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./docs
+
+      - name: Deploy dashboard to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

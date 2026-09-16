@@ -5,7 +5,7 @@
 **OMSCS source:** CS6750 **1.1** Introduction to HCI · **3.1** Introduction to Methods · **3.2** Ethics (G7 light) · **3.3** Needfinding
 **Principle lens:** **2.2 Feedback Cycles** — designs improve when evidence returns to the next decision
 **Mission:** Orient to HCI, separate guesses from unknowns, and plan how the team will learn from users before inventing features.
-**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lessons 1.1 / 3.1 / 3.2 / 3.3 (teacher picks one primary clip)
+**EdStem:** [course 90721 lessons](https://edstem.org/us/courses/90721/lessons) → Lessons 1.1 / 3.1 / 3.2 / 3.3 (teacher picks one primary clip)
 **Durable Evidence:** needfinding sheet (known / unknown / collection plan) + consent line
 
 ### Skill Warm-up video (required)

@@ -1,0 +1,72 @@
+{
+  "assessment_types": {
+    "cp": {
+      "label": "Checkpoint",
+      "short_label": "CP",
+      "purpose": "Verified skill evidence",
+      "counts_as_formal_assessment": true
+    },
+    "practice": {
+      "label": "Practice",
+      "short_label": "Practice",
+      "purpose": "Repeatable pre-assessment rehearsal",
+      "counts_as_formal_assessment": false
+    },
+    "quiz": {
+      "label": "Quiz",
+      "short_label": "Quiz",
+      "purpose": "Formal knowledge or skills check",
+      "counts_as_formal_assessment": true
+    }
+  },
+  "sections": [
+    {
+      "id": "github-foundations",
+      "name": "Git & GitHub Foundations",
+      "items": [
+        {
+          "id": "cp1",
+          "type": "cp",
+          "code": "CP1",
+          "name": "Repository Setup",
+          "source_repo": "KLIS-CS/GitHub-Repository-Setup"
+        },
+        {
+          "id": "cp2",
+          "type": "cp",
+          "code": "CP2",
+          "name": "Feature Branch, Pull Request, Review & Merge",
+          "source_repo": "KLIS-CS/GitHub-Feature-Branch-Pull-Request-Workflow"
+        },
+        {
+          "id": "cp3",
+          "type": "cp",
+          "code": "CP3",
+          "name": "Issues & Project Management",
+          "source_repo": "KLIS-CS/GitHub-Issues-Projects-Workflow"
+        },
+        {
+          "id": "cp4",
+          "type": "cp",
+          "code": "CP4",
+          "name": "Local ↔ Remote Mental Model",
+          "source_repo": "KLIS-CS/KLIS-CS-Git-Local-Remote-Workflow"
+        },
+        {
+          "id": "cp5",
+          "type": "cp",
+          "code": "CP5",
+          "name": "Final Integrated GitHub Challenge",
+          "source_repo": "KLIS-CS/GitHub-Final-Integrated-Challenge"
+        },
+        {
+          "id": "quiz0",
+          "type": "quiz",
+          "code": "Quiz 0",
+          "name": "Markdown Foundations",
+          "source_repo": "KLIS-CS/GitHub-Markdown-Skills-Quiz"
+        }
+      ]
+    }
+  ]
+}

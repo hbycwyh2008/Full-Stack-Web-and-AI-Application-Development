@@ -1,73 +1,125 @@
-# Lesson 11 — Higher-Fidelity Prototype + Evaluate Again
+# Lesson 11 — High-Fi Interactive Prototype + Test Again
 
-**Length:** 45 minutes
-**Loop step:** Higher-Fidelity Prototype → Evaluate Again
-**OMSCS source:** CS6750 **3.5–3.6** iterate; **3.7** HCI and Agile spirit (short cycles)
-**Principle lens:** **2.2 Feedback Cycles** + **2.3 Direct Manipulation** — clearer feedback / less friction on the next step
-**Mission:** Rebuild the improved direction as a clickable higher-fidelity prototype, run a second short evaluation, and record what changed.
-**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lessons **3.5 / 3.6 / 3.7** (teacher picks the iterate/agile excerpt)
-**Durable Evidence:** clickable high-fi prototype + second-eval notes + before/after change log
+**Length:** 45 minutes  
+**Loop step:** Revise → higher fidelity → interactive prototype → second evaluation  
+**CS6750 backbone:** **3.5–3.7** prototyping / evaluation / iteration  
+**Primary student resource:** Meta *Principles of UX/UI Design* — Module 4  
+**Optional visual-craft resource:** Scrimba Intro to UI Design Fundamentals  
+**Mission:** Turn the revised low-fi flow into a clickable higher-fidelity prototype, run the same core task again, and document what improved.  
+**Durable Evidence:** clickable prototype + second-test notes + before/after change log
 
-### Skill Warm-up video (required)
+### Skill Warm-up video
 
-| Field | Assign this |
-|---|---|
-| Primary | OMSCS CS6750 **Lesson 3.7** HCI and Agile **or** iterate segment of **3.6** from EdStem/Canvas |
-| Stop | **8:00** |
-| Index | https://omscs6750.gatech.edu/ |
+Choose **one** Meta Module 4 clip:
 
-**Backup:** teacher high-fi / Figma example walkthrough if video blocked.
+- **Moving from design to prototyping** (~4 min), or
+- **Animate and test your prototype** (~5 min).
 
-Bring Lesson 10 revision list + low-fi frames.
+Course: https://www.coursera.org/learn/principles-of-ux-ui-design
 
-## 0–5 min — Skill Warm-up
+Optional later / extension: Scrimba UI Design Fundamentals clips on whitespace, alignment, contrast, typography, or visual hierarchy.
 
-Watch the clip. Write:
+## 0–6 min — Skill Warm-up
 
-1. Why short evaluate→revise cycles beat polishing once.
-2. One feedback cue the next prototype should make clearer (status, success, error).
+Write:
 
-## 5–9 min — Talk Robin 1
+1. What makes a prototype **interactive** rather than only a set of screens?
+2. Which Lesson 10 revision matters most for task success?
 
-Turn the revision list into a **build checklist**. Cut anything “nice” but not needed for the main task.
+## 6–12 min — Teacher Design-Along
 
-## 9–14 min — Entry Check
+Teacher demonstrates:
 
-Inspect a pretty mock. Mark two places where polish does **not** prove the product is easy to use.
+~~~text
+screen
+→ reusable component
+→ prototype connection
+→ interaction
+→ preview
+~~~
 
-## 14–19 min — Core Pattern
+Students follow once.
 
-**Method:** Fidelity goes up **after** evidence. High-fi still serves the same user goal.
+## 12–17 min — Entry Check
 
-**Lens:** Each revision should close a feedback-cycle gap (user sees status / result more clearly).
+Students independently connect two screens and preview the interaction.
 
-Quick 2-minute re-brainstorm if Lesson 10 revealed a new need — include now or later. Show the **before → after** change shipping today.
+Success condition:
 
-## 19–30 min — Guided Practice
+> one click / tap moves the user to the intended next state.
 
-Build/revise higher-fidelity Figma prototype:
+## 17–22 min — Core Pattern
 
-- primary flow screens;
-- clear labels and contrast;
-- success + one error/empty state;
-- clickable main task;
-- at least **two** Lesson 10 revisions.
+Higher fidelity is not permission to forget the user.
 
-**Evaluate Again** (3–5 min): peer runs the same core task. Note success and one remaining issue.
+~~~text
+Evidence
+→ revision
+→ higher-fi build
+→ Core-3 check
+→ same user task
+→ compare
+~~~
 
-## 30–40 min — Independent Rebuild
+Required Core-3 check:
 
-Change log:
+- Affordance / signifier
+- Mapping
+- Constraints
 
-1. What changed after the first evaluation.
-2. What the second evaluation showed.
-3. One open needfinding question for Test stage / capstone.
-4. One Unit 5-style reflection: what HCI Methods skill you can reuse next project.
+Visual quality supports usability; it does not replace usability.
 
-## 40–45 min — Talk Robin 2 + Evidence
+## 22–34 min — Guided Build
 
-Submit Figma link, second-eval notes, and change log. State readiness for Build-stage HTML/CSS.
+Build / revise a **3–5 screen interactive Figma prototype**.
+
+Required:
+
+- main user flow;
+- at least one reusable component;
+- clear text hierarchy;
+- consistent spacing / alignment;
+- clickable primary actions;
+- success state;
+- one constraint / error-prevention behavior or state;
+- at least **two revisions from Lesson 10 evidence**.
+
+Optional polish if time remains:
+
+- whitespace;
+- contrast;
+- typography;
+- visual hierarchy.
+
+## 34–40 min — Evaluate Again
+
+A peer runs the **same core task** from Lesson 10.
+
+Record:
+
+- completed without help? yes / no;
+- where they paused;
+- one improvement compared with the first test;
+- one remaining problem.
+
+## 40–45 min — Change Log + Exit
+
+Submit:
+
+1. Figma prototype link;
+2. second-test notes;
+3. before → after change log.
+
+Use:
+
+| Before | Evidence | Change | After-test result |
+|---|---|---|---|
+|  |  |  |  |
+
+Final reflection:
+
+> “The most important change was ___ because the first test showed ___; the second test showed ___.”
 
 ## Success Evidence
 
-Students ship a clickable higher-fidelity prototype improved by two evaluation passes, explain evidence-driven changes, and name one reusable Methods habit.
+Students can build and test a small interactive Figma prototype, explain at least two evidence-driven changes, and show that evaluation is part of design rather than something done only at the end.

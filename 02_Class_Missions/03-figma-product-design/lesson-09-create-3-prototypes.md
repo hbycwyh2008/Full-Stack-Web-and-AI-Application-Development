@@ -1,73 +1,106 @@
-# Lesson 09 — Create 3 Prototypes (Low-Fi)
+# Lesson 09 — Figma Foundations + One Low-Fi Wireframe
 
-**Length:** 45 minutes
-**Loop step:** Create 3 Prototypes
-**OMSCS source:** CS6750 **3.5** Prototyping
-**Principle lens:** **2.3 Direct Manipulation** — users should see what they can act on and get clear results
-**Mission:** Build three different low-fidelity prototypes for the same user goal, then pick a direction using evidence — not taste alone.
-**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.5**
-**Durable Evidence:** three labeled low-fi prototypes + short comparison notes
+**Length:** 45 minutes  
+**Loop step:** Selected direction → digital low-fi prototype  
+**CS6750 backbone:** **3.5 Prototyping**  
+**Primary student resource:** Meta *Principles of UX/UI Design* — Module 3  
+**Mission:** Learn only the Figma skills needed to digitize the selected user flow into a clear 3–5 screen low-fidelity wireframe.  
+**Durable Evidence:** Figma file + 3–5 low-fi screens + Core-3 self-check
 
-### Skill Warm-up video (required)
+### Skill Warm-up video
 
-| Field | Assign this |
-|---|---|
-| Primary | OMSCS CS6750 **Lesson 3.5** Prototyping excerpt from EdStem/Canvas |
-| Stop | **8:00** |
-| Index | https://omscs6750.gatech.edu/ |
+Use **one** short Meta Module 3 clip per class.
 
-**Backup:** teacher low-fi paper/Figma examples if video blocked. Note what low-fi includes vs skips.
+Preferred sequence:
 
-## 0–5 min — Skill Warm-up
+1. **Frames, layers and basic shapes** (~5 min), or
+2. **Wireframing** (~4 min) if students already know the interface.
 
-Watch the clip **or** inspect teacher low-fi examples. Write:
+Course: https://www.coursera.org/learn/principles-of-ux-ui-design
 
-1. What low-fi must show (layout, labels, actions).
-2. One **visibility / direct-manipulation** check (can the user see the next action?).
+Do not spend the class watching multiple videos back-to-back.
 
-## 5–9 min — Talk Robin 1
+## 0–6 min — Skill Warm-up
 
-Pairs list differences that matter for users (task clarity, fewer steps, clearer feedback) vs style-only differences.
+Watch the selected Meta clip.
 
-## 9–14 min — Entry Check
+Students write the minimum Figma vocabulary:
 
-Sketch **two** tiny layouts for the same start screen in 4 minutes. No color. Mark which better supports the primary goal and why (visibility of the main action).
+- frame;
+- layer;
+- text;
+- shape;
+- alignment / spacing.
 
-## 14–19 min — Core Pattern
+## 6–11 min — Teacher Design-Along
 
-**Method:** Compare alternatives. One prototype teaches little; three teach trade-offs.
+Teacher builds one simple mobile screen live:
 
-**Lens:** Each prototype must make the primary action visible and the result of that action clear.
+~~~text
+Frame
+→ heading
+→ content block
+→ button / action
+→ next screen
+~~~
 
-Assign:
+Students copy the pattern.
 
-- **A** — simplest / fewest steps
-- **B** — most guided / more help text
-- **C** — creative alternative
+No colors, gradients, illustrations, or visual polish yet.
 
-Same core task from Lesson 08 for all three.
+## 11–16 min — Entry Check
 
-## 19–30 min — Guided Practice
+Students rebuild a tiny screen **without watching the teacher**:
 
-Create three low-fi sets (paper or Figma): start · main action · success/next. Label **A / B / C**. Walkthrough: one teammate tries the task on each while another notes confusion and missing visibility cues.
+- title;
+- one input / content region;
+- one primary action.
 
-## 30–40 min — Independent Rebuild
+Quick check: are items aligned and readable?
 
-Comparison card:
+## 16–21 min — Core Pattern: Course Core 3
 
-| | A | B | C |
-|---|---|---|---|
-| Helps the need? |  |  |  |
-| Visible primary action? |  |  |  |
-| Confusing spot |  |  |  |
-| Keep / drop |  |  |  |
+Introduce only these three design questions:
 
-Choose a **primary direction** (or hybrid) with one evidence-based reason.
+1. **Affordance / signifier** — can the user tell what is actionable?
+2. **Mapping** — can the user predict what an action will do?
+3. **Constraints** — does the interface reduce invalid / mistaken actions?
 
-## 40–45 min — Talk Robin 2 + Evidence
+Use: [design-evaluation-checklist.md](design-evaluation-checklist.md)
 
-Submit three prototypes + comparison card. Announce the direction for Lesson 10 evaluation.
+## 21–34 min — Guided Build
+
+Students convert the Lesson 08 selected user flow into **3–5 low-fi screens**.
+
+Required:
+
+- same target user need;
+- start screen;
+- primary task steps;
+- success state;
+- clear labels;
+- consistent spacing / alignment.
+
+Teacher circulates and checks that students are implementing the **flow**, not decorating screens.
+
+## 34–41 min — Independent Rebuild
+
+Pick one screen and improve it using the Core 3.
+
+Write one line for each:
+
+- **Affordance:** ______
+- **Mapping:** ______
+- **Constraint:** ______
+
+## 41–45 min — Talk Robin 2 + Evidence
+
+Submit Figma link / screenshot set.
+
+Exit statement:
+
+> “The main task is ___, and the screen most likely to confuse a user is ___ because ___.”
 
 ## Success Evidence
 
-Students produce three comparable low-fi prototypes, check visibility of key actions, and select a direction using task/need evidence.
+Students can independently create basic Figma frames and transform one evidence-backed user flow into a coherent low-fi wireframe without wasting time on visual polish.

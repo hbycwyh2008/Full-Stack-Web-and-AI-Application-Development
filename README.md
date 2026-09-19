@@ -11,8 +11,8 @@ Students learn computer science by making real software for real users—moving 
 ## The Learning Journey
 
 ```text
-DISCOVER     →  user needs & HCI questions
-DESIGN       →  Figma wireframes & interactive prototypes
+DISCOVER     →  user evidence · bias checks · user needs
+DESIGN       →  alternatives · Figma · usability test · interactive prototype
 BUILD        →  HTML · CSS · Bootstrap · JavaScript
 COLLABORATE  →  GitHub workflow & peer review
 TEST         →  HCI experiments, evidence & iteration
@@ -37,7 +37,7 @@ By the end of the course, each student has:
 | **Figma prototype** | Interactive wireframes / high-fidelity prototype |
 | **Published web project** | Live interactive site or browser game |
 | **GitHub portfolio** | Issues, branches, PRs, peer review, releases |
-| **HCI evidence** | Research notes, usability tests, iteration log |
+| **HCI evidence** | Research notes, bias/sample checks, usability tests, iteration log |
 
 ## Priority
 
@@ -67,8 +67,8 @@ React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, and similar to
 
 | Journey stage | Lessons (current numbering) | Focus |
 |---|---:|---|
-| Discover | 00–01, 05–07 | CS orientation + HCI user research |
-| Design | 08–11 | Figma wireframes & prototypes |
+| Discover | 00–01, 05–07 | CS orientation + HCI research, bias checks, evidence synthesis |
+| Design | 08–11 | 3 alternatives → one Figma flow → evaluate/revise → interactive prototype |
 | Build | 12–20 | HTML / CSS / Bootstrap / JavaScript |
 | Collaborate | Foundations unit | GitHub Docs/Skills + commits / history evidence |
 | Test | 25–26 | Usability, QA, evidence & iteration |

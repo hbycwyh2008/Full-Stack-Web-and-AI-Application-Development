@@ -15,8 +15,8 @@
 
 - [ ] `00-course-orientation` — CS definition + computational thinking + software lifecycle
 - [ ] `01-github-foundations` — YouTube + GitHub Docs/Skills: repo, README, commits, history
-- [ ] `02-hci-user-research` — OMSCS CS6750 map + needfinding → ask/observe → survey + micro-requirements
-- [ ] `03-figma-product-design` — OMSCS Methods: alternatives → 3 prototypes → evaluate → high-fi
+- [ ] `02-hci-user-research` — needfinding → ask/observe → bias check → survey/sample check → evidence synthesis → micro-requirements
+- [ ] `03-figma-product-design` — 3 fast alternatives → one low-fi Figma wireframe → Core-3 + usability evaluation → revised high-fi prototype
 - [ ] `04-html-css-implementation` — semantic/responsive implementation
 - [ ] `05-javascript-interaction` — JavaScript + computational thinking
 - [ ] `06-ai-literacy` — four concentrated Mitchell lessons
@@ -44,9 +44,9 @@
 
 ## HCI + Figma
 
-- [ ] OMSCS CS6750 / EdStem lesson videos available for classroom projection ([mapping](../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md))
-- [ ] Coursera Minnesota/Google/Meta clips ready only as backup
-- [ ] participant/research ethics rules appropriate to school context are clear (G7 light consent)
+- [ ] OMSCS CS6750 available as teacher/conceptual backbone ([mapping](../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md))
+- [ ] Meta `Principles of UX/UI Design` selected Module 2–4 clips ready as the primary student-facing Figma/evaluation input
+- [ ] participant/research ethics rules appropriate to school context are clear (G7 light consent) and the Bias Check card is ready
 - [ ] Figma access confirmed
 - [ ] students have a place to store anonymized research evidence
 - [ ] teachers do not require full requirements docs before Capstone L28

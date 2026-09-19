@@ -82,7 +82,7 @@ Give a task
 | **Recall** | Am I asking them to remember something vague or long ago? |
 | **Observer bias** | Did I write what happened, or what I expected to happen? |
 
-## 19–31 min — Guided Practice
+## 19–30 min — Guided Practice
 
 Roles: **interviewer · participant · observer**.
 
@@ -98,7 +98,7 @@ Roles: **interviewer · participant · observer**.
 
 Switch roles if time allows.
 
-## 31–40 min — Independent Rebuild
+## 30–40 min — Independent Rebuild
 
 Each student submits:
 

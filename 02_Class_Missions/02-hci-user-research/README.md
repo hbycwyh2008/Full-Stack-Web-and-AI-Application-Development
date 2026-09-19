@@ -5,6 +5,7 @@ This unit teaches students to **understand the problem before designing the solu
 Canonical map: [omscs-cs6750-mapping.md](omscs-cs6750-mapping.md)  
 Printables: [g7-printables.md](g7-printables.md)  
 Student submission templates: [student-templates/](student-templates/README.md)  
+Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)  
 CS6750 index: https://omscs6750.gatech.edu/
 
 ## Discover loop

@@ -153,6 +153,15 @@ Use selected lessons only — not full course completion unless a teacher assign
 - **Use:** Short React supplement using a movie search app.
 - **Units:** Optional enrichment during `06-nextjs-frontend`.
 
+### UI / Visual Design
+
+#### Scrimba — Intro to UI Design Fundamentals
+- **Link:** https://scrimba.com/articles/best-ui-design-courses/
+- **Use:** Optional visual-design reinforcement after students already know basic Figma.
+- **Selected ideas:** whitespace, alignment, contrast, scale, typography, color, visual hierarchy.
+- **Do not use as:** the main Figma, UX research, or evaluation course.
+- **Units:** Optional support for `03-figma-product-design` and later HTML/CSS visual refinement.
+
 ### How Scrimba Resources Should Be Used
 
 Do **not** design the course as “students watch Scrimba and finish online exercises.”
@@ -177,11 +186,34 @@ Project evidence proves progress.
 
 ---
 
-## Figma UI Design (`optional-figma`)
+## UX/UI + Figma Product Design (`03-figma-product-design`)
 
-### Figma for Beginners (Teacher-selected)
-- **Link:** _Teacher to add verified link._
-- **Status:** Optional (`optional-figma`)
+### Primary student-facing course — Meta: Principles of UX/UI Design
+- **Link:** https://www.coursera.org/learn/principles-of-ux-ui-design
+- **Status:** **Required selected clips only** for Lessons 09–11; do **not** assign the whole course as a prerequisite.
+- **Use:**
+  - **Module 2 — Evaluating Interactive Design:** selected evaluation material for Lesson 10.
+  - **Module 3 — Applied Design Fundamentals:** Figma frames, wireframing, and usability testing for Lessons 09–10.
+  - **Module 4 — Designing your UI:** components, high-fidelity design, prototyping, and testing for Lesson 11.
+- **Pattern:** short video → teacher model → guided design-along → independent rebuild / transfer.
+
+### Teacher knowledge backbone — Georgia Tech OMSCS CS6750
+- **Link:** https://omscs6750.gatech.edu/
+- **Use:** Needfinding → Design Alternatives → Prototyping → Evaluation → Iterate.
+- **Status:** Teacher/conceptual backbone; selected excerpts may be projected when appropriate, especially **3.4 Design Alternatives**.
+
+### Optional visual-design reinforcement — Scrimba
+- **Resource:** Intro to UI Design Fundamentals.
+- **Use:** whitespace, alignment, contrast, scale, typography, and visual hierarchy **after** students can already build a Figma wireframe.
+- **Status:** Optional; does not replace Meta Figma instruction or HCI evaluation.
+
+### Unit output
+Students finish with:
+- 3 fast paper design alternatives;
+- one 3–5 screen low-fi Figma wireframe;
+- one Core-3 + usability evaluation;
+- one revised clickable high-fidelity prototype;
+- a before/after evidence-based change log.
 
 ---
 

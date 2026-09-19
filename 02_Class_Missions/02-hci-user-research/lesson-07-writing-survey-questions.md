@@ -5,7 +5,7 @@
 **CS6750 backbone:** **3.3** Needfinding and Requirements Gathering  
 **Quality control:** wording bias · sampling / voluntary-response bias · overgeneralization  
 **Mission:** Write a short survey that measures useful patterns, then combine survey/interview/observation evidence into 2–3 verifiable user needs.  
-**Durable Evidence:** 5-question survey + sample check + evidence synthesis + 2–3 micro-requirements
+**Durable Evidence:** [L07 submission template](student-templates/l07-survey-evidence-synthesis.md) — 5-question survey + sample check + evidence synthesis + 2–3 micro-requirements
 
 ### Skill Warm-up video
 

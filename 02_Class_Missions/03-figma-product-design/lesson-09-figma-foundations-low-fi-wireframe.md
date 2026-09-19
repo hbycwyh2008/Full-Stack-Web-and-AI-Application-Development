@@ -5,7 +5,7 @@
 **CS6750 backbone:** **3.5 Prototyping**  
 **Primary student resource:** Meta *Principles of UX/UI Design*  
 **Mission:** Learn only the Figma skills needed to turn the selected Lesson 08 flow into a clear 3–5 screen low-fidelity wireframe.  
-**Durable Evidence:** Figma file + 3–5 low-fi screens + Core-3 self-check
+**Durable Evidence:** [L09 submission template](student-templates/l09-low-fi-figma-core3.md) — Figma file + 3–5 low-fi screens + Core-3 self-check
 
 ### Skill Warm-up video
 

@@ -7,7 +7,8 @@ This unit continues directly from HCI needfinding. Students do **not** learn Fig
 **Optional visual-design practice:** Scrimba — [Intro to UI Design Fundamentals](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
 
 Canonical CS6750 map: [../02-hci-user-research/omscs-cs6750-mapping.md](../02-hci-user-research/omscs-cs6750-mapping.md)  
-Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)
+Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)  
+Exact Meta clip map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
 
 ## Design loop
 
@@ -59,9 +60,11 @@ Other ideas — feedback/status, consistency, accessibility, hierarchy, typograp
 
 Use selected short videos, not the full course.
 
-- **Module 2 — Evaluating Interactive Design:** evaluation / heuristic thinking
-- **Module 3 — Applied Design Fundamentals:** frames, text, grids, wireframes, usability testing
-- **Module 4 — Designing your UI:** high-fidelity design, components, prototyping, testing
+- **Module 2 — Evaluating Interactive Design:** optional support for designer review
+- **Module 3 — Applied Design Fundamentals:** required L09 **Frames, layers and basic shapes** + required L10 **Usability testing**
+- **Module 4 — Designing your UI:** required L11 **Moving from design to prototyping**
+
+One required video per class. Extra Meta clips are support, not automatic assignments.
 
 ### CS6750 = teacher / conceptual backbone
 
@@ -119,6 +122,19 @@ Record:
 - help requested;
 - exact confusion words;
 - what must change.
+
+## Design → Build mastery gate
+
+Before Lesson 12 implementation, the prototype must satisfy all of these:
+
+- [ ] one evidence-backed main task is represented from start to success;
+- [ ] a peer completes that task without facilitator help;
+- [ ] no unresolved **MUST** usability blocker remains;
+- [ ] the Core 3 is checked on the revised design;
+- [ ] at least two revisions are traceable to evaluation evidence;
+- [ ] the before/after change log is complete.
+
+If the gate fails, revise the prototype before coding.
 
 ## Standard
 

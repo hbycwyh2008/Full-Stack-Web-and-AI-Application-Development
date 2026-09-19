@@ -4,7 +4,7 @@
 **Loop step:** Evidence-backed need → alternatives → user flow  
 **CS6750 backbone:** **3.4 Design Alternatives**  
 **Mission:** Generate three genuinely different ways to solve the same user need before opening Figma.  
-**Durable Evidence:** 3 alternative sketches + one selected user flow + evidence-based rationale
+**Durable Evidence:** [L08 submission template](student-templates/l08-three-alternatives-user-flow.md) — 3 alternative sketches + one selected user flow + evidence-based rationale
 
 ### Skill Warm-up video
 

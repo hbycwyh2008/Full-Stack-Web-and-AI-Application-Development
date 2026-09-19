@@ -50,6 +50,8 @@ Not every small lesson artifact requires the complete list. Use the lesson's `Su
 - a polished Figma screen with no task flow or testing;
 - a final website with no testing or revision history.
 
+Related fast grading tool: [HCI + Figma L05–L11 Teacher Quick Check](HCI_Figma_L05-L11_Quick_Check.md).
+
 ## Phase mastery gates
 
 ### Discover → Design

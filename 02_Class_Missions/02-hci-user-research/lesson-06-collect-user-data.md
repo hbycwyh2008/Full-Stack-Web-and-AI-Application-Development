@@ -5,7 +5,7 @@
 **CS6750 backbone:** **3.3** Needfinding methods  
 **Quality control:** leading questions · social desirability · recall · observer bias  
 **Mission:** Collect useful interview and observation evidence without quietly steering the participant or turning interpretations into facts.  
-**Durable Evidence:** interview notes + observation notes + Bias Check
+**Durable Evidence:** [L06 submission template](student-templates/l06-interview-observation-bias-check.md) — interview notes + observation notes + Bias Check
 
 ### Skill Warm-up video
 

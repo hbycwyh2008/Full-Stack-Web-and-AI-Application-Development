@@ -4,7 +4,7 @@ This unit continues directly from HCI needfinding. Students do **not** learn Fig
 
 **Teacher knowledge backbone:** Georgia Tech OMSCS CS6750  
 **Primary student-facing course:** Meta — [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)  
-**Optional visual-design practice:** Scrimba — Intro to UI Design Fundamentals
+**Optional visual-design practice:** Scrimba — [Intro to UI Design Fundamentals](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
 
 Canonical CS6750 map: [../02-hci-user-research/omscs-cs6750-mapping.md](../02-hci-user-research/omscs-cs6750-mapping.md)  
 Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)

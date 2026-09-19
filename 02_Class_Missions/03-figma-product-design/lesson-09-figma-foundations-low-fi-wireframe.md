@@ -9,16 +9,11 @@
 
 ### Skill Warm-up video
 
-Use **one** short Meta Module 3 clip per class.
+**Required:** Meta Module 3 — **Frames, layers and basic shapes** (~5 min)  
+Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
+Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
 
-Preferred sequence:
-
-1. **Frames, layers and basic shapes** (~5 min), or
-2. **Wireframing** (~4 min) if students already know the interface.
-
-Course: https://www.coursera.org/learn/principles-of-ux-ui-design
-
-Do not spend the class watching multiple videos back-to-back.
+If students have never opened Figma before, **substitute** Module 1 **Getting started with Figma** (~5 min) and let the teacher model frames/shapes live. Do not stack both videos automatically.
 
 ## 0–6 min — Skill Warm-up
 
@@ -104,3 +99,13 @@ Exit statement:
 ## Success Evidence
 
 Students can independently create basic Figma frames and transform one evidence-backed user flow into a coherent low-fi wireframe without wasting time on visual polish.
+
+### L09 mastery gate
+
+Before moving to evaluation, the team must have:
+
+- [ ] 3–5 connected screens representing one complete main task;
+- [ ] a visible start and success state;
+- [ ] clear labels for the primary actions;
+- [ ] a Core-3 self-check completed;
+- [ ] no time spent polishing colors/illustrations instead of fixing the flow.

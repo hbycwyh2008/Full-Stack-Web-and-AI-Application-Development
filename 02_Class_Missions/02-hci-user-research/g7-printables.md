@@ -1,4 +1,4 @@
-# G7 Printables — Needfinding & Survey
+# G7 Printables — Needfinding, Bias, Survey & Evidence
 
 Teacher may print or project these cards. Keep language short.
 
@@ -6,9 +6,9 @@ Teacher may print or project these cards. Keep language short.
 
 ## 1) 30-second consent script
 
-> “Hi — we are learning how to understand users for a class project.
-> Can I ask you a few questions / watch you try a short task?
-> You can skip any question. We will not collect private information.
+> “Hi — we are learning how to understand users for a class project.  
+> Can I ask you a few questions / watch you try a short task?  
+> You can skip any question. We will not collect private information.  
 > Is that OK?”
 
 If the answer is no: thank them and stop.
@@ -19,48 +19,96 @@ If the answer is no: thank them and stop.
 
 | Method | Do | Avoid |
 |---|---|---|
-| **Ask** | “Last time you… what happened?” | “Would you use my app?” |
+| **Ask** | “Tell me about the last time…” | “Would you use my app?” |
 | **Observe** | Write what they **do** and where they pause | Guess their feelings without evidence |
-| **Notes** | Separate **quote/action** from **my idea** | Mixing opinions into “facts” |
+| **Notes** | Separate **quote/action** from **my interpretation** | Mixing opinions into “facts” |
 
-Needfinding sheet fields:
+Needfinding sheet:
 
-1. Topic:
+1. User / situation:
 2. We know:
 3. We do not know:
-4. First method (ask / observe / survey):
+4. Evidence method:
 5. Data we will **not** collect:
+6. Evidence that could change our mind:
 
 ---
 
-## 3) Bad → good survey examples
+## 3) Bias Check card
+
+Before trusting the data, ask:
+
+| Check | Question |
+|---|---|
+| **Confirmation** | Am I only noticing evidence that supports my favorite idea? |
+| **Leading** | Did my wording push the participant toward an answer? |
+| **Social desirability** | Are they telling me what sounds polite / acceptable? |
+| **Recall** | Am I relying on vague memory instead of recent behavior? |
+| **Observer** | Did I record what happened, or what I expected? |
+| **Sample** | Who answered — and who might be missing? |
+
+**Rule:** bias does not always make data useless. It changes **how strongly** we can trust or generalize the conclusion.
+
+---
+
+## 4) Bad → good survey examples
 
 | Bad | Why | Better |
 |---|---|---|
 | Would you use our awesome study app? | Leads + sells a solution | Tell about the last time homework felt hard. What did you try? |
-| Do you like reminders and dark mode? | Asks two things + taste | Which of these do you already use when studying? (list options) |
-| How will you feel if AI plans your week? | Hypothetical future | When you plan your week now, what usually goes wrong? |
-| Don’t you think notifications help? | Pushes “yes” | How do you usually remember due dates? |
+| Do you like reminders and dark mode? | Double-barreled | How do you currently remember due dates? |
+| How will AI improve your grades? | Assumes improvement | If you use AI for schoolwork now, what do you use it for? |
+| Don’t you think notifications help? | Pushes “yes” | How often do notifications help you remember a task? |
 
-Survey draft template:
+Survey draft:
 
 1. Consent line
 2. Open: Last time…
-3. Open: When that happens, what do you do?
-4. Open: What still feels hard?
-5. Rating 1–5: How often does this problem happen in a normal week?
-6. Optional: Anything else we should know? (prefer not to say OK)
+3. Open: What did you do next?
+4. Open: What was still difficult?
+5. Frequency / rating question
+6. Optional: Anything else we should know?
+
+Sample check:
+
+- Who will answer?
+- Who might be missing?
+- What should we **not** claim from this sample?
 
 ---
 
-## 4) Observation note template
+## 5) Observation note template
 
 Task given: _______________________
 
-| Time / step | What I saw | Stuck? (Y/N) | My interpretation (not fact) |
+| Step | What I saw | Stuck? | My interpretation (not fact) |
 |---|---|---|---|
 | 1 |  |  |  |
 | 2 |  |  |  |
 | 3 |  |  |  |
 
-Possible need (because of evidence above): _______________________
+---
+
+## 6) Evidence Synthesis card
+
+Keep evidence types separate:
+
+- **Quote** = exact participant words
+- **Action** = observed behavior
+- **Pattern** = repeated / cross-source evidence
+- **Interpretation** = our explanation; must be labeled
+
+| Evidence | Type / source | Supports what need? | Contradiction / uncertainty? |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+Possible need:
+
+> When __________________, the user needs to __________________ so that __________________.
+
+Confidence check:
+
+> We believe this because __________________.  
+> We could still be wrong because __________________.

@@ -1,72 +1,125 @@
-# Lesson 10 — Evaluate + Further Needfinding
+# Lesson 10 — Evaluate Low-Fi + Revise
 
-**Length:** 45 minutes
-**Loop step:** Evaluate + Further Needfinding
-**OMSCS source:** CS6750 **3.6** Evaluation
-**Principle lens:** **2.5 Design principles and heuristics** — use 3–5 selected heuristics as a checklist, not as taste
-**Mission:** Test the chosen low-fi prototype with a peer, collect new evidence, and turn surprises into needfinding questions or design changes.
-**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.6** (+ optional **2.5** heuristics excerpt)
-**Durable Evidence:** evaluation notes + 2 further-needfinding questions + revision list
+**Length:** 45 minutes  
+**Loop step:** Designer review → user task test → evidence → revision  
+**CS6750 backbone:** **3.6 Evaluation** + **2.5 Design Principles and Heuristics**  
+**Primary student resource:** Meta *Principles of UX/UI Design* — Modules 2–3  
+**Mission:** Evaluate the low-fi design twice: first with the course Core 3, then with a real user task. Revise from evidence rather than taste.  
+**Durable Evidence:** Core-3 review + usability notes + Must/Should/Later revisions
 
-### Skill Warm-up video (required)
+### Skill Warm-up video — 7 minutes total
 
-| Field | Assign this |
+Meta:
+
+- **Evaluating design** (~3 min)
+- **Usability testing** (~4 min)
+
+Course: https://www.coursera.org/learn/principles-of-ux-ui-design
+
+## 0–7 min — Skill Warm-up
+
+After the clips, answer:
+
+1. What is the difference between **reviewing a design** and **testing a user**?
+2. Why should the facilitator avoid telling the tester where to click?
+
+## 7–12 min — Entry Check
+
+Classify:
+
+- “Tester tapped the wrong icon twice.” → **evidence**
+- “The page looks boring.” → **taste**
+- “Tester asked, ‘Where do I save?’” → **evidence**
+- “Users will obviously understand this.” → **assumption**
+
+## 12–18 min — Core Pattern
+
+### Pass 1 — Designer review
+
+Use the course Core 3:
+
+| Principle | Check |
 |---|---|
-| Primary | OMSCS CS6750 **Lesson 3.6** Evaluation excerpt from EdStem/Canvas |
-| Optional add-on | Brief **2.5** heuristics clip if time allows within Warm-up window |
-| Stop | **8:00** total |
-| Index | https://omscs6750.gatech.edu/ |
+| **Affordance / signifier** | Is it obvious what can be clicked / changed? |
+| **Mapping** | Is the result of an action predictable? |
+| **Constraints** | Are invalid actions prevented or made harder? |
 
-**Backup:** Minnesota *Evaluating User Interfaces* intro (≤ 8 min) or a sample eval sheet.
+Also flag severe accessibility / readability problems, but do not create another long memorization list.
 
-Bring the chosen low-fi prototype from Lesson 09.
+### Pass 2 — User task test
 
-## 0–5 min — Skill Warm-up
+~~~text
+Give one task
+→ do not coach
+→ watch
+→ record actions / pauses / words
+→ ask one short follow-up
+→ revise
+~~~
 
-Watch the clip. Write what an evaluator should record, and list **3 heuristics** you will use today (examples: visibility of system status; match to real world / mental model; error prevention; recognition over recall; consistency).
+## 18–24 min — Prepare the Test
 
-## 5–9 min — Talk Robin 1
+Teams write one task script.
 
-Pairs write one clear **task script** for the tester. Avoid hinting which button to press. Confirm the 3 heuristics both partners will watch for.
+Bad:
 
-## 9–14 min — Entry Check
+> “Click the plus button and then press Save.”
 
-Mark each note **evidence** or **opinion**:
+Good:
 
-- “Tester tapped Settings three times.”
-- “The blue button looks nicer.”
-- “Tester asked ‘Where do I save?’”
-- “I think users love dashboards.”
+> “Add tomorrow’s science homework and make sure you can find it again.”
 
-## 14–19 min — Core Pattern
+Roles:
 
-**Method evaluation loop:**
+- facilitator;
+- tester from another team;
+- note-taker.
 
-```text
-Give a task → Watch → Note → Ask one follow-up → Thank
-Then: What new thing did we learn about user needs?
-```
+## 24–34 min — Guided Usability Test
 
-**Heuristic lens:** after the session, tag at least one note with a heuristic name (e.g., “visibility”).
+Record:
 
-Roles: **facilitator**, **tester** (other team if possible), **note-taker**.
+- task success: yes / no;
+- wrong turns;
+- pauses;
+- help requested;
+- exact confusion words;
+- one surprise.
 
-## 19–30 min — Guided Practice
+Do not fix the interface during the test.
 
-Run a **5–7 minute** peer evaluation.
+## 34–41 min — Independent Revision Plan
 
-Record: task success · pauses/help · exact confusion words · one surprise · one heuristic hit/miss.
+Create:
 
-Write **two further needfinding questions**. Optional: fix only labels/buttons that blocked the task.
+### MUST
+Blocks the main task.
 
-## 30–40 min — Independent Rebuild
+### SHOULD
+Creates confusion / extra effort.
 
-List **three revisions** Must / Should / Later, each tied to an evaluation note or heuristic. Rewrite one confusing label or step.
+### LATER
+Polish or optional improvement.
 
-## 40–45 min — Talk Robin 2 + Evidence
+Every revision must cite:
 
-Submit eval notes, further-needfinding questions, and revision list. Share one change for the high-fi build.
+- a Core-3 problem, **or**
+- an observed user-test event.
+
+Add **one further-needfinding question** only if the test revealed something you still do not understand about the user/task.
+
+## 41–45 min — Talk Robin 2 + Evidence
+
+Submit:
+
+- Core-3 review;
+- task-test notes;
+- Must / Should / Later revision list.
+
+Exit statement:
+
+> “We expected ___, but the user actually ___, so we will change ___.”
 
 ## Success Evidence
 
-Students can evaluate with a real task, separate evidence from taste, apply a few heuristics, and produce new needfinding questions plus concrete revisions.
+Students can distinguish heuristic/design review from usability testing, observe without coaching, and convert concrete evidence into a prioritized revision.

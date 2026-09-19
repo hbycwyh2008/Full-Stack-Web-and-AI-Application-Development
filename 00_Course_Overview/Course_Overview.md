@@ -20,10 +20,10 @@ Students perform discovery, research, requirements, design, planning, implementa
 Students use issues, branches, meaningful commits, pull requests, review, merge, and releases as normal development practice.
 
 ### HCI
-Aligned to OMSCS CS6750 Methods with Unit 2 principle lenses. Students practice needfinding, ask/observe, survey craft, and 2–3 micro need/requirement statements. Full requirements documents are deferred to Capstone; formal usability continues in Test.
+Aligned to the CS6750 design life cycle. Students practice needfinding, ask/observe, survey craft, and evidence synthesis, but now explicitly check confirmation, leading, recall, observer, and sampling bias before turning data into 2–3 micro need/requirement statements. Full requirements documents remain deferred to Capstone.
 
 ### Figma
-Students continue the CS6750 design life cycle: brainstorm alternatives, create three low-fi prototypes, evaluate with selected heuristics, capture further needfinding questions, then build a higher-fidelity clickable prototype and evaluate again.
+Students create three fast paper alternatives, choose one direction, build a 3–5 screen low-fi Figma wireframe, evaluate it with the course Core 3 (affordance/signifier, mapping, constraints) plus a real usability task, revise, then build a clickable high-fidelity prototype and retest. Meta Principles of UX/UI Design is the primary student-facing Figma/evaluation resource; CS6750 remains the teacher/conceptual backbone.
 
 ### Programming
 Students use HTML, CSS, and JavaScript to implement designed products and practice algorithms, abstraction, data structures, code analysis, and debugging.

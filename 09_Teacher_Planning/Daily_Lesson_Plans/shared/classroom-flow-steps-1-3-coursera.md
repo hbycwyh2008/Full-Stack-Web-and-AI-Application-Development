@@ -59,9 +59,9 @@ AI Literacy: one Mitchell passage (in class only)
 
 | Journey stage | Coursera course (exact name) | Provider | Link | Why it fits **this** course |
 |---|---|---|---|---|
-| **Discover** | **OMSCS CS6750** Lessons **1.1 / 3.1–3.3** (primary) | Georgia Tech OMSCS | https://omscs6750.gatech.edu/ · [EdStem 31962](https://edstem.org/us/courses/31962/lessons) | Canonical HCI map: [`02-hci-user-research/omscs-cs6750-mapping.md`](../../../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md). Coursera Minnesota/Google = backup only. |
-| **Design** | **OMSCS CS6750** Lessons **3.4–3.7** + principles **2.3 / 2.5 / 2.6** (primary) | Georgia Tech OMSCS | https://omscs6750.gatech.edu/ · EdStem 31962 | Alternatives → prototype → evaluate → iterate. Minnesota/Meta Coursera = backup only. |
-| **Design (Figma tool)** | **Principles of UX/UI Design** (backup tool craft) | Meta | https://www.coursera.org/learn/principles-of-ux-ui-design | Optional Figma craft if OMSCS video access fails or extra tool practice is needed. |
+| **Discover** | **OMSCS CS6750** selected needfinding methods + class Bias Check | Georgia Tech OMSCS | https://omscs6750.gatech.edu/ · [EdStem 31962](https://edstem.org/us/courses/31962/lessons) | Needfinding → ask/observe → bias check → survey/sample check → evidence synthesis. |
+| **Design** | **Principles of UX/UI Design** — selected Modules **2–4** | Meta | https://www.coursera.org/learn/principles-of-ux-ui-design | Primary **student-facing** Figma/evaluation input: low-fi wireframe → evaluation → high-fi interactive prototype. |
+| **Design backbone** | **OMSCS CS6750** Lessons **3.4–3.7** + Unit 2 principles | Georgia Tech OMSCS | https://omscs6750.gatech.edu/ · EdStem 31962 | Teacher/conceptual backbone; preserve Alternatives → Prototyping → Evaluation → Iterate. L08 may use 3.4 directly. |
 | **Build** | **HTML, CSS, and Javascript for Web Developers** *(Specialization)* | Johns Hopkins University | https://www.coursera.org/specializations/html-css-javascript-for-web-developers | Same stack as our Build stage: HTML5 → CSS3 (+ Bootstrap) → JS. Browser-first, project-shaped lessons. |
 | **Collaborate** | **Not Coursera** — GitHub official Docs + Skills + your YouTube warm-ups (see below) | GitHub | (links in Collaborate section) | Matches what you already wrote in Phase 0 / Git unit: official Hello World, Quickstart, Skills practice + short YouTube clips. |
 | **Test** | **Evaluating User Interfaces** | University of Minnesota | https://www.coursera.org/learn/ui-testing | Heuristics + usability testing with users—maps to Test stage HCI experiments and evidence. |
@@ -82,75 +82,95 @@ Exact in-class passages: [`required-reading-map.md`](../../../02_Class_Missions/
 
 ## Stage-by-stage: Steps 1–3 designs
 
-Use one design below per class meeting. Discover/Design use **OMSCS CS6750** as primary Skill Warm-up (Coursera backup only); other web stages may still use Coursera; **AI Literacy uses Mitchell only**. Keep Talk Robin + Entry Check structure fixed.
+Use one design below per class meeting. **Discover** uses selected CS6750 needfinding material with explicit bias checks. **Design** uses Meta Principles of UX/UI Design as the primary student-facing Figma/evaluation video source while CS6750 remains the teacher/conceptual backbone. **AI Literacy uses Mitchell only**. Keep Talk Robin + Entry Check structure fixed.
 
 ---
 
-### A. Discover — Needfinding, user data & micro-requirements (G7)
+### A. Discover — Needfinding, Bias Check & Evidence Synthesis (G7)
 
-**Primary source:** OMSCS CS6750 (EdStem/Canvas). Exact Unit X.Y targets are in each HCI lesson file and in [`omscs-cs6750-mapping.md`](../../../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md).
+**Conceptual backbone:** OMSCS CS6750 needfinding / research methods.
 
-**Loop framing:** HCI Lessons 05–07 are **Initial Needfinding** only. Brainstorm → 3 prototypes → evaluate → higher-fi continue in Figma 08–11.
+**Loop framing:** Lessons 05–07 do not end at “we collected data.” Students must check whether the evidence could be biased before turning it into a need.
 
-| Lesson | OMSCS primary (stop ≤ 8:00) | Principle lens | Coursera backup only |
+| Lesson | Main method | Required quality control | Suggested input |
 |---|---|---|---|
-| **05** Initial Needfinding | **1.1** or **3.3** needfinding intro | **2.2** Feedback cycles | Minnesota → **Introduction to User Research** (~3 min) |
-| **06** Collect user data | **3.3** interview/observation | **2.4** Human abilities | Minnesota → **Observations** or **Interview** (stop 8:00) |
-| **07** Survey + micro-requirements | **3.3** survey/requirements bridge | **2.7** Task analysis (minimal) | Google Week 1 survey questions (stop 8:00) or printables |
-| Consent | G7 light consent (`g7-printables.md`) — not full graduate IRB / ethics lecture | — | — |
-
-**Skill Warm-up task (students)**
-Watch the OMSCS clip (or backup). Write:
-
-1. One method idea (needfinding / ask / observe / survey).
-2. One unclear point.
-3. One principle-lens note from today’s lesson header.
-
-**Talk Robin 1 prompts**
-
-- You: “What was done in the warm-up was…”
-- Partner: “What was confusing was…”
-- Together: “One question we would ask a real user of our project is…”
-
-**Entry Check (individual)**
-
-1. Name one way to collect user data (ask / observe / survey).
-2. Why is “I think users want X” weaker than an observation or interview note?
-3. Write one consent rule before asking a classmate.
-
-**Why this stack fits Discover:** Methods from CS6750 Unit 3; Principles as lenses; Coursera only if OMSCS video access fails. Discover produces **needfinding evidence + survey craft + 2–3 micro need statements**, not a full requirements document (Capstone L28).
-
----
-
-### B. Design — Brainstorm, 3 prototypes, evaluate, higher-fi (Figma)
-
-**Primary source:** OMSCS CS6750 Methods **3.4–3.7** with principle lenses **2.3 / 2.5 / 2.6 / 2.2**. See lesson headers and the mapping doc.
-
-**Maps to Lessons 08–11:** Brainstorm Alternatives → Create 3 Prototypes → Evaluate + Further Needfinding → Higher-Fidelity → Evaluate Again.
-
-| Lesson | OMSCS primary (stop ≤ 8:00) | Principle lens | Coursera backup only |
-|---|---|---|---|
-| **08** Alternatives | **3.4** | **2.6** Mental models | Minnesota *Prototyping and Design* alternatives intro |
-| **09** 3 prototypes | **3.5** | **2.3** Direct manipulation / visibility | Meta Figma wireframe/prototype craft |
-| **10** Evaluate | **3.6** (+ optional **2.5**) | **2.5** Heuristics (3–5) | Minnesota *Evaluating User Interfaces* usability intro |
-| **11** High-fi + evaluate again | **3.7** or iterate from **3.6** | **2.2** Feedback cycles | Teacher high-fi demo if video blocked |
+| **05** Initial Needfinding | known / unknown + evidence plan | **confirmation bias** — what evidence would change our mind? | CS6750 3.3 or Meta UX-process clip |
+| **06** Ask + Observe | interview + observation | leading · social desirability · recall · observer bias | CS6750 3.3 selected excerpt |
+| **07** Survey + Synthesis | survey + evidence → need | sampling / voluntary-response bias · overgeneralization | CS6750 3.3 + class printables |
+| Consent | short school-appropriate consent | no unnecessary private data | `g7-printables.md` |
 
 **Skill Warm-up task**
-After the OMSCS clip: note the method action + principle lens; sketch **3 boxes** for today (Home → Task → Result) if helpful.
+
+Write:
+
+1. One method idea from the clip.
+2. One place bias could enter.
+3. One thing we still need evidence for.
 
 **Talk Robin 1 prompts**
 
-- You: “My three screens / alternatives are…”
-- Partner: “A user might get stuck at…”
-- Together: “One OMSCS idea we should apply today is…”
+- “What is evidence here, and what is still an assumption?”
+- “How could our question or sample bias the answer?”
+- “What evidence would make us change our mind?”
 
 **Entry Check**
 
-1. What is the difference between a low-fi prototype and a polished visual mockup?
-2. Name one reason to compare **three** prototypes before polishing one.
-3. Circle which is better first: (A) pixel-perfect colors (B) clear user flow.
+1. Quote, action, or interpretation?
+2. Which bias risk is most plausible?
+3. What claim is safe to make from this evidence — and what claim is too strong?
 
-**Why this stack fits Design:** CS6750 Methods are the spine; Unit 2 principles are lenses; Figma is the medium; Coursera is backup only.
+**Discover output:** needfinding sheet + ask/observe notes + Bias Check + survey/sample check + evidence-synthesis table + 2–3 micro need statements.
+
+---
+
+### B. Design — 3 Alternatives → 1 Figma Wireframe → Evaluate → Revise → High-Fi
+
+**Primary student-facing course:** Meta — *Principles of UX/UI Design*  
+https://www.coursera.org/learn/principles-of-ux-ui-design
+
+**Teacher/conceptual backbone:** OMSCS CS6750 Methods 3.4–3.7.
+
+**Course Core 3:** Affordance/signifier · Mapping · Constraints.
+
+| Lesson | Student-facing input | Main class action | Evidence |
+|---|---|---|---|
+| **08** Alternatives | CS6750 **3.4** selected excerpt / teacher model | create **3 fast paper alternatives**, compare, choose one flow | A/B/C sketches + selected user flow |
+| **09** Figma low-fi | Meta Module 3 — **Frames/layers/basic shapes** or **Wireframing** | guided Figma design-along → independent 3–5 screen low-fi | Figma wireframe + Core-3 self-check |
+| **10** Evaluate + revise | Meta Module 2 **Evaluating design** + Module 3 **Usability testing** | Core-3 designer review + peer task test | eval notes + Must/Should/Later revisions |
+| **11** High-fi + retest | Meta Module 4 **Moving from design to prototyping** or **Animate and test your prototype** | components + interactions + second user test | clickable prototype + before/after change log |
+
+**Important:** students do **not** build three full Figma prototypes. The three alternatives stay fast and cheap in Lesson 08. Only the selected direction moves into Figma.
+
+**Skill Warm-up pattern**
+
+Short clip (≤ 8 min total) → one note → teacher model → students build.
+
+**Talk Robin 1 prompts**
+
+- “The user’s main task is…”
+- “The place they may get stuck is…”
+- “Which Core-3 principle is relevant?”
+
+**Entry Check**
+
+1. **Affordance/signifier:** can the user tell what they can do?
+2. **Mapping:** can the user predict what will happen?
+3. **Constraints:** what prevents a mistaken / invalid action?
+
+**Evaluation pattern**
+
+~~~text
+Designer review (Core 3)
+→ give a user one goal
+→ do not coach
+→ record actions / pauses / words
+→ revise from evidence
+→ retest the same task
+~~~
+
+**Optional Scrimba support:** selected UI Design Fundamentals clips for whitespace, alignment, contrast, scale, typography, and visual hierarchy **after** students already know basic Figma. Scrimba is not the UX/Figma backbone.
+
+**Why this stack fits Design:** Meta is easier for first-time student Figma use and already includes evaluation/usability testing; CS6750 preserves the deeper method logic behind the unit.
 
 ---
 
@@ -361,10 +381,10 @@ During class:
 
 | Outcome | Fed by Steps 1–3 when… |
 |---|---|
-| **Figma prototype** | Design warm-ups use Minnesota + Meta/Figma clips |
+| **Figma prototype** | Meta Modules 2–4 provide the student-facing Figma/evaluation clips; CS6750 supplies the design-life-cycle backbone |
 | **Published web project** | Build/Create warm-ups use JHU HTML/CSS/JS patterns students later rebuild |
 | **GitHub portfolio** | Collaborate warm-ups use Google Git/GitHub PR + review |
-| **HCI evidence** | Discover + Test warm-ups use Minnesota research & UI evaluation |
+| **HCI evidence** | Discover uses CS6750 needfinding + Bias Check; Design/Test use structured usability evidence and revision |
 
 ---
 

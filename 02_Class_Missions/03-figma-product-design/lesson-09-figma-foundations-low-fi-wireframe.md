@@ -3,8 +3,8 @@
 **Length:** 45 minutes  
 **Loop step:** Selected direction → digital low-fi prototype  
 **CS6750 backbone:** **3.5 Prototyping**  
-**Primary student resource:** Meta *Principles of UX/UI Design* — Module 3  
-**Mission:** Learn only the Figma skills needed to digitize the selected user flow into a clear 3–5 screen low-fidelity wireframe.  
+**Primary student resource:** Meta *Principles of UX/UI Design*  
+**Mission:** Learn only the Figma skills needed to turn the selected Lesson 08 flow into a clear 3–5 screen low-fidelity wireframe.  
 **Durable Evidence:** Figma file + 3–5 low-fi screens + Core-3 self-check
 
 ### Skill Warm-up video
@@ -13,84 +13,89 @@
 Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
 Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
 
-If students have never opened Figma before, **substitute** Module 1 **Getting started with Figma** (~5 min) and let the teacher model frames/shapes live. Do not stack both videos automatically.
+If students have never opened Figma before, **substitute** Module 1 **Getting started with Figma** (~5 min) and let the teacher model frames/shapes during Core Pattern. Do not stack both videos automatically.
 
-## 0–6 min — Skill Warm-up
+## 0–5 min — Skill Warm-up
 
-Watch the selected Meta clip.
+Watch the assigned Meta clip.
 
-Students write the minimum Figma vocabulary:
+Write the minimum Figma vocabulary:
 
 - frame;
 - layer;
-- text;
 - shape;
+- text;
 - alignment / spacing.
 
-## 6–11 min — Teacher Design-Along
+## 5–9 min — Talk Robin 1
 
-Teacher builds one simple mobile screen live:
+Pairs open the Lesson 08 selected user flow.
+
+Each student explains:
+
+> “The user starts at ___, needs to ___, and succeeds when ___.”
+
+Partner identifies the one screen/state that will probably be hardest to represent.
+
+## 9–14 min — Entry Check
+
+Individually:
+
+1. Which Figma object should contain one mobile screen?
+2. What is the difference between a **screen/frame** and a **text/shape layer**?
+3. Which matters first for low-fi: exact colors or a clear task flow?
+4. Sketch one gray-box screen with a title, content region, and primary action.
+
+## 14–19 min — Core Pattern
+
+Teacher performs one short design-along:
 
 ~~~text
 Frame
 → heading
 → content block
-→ button / action
-→ next screen
+→ primary action
+→ duplicate / create next screen
 ~~~
 
-Students copy the pattern.
-
-No colors, gradients, illustrations, or visual polish yet.
-
-## 11–16 min — Entry Check
-
-Students rebuild a tiny screen **without watching the teacher**:
-
-- title;
-- one input / content region;
-- one primary action.
-
-Quick check: are items aligned and readable?
-
-## 16–21 min — Core Pattern: Course Core 3
-
-Introduce only these three design questions:
+Then introduce the course Core 3:
 
 1. **Affordance / signifier** — can the user tell what is actionable?
 2. **Mapping** — can the user predict what an action will do?
-3. **Constraints** — does the interface reduce invalid / mistaken actions?
+3. **Constraints** — does the design reduce invalid / mistaken actions?
 
 Use: [design-evaluation-checklist.md](design-evaluation-checklist.md)
 
-## 21–34 min — Guided Build
+No gradients, illustrations, or visual polish yet.
 
-Students convert the Lesson 08 selected user flow into **3–5 low-fi screens**.
+## 19–30 min — Guided Practice
+
+Students convert the Lesson 08 selected user flow into the first part of a **3–5 screen low-fi wireframe**.
 
 Required:
 
-- same target user need;
+- same evidence-backed user need;
 - start screen;
 - primary task steps;
-- success state;
+- success state planned;
 - clear labels;
 - consistent spacing / alignment.
 
-Teacher circulates and checks that students are implementing the **flow**, not decorating screens.
+Teacher checks the **flow**, not decoration.
 
-## 34–41 min — Independent Rebuild
+## 30–40 min — Independent Rebuild
 
-Pick one screen and improve it using the Core 3.
+Without line-by-line teacher direction, students finish / rebuild the missing screens and then select one screen for a Core-3 self-check:
 
-Write one line for each:
-
-- **Affordance:** ______
+- **Affordance / signifier:** ______
 - **Mapping:** ______
 - **Constraint:** ______
 
-## 41–45 min — Talk Robin 2 + Evidence
+If a screen fails one check, revise it before submission.
 
-Submit Figma link / screenshot set.
+## 40–45 min — Talk Robin 2 + Evidence
+
+Submit the Figma link / screenshot set.
 
 Exit statement:
 
@@ -104,7 +109,7 @@ Students can independently create basic Figma frames and transform one evidence-
 
 Before moving to evaluation, the team must have:
 
-- [ ] 3–5 connected screens representing one complete main task;
+- [ ] 3–5 screens representing one complete main task;
 - [ ] a visible start and success state;
 - [ ] clear labels for the primary actions;
 - [ ] a Core-3 self-check completed;

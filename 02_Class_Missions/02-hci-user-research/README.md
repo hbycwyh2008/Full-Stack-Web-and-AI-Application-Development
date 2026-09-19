@@ -4,6 +4,7 @@ This unit teaches students to **understand the problem before designing the solu
 
 Canonical map: [omscs-cs6750-mapping.md](omscs-cs6750-mapping.md)  
 Printables: [g7-printables.md](g7-printables.md)  
+Student submission templates: [student-templates/](student-templates/README.md)  
 CS6750 index: https://omscs6750.gatech.edu/
 
 ## Discover loop
@@ -29,9 +30,9 @@ Students must check **how the question was asked, what was observed, who was inc
 
 | Lesson | Method action | Bias / quality control | Durable evidence |
 |---|---|---|---|
-| [05 — Initial Needfinding](lesson-05-initial-needfinding.md) | Frame problem · known/unknown · evidence plan | **Confirmation bias** | Needfinding sheet + evidence plan + consent |
-| [06 — Collect User Data](lesson-06-collect-user-data.md) | Interview + observation | **Leading questions · social desirability · recall · observer bias** | Ask notes + observation notes + bias check |
-| [07 — Survey + Micro-Requirements](lesson-07-writing-survey-questions.md) | Survey + synthesis | **Sampling / voluntary-response bias · question wording** | 5-question survey + evidence synthesis + 2–3 need statements |
+| [05 — Initial Needfinding](lesson-05-initial-needfinding.md) | Frame problem · known/unknown · evidence plan | **Confirmation bias** | [L05 template](student-templates/l05-needfinding-evidence-plan.md) |
+| [06 — Collect User Data](lesson-06-collect-user-data.md) | Interview + observation | **Leading questions · social desirability · recall · observer bias** | [L06 template](student-templates/l06-interview-observation-bias-check.md) |
+| [07 — Survey + Micro-Requirements](lesson-07-writing-survey-questions.md) | Survey + synthesis | **Sampling / voluntary-response bias · question wording** | [L07 template](student-templates/l07-survey-evidence-synthesis.md) |
 
 ## Student mental model
 

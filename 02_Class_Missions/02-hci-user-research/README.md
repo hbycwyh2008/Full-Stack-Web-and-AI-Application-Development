@@ -72,6 +72,19 @@ Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
 - evidence synthesis table;
 - 2–3 verifiable user-need / micro-requirement statements.
 
+## Discover → Design mastery gate
+
+Do not move to Lesson 08 just because the team finished a survey. The team is ready to design only when:
+
+- [ ] at least one **quote** and one **observed action** are recorded;
+- [ ] the Bias Check is completed;
+- [ ] the survey/sample limitation is stated;
+- [ ] 2–3 user needs are traceable to evidence;
+- [ ] at least one uncertainty / contradictory clue is still acknowledged;
+- [ ] the team can answer: **“What evidence could still prove us wrong?”**
+
+If the gate fails, collect or clean up evidence before brainstorming features.
+
 ## Standard
 
 Students may not justify a feature with **“I think users want…”** when evidence is available.

@@ -9,7 +9,8 @@ This unit continues directly from HCI needfinding. Students do **not** learn Fig
 Canonical CS6750 map: [../02-hci-user-research/omscs-cs6750-mapping.md](../02-hci-user-research/omscs-cs6750-mapping.md)  
 Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)  
 Exact Meta clip map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)  
-Student submission templates: [student-templates/](student-templates/README.md)
+Student submission templates: [student-templates/](student-templates/README.md)  
+Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)
 
 ## Design loop
 

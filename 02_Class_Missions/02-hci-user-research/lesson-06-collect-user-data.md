@@ -1,94 +1,119 @@
-# Lesson 06 — Collect User Data (Ask + Observe)
+# Lesson 06 — Collect User Data: Ask, Observe, and Check Bias
 
-**Length:** 45 minutes
-**Loop step:** Initial Needfinding (collect evidence)
-**OMSCS source:** CS6750 **3.3** Needfinding methods (interview / observation)
-**Principle lens:** **2.4 Human abilities** — attention, memory, and limits shape what users notice and forget
-**Mission:** Practice asking and observing so the team collects real user data, not opinions about a solution.
-**EdStem:** [course 31962 lessons](https://edstem.org/us/courses/31962/lessons) → Lesson **3.3** (ask/observe segments)
-**Durable Evidence:** ask notes + observe notes (at least two evidence lines each student)
+**Length:** 45 minutes  
+**Loop step:** Collect evidence  
+**CS6750 backbone:** **3.3** Needfinding methods  
+**Quality control:** leading questions · social desirability · recall · observer bias  
+**Mission:** Collect useful interview and observation evidence without quietly steering the participant or turning interpretations into facts.  
+**Durable Evidence:** interview notes + observation notes + Bias Check
 
-### Skill Warm-up video (required)
+### Skill Warm-up video
 
 | Field | Assign this |
 |---|---|
-| Primary | OMSCS CS6750 **Lesson 3.3** needfinding methods — interview/observation excerpt from EdStem/Canvas |
-| Stop | **8:00** |
-| Index | https://omscs6750.gatech.edu/ |
+| Primary | CS6750 **3.3 Needfinding** — interview / observation excerpt |
+| Backup | Minnesota *User Research and Design* — observation or interview excerpt |
+| Stop | **≤ 8:00 total** |
 
-**Backup:** Minnesota *User Research and Design* → https://www.coursera.org/learn/design-research → **Observations** (default) or **Interview and Focus Groups** — stop at **8:00**. Teacher picks one.
-
-Consent script: [g7-printables.md](g7-printables.md).
+Consent card: [g7-printables.md](g7-printables.md)
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned clip. Mark:
+Identify:
 
-- a useful open question;
-- a leading/bad question;
-- a concrete observation;
-- one **human-ability** limit (attention, memory, overload) the video implies.
-
-Write: `I saw ___` / `I’m unsure about ___`.
+- one useful open question;
+- one leading question;
+- one observation;
+- one interpretation pretending to be an observation.
 
 ## 5–9 min — Talk Robin 1
 
-Pairs build a **Do / Avoid** list for asking and watching. Rewrite one weak question. Note one way a user’s limited attention could change what you observe.
+Rewrite:
+
+> “Wouldn’t reminders help you finish homework?”
+
+into a question about **recent behavior**.
+
+Then answer: how might the original wording change the answer?
 
 ## 9–14 min — Entry Check
 
-Mark each item **good ask**, **bad ask**, or **observation**:
+Classify each line:
 
-- “Wouldn’t a reminder app help you?”
-- “Tell me about the last time you got stuck on homework.”
-- “Student opened three tabs, then sighed, then searched again.”
-- “Do you like my design?”
+- **Quote**
+- **Action**
+- **Interpretation**
+- **Leading question**
 
-Write one reason for your least-certain choice.
+Examples:
+
+- “I usually forget the due date.”
+- Student opened three tabs, paused, then searched again.
+- Student looked confused because the page was badly designed.
+- “Don’t you think this button is easier?”
 
 ## 14–19 min — Core Pattern
 
-Teacher models 60-second consent + one good question + one observation note.
-
-**Method pattern:**
+### Interview pattern
 
 ```text
-Consent → Ask about the last time… → Listen → Note quote/action → Thank you
+Consent
+→ Ask about a recent real event
+→ Listen
+→ Follow up: “What happened next?”
+→ Record the quote
 ```
 
-**Observation pattern:**
+### Observation pattern
 
 ```text
-Task → Watch silently → Write what happened → Note where they got stuck
+Give a task
+→ Watch silently
+→ Record actions / pauses / errors
+→ Label interpretations separately
 ```
 
-**Principle lens:** do not overload participants; short tasks and clear questions respect human attention and memory.
+### Bias Check
 
-Roles: **asker**, **participant**, **observer**.
+| Risk | Student check |
+|---|---|
+| **Leading** | Did my wording suggest the answer? |
+| **Social desirability** | Is the participant telling me what sounds polite / acceptable? |
+| **Recall** | Am I asking them to remember something vague or long ago? |
+| **Observer bias** | Did I write what happened, or what I expected to happen? |
 
-## 19–30 min — Guided Practice
+## 19–31 min — Guided Practice
 
-**Round A — Ask (~5 min)**
-Using Lesson 05 unknowns, asker uses consent + **3 past-behavior questions**. Observer writes quotes. Switch if time allows.
+Roles: **interviewer · participant · observer**.
 
-**Round B — Observe (~5 min)**
-Participant completes a tiny task. Observer writes actions, pauses/confusion, and one **interpretation** labeled as interpretation (not fact).
+**Round A — Ask**
+- consent;
+- 3 recent/past-behavior questions;
+- observer records exact phrases.
 
-Keep notes anonymous.
+**Round B — Observe**
+- give one tiny task;
+- observer records actions, pauses, errors;
+- no coaching unless safety requires it.
 
-## 30–40 min — Independent Rebuild
+Switch roles if time allows.
 
-Write two evidence lines:
+## 31–40 min — Independent Rebuild
 
-1. One **quote** from asking.
-2. One **action** from observing.
+Each student submits:
 
-Then: “A possible user need is ___ because ___.” Add one sentence on how a human-ability limit showed up (if any).
+1. one exact quote;
+2. one observed action;
+3. one interpretation clearly labeled **interpretation**;
+4. one possible need;
+5. one bias that could weaken the evidence and how to reduce it next time.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Submit ask notes, observe notes, and the need sentence. Pair check: need tied to evidence, or only a guessed feature?
+Pair-check:
+
+> Is the need actually supported by the quote/action, or did the team jump to a feature?
 
 ## Success Evidence
 
-Students can run a short consented ask, record an observation, respect attention/memory limits, and state one possible need backed by user data.
+Students can run a short consented interview/observation, separate evidence from interpretation, and identify at least one plausible bias before trusting the result.

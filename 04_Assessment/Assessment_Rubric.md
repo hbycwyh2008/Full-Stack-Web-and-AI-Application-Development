@@ -22,15 +22,17 @@ A repository with many commits but no meaningful development history is not auto
 
 ## 2. HCI User Research — 15%
 
-Assess light ethical consent, needfinding (guess vs unknown), quality of ask/observe notes, survey craft, separation of evidence from interpretation, and **2–3 micro need/requirement statements** tied to evidence.
+Assess light ethical consent, needfinding (guess vs unknown), quality of ask/observe notes, survey craft, separation of evidence from interpretation, **bias/sample checks**, evidence synthesis, and **2–3 micro need/requirement statements** tied to evidence.
+
+Strong work does not merely collect data; it states **how the evidence could be biased, what the sample cannot justify, and what uncertainty remains**.
 
 Do **not** require a full requirements specification in Discover (Lessons 05–07). Full requirements, synthesis maps, and backlog traceability are assessed in Capstone.
 
 ## 3. Figma Product Design — 15%
 
-Assess task flow/IA, exploration of alternatives, wireframes, component/system thinking, responsive behavior, accessibility, prototype quality, critique/testing, and evidence-based revision.
+Assess **three genuinely different fast alternatives**, one selected user flow, low-fi wireframing, the course Core 3 (**affordance/signifier, mapping, constraints**), usability-task testing, high-fi interactive prototyping, accessibility/readability, and evidence-based revision.
 
-Visual polish alone is insufficient.
+Strong work shows a traceable chain: **test evidence → prioritized revision → retest result**. Visual polish, animation, or component complexity alone is insufficient.
 
 ## 4. HTML/CSS/JavaScript + Computational Thinking — 20%
 

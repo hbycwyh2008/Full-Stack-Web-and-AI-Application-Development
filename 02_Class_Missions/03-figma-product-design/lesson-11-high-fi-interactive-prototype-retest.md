@@ -6,7 +6,7 @@
 **Primary student resource:** Meta *Principles of UX/UI Design*  
 **Optional visual-craft resource:** Scrimba Intro to UI Design Fundamentals  
 **Mission:** Turn the revised low-fi flow into a clickable higher-fidelity prototype, rerun the same core task, and document what improved.  
-**Durable Evidence:** clickable prototype + second-test notes + before/after change log
+**Durable Evidence:** [L11 submission template](student-templates/l11-high-fi-retest-change-log.md) — clickable prototype + second-test notes + before/after change log
 
 ### Skill Warm-up video
 

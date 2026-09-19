@@ -5,7 +5,7 @@
 **CS6750 backbone:** **1.1** Introduction to HCI · **3.1** Methods · **3.2** Ethics · **3.3** Needfinding  
 **Quality control:** **Confirmation bias** — do not collect only evidence that supports the idea you already like  
 **Mission:** Separate guesses from evidence, identify the biggest unknown, and plan how to learn from users before choosing features.  
-**Durable Evidence:** needfinding sheet + evidence plan + consent line + confirmation-bias check
+**Durable Evidence:** [L05 submission template](student-templates/l05-needfinding-evidence-plan.md) — needfinding sheet + evidence plan + consent line + confirmation-bias check
 
 ### Skill Warm-up video
 

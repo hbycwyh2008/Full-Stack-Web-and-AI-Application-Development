@@ -7,23 +7,26 @@
 **Mission:** Evaluate the low-fi design twice: first with the course Core 3, then with a real user task. Revise from evidence rather than taste.  
 **Durable Evidence:** Core-3 review + usability notes + Must/Should/Later revisions
 
-### Skill Warm-up video — 7 minutes total
+### Skill Warm-up video
 
-Meta:
+**Required:** Meta Module 3 — **Usability testing** (~4 min)  
+Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
+Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
 
-- **Evaluating design** (~3 min)
-- **Usability testing** (~4 min)
+**Optional teacher support:** Module 2 — **Evaluating design** (~3 min) only if students need more help understanding designer review. Keep the student warm-up to one required video.
 
-Course: https://www.coursera.org/learn/principles-of-ux-ui-design
+## 0–5 min — Skill Warm-up
 
-## 0–7 min — Skill Warm-up
-
-After the clips, answer:
+After the clip, answer:
 
 1. What is the difference between **reviewing a design** and **testing a user**?
 2. Why should the facilitator avoid telling the tester where to click?
 
-## 7–12 min — Entry Check
+## 5–10 min — Talk Robin 1
+
+Pairs compare what a usability tester should **do** versus **avoid**. Each pair writes one no-coaching rule.
+
+## 10–15 min — Entry Check
 
 Classify:
 
@@ -32,7 +35,7 @@ Classify:
 - “Tester asked, ‘Where do I save?’” → **evidence**
 - “Users will obviously understand this.” → **assumption**
 
-## 12–18 min — Core Pattern
+## 15–20 min — Core Pattern
 
 ### Pass 1 — Designer review
 
@@ -57,7 +60,7 @@ Give one task
 → revise
 ~~~
 
-## 18–24 min — Prepare the Test
+## 20–25 min — Prepare the Test
 
 Teams write one task script.
 
@@ -75,7 +78,7 @@ Roles:
 - tester from another team;
 - note-taker.
 
-## 24–34 min — Guided Usability Test
+## 25–35 min — Guided Usability Test
 
 Record:
 
@@ -88,7 +91,7 @@ Record:
 
 Do not fix the interface during the test.
 
-## 34–41 min — Independent Revision Plan
+## 35–41 min — Independent Revision Plan
 
 Create:
 
@@ -123,3 +126,13 @@ Exit statement:
 ## Success Evidence
 
 Students can distinguish heuristic/design review from usability testing, observe without coaching, and convert concrete evidence into a prioritized revision.
+
+### L10 mastery gate
+
+Do **not** move directly to high-fi because the low-fi looks acceptable. The team must have:
+
+- [ ] one completed Core-3 designer review;
+- [ ] one peer task test run without click-by-click coaching;
+- [ ] concrete notes on actions / pauses / confusion;
+- [ ] a Must / Should / Later revision list;
+- [ ] every **MUST** item tied to evidence.

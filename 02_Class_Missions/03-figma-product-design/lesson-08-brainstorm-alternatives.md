@@ -63,7 +63,7 @@ Selection criteria:
 3. feasible to prototype;
 4. worth testing because something is still uncertain.
 
-## 19–31 min — Guided Practice
+## 19–30 min — Guided Practice
 
 Create **three paper / gray-box alternatives** for the same task.
 
@@ -83,7 +83,7 @@ Then create one comparison table:
 | Biggest uncertainty |  |  |  |
 | Evidence / reason |  |  |  |
 
-## 31–40 min — Independent Rebuild
+## 30–40 min — Independent Rebuild
 
 Choose one direction or one deliberate hybrid.
 

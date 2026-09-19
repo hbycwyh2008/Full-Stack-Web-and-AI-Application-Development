@@ -156,7 +156,7 @@ Use selected lessons only — not full course completion unless a teacher assign
 ### UI / Visual Design
 
 #### Scrimba — Intro to UI Design Fundamentals
-- **Link:** https://scrimba.com/articles/best-ui-design-courses/
+- **Link:** https://scrimba.com/intro-to-ui-design-fundamentals-c0q
 - **Use:** Optional visual-design reinforcement after students already know basic Figma.
 - **Selected ideas:** whitespace, alignment, contrast, scale, typography, color, visual hierarchy.
 - **Do not use as:** the main Figma, UX research, or evaluation course.

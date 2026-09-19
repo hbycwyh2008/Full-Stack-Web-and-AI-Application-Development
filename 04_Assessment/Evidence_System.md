@@ -50,6 +50,30 @@ Not every small lesson artifact requires the complete list. Use the lesson's `Su
 - a polished Figma screen with no task flow or testing;
 - a final website with no testing or revision history.
 
+## Phase mastery gates
+
+### Discover → Design
+
+Required before moving from research into interface design:
+
+- at least one quote + one observed action;
+- Bias Check complete;
+- sample limitation stated;
+- 2–3 evidence-backed needs;
+- one remaining uncertainty acknowledged.
+
+### Design → Build
+
+Required before implementing the interface in HTML/CSS:
+
+- main task works from start to success in the prototype;
+- peer completes it without coaching;
+- no unresolved MUST blocker;
+- Core-3 check complete;
+- at least two evidence-driven revisions logged.
+
+These gates are **quality conditions**, not extra points for polishing.
+
 ## Mastery Checks
 
 A student demonstrates strong mastery when they can:

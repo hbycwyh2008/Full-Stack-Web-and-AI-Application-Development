@@ -13,6 +13,7 @@ The capstone demonstrates the complete development process. It is not a contest 
 - research plan and ethical/privacy boundaries;
 - interviews/observation or another justified method;
 - anonymized evidence;
+- **bias / sample limitation check** before generalizing findings;
 - affinity synthesis;
 - evidence-backed problem statement.
 
@@ -26,11 +27,13 @@ The capstone demonstrates the complete development process. It is not a contest 
 ### 3. Figma Design
 - user flow;
 - information architecture;
-- low-fidelity alternatives/wireframes;
-- reusable components/design system;
-- high-fidelity responsive prototype;
+- **at least three fast low-fidelity alternatives** before selecting one direction;
+- one selected low-fidelity wireframe / user flow;
+- reusable components where genuinely useful;
+- high-fidelity responsive interactive prototype;
+- Core-3 review (affordance/signifier, mapping, constraints);
 - accessibility decisions;
-- critique/prototype-test revisions.
+- at least one usability task test before implementation and evidence-driven revisions.
 
 ### 4. GitHub Workflow
 - project README;

@@ -42,7 +42,7 @@ Answer:
 - What should the team **not** claim?
 - Who might be missing?
 
-## 14–20 min — Core Pattern
+## 14–19 min — Core Pattern
 
 ### Question rules
 
@@ -77,7 +77,7 @@ Micro-requirement form:
 
 > **When [situation], the user can [task/outcome] so that [success].**
 
-## 20–31 min — Guided Practice
+## 19–30 min — Guided Practice
 
 Teams draft a **5-question survey** based on Lessons 05–06:
 
@@ -95,7 +95,7 @@ Then complete the Evidence Synthesis table:
 |---|---|---|---|
 |  |  |  |  |
 
-## 31–40 min — Independent Rebuild
+## 30–40 min — Independent Rebuild
 
 Write **2–3 need / micro-requirement statements**.
 

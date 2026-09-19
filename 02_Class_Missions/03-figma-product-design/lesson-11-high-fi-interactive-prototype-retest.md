@@ -10,14 +10,11 @@
 
 ### Skill Warm-up video
 
-Choose **one** Meta Module 4 clip:
+**Required:** Meta Module 4 — **Moving from design to prototyping** (~4 min)  
+Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
+Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
 
-- **Moving from design to prototyping** (~4 min), or
-- **Animate and test your prototype** (~5 min).
-
-Course: https://www.coursera.org/learn/principles-of-ux-ui-design
-
-Optional later / extension: Scrimba UI Design Fundamentals clips on whitespace, alignment, contrast, typography, or visual hierarchy.
+**Optional extension only:** Meta **Animate and test your prototype** (~5 min) or selected Scrimba UI Design Fundamentals material after the main task already works.
 
 ## 0–6 min — Skill Warm-up
 
@@ -123,3 +120,16 @@ Final reflection:
 ## Success Evidence
 
 Students can build and test a small interactive Figma prototype, explain at least two evidence-driven changes, and show that evaluation is part of design rather than something done only at the end.
+
+### Design → Build mastery gate
+
+The team is ready to enter HTML/CSS implementation only when:
+
+- [ ] the main task is clickable from start to success;
+- [ ] a peer can complete the main task **without facilitator help**;
+- [ ] no unresolved **MUST** usability blocker remains;
+- [ ] the Core 3 has been checked again;
+- [ ] at least two changes are traceable to evaluation evidence;
+- [ ] the before/after change log is complete.
+
+If the gate fails, revise the prototype before implementation. Building a known-bad interaction in code only makes the mistake more expensive.

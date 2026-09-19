@@ -6,8 +6,8 @@ Assumption: approximately **45 minutes per core lesson**.
 |---|---|---|
 | 1–2 | 00–01 | What is computer science? + software lifecycle/product teardown |
 | 3–5 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
-| 6–8 | 05–07 | HCI research |
-| 9–12 | 08–11 | Figma product design |
+| 6–8 | 05–07 | HCI needfinding + bias/sample checks + evidence synthesis |
+| 9–12 | 08–11 | alternatives → Figma low-fi → usability evaluation → revised interactive prototype |
 | 13–16 | 12–15 | HTML/CSS implementation |
 | 17–21 | 16–20 | JavaScript + computational thinking/debugging |
 | 22–25 | 21–24 | Concentrated AI literacy unit — Melanie Mitchell |
@@ -37,7 +37,7 @@ Recommended reading rhythm: assign selected sections before class; use class tim
 
 ## If Time Is Short
 
-**Do not cut:** CS orientation, GitHub core workflow, research/synthesis, Figma prototype/testing, JavaScript fundamentals, AI literacy core, usability testing, capstone release/retrospective.
+**Do not cut:** CS orientation, GitHub core workflow, bias-aware research/synthesis, Figma prototype/testing, JavaScript fundamentals, AI literacy core, usability testing, capstone release/retrospective.
 
 **Cut first:** optional Python, optional AI API work, legacy framework units, extra portfolio/certification work.
 

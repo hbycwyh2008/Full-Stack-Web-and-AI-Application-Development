@@ -5,8 +5,8 @@
 1. **Explain computer science beyond coding**: computation, information, algorithms, abstraction, systems, HCI, software engineering, AI, and impacts.
 2. **Run a software project through the full development lifecycle**: discover, research, define, design, implement, test, release, evaluate, maintain.
 3. **Use GitHub as a real development workflow**: repositories, issues, branches, commits, pull requests, review, merge, releases, project evidence.
-4. **Run HCI end to end**: needfinding, ask/observe/survey, micro need statements, alternatives, prototyping, evaluation, usability testing, iteration — with full requirements deferred to Capstone.
-5. **Design in Figma** from low-fidelity structure to high-fidelity interactive prototypes with accessibility and responsive thinking.
+4. **Run HCI end to end**: needfinding, ask/observe/survey, **bias and sample checks**, evidence synthesis, micro need statements, alternatives, prototyping, usability testing, and iteration — with full requirements deferred to Capstone.
+5. **Design in Figma** by comparing fast alternatives, building one low-fi flow, applying the course Core 3, testing the task with a user, revising, then raising fidelity.
 6. **Develop AI literacy through Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_** in a coherent concentrated unit.
 
 ## Secondary — Implementation Fluency

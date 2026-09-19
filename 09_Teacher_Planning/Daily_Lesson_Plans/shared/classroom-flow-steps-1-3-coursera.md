@@ -135,15 +135,15 @@ https://www.coursera.org/learn/principles-of-ux-ui-design
 | Lesson | Student-facing input | Main class action | Evidence |
 |---|---|---|---|
 | **08** Alternatives | CS6750 **3.4** selected excerpt / teacher model | create **3 fast paper alternatives**, compare, choose one flow | A/B/C sketches + selected user flow |
-| **09** Figma low-fi | Meta Module 3 — **Frames/layers/basic shapes** or **Wireframing** | guided Figma design-along → independent 3–5 screen low-fi | Figma wireframe + Core-3 self-check |
-| **10** Evaluate + revise | Meta Module 2 **Evaluating design** + Module 3 **Usability testing** | Core-3 designer review + peer task test | eval notes + Must/Should/Later revisions |
-| **11** High-fi + retest | Meta Module 4 **Moving from design to prototyping** or **Animate and test your prototype** | components + interactions + second user test | clickable prototype + before/after change log |
+| **09** Figma low-fi | Meta Module 3 — **Frames, layers and basic shapes** (~5 min) | guided Figma design-along → independent 3–5 screen low-fi | Figma wireframe + Core-3 self-check |
+| **10** Evaluate + revise | Meta Module 3 — **Usability testing** (~4 min) | Core-3 designer review + peer task test | eval notes + Must/Should/Later revisions |
+| **11** High-fi + retest | Meta Module 4 — **Moving from design to prototyping** (~4 min) | interactions + revised high-fi + second user test | clickable prototype + before/after change log |
 
 **Important:** students do **not** build three full Figma prototypes. The three alternatives stay fast and cheap in Lesson 08. Only the selected direction moves into Figma.
 
 **Skill Warm-up pattern**
 
-Short clip (≤ 8 min total) → one note → teacher model → students build.
+**One required clip per lesson** → one note → teacher model → students build. Optional Meta/Scrimba clips are used only when a diagnosed gap requires them.
 
 **Talk Robin 1 prompts**
 
@@ -170,7 +170,7 @@ Designer review (Core 3)
 
 **Optional Scrimba support:** selected UI Design Fundamentals clips for whitespace, alignment, contrast, scale, typography, and visual hierarchy **after** students already know basic Figma. Scrimba is not the UX/Figma backbone.
 
-**Why this stack fits Design:** Meta is easier for first-time student Figma use and already includes evaluation/usability testing; CS6750 preserves the deeper method logic behind the unit.
+**Why this stack fits Design:** Meta is easier for first-time student Figma use and already includes evaluation/usability testing; CS6750 preserves the deeper method logic behind the unit. Exact clip map: `02_Class_Missions/03-figma-product-design/meta-ux-ui-video-map.md`.
 
 ---
 

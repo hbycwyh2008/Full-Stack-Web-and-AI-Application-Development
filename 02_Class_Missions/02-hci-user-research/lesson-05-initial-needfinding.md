@@ -1,94 +1,103 @@
-# Lesson 05 — Initial Needfinding
+# Lesson 05 — Initial Needfinding: Frame the Problem, Not the Feature
 
-**Length:** 45 minutes
-**Loop step:** Initial Needfinding
-**OMSCS source:** CS6750 **1.1** Introduction to HCI · **3.1** Introduction to Methods · **3.2** Ethics (G7 light) · **3.3** Needfinding
-**Principle lens:** **2.2 Feedback Cycles** — designs improve when evidence returns to the next decision
-**Mission:** Orient to HCI, separate guesses from unknowns, and plan how the team will learn from users before inventing features.
-**EdStem:** [course 90721 lessons](https://edstem.org/us/courses/90721/lessons) → Lessons 1.1 / 3.1 / 3.2 / 3.3 (teacher picks one primary clip)
-**Durable Evidence:** needfinding sheet (known / unknown / collection plan) + consent line
+**Length:** 45 minutes  
+**Loop step:** Frame problem → plan evidence  
+**CS6750 backbone:** **1.1** Introduction to HCI · **3.1** Methods · **3.2** Ethics · **3.3** Needfinding  
+**Quality control:** **Confirmation bias** — do not collect only evidence that supports the idea you already like  
+**Mission:** Separate guesses from evidence, identify the biggest unknown, and plan how to learn from users before choosing features.  
+**Durable Evidence:** needfinding sheet + evidence plan + consent line + confirmation-bias check
 
-### Skill Warm-up video (required)
+### Skill Warm-up video
 
 | Field | Assign this |
 |---|---|
-| Primary | OMSCS CS6750 **Lesson 1.1** *Introduction to Human-Computer Interaction* **or** **3.3** needfinding intro from EdStem/Canvas |
-| Stop | **8:00** (or full if shorter) |
-| Index | https://omscs6750.gatech.edu/ |
-| Access | Teacher projects the class video; students do not need personal OMSCS accounts |
-
-**Backup (only if OMSCS video blocked):** Minnesota *User Research and Design* → https://www.coursera.org/learn/design-research → Module **User Research Methods — Part 1** → **Introduction to User Research** (~3 min, full).
+| Primary | CS6750 **3.3 Needfinding** excerpt from EdStem/Canvas |
+| Student-friendly alternative | Meta *Principles of UX/UI Design* — **Overview of the UX process** (~5 min) |
+| Stop | **≤ 8:00 total** |
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned clip. Write:
+Write:
 
-1. One idea about what HCI studies (beyond “making apps pretty”).
-2. One unclear point.
-3. One place a **feedback cycle** could help a designer (evidence → change → new evidence).
+1. What should a designer learn **before** deciding the feature?
+2. What is one thing that could make a designer hear only what they want to hear?
 
 ## 5–9 min — Talk Robin 1
 
-Pairs share:
-
-- what HCI / user-centered design means from the video;
-- one confusion;
-- one thing they still do not know about real users.
-
-## 9–14 min — Entry Check
-
-Individually respond to:
+Prompt:
 
 > “Build something that helps students study better.”
 
-List **three ideas**. For each, label **guess** or **need evidence**. Circle the biggest unknown.
+Pairs separate statements into:
+
+- **Known from evidence**
+- **Guess**
+- **Unknown we need to investigate**
+
+## 9–14 min — Entry Check
+
+For the idea **“Students need an AI study app”**, answer:
+
+1. What has already been assumed?
+2. What evidence would support the idea?
+3. What evidence would make you **change your mind**?
+
+The third question is the confirmation-bias check.
 
 ## 14–19 min — Core Pattern
 
-Teacher corrects misconceptions, then teaches:
-
-**Method action — Needfinding** = finding what people struggle with by collecting evidence (ask / watch / notes) **before** picking a feature.
-
-**Principle lens — Feedback cycle:**
+**Needfinding = learn the user/task before selecting the solution.**
 
 ```text
-guess or idea → collect user evidence → revise the idea → collect again
+problem / goal
+→ what do we actually know?
+→ what is still unknown?
+→ what evidence could answer it?
+→ what evidence could prove our current idea wrong?
 ```
 
-**Ethics (G7 light):** 30-second consent; no names/grades/passwords in notes ([g7-printables.md](g7-printables.md)).
+**Ethics, G7 level:** use a short consent script; no names, grades, passwords, private messages, or unnecessary personal data.
 
-Show the three data moves:
+Introduce three evidence moves:
 
-1. **Ask** — past behavior
-2. **Observe** — what they do
-3. **Notes** — quotes/actions separate from opinions
-
-Groups start a **Needfinding Sheet**: topic · three knowns · three unknowns · first method (ask / observe / survey).
+1. **Ask** about recent/past behavior.
+2. **Observe** what people actually do.
+3. **Survey** only when a short set of questions helps compare patterns.
 
 ## 19–30 min — Guided Practice
 
-Teams finish the Needfinding Sheet:
+Teams complete a Needfinding Sheet:
 
-- primary user;
-- situation where the problem happens;
-- three unknowns as investigation questions;
+- target user;
+- situation / task;
+- 3 things currently known;
+- 3 unknowns;
+- evidence method for each unknown;
 - data they will **not** collect;
-- consent line for later labs.
+- one piece of evidence that would challenge their favorite idea;
+- consent line.
 
-Teacher checks questions are about **behavior/context**, not “Would you use my app?”
+Teacher check: questions are about **user behavior / context**, not “Would you use our app?”
 
 ## 30–40 min — Independent Rebuild
 
-Rewrite this guess into a needfinding question:
+Rewrite:
 
-> “Students need an AI study app.”
+> “Students need an AI planner.”
 
-Write: (1) what is guessed, (2) what evidence would change your mind, (3) one better classmate question.
+into:
+
+- **User/problem statement:** ______
+- **Unknown:** ______
+- **Evidence to collect:** ______
+- **Evidence that would change my mind:** ______
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Submit Needfinding Sheet + individual rewrite. Share one unknown and which collection method comes next.
+Submit the Needfinding Sheet. Each team states:
+
+> “Our biggest assumption is ___, and the evidence that could prove us wrong is ___.”
 
 ## Success Evidence
 
-Students can explain HCI/needfinding in their own words, mark guesses vs unknowns, state a light consent rule, and list a simple plan to collect user data.
+Students can separate guesses from evidence, state a safe data-collection plan, and deliberately seek evidence that could challenge their first idea.

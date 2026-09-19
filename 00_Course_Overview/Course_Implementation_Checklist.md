@@ -49,6 +49,8 @@
 - [ ] participant/research ethics rules appropriate to school context are clear (G7 light consent) and the Bias Check card is ready
 - [ ] Figma access confirmed
 - [ ] students have a place to store anonymized research evidence
+- [ ] L05–L11 student submission templates are ready and copied into student repos as needed
+- [ ] [HCI + Figma L05–L11 Quick Check](../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md) is ready for fast feedback
 - [ ] teachers do not require full requirements docs before Capstone L28
 - [ ] accessibility testing resources/browser tools available
 

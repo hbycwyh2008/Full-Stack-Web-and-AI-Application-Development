@@ -8,7 +8,8 @@ This unit continues directly from HCI needfinding. Students do **not** learn Fig
 
 Canonical CS6750 map: [../02-hci-user-research/omscs-cs6750-mapping.md](../02-hci-user-research/omscs-cs6750-mapping.md)  
 Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)  
-Exact Meta clip map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
+Exact Meta clip map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)  
+Student submission templates: [student-templates/](student-templates/README.md)
 
 ## Design loop
 
@@ -49,10 +50,10 @@ Other ideas — feedback/status, consistency, accessibility, hierarchy, typograp
 
 | Lesson | Student-facing input | Main work | Durable evidence |
 |---|---|---|---|
-| [08 — Brainstorm Alternatives](lesson-08-brainstorm-alternatives.md) | CS6750 3.4 selected excerpt / teacher modeling | 3 paper alternatives + one user flow | Alternative sketches + rationale |
-| [09 — Figma Foundations + Low-Fi Wireframe](lesson-09-figma-foundations-low-fi-wireframe.md) | Meta Module 3 selected Figma clips | Learn Figma by building the chosen flow | 3–5 screen low-fi wireframe |
-| [10 — Evaluate Low-Fi + Revise](lesson-10-evaluate-low-fi-revise.md) | Meta Module 2 + Module 3 usability-testing clips | Core-3 review + real task test | Evaluation sheet + revision list |
-| [11 — High-Fi Interactive Prototype + Test Again](lesson-11-high-fi-interactive-prototype-retest.md) | Meta Module 4 selected prototype clips | Components + interactions + second test | Clickable prototype + change log |
+| [08 — Brainstorm Alternatives](lesson-08-brainstorm-alternatives.md) | CS6750 3.4 selected excerpt / teacher modeling | 3 paper alternatives + one user flow | [L08 template](student-templates/l08-three-alternatives-user-flow.md) |
+| [09 — Figma Foundations + Low-Fi Wireframe](lesson-09-figma-foundations-low-fi-wireframe.md) | Meta Module 3 required clip | Learn Figma by building the chosen flow | [L09 template](student-templates/l09-low-fi-figma-core3.md) |
+| [10 — Evaluate Low-Fi + Revise](lesson-10-evaluate-low-fi-revise.md) | Meta usability-testing clip | Core-3 review + real task test | [L10 template](student-templates/l10-low-fi-evaluation-revision.md) |
+| [11 — High-Fi Interactive Prototype + Test Again](lesson-11-high-fi-interactive-prototype-retest.md) | Meta Module 4 required clip | Interaction + revision + second test | [L11 template](student-templates/l11-high-fi-retest-change-log.md) |
 
 ## Resource roles
 

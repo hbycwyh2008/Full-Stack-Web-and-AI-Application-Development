@@ -49,9 +49,9 @@ Other ideas — feedback/status, consistency, accessibility, hierarchy, typograp
 | Lesson | Student-facing input | Main work | Durable evidence |
 |---|---|---|---|
 | [08 — Brainstorm Alternatives](lesson-08-brainstorm-alternatives.md) | CS6750 3.4 selected excerpt / teacher modeling | 3 paper alternatives + one user flow | Alternative sketches + rationale |
-| [09 — Figma Foundations + Low-Fi Wireframe](lesson-09-create-3-prototypes.md) | Meta Module 3 selected Figma clips | Learn Figma by building the chosen flow | 3–5 screen low-fi wireframe |
-| [10 — Evaluate Low-Fi + Revise](lesson-10-evaluate-further-needfinding.md) | Meta Module 2 + Module 3 usability-testing clips | Core-3 review + real task test | Evaluation sheet + revision list |
-| [11 — High-Fi Interactive Prototype + Test Again](lesson-11-higher-fidelity-evaluate-again.md) | Meta Module 4 selected prototype clips | Components + interactions + second test | Clickable prototype + change log |
+| [09 — Figma Foundations + Low-Fi Wireframe](lesson-09-figma-foundations-low-fi-wireframe.md) | Meta Module 3 selected Figma clips | Learn Figma by building the chosen flow | 3–5 screen low-fi wireframe |
+| [10 — Evaluate Low-Fi + Revise](lesson-10-evaluate-low-fi-revise.md) | Meta Module 2 + Module 3 usability-testing clips | Core-3 review + real task test | Evaluation sheet + revision list |
+| [11 — High-Fi Interactive Prototype + Test Again](lesson-11-high-fi-interactive-prototype-retest.md) | Meta Module 4 selected prototype clips | Components + interactions + second test | Clickable prototype + change log |
 
 ## Resource roles
 

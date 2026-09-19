@@ -15,10 +15,6 @@ function escapeHtml(value) {
     .replaceAll("'", '&#039;');
 }
 
-function slug(value) {
-  return encodeURIComponent(value);
-}
-
 function earnedBadges(student) {
   return student.badges || [];
 }
@@ -34,37 +30,140 @@ function maxThreshold(skillKey, rules) {
   return badges.length ? Math.max(...badges.map((badge) => badge.xp)) : 1;
 }
 
-function renderStudentList(data) {
-  if (!data.students.length) {
-    app.innerHTML = `
-      <div class="empty">
-        <strong>No student profiles yet.</strong><br>
-        Add students to <code>04_Assessment/Developer_Achievement_System/config/students.json</code>,
-        then run the achievement workflow.
-      </div>`;
-    return;
+function assessmentStatus(student, item) {
+  const assignment = (student.assignments || []).find((entry) =>
+    entry.catalog_id === item.id || entry.id === item.id
+  );
+  if (!assignment) return { label: 'Not started', className: 'status-muted' };
+  if (assignment.status !== 'scanned') {
+    return { label: 'Unavailable', className: 'status-muted', assignment };
   }
 
+  const evidence = assignment.evidence || {};
+  const verified = Boolean(
+    evidence.merged_pull_request ||
+    evidence.ci_success ||
+    evidence.valid_pull_request ||
+    evidence.commit_ahead_of_base ||
+    evidence.feature_branch
+  );
+
+  if (item.type === 'practice') {
+    if (assignment.score !== undefined && assignment.max_score) {
+      return {
+        label: `${assignment.score}/${assignment.max_score} practice`,
+        className: 'status-practice',
+        assignment,
+      };
+    }
+    return {
+      label: verified ? 'Practiced' : 'In progress',
+      className: verified ? 'status-practice' : 'status-muted',
+      assignment,
+    };
+  }
+
+  if (item.type === 'quiz') {
+    if (assignment.score !== undefined && assignment.max_score) {
+      return {
+        label: `${assignment.score}/${assignment.max_score}`,
+        className: 'status-quiz',
+        assignment,
+      };
+    }
+    return {
+      label: verified ? 'Completed' : 'In progress',
+      className: verified ? 'status-quiz' : 'status-muted',
+      assignment,
+    };
+  }
+
+  return {
+    label: verified ? 'Verified' : 'In progress',
+    className: verified ? 'status-cp' : 'status-muted',
+    assignment,
+  };
+}
+
+function renderAssessmentGroup(student, items, type, catalog) {
+  const definition = catalog.assessment_types?.[type] || {};
+  const groupItems = items.filter((item) => item.type === type);
+  if (!groupItems.length) {
+    return `
+      <section class="assessment-group">
+        <div class="assessment-group-head">
+          <div>
+            <h4>${escapeHtml(definition.label || type)}</h4>
+            <p>${escapeHtml(definition.purpose || '')}</p>
+          </div>
+          <span class="count-pill">0</span>
+        </div>
+        <div class="assessment-empty">No ${escapeHtml((definition.label || type).toLowerCase())} has been added yet.</div>
+      </section>`;
+  }
+
+  return `
+    <section class="assessment-group">
+      <div class="assessment-group-head">
+        <div>
+          <h4>${escapeHtml(definition.label || type)}</h4>
+          <p>${escapeHtml(definition.purpose || '')}</p>
+        </div>
+        <span class="count-pill">${groupItems.length}</span>
+      </div>
+      <div class="assessment-list">
+        ${groupItems.map((item) => {
+          const status = assessmentStatus(student, item);
+          return `
+            <div class="assessment-item">
+              <div>
+                <div class="assessment-code">${escapeHtml(item.code || item.id)}</div>
+                <div class="assessment-name">${escapeHtml(item.name)}</div>
+              </div>
+              <span class="status-pill ${status.className}">${escapeHtml(status.label)}</span>
+            </div>`;
+        }).join('')}
+      </div>
+    </section>`;
+}
+
+function renderCourseStructure(student, catalog) {
+  return (catalog.sections || []).map((section) => {
+    const items = section.items || [];
+    const counts = ['cp', 'practice', 'quiz'].map((type) => {
+      const label = catalog.assessment_types?.[type]?.short_label || type;
+      return `${items.filter((item) => item.type === type).length} ${label}`;
+    }).join(' · ');
+
+    return `
+      <section class="course-section">
+        <div class="course-section-head">
+          <div>
+            <p class="section-kicker">Course section</p>
+            <h3>${escapeHtml(section.name)}</h3>
+          </div>
+          <div class="section-counts">${escapeHtml(counts)}</div>
+        </div>
+        <div class="assessment-groups">
+          ${renderAssessmentGroup(student, items, 'cp', catalog)}
+          ${renderAssessmentGroup(student, items, 'practice', catalog)}
+          ${renderAssessmentGroup(student, items, 'quiz', catalog)}
+        </div>
+      </section>`;
+  }).join('');
+}
+
+function renderLanding() {
   app.innerHTML = `
-    <div class="grid">
-      ${data.students.map((student) => {
-        const badges = earnedBadges(student).slice(-4).reverse();
-        return `
-          <a class="card" href="#${slug(student.github)}">
-            <h2>${escapeHtml(student.name)}</h2>
-            <div class="github">@${escapeHtml(student.github)}</div>
-            <div class="badge-row">
-              ${badges.length
-                ? badges.map((badge) => `<span class="badge">${escapeHtml(badge.name)}</span>`).join('')
-                : '<span class="badge">Profile started</span>'}
-            </div>
-            <div class="total">${Number(student.total_xp || 0)} verified XP · ${earnedBadges(student).length} badges</div>
-          </a>`;
-      }).join('')}
+    <div class="access-card">
+      <p class="section-kicker">Private profile view</p>
+      <h2>Student profiles are no longer listed publicly.</h2>
+      <p>This dashboard is being moved to authenticated GitHub access so students can open only their own profile and the teacher can open the class view.</p>
+      <p class="access-note">The current GitHub Pages deployment is static, so hiding the roster is only the first step. True per-user authorization requires a sign-in/API layer before this privacy rule is considered complete.</p>
     </div>`;
 }
 
-function renderProfile(student, rules) {
+function renderProfile(student, rules, catalog) {
   const skillEntries = Object.entries(rules.skills || {});
   const badgeHtml = earnedBadges(student).length
     ? earnedBadges(student).map((badge) => `<span class="badge">${escapeHtml(badge.name)}</span>`).join('')
@@ -102,39 +201,19 @@ function renderProfile(student, rules) {
       </div>`;
   }).filter(Boolean).join('');
 
-  const evidenceHtml = (student.assignments || []).map((assignment) => {
-    if (assignment.status !== 'scanned') {
-      return `
-        <div class="evidence-item">
-          <div class="evidence-title"><span>${escapeHtml(assignment.id)}</span><span>Unavailable</span></div>
-          <div class="evidence-meta">${escapeHtml(assignment.repository)}</div>
-        </div>`;
-    }
-    const evidence = assignment.evidence || {};
-    const signals = [
-      evidence.feature_branch ? 'branch' : null,
-      evidence.commit_ahead_of_base ? 'commit' : null,
-      evidence.valid_pull_request ? 'PR' : null,
-      evidence.merged_pull_request ? 'merged' : null,
-      evidence.ci_success ? 'CI passed' : null,
-      evidence.debug_recovery ? 'debug recovery' : null,
-    ].filter(Boolean).join(' · ');
-    return `
-      <div class="evidence-item">
-        <div class="evidence-title"><span>${escapeHtml(assignment.id)}</span><span>${signals ? '✓ Verified' : 'In progress'}</span></div>
-        <div class="evidence-meta">${escapeHtml(assignment.repository)}${signals ? ` · ${escapeHtml(signals)}` : ''}</div>
-      </div>`;
-  }).join('');
-
   app.innerHTML = `
     <article class="profile">
       <div class="profile-top">
         <div>
+          <p class="section-kicker">My achievement profile</p>
           <h2 class="profile-name">${escapeHtml(student.name)}</h2>
-          <p class="profile-label">Developer Profile · @${escapeHtml(student.github)}</p>
+          <p class="profile-label">@${escapeHtml(student.github)}</p>
         </div>
         <div class="total">${Number(student.total_xp || 0)} verified XP</div>
       </div>
+
+      <h3 class="section-title">Learning map</h3>
+      <div class="course-map">${renderCourseStructure(student, catalog)}</div>
 
       <h3 class="section-title">Achievements</h3>
       <div class="badge-row">${badgeHtml}</div>
@@ -144,28 +223,30 @@ function renderProfile(student, rules) {
 
       <h3 class="section-title">Next achievements</h3>
       <div class="next-grid">${nextCards || '<div class="next-card"><strong>All current badge levels achieved.</strong></div>'}</div>
-
-      <h3 class="section-title">Verified evidence</h3>
-      <div class="evidence-list">${evidenceHtml || '<div class="evidence-meta">No assignment evidence has been scanned yet.</div>'}</div>
     </article>`;
 }
 
 async function boot() {
   try {
-    const [data, rules] = await Promise.all([loadJson('data.json'), loadJson('rules.json')]);
+    const [data, rules, catalog] = await Promise.all([
+      loadJson('data.json'),
+      loadJson('rules.json'),
+      loadJson('catalog.json'),
+    ]);
 
     const render = () => {
       const github = decodeURIComponent(location.hash.replace(/^#/, ''));
       if (!github) {
-        renderStudentList(data);
+        renderLanding();
         return;
       }
+
       const student = data.students.find((item) => item.github === github);
       if (!student) {
-        location.hash = '';
+        renderLanding();
         return;
       }
-      renderProfile(student, rules);
+      renderProfile(student, rules, catalog);
     };
 
     window.addEventListener('hashchange', render);

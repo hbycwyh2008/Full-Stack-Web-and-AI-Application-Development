@@ -191,11 +191,13 @@ Project evidence proves progress.
 ### Primary student-facing course — Meta: Principles of UX/UI Design
 - **Link:** https://www.coursera.org/learn/principles-of-ux-ui-design
 - **Status:** **Required selected clips only** for Lessons 09–11; do **not** assign the whole course as a prerequisite.
-- **Use:**
-  - **Module 2 — Evaluating Interactive Design:** selected evaluation material for Lesson 10.
-  - **Module 3 — Applied Design Fundamentals:** Figma frames, wireframing, and usability testing for Lessons 09–10.
-  - **Module 4 — Designing your UI:** components, high-fidelity design, prototyping, and testing for Lesson 11.
-- **Pattern:** short video → teacher model → guided design-along → independent rebuild / transfer.
+- **Required clip map:**
+  - **L09:** Module 3 — **Frames, layers and basic shapes** (~5 min)
+  - **L10:** Module 3 — **Usability testing** (~4 min)
+  - **L11:** Module 4 — **Moving from design to prototyping** (~4 min)
+- **Optional support:** Module 1 **Getting started with Figma**; Module 2 **Evaluating design**; Module 3 **Wireframing / Type and text / Grids and constraints**; Module 4 **Make it beautiful / Animate and test your prototype**.
+- **Exact local map:** `02_Class_Missions/03-figma-product-design/meta-ux-ui-video-map.md`
+- **Pattern:** one short required video → teacher model → guided design-along → independent rebuild / transfer.
 
 ### Teacher knowledge backbone — Georgia Tech OMSCS CS6750
 - **Link:** https://omscs6750.gatech.edu/

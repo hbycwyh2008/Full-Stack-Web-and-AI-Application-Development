@@ -5,7 +5,7 @@
 **CS6750 backbone:** **3.6 Evaluation** + **2.5 Design Principles and Heuristics**  
 **Primary student resource:** Meta *Principles of UX/UI Design*  
 **Mission:** Evaluate the low-fi design twice: first with the course Core 3, then with a real user task. Revise from evidence rather than taste.  
-**Durable Evidence:** Core-3 review + usability notes + Must/Should/Later revisions
+**Durable Evidence:** [L10 submission template](student-templates/l10-low-fi-evaluation-revision.md) — Core-3 review + usability notes + Must/Should/Later revisions
 
 ### Skill Warm-up video
 

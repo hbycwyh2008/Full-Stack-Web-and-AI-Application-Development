@@ -90,13 +90,13 @@ Use one design below per class meeting. **Discover** uses selected CS6750 needfi
 
 **Conceptual backbone:** OMSCS CS6750 needfinding / research methods.
 
-**Loop framing:** Lessons 05–07 do not end at “we collected data.” Students must check whether the evidence could be biased before turning it into a need.
+**Loop framing:** Lessons 05–08 move from needfinding evidence to an evidence-backed need and then to brainstorming/design alternatives.
 
 | Lesson | Main method | Required quality control | Suggested input |
 |---|---|---|---|
-| **05** Initial Needfinding | known / unknown + evidence plan | **confirmation bias** — what evidence would change our mind? | CS6750 3.3 or Meta UX-process clip |
+| **05** Initial Needfinding | known / unknown + evidence plan | **confirmation bias** — what evidence would change our mind? | CS6750 3.3 |
 | **06** Ask + Observe | interview + observation | leading · social desirability · recall · observer bias | CS6750 3.3 selected excerpt |
-| **07** Survey + Synthesis | survey + evidence → need | sampling / voluntary-response bias · overgeneralization | CS6750 3.3 + class printables |
+| **07** Survey + Synthesis | survey + evidence → need | sampling / voluntary-response bias · overgeneralization | CS6750 3.3 |
 | Consent | short school-appropriate consent | no unnecessary private data | `g7-printables.md` |
 
 **Skill Warm-up task**
@@ -119,58 +119,29 @@ Write:
 2. Which bias risk is most plausible?
 3. What claim is safe to make from this evidence — and what claim is too strong?
 
-**Discover output:** needfinding sheet + ask/observe notes + Bias Check + survey/sample check + evidence-synthesis table + 2–3 micro need statements.
+**HCI output:** needfinding sheet + ask/observe notes + Bias Check + survey/sample check + evidence-synthesis table + 2–3 needs + L08 alternatives/user flow.
 
 ---
 
-### B. Design — 3 Alternatives → 1 Figma Wireframe → Evaluate → Revise → High-Fi
+### B. HCI Brainstorm → Figma Prototype → Evaluate → Iterate
 
-**Primary student-facing course:** Meta — *Principles of UX/UI Design*  
-https://www.coursera.org/learn/principles-of-ux-ui-design
+**Theory backbone:** OMSCS CS6750 **3.4–3.7**.
 
-**Teacher/conceptual backbone:** OMSCS CS6750 Methods 3.4–3.7.
+**Course boundary:**
+
+- **L08 Brainstorming** remains in the HCI block.
+- **L09–L11** are the Figma prototyping/evaluation/iteration block.
+
+| Lesson | Theory input | Main class action | Evidence |
+|---|---|---|---|
+| **08** Brainstorm | CS6750 **3.4 Design Alternatives** | 6+ rapid ideas → 3 structurally different alternatives → one selected user flow | alternatives + user flow |
+| **09** Prototype | CS6750 **3.5 Prototyping** | just-in-time Figma demo → 3–5 screen low-fi prototype | Figma prototype + prototype question + Core-3 check |
+| **10** Evaluate | CS6750 **3.6 Evaluation** | design inspection + peer no-coaching usability task | test evidence + Must/Should/Later |
+| **11** Iterate | CS6750 **3.7 HCI and Agile Development** | revise from evidence → retest same task | revised prototype + before/evidence/change/result |
+
+**Figma tool rule:** teach controls through a short teacher demonstration only when the current task needs them. Do not add a separate Figma-theory video track.
 
 **Course Core 3:** Affordance/signifier · Mapping · Constraints.
-
-| Lesson | Student-facing input | Main class action | Evidence |
-|---|---|---|---|
-| **08** Alternatives | CS6750 **3.4** selected excerpt / teacher model | create **3 fast paper alternatives**, compare, choose one flow | A/B/C sketches + selected user flow |
-| **09** Figma low-fi | Meta Module 3 — **Frames, layers and basic shapes** (~5 min) | guided Figma design-along → independent 3–5 screen low-fi | Figma wireframe + Core-3 self-check |
-| **10** Evaluate + revise | Meta Module 3 — **Usability testing** (~4 min) | Core-3 designer review + peer task test | eval notes + Must/Should/Later revisions |
-| **11** High-fi + retest | Meta Module 4 — **Moving from design to prototyping** (~4 min) | interactions + revised high-fi + second user test | clickable prototype + before/after change log |
-
-**Important:** students do **not** build three full Figma prototypes. The three alternatives stay fast and cheap in Lesson 08. Only the selected direction moves into Figma.
-
-**Skill Warm-up pattern**
-
-**One required clip per lesson** → one note → teacher model → students build. Optional Meta/Scrimba clips are used only when a diagnosed gap requires them.
-
-**Talk Robin 1 prompts**
-
-- “The user’s main task is…”
-- “The place they may get stuck is…”
-- “Which Core-3 principle is relevant?”
-
-**Entry Check**
-
-1. **Affordance/signifier:** can the user tell what they can do?
-2. **Mapping:** can the user predict what will happen?
-3. **Constraints:** what prevents a mistaken / invalid action?
-
-**Evaluation pattern**
-
-~~~text
-Designer review (Core 3)
-→ give a user one goal
-→ do not coach
-→ record actions / pauses / words
-→ revise from evidence
-→ retest the same task
-~~~
-
-**Optional Scrimba support:** selected UI Design Fundamentals clips for whitespace, alignment, contrast, scale, typography, and visual hierarchy **after** students already know basic Figma. Scrimba is not the UX/Figma backbone.
-
-**Why this stack fits Design:** Meta is easier for first-time student Figma use and already includes evaluation/usability testing; CS6750 preserves the deeper method logic behind the unit. Exact clip map: `02_Class_Missions/03-figma-product-design/meta-ux-ui-video-map.md`.
 
 ---
 
@@ -381,7 +352,7 @@ During class:
 
 | Outcome | Fed by Steps 1–3 when… |
 |---|---|
-| **Figma prototype** | Meta Modules 2–4 provide the student-facing Figma/evaluation clips; CS6750 supplies the design-life-cycle backbone |
+| **Figma prototype** | CS6750 supplies prototyping/evaluation/iteration theory; Figma operations are taught just in time through guided practice |
 | **Published web project** | Build/Create warm-ups use JHU HTML/CSS/JS patterns students later rebuild |
 | **GitHub portfolio** | Collaborate warm-ups use Google Git/GitHub PR + review |
 | **HCI evidence** | Discover uses CS6750 needfinding + Bias Check; Design/Test use structured usability evidence and revision |

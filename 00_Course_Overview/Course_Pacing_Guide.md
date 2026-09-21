@@ -6,8 +6,8 @@ Assumption: approximately **45 minutes per core lesson**.
 |---|---|---|
 | 1–2 | 00–01 | What is computer science? + software lifecycle/product teardown |
 | 3–5 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
-| 6–8 | 05–07 | HCI needfinding + bias/sample checks + evidence synthesis |
-| 9–12 | 08–11 | alternatives → Figma low-fi → usability evaluation → revised interactive prototype |
+| 6–9 | 05–08 | HCI needfinding + bias/sample checks + evidence synthesis + brainstorming |
+| 10–12 | 09–11 | Figma prototype → usability evaluation → evidence-driven iteration + retest |
 | 13–16 | 12–15 | HTML/CSS implementation |
 | 17–21 | 16–20 | JavaScript + computational thinking/debugging |
 | 22–25 | 21–24 | Concentrated AI literacy unit — Melanie Mitchell |

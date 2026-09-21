@@ -132,6 +132,14 @@ Exit statement:
 
 Students can separate divergence from convergence, resist design fixation, generate structurally different alternatives, and choose a direction tied to the evidence-backed need.
 
+## HCI Unit Test
+
+After this lesson, complete the **HCI Needfinding + Brainstorming Unit Test**.
+
+The test checks transfer across the full HCI block:
+
+> **Needfinding → Bias-aware Evidence → Need → Brainstorming**
+
 ## HCI → Figma handoff
 
 L08 ends the HCI/ideation block.

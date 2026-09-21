@@ -1,26 +1,24 @@
-# Lesson 07 — Survey, Bias Check, and Evidence → Need
+# Lesson 07 — Survey + Evidence Synthesis: Define the Need
 
 **Length:** 45 minutes  
-**Loop step:** Survey → synthesize → define need  
-**CS6750 backbone:** **3.3** Needfinding and Requirements Gathering  
-**Quality control:** question quality · wording bias · sampling / voluntary-response bias · overgeneralization  
-**Mission:** Write a short survey using the CS6750 survey-question standards, then combine survey/interview/observation evidence into 2–3 verifiable user needs.  
-**Durable Evidence:** [L07 submission template](student-templates/l07-survey-evidence-synthesis.md) — 5-question survey + quality check + sample check + evidence synthesis + 2–3 micro-requirements
+**HCI stage:** Needfinding → synthesize → define need  
+**OMSCS CS6750 backbone:** **3.3 Needfinding and Requirements Gathering**  
+**Quality control:** survey wording · sampling / voluntary-response bias · overgeneralization  
+**Mission:** Write defensible survey questions, judge the sample, and combine interview/observation/survey evidence into evidence-backed user needs.  
+**Durable Evidence:** [L07 submission template](student-templates/l07-survey-evidence-synthesis.md)
 
 ### Skill Warm-up video
 
 | Field | Assign this |
 |---|---|
-| Primary | CS6750 **3.3** survey / requirements excerpt |
-| Backup | Meta *Principles of UX/UI Design* user-research material or [g7-printables.md](g7-printables.md) |
-| Stop | **≤ 8:00 total** |
+| Primary | OMSCS CS6750 **3.3** — survey tips + writing good survey questions excerpt |
+| Stop | **≤ 5:00** |
 
 ## 0–5 min — Skill Warm-up
 
-Write:
+Write the six CS6750 survey-question standards:
 
-1. one thing that can make a survey question weak;
-2. one reason a survey of “whoever answers” may not represent all users.
+> **Clear · Concise · Specific · Expressive · Unbiased · Usable**
 
 ## 5–9 min — Talk Robin 1
 
@@ -28,13 +26,9 @@ Fix:
 
 - “Would you use our awesome app?”
 - “Do you like reminders and dark mode?”
-- “How much will AI improve your grades?”
+- “Do you study often?”
 
-For each question:
-
-1. name the problem;
-2. rewrite it;
-3. identify which quality standard your rewrite improves.
+For each, identify the main quality problem and rewrite it.
 
 ## 9–14 min — Entry Check
 
@@ -46,183 +40,100 @@ Answer:
 - What should the team **not** claim?
 - Who might be missing?
 
-## 14–21 min — Core Pattern
+## 14–19 min — Core Pattern
 
-### A. CS6750: What makes a good survey question?
+### Question-level check
 
-Before using a survey question, check all **six** standards.
+A question is ready only when it is:
 
-| Standard | A strong question should… | Weak example |
-|---|---|---|
-| **Clear** | have one obvious meaning and ask one thing at a time | “Do you like reminders and dark mode?” |
-| **Concise** | use only the words needed to understand the question | a long paragraph before a simple question |
-| **Specific** | name the behavior, context, or time period clearly | “Do you study often?” |
-| **Expressive** | let participants express the answer you actually need, including unexpected answers when appropriate | forcing every response into incomplete options |
-| **Unbiased** | avoid praise, blame, assumptions, or wording that pushes an answer | “How helpful is our amazing study app?” |
-| **Usable** | be easy to answer; response scales and choices should be consistent and understandable | switching scale directions or using confusing options |
+- [ ] **Clear**
+- [ ] **Concise**
+- [ ] **Specific**
+- [ ] **Expressive**
+- [ ] **Unbiased**
+- [ ] **Usable**
 
-### The 6-point Question Check
+### Survey-level check
 
-A survey question is **ready only when all six checks pass**:
+1. **Less is more** — only ask what you will use.
+2. **Tie every question to the research goal / data inventory.**
+3. **Test it out** before release.
+4. **Iterate** when the pilot exposes problems.
 
-- [ ] **Clear** — Will different people interpret it the same way?
-- [ ] **Concise** — Can I remove words without losing meaning?
-- [ ] **Specific** — Is the behavior, context, or time period precise enough?
-- [ ] **Expressive** — Can the participant give the answer we actually need?
-- [ ] **Unbiased** — Does the wording avoid pushing a preferred answer?
-- [ ] **Usable** — Is it easy to understand and answer?
+Traceability:
 
-If one box fails, **revise the question before using it**.
-
-### B. Survey-level quality checks
-
-Good individual questions are not enough. The **whole survey** should also follow these CS6750 principles:
-
-1. **Less is more** — ask only questions whose answers you will actually use.
-2. **Tie questions to the research goal / data inventory** — every question should collect evidence for something you need to learn.
-3. **Test it out** — pilot the survey with another person before release.
-4. **Iterate** — revise questions when the pilot reveals ambiguity, bias, missing options, or usability problems.
-
-Use this traceability test:
-
-```text
-Research question / data we need
+~~~text
+what we need to learn
 → survey question
-→ expected evidence
-→ decision or need this evidence can support
-```
+→ evidence produced
+→ conclusion this evidence can support
+~~~
 
-If you cannot explain that chain, the question probably does not belong in the survey.
+### Sample check
 
-### C. Prefer evidence about real behavior
-
-When possible, prefer **past/current behavior** over hypothetical future promises.
-
-Weak:
-
-> “Would you use an AI study planner?”
-
-Stronger:
-
-> “In the past 7 days, how many times did you change your study plan because you forgot or missed a task?”
-
-The stronger question gives evidence about an existing behavior or problem instead of asking the participant to predict future behavior.
-
-### D. Sample check
-
-```text
+~~~text
 Who answered?
 → Who did not?
-→ Could those groups behave differently?
+→ Could missing groups behave differently?
 → How strong can our claim actually be?
-```
+~~~
 
-A small convenience sample can still generate useful clues. It cannot automatically represent every user.
+## 19–30 min — Guided Practice
 
-### E. Evidence synthesis
-
-```text
-quote + action + survey pattern
-→ possible need
-→ check for contradictory evidence
-→ verifiable need statement
-```
-
-Micro-requirement form:
-
-> **When [situation], the user can [task/outcome] so that [success].**
-
-## 21–32 min — Guided Practice
-
-Teams draft a **5-question survey** based on Lessons 05–06:
+Teams draft a **5-question survey**:
 
 - at least 2 open questions;
 - at least 1 frequency/rating question;
-- zero “Would you use our app?” questions;
+- no “Would you use our app?” item;
 - consent line;
-- sample plan: who will answer + who may be missing.
+- sample plan.
 
-### Step 1 — Research-goal check
-
-For every question, write:
+For every question:
 
 > **We ask this because we need to learn ______.**
 
-Delete any question that does not connect to the research goal.
+Then run the six-point check and peer pilot.
 
-### Step 2 — Run the 6-point Question Check
+After the pilot, revise at least one item.
 
-For **every survey question**, check:
+## 30–40 min — Independent Rebuild
 
-| Question | Clear | Concise | Specific | Expressive | Unbiased | Usable | Ready? |
-|---|---|---|---|---|---|---|---|
-| Q1 | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | Yes / Revise |
-| Q2 |  |  |  |  |  |  |  |
-| Q3 |  |  |  |  |  |  |  |
-| Q4 |  |  |  |  |  |  |  |
-| Q5 |  |  |  |  |  |  |  |
+Combine L05–L07 evidence:
 
-A question with any **✗** is **not ready**.
+| Evidence | Type | What might it suggest? | Bias / limitation | Contradiction? |
+|---|---|---|---|---|
+| | Quote / Action / Pattern | | | |
 
-### Step 3 — Pilot test
+Then write **2–3 user needs**:
 
-Give the survey to a peer.
+> **When [situation], the user needs to [task/outcome] so that [success].**
 
-For each question, ask the peer:
-
-> **“What do you think this question is asking?”**
-
-If their interpretation differs from what you intended, revise it.
-
-Also check:
-
-- Were any response options missing?
-- Did any scale feel confusing?
-- Did any question feel leading?
-- Did any question feel unnecessary?
-
-Rewrite at least one weak item based on the pilot.
-
-### Step 4 — Evidence synthesis
-
-Complete the Evidence Synthesis table:
-
-| Evidence | Source | Supports what need? | Contradiction / uncertainty? |
-|---|---|---|---|
-|  |  |  |  |
-
-## 32–40 min — Independent Rebuild
-
-Write **2–3 need / micro-requirement statements**.
-
-For each, add:
-
-- evidence supporting it;
-- one bias / limitation;
-- what additional evidence would increase confidence.
+Do **not** write a feature as a need.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
 Submit:
 
-1. research goal / data needed;
-2. 5-question survey;
-3. completed **6-point Question Check**;
-4. pilot-test revision;
-5. sample check;
-6. evidence table;
-7. 2–3 micro-requirements.
+- 5-question survey;
+- six-point question check;
+- sample limitation;
+- evidence synthesis;
+- 2–3 evidence-backed needs.
 
-Exit sentence:
+Exit statement:
 
-> “We have evidence for ___, but we are still uncertain about ___ because ___.”
+> **“The evidence supports the need ______; it does not yet justify the solution ______.”**
 
 ## Success Evidence
 
-Students can:
+Students can apply the CS6750 survey standards, recognize sample limits, synthesize multiple evidence sources, and define needs without jumping to a product feature.
 
-- explain and apply the six CS6750 survey-question standards: **Clear, Concise, Specific, Expressive, Unbiased, Usable**;
-- connect every survey question to a research goal or needed data;
-- pilot-test and revise a weak question;
-- recognize sampling limitations and avoid overgeneralizing;
-- turn multiple evidence sources into testable user-need statements.
+## Ready for Brainstorming
+
+Move to L08 only when:
+
+- [ ] survey questions pass the quality check;
+- [ ] sample limitation is explicit;
+- [ ] quote/action/pattern are separated from interpretation;
+- [ ] 2–3 needs are traceable to evidence;
+- [ ] uncertainty or contradictory evidence is acknowledged.

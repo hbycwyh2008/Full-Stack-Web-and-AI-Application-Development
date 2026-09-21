@@ -6,6 +6,8 @@ Canonical map: [omscs-cs6750-mapping.md](omscs-cs6750-mapping.md)
 Printables: [g7-printables.md](g7-printables.md)  
 Student submission templates: [student-templates/](student-templates/README.md)  
 Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)  
+**End-of-unit test:** [HCI User Research Unit Test](../../04_Assessment/HCI_User_Research_Unit_Test.md)  
+**Teacher key:** [HCI User Research Unit Test Teacher Key](../../04_Assessment/HCI_User_Research_Unit_Test_Teacher_Key.md)  
 CS6750 index: https://omscs6750.gatech.edu/
 
 ## Discover loop
@@ -18,6 +20,7 @@ Frame the problem
   → Survey / Sample Check
   → Synthesize evidence
   → Write user needs + micro-requirements
+  → Unit Test
   → Design alternatives (Lesson 08)
 ```
 
@@ -34,6 +37,26 @@ Students must check **how the question was asked, what was observed, who was inc
 | [05 — Initial Needfinding](lesson-05-initial-needfinding.md) | Frame problem · known/unknown · evidence plan | **Confirmation bias** | [L05 template](student-templates/l05-needfinding-evidence-plan.md) |
 | [06 — Collect User Data](lesson-06-collect-user-data.md) | Interview + observation | **Leading questions · social desirability · recall · observer bias** | [L06 template](student-templates/l06-interview-observation-bias-check.md) |
 | [07 — Survey + Micro-Requirements](lesson-07-writing-survey-questions.md) | Survey + synthesis | **Sampling / voluntary-response bias · question wording** | [L07 template](student-templates/l07-survey-evidence-synthesis.md) |
+
+## End-of-unit assessment
+
+After Lesson 07, students complete the **HCI User Research Unit Test** before beginning the design phase.
+
+The test is separate from daily practice:
+
+- **Daily lesson evidence** checks whether students can complete the method with support.
+- **Unit Test** checks whether students can transfer the method to a new scenario independently.
+
+The test prioritizes application over vocabulary recall. Students must:
+
+- diagnose a flawed research plan;
+- identify and reduce bias;
+- separate quote/action/pattern from interpretation;
+- evaluate and rewrite survey questions using **Clear · Concise · Specific · Expressive · Unbiased · Usable**;
+- judge what a sample does and does not support;
+- write an evidence-backed need without jumping to a feature.
+
+Recommended use: **35 minutes, individual, no AI**.
 
 ## Student mental model
 
@@ -72,7 +95,8 @@ Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
 - interview + observation notes with a bias audit;
 - short survey with wording + sample checks;
 - evidence synthesis table;
-- 2–3 verifiable user-need / micro-requirement statements.
+- 2–3 verifiable user-need / micro-requirement statements;
+- HCI User Research Unit Test.
 
 ## Discover → Design mastery gate
 
@@ -83,9 +107,10 @@ Do not move to Lesson 08 just because the team finished a survey. The team is re
 - [ ] the survey/sample limitation is stated;
 - [ ] 2–3 user needs are traceable to evidence;
 - [ ] at least one uncertainty / contradictory clue is still acknowledged;
-- [ ] the team can answer: **“What evidence could still prove us wrong?”**
+- [ ] the team can answer: **“What evidence could still prove us wrong?”**;
+- [ ] Unit Test misconceptions that would break the research → design transition have been corrected.
 
-If the gate fails, collect or clean up evidence before brainstorming features.
+The Unit Test should diagnose readiness, not replace the evidence gate. If the gate fails, collect or clean up evidence before brainstorming features.
 
 ## Standard
 

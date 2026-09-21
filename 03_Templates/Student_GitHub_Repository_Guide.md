@@ -122,8 +122,8 @@ This is the **final target structure** for the whole course.
 
 You should **not** create every folder immediately unless your teacher asks you to. Add folders gradually when you reach each phase:
 
-- Add `hci-research/` when starting Lessons 05–07.
-- Add `figma-design/` when starting Lessons 08–11.
+- Add `hci-research/` when starting Lessons 05–08.
+- Add `figma-design/` when starting Lessons 09–11.
 - Add `ai-literacy/` when starting AI Literacy.
 - Add `ai-math-bridge/` when starting AI Math Bridge.
 - Add `typescript-practice/` when starting TypeScript.
@@ -158,10 +158,10 @@ student-portfolio/
 ├── hci-research/
 │   ├── l05-needfinding-evidence-plan.md
 │   ├── l06-interview-observation-bias-check.md
-│   └── l07-survey-evidence-synthesis.md
+│   ├── l07-survey-evidence-synthesis.md
+│   └── l08-three-alternatives-user-flow.md
 │
 ├── figma-design/
-│   ├── l08-three-alternatives-user-flow.md
 │   ├── l09-low-fi-figma-core3.md
 │   ├── l10-low-fi-evaluation-revision.md
 │   ├── l11-high-fi-retest-change-log.md
@@ -250,8 +250,8 @@ Examples:
 | Phase 0: GitHub Setup | `README.md`, `profile/`, `reflections/` | Repo link, README, one branch, one PR |
 | Phase 1: Notion Portfolio | Root `README.md` | Notion portfolio link |
 | Phase 2: AI Literacy | `ai-literacy/` | AI reflection, responsible AI notes, ethics case study |
-| HCI User Research — Lessons 05–07 | `hci-research/` | Needfinding plan, interview/observation + bias check, survey/sample check + evidence synthesis |
-| UX/UI + Figma — Lessons 08–11 | `figma-design/` | 3 alternatives, low-fi Figma + Core 3, usability evaluation, high-fi retest + change log |
+| HCI + Brainstorming — Lessons 05–08 | `hci-research/` | Needfinding, bias-aware evidence, survey/synthesis, alternatives + selected user flow |
+| Figma — Lessons 09–11 | `figma-design/` | low-fi prototype + Core 3, usability evaluation, evidence-driven retest + change log |
 | Phase 3: AI Math Bridge | `ai-math-bridge/` | Vector notes, matrix notes, NumPy lab, image-as-matrix lab |
 | Phase 5: TypeScript Basics | `typescript-practice/` | `types.ts`, `api-types.ts`, README |
 | Phase 6: Next.js Frontend | `nextjs-frontend/` | Frontend explanation, screenshots, deployment link if available |
@@ -294,7 +294,7 @@ Templates: `ai-math-bridge-README-template.md`
 
 ### `hci-research/`
 
-Research evidence for Lessons 05–07. Use the course templates so claims stay traceable to evidence:
+Research and brainstorming evidence for Lessons 05–08. Use the course templates so claims stay traceable to evidence:
 
 - `l05-needfinding-evidence-plan.md`
 - `l06-interview-observation-bias-check.md`
@@ -304,7 +304,7 @@ Do not publish participant names or other private school data.
 
 ### `figma-design/`
 
-Design reasoning for Lessons 08–11. Keep the Figma file in Figma and store the reasoning/evaluation evidence here:
+Prototype/evaluation reasoning for Lessons 09–11. Keep the Figma file in Figma and store the reasoning/evaluation evidence here:
 
 - `l08-three-alternatives-user-flow.md`
 - `l09-low-fi-figma-core3.md`

@@ -52,8 +52,10 @@
 - [ ] students have a place to store anonymized research evidence
 - [ ] L05–L11 student submission templates are ready and copied into student repos as needed
 - [ ] [HCI + Figma L05–L11 Quick Check](../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md) is ready for fast feedback
-- [ ] [HCI User Research Unit Test](../04_Assessment/HCI_User_Research_Unit_Test.md) and [Teacher Key](../04_Assessment/HCI_User_Research_Unit_Test_Teacher_Key.md) are ready for the L05–L07 end-of-unit assessment
-- [ ] Unit Test is administered as an independent application check, not as another guided practice
+- [ ] [HCI Needfinding + Brainstorming Unit Test](../04_Assessment/HCI_User_Research_Unit_Test.md) and [Teacher Key](../04_Assessment/HCI_User_Research_Unit_Test_Teacher_Key.md) are ready for the L05–L08 end-of-unit assessment
+- [ ] HCI Unit Test is administered after L08 as an independent application check
+- [ ] [Figma Design Cycle Unit Test](../04_Assessment/Figma_Design_Cycle_Unit_Test.md) and [Teacher Key](../04_Assessment/Figma_Design_Cycle_Unit_Test_Teacher_Key.md) are ready after L11
+- [ ] Figma Unit Test includes the small practical prototype task, not only written recall
 - [ ] teachers do not require full requirements docs before Capstone L28
 - [ ] accessibility testing resources/browser tools available
 

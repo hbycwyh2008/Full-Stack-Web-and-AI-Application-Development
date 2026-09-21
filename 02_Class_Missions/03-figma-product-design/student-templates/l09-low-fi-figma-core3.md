@@ -1,62 +1,89 @@
-# L09 Submission — Low-Fi Figma Wireframe + Core 3
+# L09 Submission — Figma Prototype + Prototype Question + Core 3
 
 **Student / Team:**  
 **Project:**  
-**Date:**  
+**Date:**
 
-## 1. Figma Evidence
+## 1. Input from L08
 
-**Figma file / prototype URL:**  
+**Evidence-backed need:**
 
-**Screenshot folder / image links:**  
+> When __________________, the user needs to __________________ so that __________________.
 
-## 2. Main Task
+**Selected design direction:**  
 
-> The user starts at __________________ and succeeds when __________________.
+**Main uncertainty from brainstorming:**
 
-## 3. Screen Map
+## 2. Prototype Question
 
-| Screen | Purpose in the task | Main action | Next state |
+Complete:
+
+> **We are building this prototype to test whether the user can ________________________________.**
+
+**Why is this the most important thing to test now?**
+
+## 3. Figma Evidence
+
+**Figma prototype URL:**  
+
+**Screenshot links — optional:**
+
+## 4. Main Task
+
+**Start state:**  
+
+**Success state:**
+
+## 5. Screen / State Map
+
+| Screen / state | Purpose | Main action | Next state |
 |---|---|---|---|
-| 1 |  |  | |
-| 2 |  |  | |
-| 3 |  |  | |
-| 4 — if needed |  |  | |
-| 5 — if needed |  |  | |
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 — if needed | | | |
+| 5 — if needed | | | |
 
-## 4. Core 3 Self-Check
+## 6. Core 3 Pre-Test Check
 
 ### Affordance / Signifier
 
 **What should look actionable?**  
 
-**How does the interface signal that?**  
+**How is that signaled?**  
 
-**Problem found / revision:**  
+**Problem found / revision:**
 
 ### Mapping
 
 **What action → result relationship must be obvious?**  
 
-**Problem found / revision:**  
+**Problem found / revision:**
 
 ### Constraints
 
-**What invalid / mistaken action should be reduced or prevented?**  
+**What mistake should be prevented or made recoverable?**  
 
-**How does the design handle it?**  
+**How does the prototype handle it?**
 
-## 5. Biggest Predicted Usability Risk
+## 7. Prototype Boundary
 
-> I think a user may get stuck at __________________ because __________________.
+> **This prototype CAN test:** ________________________________________
 
-This is a **prediction**, not yet user-test evidence.
+> **This prototype CANNOT yet tell us:** _______________________________
+
+## 8. Biggest Predicted Usability Risk
+
+> I predict a user may get stuck at __________________ because __________________.
+
+This is a **prediction**, not evidence yet.
 
 ## L09 Mastery Gate
 
-- [ ] 3–5 screens represent one complete main task.
-- [ ] Start state is visible.
-- [ ] Success state is visible.
-- [ ] Primary actions have clear labels/signifiers.
-- [ ] Core-3 self-check is complete.
-- [ ] Flow was prioritized over color / illustration polish.
+- [ ] Prototype question is explicit.
+- [ ] 3–5 screens/states represent one main task.
+- [ ] Start and success states are visible.
+- [ ] Primary actions have clear signifiers.
+- [ ] Core 3 is checked.
+- [ ] Team can explain what the prototype can and cannot test.
+- [ ] Time was spent on testability, not unnecessary polish.

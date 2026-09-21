@@ -2,11 +2,15 @@
 
 **Student / Team:**  
 **Project / Topic:**  
-**Date:**  
+**Date:**
 
-## 1. Five-Question Survey
+## 1. Research Goal
 
-| # | Survey question | Type | Bias / wording check |
+> We need to learn ________________________________________________.
+
+## 2. Five-Question Survey
+
+| # | Survey question | Type | Why do we need this question? |
 |---:|---|---|---|
 | 1 |  | Open / Rating / Choice | |
 | 2 |  | Open / Rating / Choice | |
@@ -14,16 +18,31 @@
 | 4 |  | Open / Rating / Choice | |
 | 5 |  | Open / Rating / Choice | |
 
-Required checks:
+## 3. CS6750 Six-Point Question Check
 
-- [ ] At least 2 open questions.
-- [ ] At least 1 frequency / rating question.
-- [ ] No “Would you use our app?” question.
-- [ ] No double-barreled question.
-- [ ] No question praises or sells our idea.
-- [ ] Consent line included.
+For every question, check:
 
-## 2. Sample Check
+| Question | Clear | Concise | Specific | Expressive | Unbiased | Usable | Ready? |
+|---|---|---|---|---|---|---|---|
+| Q1 | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | ✓ / ✗ | |
+| Q2 | | | | | | | |
+| Q3 | | | | | | | |
+| Q4 | | | | | | | |
+| Q5 | | | | | | | |
+
+A question with any **✗** must be revised before use.
+
+## 4. Pilot Revision
+
+**Question tested:**  
+
+**What the peer thought it was asking:**  
+
+**Problem found:**  
+
+**Revised question:**
+
+## 5. Sample Check
 
 **Who answered / will answer?**  
 
@@ -31,65 +50,56 @@ Required checks:
 
 **Could the missing group behave differently? Why?**  
 
-**What claim should we NOT make from this sample?**  
+**What claim should we NOT make from this sample?**
 
-## 3. Question We Rewrote
-
-**Old question:**  
-
-**Problem with it:**  
-
-**New question:**  
-
-## 4. Evidence Synthesis
+## 6. Evidence Synthesis
 
 Use evidence from L05–L07.
 
-| Evidence | Type | Source | Supports what possible need? | Contradiction / uncertainty? |
+| Evidence | Type | What might it suggest? | Bias / limitation | Contradiction / uncertainty? |
 |---|---|---|---|---|
-|  | Quote / Action / Survey pattern | | | |
-|  | Quote / Action / Survey pattern | | | |
-|  | Quote / Action / Survey pattern | | | |
-|  | Quote / Action / Survey pattern | | | |
+|  | Quote / Action / Pattern | | | |
+|  | Quote / Action / Pattern | | | |
+|  | Quote / Action / Pattern | | | |
+|  | Quote / Action / Pattern | | | |
 
-## 5. User Needs / Micro-Requirements
+## 7. Evidence-Backed User Needs
 
 ### Need 1
 
-> When __________________, the user can / needs to __________________ so that __________________.
+> When __________________, the user needs to __________________ so that __________________.
 
 **Evidence:**  
 
-**Bias / limitation:**  
+**Bias / limitation:**
 
 ### Need 2
 
-> When __________________, the user can / needs to __________________ so that __________________.
+> When __________________, the user needs to __________________ so that __________________.
 
 **Evidence:**  
 
-**Bias / limitation:**  
+**Bias / limitation:**
 
-### Need 3 — optional if evidence supports it
+### Need 3 — only if evidence supports it
 
-> When __________________, the user can / needs to __________________ so that __________________.
+> When __________________, the user needs to __________________ so that __________________.
 
 **Evidence:**  
 
-**Bias / limitation:**  
+**Bias / limitation:**
 
-## 6. Honest Boundary
+## 8. Honest Boundary
 
-> **We have evidence for ___, but we are still uncertain about ___ because ___.**
+> **We have evidence for ______, but we are still uncertain about ______ because ______.**
 
-## Discover → Design Gate
+## Ready for Brainstorming
 
-Before starting L08:
+Before L08:
 
-- [ ] We have at least one quote.
-- [ ] We have at least one observed action.
-- [ ] Bias Check is complete.
-- [ ] Sample limitation is stated.
+- [ ] Survey questions pass the six-point check.
+- [ ] Sample limitation is explicit.
+- [ ] Quote/action/pattern are separated from interpretation.
 - [ ] At least 2 needs are traceable to evidence.
-- [ ] We acknowledge at least one uncertainty / contradictory clue.
-- [ ] We can answer: **What evidence could still prove us wrong?**
+- [ ] At least one uncertainty or contradictory clue is acknowledged.
+- [ ] We have **not** already decided the final feature/solution.

@@ -1,11 +1,11 @@
 # Lesson 07 — Survey + Evidence Synthesis: Define the Need
 
 **Length:** 45 minutes  
-**HCI stage:** Needfinding → synthesize → define need  
+**HCI stage:** Needfinding → Synthesize → Define Need  
 **OMSCS CS6750 backbone:** **3.3 Needfinding and Requirements Gathering**  
-**Quality control:** survey wording · sampling / voluntary-response bias · overgeneralization  
+**Quality control:** Survey wording · Sampling / voluntary-response bias · Overgeneralization  
 **Mission:** Write defensible survey questions, judge the sample, and combine interview/observation/survey evidence into evidence-backed user needs.  
-**Durable Evidence:** [L07 submission template](student-templates/l07-survey-evidence-synthesis.md)
+**Durable Evidence:** `l07-survey-evidence-synthesis.md`
 
 ### Skill Warm-up video
 
@@ -24,11 +24,16 @@ Write the six CS6750 survey-question standards:
 
 Fix:
 
-- “Would you use our awesome app?”
-- “Do you like reminders and dark mode?”
-- “Do you study often?”
+> “Would you use our awesome app?”
 
-For each, identify the main quality problem and rewrite it.
+> “Do you like reminders and dark mode?”
+
+> “Do you study often?”
+
+For each:
+
+- identify the main quality problem;
+- rewrite it.
 
 ## 9–14 min — Entry Check
 
@@ -46,12 +51,12 @@ Answer:
 
 A question is ready only when it is:
 
-- [ ] **Clear**
-- [ ] **Concise**
-- [ ] **Specific**
-- [ ] **Expressive**
-- [ ] **Unbiased**
-- [ ] **Usable**
+- **Clear**
+- **Concise**
+- **Specific**
+- **Expressive**
+- **Unbiased**
+- **Usable**
 
 ### Survey-level check
 
@@ -62,21 +67,21 @@ A question is ready only when it is:
 
 Traceability:
 
-~~~text
+```text
 what we need to learn
 → survey question
 → evidence produced
 → conclusion this evidence can support
-~~~
+```
 
 ### Sample check
 
-~~~text
+```text
 Who answered?
 → Who did not?
 → Could missing groups behave differently?
 → How strong can our claim actually be?
-~~~
+```
 
 ## 19–30 min — Guided Practice
 
@@ -92,9 +97,17 @@ For every question:
 
 > **We ask this because we need to learn ______.**
 
-Then run the six-point check and peer pilot.
+Then run the six-point check.
 
-After the pilot, revise at least one item.
+After that, peer pilot the survey.
+
+Ask the peer:
+
+> **“What do you think this question is asking?”**
+
+If their interpretation differs from what you intended, revise it.
+
+Rewrite at least one item based on the pilot.
 
 ## 30–40 min — Independent Rebuild
 
@@ -109,6 +122,16 @@ Then write **2–3 user needs**:
 > **When [situation], the user needs to [task/outcome] so that [success].**
 
 Do **not** write a feature as a need.
+
+Example:
+
+Weak:
+
+> Users need an AI reminder app.
+
+Stronger:
+
+> When assignments are distributed across several places, students need to identify what is due and where to find it so that they can begin work without searching repeatedly.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
@@ -132,8 +155,8 @@ Students can apply the CS6750 survey standards, recognize sample limits, synthes
 
 Move to L08 only when:
 
-- [ ] survey questions pass the quality check;
-- [ ] sample limitation is explicit;
-- [ ] quote/action/pattern are separated from interpretation;
-- [ ] 2–3 needs are traceable to evidence;
-- [ ] uncertainty or contradictory evidence is acknowledged.
+- survey questions pass the quality check;
+- sample limitation is explicit;
+- quote/action/pattern are separated from interpretation;
+- 2–3 needs are traceable to evidence;
+- uncertainty or contradictory evidence is acknowledged.

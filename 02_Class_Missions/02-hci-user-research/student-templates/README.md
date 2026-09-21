@@ -1,4 +1,4 @@
-# HCI User Research — Student Submission Templates
+# HCI — Student Submission Templates
 
 Copy each template into your **personal student repository** and complete it during the matching lesson.
 
@@ -8,7 +8,8 @@ Recommended folder:
 hci-research/
 ├── l05-needfinding-evidence-plan.md
 ├── l06-interview-observation-bias-check.md
-└── l07-survey-evidence-synthesis.md
+├── l07-survey-evidence-synthesis.md
+└── l08-three-alternatives-user-flow.md
 ~~~
 
 | Lesson | Template | Main evidence |
@@ -16,17 +17,16 @@ hci-research/
 | L05 | [Needfinding + Evidence Plan](l05-needfinding-evidence-plan.md) | known / unknown / evidence plan / confirmation-bias check |
 | L06 | [Interview + Observation + Bias Check](l06-interview-observation-bias-check.md) | quote / action / interpretation / bias audit |
 | L07 | [Survey + Evidence Synthesis](l07-survey-evidence-synthesis.md) | survey / sample check / synthesis / needs |
+| L08 | [Brainstorming + Alternatives + User Flow](l08-three-alternatives-user-flow.md) | 6+ ideas / 3 alternatives / selected direction |
 
 ## Submission rule
 
-Do not submit only a screenshot of the worksheet.
-
-The completed Markdown file in the student repository is the main evidence. If sketches or other images are needed, place them in an adjacent `screenshots/` folder and link them from the Markdown file.
+The completed Markdown file in the student repository is the main evidence. If sketches/images are needed, place them in an adjacent `screenshots/` folder and link them.
 
 ## Privacy rule
 
 Use anonymized participant labels such as `Participant A`. Do not publish real student names, grades, private messages, login information, or other unnecessary personal information.
 
-## Exit gate
+## HCI → Figma handoff
 
-L07 contains the **Discover → Design Gate**. Students do not move into interface design just because all three files exist; the evidence inside them must support at least two user needs and still acknowledge uncertainty.
+After L08, students should have an evidence-backed need, selected design direction, and user flow. The actual prototype begins in L09.

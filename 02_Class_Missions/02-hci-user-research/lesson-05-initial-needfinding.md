@@ -3,9 +3,9 @@
 **Length:** 45 minutes  
 **HCI stage:** Needfinding  
 **OMSCS CS6750 backbone:** **3.1 Methods · 3.2 Ethics · 3.3 Needfinding and Requirements Gathering**  
-**Quality control:** confirmation bias  
+**Quality control:** Confirmation bias  
 **Mission:** Identify what we need to learn about the user, task, and context before proposing a solution.  
-**Durable Evidence:** [L05 submission template](student-templates/l05-needfinding-evidence-plan.md)
+**Durable Evidence:** `l05-needfinding-evidence-plan.md`
 
 ### Skill Warm-up video
 
@@ -53,7 +53,7 @@ Then answer:
 
 **Needfinding = understand the user/problem before selecting the solution.**
 
-~~~text
+```text
 problem space
 → target user
 → task / context
@@ -61,7 +61,7 @@ problem space
 → what we assume
 → what we still need to learn
 → evidence plan
-~~~
+```
 
 Three evidence routes:
 
@@ -69,7 +69,9 @@ Three evidence routes:
 2. **Observe** — see what people actually do.
 3. **Survey** — compare patterns across more people.
 
-Ethics rule: collect only what is necessary, use consent, and avoid unnecessary personal/private data.
+Ethics rule:
+
+> Collect only what is necessary, use consent, and avoid unnecessary personal/private data.
 
 ## 19–30 min — Guided Practice
 
@@ -86,7 +88,9 @@ Teams complete a Needfinding Plan:
 | Data we will NOT collect | |
 | Evidence that could challenge our favorite idea | |
 
-Teacher check: the plan studies **users/tasks**, not “whether people like our app.”
+Teacher check:
+
+> The plan should study **users/tasks**, not “whether people like our app.”
 
 ## 30–40 min — Independent Rebuild
 

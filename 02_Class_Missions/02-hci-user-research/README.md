@@ -9,8 +9,8 @@ Canonical map: [omscs-cs6750-mapping.md](omscs-cs6750-mapping.md)
 Printables: [g7-printables.md](g7-printables.md)  
 Student submission templates: [student-templates/](student-templates/README.md)  
 Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)  
-Research mastery test: [HCI User Research Unit Test](../../04_Assessment/HCI_User_Research_Unit_Test.md)  
-Teacher key: [HCI User Research Unit Test Teacher Key](../../04_Assessment/HCI_User_Research_Unit_Test_Teacher_Key.md)
+End-of-unit test: [HCI Needfinding + Brainstorming Unit Test](../../04_Assessment/HCI_User_Research_Unit_Test.md)  
+Teacher key: [HCI Unit Test Teacher Key](../../04_Assessment/HCI_User_Research_Unit_Test_Teacher_Key.md)
 
 ## Unit flow
 
@@ -38,18 +38,22 @@ The boundary is intentional:
 | [L07 — Survey + Synthesis](lesson-07-writing-survey-questions.md) | **3.3 surveys / requirements** | good survey questions · sample limits · evidence → need | [L07 template](student-templates/l07-survey-evidence-synthesis.md) |
 | [L08 — Brainstorming](lesson-08-brainstorm-alternatives.md) | **3.4 Design Alternatives** | diverge · avoid fixation · compare · converge | [L08 template](student-templates/l08-three-alternatives-user-flow.md) |
 
-## Research mastery check
+## End-of-unit mastery check
 
-After L07, use the **HCI User Research Unit Test** to verify that students can independently:
+After **L08**, use the **HCI Needfinding + Brainstorming Unit Test**.
+
+It checks whether students can independently:
 
 - frame a user-research problem;
-- identify bias;
+- identify and reduce bias;
 - separate evidence from interpretation;
 - evaluate survey questions;
-- reason about samples;
-- derive a user need from evidence.
+- reason about samples and claim strength;
+- derive a user need from evidence;
+- generate structurally different alternatives;
+- avoid fixation and choose a direction worth prototyping.
 
-L08 then uses those validated needs as the input to brainstorming.
+The test is the final HCI checkpoint before students enter Figma prototyping.
 
 ## Student mental model
 

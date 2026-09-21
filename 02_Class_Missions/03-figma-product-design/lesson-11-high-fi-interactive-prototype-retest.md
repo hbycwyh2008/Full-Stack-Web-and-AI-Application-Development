@@ -1,133 +1,131 @@
-# Lesson 11 — High-Fi Interactive Prototype + Test Again
+# Lesson 11 — Iterate in Figma: Revise and Retest
 
 **Length:** 45 minutes  
-**Loop step:** Revise → higher fidelity → interactive prototype → second evaluation  
-**CS6750 backbone:** **3.5–3.7** prototyping / evaluation / iteration  
-**Primary student resource:** Meta *Principles of UX/UI Design*  
-**Optional visual-craft resource:** Scrimba Intro to UI Design Fundamentals  
-**Mission:** Turn the revised low-fi flow into a clickable higher-fidelity prototype, rerun the same core task, and document what improved.  
-**Durable Evidence:** [L11 submission template](student-templates/l11-high-fi-retest-change-log.md) — clickable prototype + second-test notes + before/after change log
+**Figma stage:** Iterate → Evaluate again  
+**OMSCS CS6750 theory:** **3.7 HCI and Agile Development** + **3.5–3.6 Prototyping / Evaluation**  
+**Tool:** Figma  
+**Mission:** Revise from evaluation evidence, raise fidelity only where useful, and retest the same core task to see whether the interaction improved.  
+**Durable Evidence:** [L11 submission template](student-templates/l11-high-fi-retest-change-log.md)
 
 ### Skill Warm-up video
 
-**Required:** Meta Module 4 — **Moving from design to prototyping** (~4 min)  
-Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
-Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
-
-**Optional extension only:** Meta **Animate and test your prototype** (~5 min) or selected Scrimba UI Design Fundamentals material after the main task already works.
+| Field | Assign this |
+|---|---|
+| Theory | OMSCS CS6750 **3.7 HCI and Agile Development** — selected iteration excerpt |
+| Reinforcement | CS6750 **3.5–3.6** prototype → evaluate loop |
+| Stop | **≤ 5:00** |
 
 ## 0–5 min — Skill Warm-up
 
-Write:
+Complete:
 
-1. What makes a prototype **interactive** rather than only a set of screens?
-2. What is one reason to test the **same task** after revision?
+~~~text
+Prototype
+→ Evaluate
+→ ______
+→ Evaluate again
+~~~
+
+Then write why a design change should be traceable to evidence.
 
 ## 5–9 min — Talk Robin 1
 
-Pairs compare Lesson 10 revision lists.
+Open the L10 revision list.
 
 Each team names:
 
-- the most important **MUST** change;
-- the interaction that must become clickable;
-- one thing that is only visual polish and can wait.
+- two MUST/SHOULD changes to implement;
+- the evidence for each;
+- one piece of visual polish that can wait.
 
 ## 9–14 min — Entry Check
 
-Individually:
+For each proposed change, complete:
 
-1. Which should happen first: fix a task blocker or add animation?
-2. What evidence from Lesson 10 justifies your most important revision?
-3. Draw a two-screen interaction: **current state → user action → next state**.
+> **Evidence → design problem → change**
+
+If the evidence is missing, the change is not automatically a priority.
 
 ## 14–19 min — Core Pattern
 
-Teacher demonstrates one short Figma interaction:
+Raise fidelity only when it helps the next test.
 
-~~~text
-screen
-→ reusable element / component
-→ prototype connection
-→ interaction
-→ preview
-~~~
+Useful now:
 
-Rule:
+- clearer hierarchy;
+- realistic labels/content;
+- consistent spacing;
+- interaction feedback;
+- error prevention/recovery.
 
-> Higher fidelity is useful only when it makes the tested task clearer and more realistic.
+Optional later:
 
-Required checks remain:
+- decorative imagery;
+- complex animation;
+- elaborate design systems.
 
-- Affordance / signifier;
-- Mapping;
-- Constraints.
+Teacher demonstrates only the Figma operation needed for today's revision, such as Auto Layout, a reusable component, or an interaction state.
 
 ## 19–30 min — Guided Practice
 
-Build the **minimum viable high-fi interactive prototype**.
+Build the revised interactive prototype.
 
 Required:
 
-- 3–5 screens for the main task;
-- clickable primary path;
-- clear text hierarchy;
-- consistent spacing / alignment;
-- success state;
-- one constraint / error-prevention state or behavior;
-- at least **two revisions from Lesson 10 evidence**.
-
-A reusable component is encouraged when it genuinely repeats; do not spend the lesson building a complex design system.
-
-Optional only after the flow works:
-
-- refined color;
-- advanced typography;
-- micro-animation;
-- decorative imagery.
+- main task clickable start → success;
+- at least 2 revisions linked to L10 evidence;
+- clear hierarchy;
+- consistent spacing/alignment;
+- constraint/recovery where relevant.
 
 ## 30–40 min — Independent Rebuild
 
-Each student independently fixes or completes one interaction/state without teacher step-by-step help.
+Retest the **same core task**.
 
-Then the team runs the **same core task** with a peer and records:
+Record:
 
-- completed without help? yes / no;
-- where the tester paused;
-- one improvement from the first test;
-- one remaining issue.
+| Measure | First test | Retest |
+|---|---|---|
+| Completed without help? | | |
+| Wrong turns | | |
+| Pauses | | |
+| Help requested | | |
+| Main confusion | | |
 
-Complete the change-log row:
+Then complete:
 
-| Before | Evidence | Change | After-test result |
+| Before | Evidence | Change | Retest result |
 |---|---|---|---|
-|  |  |  |  |
+| | | | |
+
+A change is not automatically an improvement. The retest decides.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
 Submit:
 
 1. Figma prototype link;
-2. second-test notes;
-3. before → after change log.
+2. retest notes;
+3. before → evidence → change → result log.
 
-Final reflection:
+Final statement:
 
-> “The most important change was ___ because the first test showed ___; the second test showed ___.”
+> **“We changed ______ because the first evaluation showed ______. The retest showed ______.”**
+
+## Design → Build gate
+
+Ready for implementation only when:
+
+- [ ] main task is clickable start → success;
+- [ ] peer completes it without facilitator help;
+- [ ] no unresolved MUST usability blocker remains;
+- [ ] at least two revisions trace to evidence;
+- [ ] before → evidence → change → result is documented.
 
 ## Success Evidence
 
-Students can build and test a small interactive Figma prototype, explain at least two evidence-driven changes, and show that evaluation is part of design rather than something done only at the end.
+Students can repeat the full Figma design loop:
 
-### Design → Build mastery gate
+> **Prototype → Evaluate → Iterate**
 
-The team is ready to enter HTML/CSS implementation only when:
-
-- [ ] the main task is clickable from start to success;
-- [ ] a peer can complete the main task **without facilitator help**;
-- [ ] no unresolved **MUST** usability blocker remains;
-- [ ] the Core 3 has been checked again;
-- [ ] at least two changes are traceable to evaluation evidence;
-- [ ] the before/after change log is complete.
-
-If the gate fails, revise the prototype before implementation. Building a known-bad interaction in code only makes the mistake more expensive.
+and explain why each major revision exists.

@@ -1,116 +1,124 @@
-# Lesson 09 — Figma Foundations + One Low-Fi Wireframe
+# Lesson 09 — Prototype with Figma: Make the Idea Testable
 
 **Length:** 45 minutes  
-**Loop step:** Selected direction → digital low-fi prototype  
-**CS6750 backbone:** **3.5 Prototyping**  
-**Primary student resource:** Meta *Principles of UX/UI Design*  
-**Mission:** Learn only the Figma skills needed to turn the selected Lesson 08 flow into a clear 3–5 screen low-fidelity wireframe.  
-**Durable Evidence:** [L09 submission template](student-templates/l09-low-fi-figma-core3.md) — Figma file + 3–5 low-fi screens + Core-3 self-check
+**Figma stage:** Prototype  
+**OMSCS CS6750 theory:** **3.5 Prototyping**  
+**Tool:** Figma  
+**Mission:** Turn the selected L08 direction into the cheapest prototype that can answer an important design question.  
+**Durable Evidence:** [L09 submission template](student-templates/l09-low-fi-figma-core3.md)
 
 ### Skill Warm-up video
 
-**Required:** Meta Module 3 — **Frames, layers and basic shapes** (~5 min)  
-Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
-Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
+| Field | Assign this |
+|---|---|
+| Theory | OMSCS CS6750 **3.5 Prototyping** — selected purpose / fidelity excerpt |
+| Stop | **≤ 5:00** |
 
-If students have never opened Figma before, **substitute** Module 1 **Getting started with Figma** (~5 min) and let the teacher model frames/shapes during Core Pattern. Do not stack both videos automatically.
+Figma operations are learned through teacher demonstration and immediate practice, not a separate theory video.
 
 ## 0–5 min — Skill Warm-up
 
-Watch the assigned Meta clip.
+After the OMSCS excerpt, answer:
 
-Write the minimum Figma vocabulary:
+1. What is a prototype for?
+2. Why not build the final product first?
+3. When is low fidelity useful?
 
-- frame;
-- layer;
-- shape;
-- text;
-- alignment / spacing.
+Core idea:
+
+> **A prototype exists to answer a question, not to look finished.**
 
 ## 5–9 min — Talk Robin 1
 
-Pairs open the Lesson 08 selected user flow.
+Open the L08 user flow.
 
-Each student explains:
+Complete:
 
-> “The user starts at ___, needs to ___, and succeeds when ___.”
+> **The main thing we need to learn from this prototype is whether the user can ______.**
 
-Partner identifies the one screen/state that will probably be hardest to represent.
+Partner checks whether that question is testable.
 
 ## 9–14 min — Entry Check
 
-Individually:
+Choose the lowest fidelity needed for each goal:
 
-1. Which Figma object should contain one mobile screen?
-2. What is the difference between a **screen/frame** and a **text/shape layer**?
-3. Which matters first for low-fi: exact colors or a clear task flow?
-4. Sketch one gray-box screen with a title, content region, and primary action.
+- compare two navigation structures;
+- test whether a button label is understood;
+- demonstrate a finished visual brand;
+- test a main task flow.
+
+Then identify:
+
+- start state;
+- success state;
+- main uncertainty.
 
 ## 14–19 min — Core Pattern
 
-Teacher performs one short design-along:
+~~~text
+selected direction
+→ prototype question
+→ lowest useful fidelity
+→ build only the main path
+→ test
+~~~
+
+Teacher demonstrates only the Figma controls needed now:
 
 ~~~text
 Frame
-→ heading
-→ content block
-→ primary action
-→ duplicate / create next screen
+→ Text
+→ Shape
+→ Align / space
+→ Duplicate
+→ Prototype connection
+→ Preview
 ~~~
 
-Then introduce the course Core 3:
-
-1. **Affordance / signifier** — can the user tell what is actionable?
-2. **Mapping** — can the user predict what an action will do?
-3. **Constraints** — does the design reduce invalid / mistaken actions?
-
-Use: [design-evaluation-checklist.md](design-evaluation-checklist.md)
-
-No gradients, illustrations, or visual polish yet.
+No design-system or animation lesson.
 
 ## 19–30 min — Guided Practice
 
-Students convert the Lesson 08 selected user flow into the first part of a **3–5 screen low-fi wireframe**.
+Build a **3–5 screen low-fi Figma prototype**.
 
 Required:
 
-- same evidence-backed user need;
-- start screen;
-- primary task steps;
-- success state planned;
-- clear labels;
-- consistent spacing / alignment.
+- start state;
+- main task path;
+- success state;
+- clear primary actions;
+- enough clickability to test the task.
 
-Teacher checks the **flow**, not decoration.
+Before testing, run the Core 3:
+
+1. **Affordance / signifier**
+2. **Mapping**
+3. **Constraints**
 
 ## 30–40 min — Independent Rebuild
 
-Without line-by-line teacher direction, students finish / rebuild the missing screens and then select one screen for a Core-3 self-check:
+Without step-by-step teacher help, complete or rebuild one screen/interaction.
 
-- **Affordance / signifier:** ______
-- **Mapping:** ______
-- **Constraint:** ______
+Then write:
 
-If a screen fails one check, revise it before submission.
+> **This prototype can test ______.**
+
+> **This prototype cannot yet tell us ______.**
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
-Submit the Figma link / screenshot set.
+Submit:
+
+- Figma link;
+- 3–5 screens;
+- prototype question;
+- Core-3 check;
+- biggest predicted usability risk.
 
 Exit statement:
 
-> “The main task is ___, and the screen most likely to confuse a user is ___ because ___.”
+> **“We built only enough prototype to test whether ______.”**
 
 ## Success Evidence
 
-Students can independently create basic Figma frames and transform one evidence-backed user flow into a coherent low-fi wireframe without wasting time on visual polish.
-
-### L09 mastery gate
-
-Before moving to evaluation, the team must have:
-
-- [ ] 3–5 screens representing one complete main task;
-- [ ] a visible start and success state;
-- [ ] clear labels for the primary actions;
-- [ ] a Core-3 self-check completed;
-- [ ] no time spent polishing colors/illustrations instead of fixing the flow.
+Students understand prototype purpose and fidelity, can build the main task in Figma, and can explain what the prototype can and cannot test.

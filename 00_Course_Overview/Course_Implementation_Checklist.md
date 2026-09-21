@@ -15,7 +15,7 @@
 
 - [ ] `00-course-orientation` — CS definition + computational thinking + software lifecycle
 - [ ] `01-github-foundations` — YouTube + GitHub Docs/Skills: repo, README, commits, history
-- [ ] `02-hci-user-research` — needfinding → ask/observe → bias check → survey/sample check → evidence synthesis → micro-requirements
+- [ ] `02-hci-user-research` — needfinding → ask/observe → bias check → survey/sample check → evidence synthesis → micro-requirements → unit test
 - [ ] `03-figma-product-design` — 3 fast alternatives → one low-fi Figma wireframe → Core-3 + usability evaluation → revised high-fi prototype
 - [ ] `04-html-css-implementation` — semantic/responsive implementation
 - [ ] `05-javascript-interaction` — JavaScript + computational thinking
@@ -51,6 +51,8 @@
 - [ ] students have a place to store anonymized research evidence
 - [ ] L05–L11 student submission templates are ready and copied into student repos as needed
 - [ ] [HCI + Figma L05–L11 Quick Check](../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md) is ready for fast feedback
+- [ ] [HCI User Research Unit Test](../04_Assessment/HCI_User_Research_Unit_Test.md) and [Teacher Key](../04_Assessment/HCI_User_Research_Unit_Test_Teacher_Key.md) are ready for the L05–L07 end-of-unit assessment
+- [ ] Unit Test is administered as an independent application check, not as another guided practice
 - [ ] teachers do not require full requirements docs before Capstone L28
 - [ ] accessibility testing resources/browser tools available
 

@@ -1,83 +1,94 @@
-# L10 Submission — Core-3 Review + Usability Test + Revision Plan
+# L10 Submission — Evaluation Evidence + Revision Plan
 
 **Student / Team:**  
 **Project:**  
 **Date:**  
-**Figma URL:**  
+**Figma URL:**
 
-## 1. Core-3 Designer Review
+## 1. Prototype Question from L09
+
+> We are testing whether the user can ____________________________________________.
+
+## 2. Design Inspection — Core 3
 
 | Principle | Problem found | Evidence in the interface | Priority |
 |---|---|---|---|
-| Affordance / signifier |  |  | Must / Should / Later |
-| Mapping |  |  | Must / Should / Later |
-| Constraints |  |  | Must / Should / Later |
+| Affordance / signifier | | | Must / Should / Later |
+| Mapping | | | Must / Should / Later |
+| Constraints | | | Must / Should / Later |
 
-## 2. User Task Script
+## 3. Goal-Based Usability Task
 
-Write the user **goal**, not click-by-click directions.
+Write the **goal**, not click-by-click instructions.
 
 > ________________________________________________
 
-No coaching rule:
+No-coaching rule:
 
 - [ ] We will not tell the tester where to click.
-- [ ] We will not explain the interface while the task is running.
+- [ ] We will not explain the interface during the task.
+- [ ] We will let the interface succeed or fail on its own.
 
-## 3. Usability Test Notes
+## 4. Usability Test Evidence
 
 **Tester label:** Participant ___  
 **Completed without help?** Yes / No  
-**Help requested?** Yes / No  
+**Help requested?** Yes / No
 
-| Moment | What the tester DID / SAID | Pause / wrong turn? | Evidence, not interpretation |
+| Moment | What the tester DID / SAID | Pause / wrong turn? | What happened — no mind-reading |
 |---|---|---|---|
-| 1 |  |  | |
-| 2 |  |  | |
-| 3 |  |  | |
-| 4 |  |  | |
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
 
 **Exact confusion words, if any:**  
 
-**Biggest surprise:**  
+**Biggest unexpected behavior:**
 
-## 4. Revision Plan
+## 5. What Did the Evaluation Show?
+
+**Was the L09 prototype question answered?** Yes / Partly / No
+
+**Evidence:**
+
+## 6. Revision Plan
 
 ### MUST — blocks the main task
 
 | Change | Evidence that justifies it |
 |---|---|
-|  | |
-|  | |
+| | |
+| | |
 
 ### SHOULD — creates confusion / unnecessary effort
 
 | Change | Evidence that justifies it |
 |---|---|
-|  | |
-|  | |
+| | |
+| | |
 
-### LATER — polish / optional
+### LATER — polish / low-impact improvement
 
 | Change | Reason |
 |---|---|
-|  | |
+| | |
 
-## 5. Further Needfinding — only if needed
+## 7. Further Needfinding — only if necessary
 
-**What did the test reveal that we still do not understand about the user/task?**  
+Did the test reveal something we still do not understand about the **user/task**, not merely the interface?
 
 > ________________________________________________
 
 ## Exit Evidence
 
-> **We expected ___, but the user actually ___, so we will change ___.**
+> **We expected ______, but the user actually ______, so the design problem is ______ and we will change ______.**
 
 ## L10 Mastery Gate
 
-- [ ] Core-3 review completed.
+- [ ] Core-3 inspection completed.
 - [ ] Test used a goal, not click instructions.
 - [ ] Tester was not coached.
 - [ ] Actions / pauses / exact words were recorded.
-- [ ] Must / Should / Later revision list completed.
-- [ ] Every MUST item is tied to evidence.
+- [ ] Prototype question was answered or marked unresolved.
+- [ ] Every MUST/SHOULD item is tied to evidence.

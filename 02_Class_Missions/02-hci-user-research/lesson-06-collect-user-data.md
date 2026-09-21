@@ -3,9 +3,9 @@
 **Length:** 45 minutes  
 **HCI stage:** Needfinding — data collection  
 **OMSCS CS6750 backbone:** **3.3 Needfinding and Requirements Gathering**  
-**Quality control:** confirmation bias · leading questions · social desirability · recall · observer bias  
+**Quality control:** Confirmation bias · Leading questions · Social desirability · Recall · Observer bias  
 **Mission:** Collect useful interview and observation evidence without steering the participant or turning interpretation into fact.  
-**Durable Evidence:** [L06 submission template](student-templates/l06-interview-observation-bias-check.md)
+**Durable Evidence:** `l06-interview-observation-bias-check.md`
 
 ### Skill Warm-up video
 
@@ -13,8 +13,6 @@
 |---|---|
 | Primary | OMSCS CS6750 **3.3** — selected interview / observation excerpt |
 | Stop | **≤ 5:00** |
-
-Consent card: [g7-printables.md](g7-printables.md)
 
 ## 0–5 min — Skill Warm-up
 
@@ -32,7 +30,9 @@ Rewrite:
 
 into a question about a **recent real event**.
 
-Then explain how the original wording could affect the answer.
+Then explain:
+
+> How could the original wording affect the answer?
 
 ## 9–14 min — Entry Check
 
@@ -45,31 +45,34 @@ Classify each line as:
 
 Examples:
 
-- “I usually forget the due date.”
-- Student opened three tabs, paused, then searched again.
-- Student was confused because the page was badly designed.
-- “Don’t you think this button is easier?”
+> “I usually forget the due date.”
+
+> Student opened three tabs, paused, then searched again.
+
+> Student was confused because the page was badly designed.
+
+> “Don’t you think this button is easier?”
 
 ## 14–19 min — Core Pattern
 
 ### Interview
 
-~~~text
+```text
 Consent
 → ask about a recent real event
 → listen
 → follow up: “What happened next?”
 → record exact words
-~~~
+```
 
 ### Observation
 
-~~~text
+```text
 Give a goal
 → watch without coaching
 → record actions / pauses / errors
 → label interpretation separately
-~~~
+```
 
 ### Bias Check
 
@@ -83,15 +86,19 @@ Give a goal
 
 ## 19–30 min — Guided Practice
 
-Roles: **interviewer · participant · observer**.
+Roles:
 
-**Round A — Interview**
+**Interviewer · Participant · Observer**
+
+### Round A — Interview
+
 - consent;
 - 3 recent/past-behavior questions;
 - at least one follow-up;
 - record exact phrases.
 
-**Round B — Observe**
+### Round B — Observe
+
 - give one tiny task;
 - no coaching;
 - record actions, pauses, and errors;

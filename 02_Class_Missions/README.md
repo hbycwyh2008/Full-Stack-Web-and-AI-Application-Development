@@ -48,8 +48,8 @@ thinking to solve and refine a non-code problem.
 | [Required Orientation](00-course-orientation/required-orientation-four-posters.md) | Four posters + how this class works | prerequisite session |
 | [00 CS Orientation + Lifecycle](00-course-orientation/README.md) | CS definition; computational thinking; software lifecycle | 00–01 |
 | [01 GitHub Foundations](01-github-foundations/README.md) | YouTube + GitHub Docs/Skills: repo, README, commits, history | 6 beginner lessons |
-| [02 HCI User Research](02-hci-user-research/README.md) | Needfinding → ask/observe → bias check → survey/sample check → evidence synthesis | 05–07 |
-| [03 UX/UI + Figma Product Design](03-figma-product-design/README.md) | 3 fast alternatives → one Figma wireframe → Core-3 + usability evaluation → high-fi + retest | 08–11 |
+| [02 HCI: Needfinding → Brainstorming](02-hci-user-research/README.md) | Needfinding → evidence/bias → survey/synthesis → brainstorming/design alternatives | 05–08 |
+| [03 Figma: Prototype → Evaluate → Iterate](03-figma-product-design/README.md) | low-fi prototype → usability evaluation → evidence-driven revision + retest | 09–11 |
 | [04 HTML + CSS Implementation](04-html-css-implementation/README.md) | Semantic HTML, CSS systems, responsive implementation | 12–15 |
 | [05 JavaScript + Computational Thinking](05-javascript-interaction/README.md) | Algorithms, functions, data, DOM/events, forms/state, debugging | 16–20 |
 | [06 AI Literacy](06-ai-literacy/README.md) | Four concentrated Mitchell reading/discussion lessons | 21–24 |

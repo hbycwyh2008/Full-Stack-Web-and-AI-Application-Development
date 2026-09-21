@@ -1,41 +1,40 @@
-# Lesson 10 — Evaluate Low-Fi + Revise
+# Lesson 10 — Evaluate the Figma Prototype
 
 **Length:** 45 minutes  
-**Loop step:** Designer review → user task test → evidence → revision  
-**CS6750 backbone:** **3.6 Evaluation** + **2.5 Design Principles and Heuristics**  
-**Primary student resource:** Meta *Principles of UX/UI Design*  
-**Mission:** Evaluate the low-fi design twice: first with the course Core 3, then with a real user task. Revise from evidence rather than taste.  
-**Durable Evidence:** [L10 submission template](student-templates/l10-low-fi-evaluation-revision.md) — Core-3 review + usability notes + Must/Should/Later revisions
+**Figma stage:** Evaluate  
+**OMSCS CS6750 theory:** **3.6 Evaluation** + selected Unit 2 design principles  
+**Mission:** Evaluate the prototype with a design inspection and a real usability task, then convert observed evidence into prioritized design problems.  
+**Durable Evidence:** [L10 submission template](student-templates/l10-low-fi-evaluation-revision.md)
 
 ### Skill Warm-up video
 
-**Required:** Meta Module 3 — **Usability testing** (~4 min)  
-Course: https://www.coursera.org/learn/principles-of-ux-ui-design  
-Exact map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)
-
-**Optional teacher support:** Module 2 — **Evaluating design** (~3 min) only if students need more help understanding designer review. Keep the student warm-up to one required video.
+| Field | Assign this |
+|---|---|
+| Theory | OMSCS CS6750 **3.6 Evaluation** — selected evaluation / usability-testing excerpt |
+| Optional theory | selected OMSCS Unit 2 principles/heuristics excerpt |
+| Stop | **≤ 5:00** |
 
 ## 0–5 min — Skill Warm-up
 
-After the clip, write:
+After the OMSCS excerpt, answer:
 
-1. What should a usability tester be asked to **do**?
-2. What should the facilitator **not** do?
-3. What evidence should the observer record?
+1. Are we testing the user or the design?
+2. Why should the facilitator avoid coaching?
+3. What counts as useful evaluation evidence?
 
 ## 5–9 min — Talk Robin 1
 
-Pairs compare their rules.
-
-Together write one **goal-based task** that does not reveal where to click.
+Write one goal-based task.
 
 Bad:
 
-> “Click the plus button and press Save.”
+> “Click Add, choose Science, and press Save.”
 
 Better:
 
 > “Add tomorrow’s science homework and make sure you can find it again.”
+
+Partner checks that the task does not reveal where to click.
 
 ## 9–14 min — Entry Check
 
@@ -46,32 +45,27 @@ Classify each line as **evidence**, **taste**, or **assumption**:
 - “Tester asked, ‘Where do I save?’”
 - “Users will obviously understand this.”
 
-Then write one reason facilitators should not coach during the task.
-
 ## 14–19 min — Core Pattern
 
-### Pass 1 — Designer review
-
-Use the course Core 3:
+### Pass 1 — Design inspection
 
 | Principle | Check |
 |---|---|
-| **Affordance / signifier** | Is it obvious what can be clicked / changed? |
-| **Mapping** | Is the result of an action predictable? |
-| **Constraints** | Are invalid actions prevented or made harder? |
+| **Affordance / signifier** | Can the user tell what is actionable? |
+| **Mapping** | Is action → result understandable? |
+| **Constraints** | Are mistakes prevented or recoverable? |
 
-Also flag severe readability / accessibility problems without creating another memorization list.
-
-### Pass 2 — User task test
+### Pass 2 — Usability task
 
 ~~~text
-Give one goal
+Give goal
 → do not coach
-→ watch
+→ observe
 → record actions / pauses / words
-→ ask one short follow-up
-→ revise
+→ short follow-up
 ~~~
+
+Measure the interface, not the tester's intelligence.
 
 ## 19–30 min — Guided Practice
 
@@ -81,61 +75,48 @@ Roles:
 - tester from another team;
 - note-taker.
 
-Run the task test.
-
 Record:
 
-- task success: yes / no;
+- task success;
 - wrong turns;
 - pauses;
 - help requested;
 - exact confusion words;
-- one surprise.
+- unexpected behavior.
 
-Do **not** fix the interface during the test.
+Do not redesign during the test.
 
 ## 30–40 min — Independent Rebuild
 
-Each student turns the evidence into a revision plan:
+Turn evidence into:
 
 ### MUST
 Blocks the main task.
 
 ### SHOULD
-Creates confusion / unnecessary effort.
+Creates confusion or unnecessary effort.
 
 ### LATER
-Polish or optional improvement.
+Polish / low-impact improvement.
 
-Every revision must cite:
+Every MUST/SHOULD must cite:
 
-- a Core-3 problem, **or**
+- a design-principle problem, or
 - an observed test event.
-
-Add **one further-needfinding question** only if the test revealed something still unknown about the user/task.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
 Submit:
 
-- Core-3 review;
-- task-test notes;
-- Must / Should / Later revision list.
+- Core-3 inspection;
+- task script;
+- usability notes;
+- Must / Should / Later list.
 
 Exit statement:
 
-> “We expected ___, but the user actually ___, so we will change ___.”
+> **“We expected ______, but the user actually ______, which suggests the design problem is ______.”**
 
 ## Success Evidence
 
-Students can distinguish designer review from usability testing, observe without coaching, and convert concrete evidence into a prioritized revision.
-
-### L10 mastery gate
-
-Do **not** move directly to high-fi because the low-fi looks acceptable. The team must have:
-
-- [ ] one completed Core-3 designer review;
-- [ ] one peer task test run without click-by-click coaching;
-- [ ] concrete notes on actions / pauses / confusion;
-- [ ] a Must / Should / Later revision list;
-- [ ] every **MUST** item tied to evidence.
+Students can run a no-coaching usability test, record behavioral evidence, and prioritize revisions based on evidence rather than taste.

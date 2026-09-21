@@ -186,28 +186,31 @@ Project evidence proves progress.
 
 ---
 
-## UX/UI + Figma Product Design (`03-figma-product-design`)
+## HCI + Figma Design Cycle
 
-### Primary student-facing course — Meta: Principles of UX/UI Design
-- **Link:** https://www.coursera.org/learn/principles-of-ux-ui-design
-- **Status:** **Required selected clips only** for Lessons 09–11; do **not** assign the whole course as a prerequisite.
-- **Required clip map:**
-  - **L09:** Module 3 — **Frames, layers and basic shapes** (~5 min)
-  - **L10:** Module 3 — **Usability testing** (~4 min)
-  - **L11:** Module 4 — **Moving from design to prototyping** (~4 min)
-- **Optional support:** Module 1 **Getting started with Figma**; Module 2 **Evaluating design**; Module 3 **Wireframing / Type and text / Grids and constraints**; Module 4 **Make it beautiful / Animate and test your prototype**.
-- **Exact local map:** `02_Class_Missions/03-figma-product-design/meta-ux-ui-video-map.md`
-- **Pattern:** one short required video → teacher model → guided design-along → independent rebuild / transfer.
+### HCI theory — OMSCS CS6750
 
-### Teacher knowledge backbone — Georgia Tech OMSCS CS6750
-- **Link:** https://omscs6750.gatech.edu/
-- **Use:** Needfinding → Design Alternatives → Prototyping → Evaluation → Iterate.
-- **Status:** Teacher/conceptual backbone; selected excerpts may be projected when appropriate, especially **3.4 Design Alternatives**.
+Use selected short excerpts:
 
-### Optional visual-design reinforcement — Scrimba
-- **Resource:** Intro to UI Design Fundamentals.
-- **Use:** whitespace, alignment, contrast, scale, typography, and visual hierarchy **after** students can already build a Figma wireframe.
-- **Status:** Optional; does not replace Meta Figma instruction or HCI evaluation.
+- **L05–L07:** CS6750 **3.3 Needfinding and Requirements Gathering**
+- **L08:** CS6750 **3.4 Design Alternatives**
+- **L09:** CS6750 **3.5 Prototyping**
+- **L10:** CS6750 **3.6 Evaluation** + selected Unit 2 design principles
+- **L11:** CS6750 **3.7 HCI and Agile Development**
+
+### Figma tool instruction
+
+Figma is taught **just in time** through short teacher demonstrations and immediate practice.
+
+Required operations are introduced only when needed:
+
+- frame / text / shape;
+- alignment / spacing;
+- prototype connections;
+- preview;
+- later Auto Layout/components/states only if the current design needs them.
+
+Meta *Principles of UX/UI Design* is **not** a required theory/video spine.
 
 ### Unit output
 Students finish with:

@@ -112,6 +112,14 @@ Final statement:
 
 > **“We changed ______ because the first evaluation showed ______. The retest showed ______.”**
 
+## Figma Unit Test
+
+After this lesson, complete the **Figma Design Cycle Unit Test**.
+
+The test checks whether you can independently apply:
+
+> **Prototype → Evaluate → Iterate**
+
 ## Design → Build gate
 
 Ready for implementation only when:

@@ -1,71 +1,90 @@
-# L11 Submission — High-Fi Interactive Prototype + Retest
+# L11 Submission — Evidence-Driven Iteration + Retest
 
 **Student / Team:**  
 **Project:**  
-**Date:**  
+**Date:**
 
-## 1. Prototype Evidence
+## 1. Current Prototype
 
 **Figma prototype URL:**  
 
 **Main task:**  
 
-**Start screen:**  
+**Start state:**  
 
-**Success state:**  
+**Success state:**
 
-## 2. Evidence-Driven Revisions
+## 2. Select Changes from L10 Evidence
 
-At least two changes must come from L10 evidence.
+At least two changes must come directly from evaluation evidence.
 
-| L10 evidence | Change made | Core-3 principle / usability reason |
+| L10 evidence | Design problem | Change made |
 |---|---|---|
-|  |  | |
-|  |  | |
-|  |  | |
+| | | |
+| | | |
+| | | |
 
-## 3. Interactive Prototype Check
+## 3. Fidelity Decision
+
+What did you make more realistic because it helps the next test?
+
+- [ ] labels/content
+- [ ] hierarchy
+- [ ] spacing/alignment
+- [ ] interaction feedback
+- [ ] error prevention/recovery
+- [ ] Auto Layout/component/state — only if needed
+- [ ] other: __________________
+
+**What polish did you deliberately postpone?**
+
+## 4. Revised Prototype Check
 
 - [ ] Main path is clickable from start to success.
 - [ ] Primary actions are obvious.
 - [ ] Action → result mapping is clear.
-- [ ] At least one invalid / mistaken action is constrained or recoverable.
-- [ ] Text hierarchy is readable.
-- [ ] Spacing / alignment are consistent.
+- [ ] Relevant mistakes are constrained or recoverable.
+- [ ] Hierarchy supports the task.
+- [ ] At least two changes trace to L10 evidence.
 
-## 4. Retest the SAME Core Task
+## 5. Retest the SAME Core Task
 
 **Task script:**  
 
-**Tester label:** Participant ___  
+**Tester label:** Participant ___
 
-**Completed without help?** Yes / No  
-**Help requested?** Yes / No  
-
-| Test evidence | First test (L10) | Second test (L11) |
+| Test evidence | First test — L10 | Retest — L11 |
 |---|---|---|
-| Task completed? |  |  |
-| Wrong turns |  |  |
-| Pauses |  |  |
-| Help requested |  |  |
-| Main confusion |  |  |
+| Completed without help? | | |
+| Wrong turns | | |
+| Pauses | | |
+| Help requested | | |
+| Main confusion | | |
 
-## 5. Before → Evidence → Change → Result
+## 6. Before → Evidence → Change → Result
 
-| Before | Evidence | Change | After-test result |
+| Before | Evidence | Change | Retest result |
 |---|---|---|---|
-|  |  |  | |
-|  |  |  | |
+| | | | |
+| | | | |
 
-## 6. Remaining Issue
+## 7. Did the Change Actually Help?
 
-One issue we would improve next:
+**What improved?**  
+
+**What did not improve or remains uncertain?**
+
+## 8. Remaining Issue
 
 > ________________________________________________
 
 ## Final Reflection
 
-> **The most important change was ___ because the first test showed ___; the second test showed ___.**
+> **The most important change was ______ because the first test showed ______; the retest showed ______.**
+
+## Figma Unit Test
+
+- [ ] Complete the **Figma Design Cycle Unit Test** after L11.
 
 ## Design → Build Gate
 
@@ -73,9 +92,8 @@ Ready for HTML/CSS only when:
 
 - [ ] Main task is clickable from start to success.
 - [ ] Peer completes the task without facilitator help.
-- [ ] No unresolved **MUST** usability blocker remains.
-- [ ] Core 3 has been checked again.
+- [ ] No unresolved MUST usability blocker remains.
 - [ ] At least two revisions trace directly to evaluation evidence.
-- [ ] Before/after change log is complete.
+- [ ] Before → evidence → change → result is complete.
 
 **Gate result:** READY FOR BUILD / REVISE FIRST

@@ -1,151 +1,118 @@
 # HCI + Figma L05–L11 — Teacher Quick Check
 
-Use this for fast lesson-by-lesson evidence review. It is a **completion/mastery check**, not a separate large rubric.
-
-## Fast rule
+Use this for fast lesson-by-lesson evidence review.
 
 ~~~text
 PASS = required artifact exists + reasoning is visible
-REVISE = file exists, but evidence does not support the conclusion
-MISSING = required artifact / link is absent
+REVISE = artifact exists, but reasoning/evidence is weak
+MISSING = required artifact/link is absent
 ~~~
 
-## L05 — Needfinding + Evidence Plan
+## L05 — Needfinding
 
-**Expected file:** `hci-research/l05-needfinding-evidence-plan.md`
+**Expected:** `hci-research/l05-needfinding-evidence-plan.md`
 
 PASS when:
 
-- [ ] target user + situation are clear;
+- [ ] problem is not written as a feature;
+- [ ] target user/context are clear;
 - [ ] known vs assumption is distinguished;
-- [ ] 3 unknowns have evidence methods;
-- [ ] team names evidence that could change its mind;
-- [ ] privacy/data boundary + consent are present.
+- [ ] unknowns have evidence methods;
+- [ ] evidence that could change the team's mind is named.
 
-**REVISE if:** the file starts from a feature (“users need our app”) and never identifies evidence that could disconfirm it.
+## L06 — Evidence + Bias
 
-## L06 — Interview + Observation + Bias Check
-
-**Expected file:** `hci-research/l06-interview-observation-bias-check.md`
+**Expected:** `hci-research/l06-interview-observation-bias-check.md`
 
 PASS when:
 
 - [ ] consent is recorded;
-- [ ] at least one usable quote exists;
-- [ ] at least one concrete observed action exists;
+- [ ] usable quote exists;
+- [ ] observed action exists;
 - [ ] interpretation is labeled separately;
-- [ ] bias check is completed;
-- [ ] proposed need refers back to evidence.
+- [ ] bias check is completed.
 
-**REVISE if:** observations are mostly mind-reading (“the user was confused because…”), or interview questions are leading.
+## L07 — Survey + Synthesis
 
-## L07 — Survey + Evidence Synthesis
-
-**Expected file:** `hci-research/l07-survey-evidence-synthesis.md`
+**Expected:** `hci-research/l07-survey-evidence-synthesis.md`
 
 PASS when:
 
-- [ ] 5 questions satisfy wording rules;
+- [ ] survey items pass the six quality checks;
 - [ ] sample limitation is explicit;
-- [ ] synthesis contains multiple evidence sources;
-- [ ] at least 2 needs are traceable to evidence;
-- [ ] uncertainty / contradiction is acknowledged;
-- [ ] Discover → Design Gate passes.
+- [ ] multiple evidence sources are synthesized;
+- [ ] 2+ needs trace to evidence;
+- [ ] uncertainty/contradiction is acknowledged.
 
-**REVISE if:** the team generalizes from friends/classmates to “all users,” or requirements are just feature wishes.
+## L08 — Brainstorming + Alternatives
 
-## L08 — Three Alternatives + User Flow
-
-**Expected file:** `figma-design/l08-three-alternatives-user-flow.md`
+**Expected:** `hci-research/l08-three-alternatives-user-flow.md`
 
 PASS when:
 
-- [ ] A/B/C differ in interaction structure;
+- [ ] 6+ ideas were generated before selection;
+- [ ] A/B/C differ structurally;
 - [ ] all address the same evidence-backed need;
 - [ ] comparison uses task/evidence criteria;
-- [ ] one direction is selected with rationale;
-- [ ] user flow reaches a clear success state.
+- [ ] selected user flow reaches a clear success state.
 
-**REVISE if:** alternatives are the same UI with different colors.
+**REVISE if:** alternatives are mainly the same interface with different styling.
 
-## L09 — Low-Fi Figma + Core 3
+## L09 — Prototype with Figma
 
-**Expected file:** `figma-design/l09-low-fi-figma-core3.md`
+**Expected:** `figma-design/l09-low-fi-figma-core3.md`
 
 PASS when:
 
 - [ ] working Figma URL is present;
+- [ ] prototype question is clear;
 - [ ] 3–5 screens cover the main task;
 - [ ] start + success states are visible;
-- [ ] Core 3 is completed with specific examples;
-- [ ] predicted usability risk is named.
+- [ ] Core 3 has specific examples.
 
-**REVISE if:** student spent effort on styling while the task flow is incomplete.
+## L10 — Evaluate
 
-## L10 — Evaluation + Revision Plan
-
-**Expected file:** `figma-design/l10-low-fi-evaluation-revision.md`
+**Expected:** `figma-design/l10-low-fi-evaluation-revision.md`
 
 PASS when:
 
-- [ ] Core-3 designer review exists;
+- [ ] design inspection exists;
 - [ ] tester receives a goal, not click directions;
 - [ ] no-coaching test was run;
-- [ ] notes contain actions / pauses / exact words;
-- [ ] Must / Should / Later revisions are evidence-linked;
-- [ ] every MUST has evidence.
+- [ ] notes contain actions/pauses/exact words;
+- [ ] Must/Should/Later revisions are evidence-linked.
 
-**REVISE if:** notes are opinions (“looks bad”) rather than observed behavior.
+## L11 — Iterate + Retest
 
-## L11 — High-Fi Retest + Change Log
-
-**Expected file:** `figma-design/l11-high-fi-retest-change-log.md`
+**Expected:** `figma-design/l11-high-fi-retest-change-log.md`
 
 PASS when:
 
-- [ ] current prototype URL is present;
-- [ ] main task is clickable start → success;
-- [ ] at least 2 revisions trace back to L10 evidence;
-- [ ] same task is retested;
+- [ ] prototype is clickable start → success;
+- [ ] 2+ revisions trace to L10 evidence;
+- [ ] same core task is retested;
 - [ ] before → evidence → change → result is documented;
-- [ ] no unresolved MUST blocker remains;
-- [ ] Design → Build Gate passes.
+- [ ] no unresolved MUST blocker remains.
 
-**REVISE if:** high-fi mainly adds visual polish but does not resolve the L10 task problems.
+## Phase boundaries
 
-## Two phase gates
-
-### Discover → Design
+### HCI → Figma
 
 Required:
 
-- quote;
-- observed action;
-- bias check;
-- sample limitation;
-- 2+ evidence-backed needs;
-- uncertainty acknowledged.
+- evidence-backed need;
+- bias/sample limitations acknowledged;
+- 6+ brainstorm ideas;
+- 3 distinct alternatives;
+- selected user flow;
+- uncertainty worth prototyping.
 
-### Design → Build
+### Figma → Build
 
 Required:
 
 - task works start → success;
 - peer succeeds without facilitator help;
 - no MUST blocker;
-- Core 3 checked;
 - 2+ evidence-driven revisions;
-- change log complete.
-
-## Teacher shorthand
-
-| Code | Meaning |
-|---|---|
-| **P** | Pass |
-| **R-E** | Revise evidence / conclusion link |
-| **R-B** | Revise bias / sample reasoning |
-| **R-F** | Revise flow |
-| **R-U** | Revise usability testing |
-| **M** | Missing artifact |
-
-The goal is quick, consistent feedback without turning each lesson into a long grading event.
+- retest/change log complete.

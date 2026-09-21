@@ -1,117 +1,171 @@
 # Lesson 10 — Evaluate the Figma Prototype
 
 **Length:** 45 minutes  
-**Figma stage:** Evaluate  
-**OMSCS CS6750 theory:** **3.6 Evaluation** + selected Unit 2 design principles  
-**Mission:** Evaluate the prototype with a design inspection and a real usability task, then convert observed evidence into prioritized design problems.  
+**Design stage:** Evaluate  
+**OMSCS CS6750 backbone:** **3.6 Evaluation** + selected **Unit 2 Design Principles / Heuristics**  
+**Mission:** Evaluate the prototype through a design inspection and a no-coaching usability task, then turn observed evidence into prioritized revisions.  
 **Durable Evidence:** [L10 submission template](student-templates/l10-low-fi-evaluation-revision.md)
 
 ### Skill Warm-up video
 
 | Field | Assign this |
 |---|---|
-| Theory | OMSCS CS6750 **3.6 Evaluation** — selected evaluation / usability-testing excerpt |
-| Optional theory | selected OMSCS Unit 2 principles/heuristics excerpt |
+| Theory | OMSCS CS6750 **3.6 Evaluation** — selected usability/evaluation excerpt |
+| Optional support | OMSCS Unit 2 selected principles/heuristics excerpt |
 | Stop | **≤ 5:00** |
 
 ## 0–5 min — Skill Warm-up
 
 After the OMSCS excerpt, answer:
 
-1. Are we testing the user or the design?
-2. Why should the facilitator avoid coaching?
-3. What counts as useful evaluation evidence?
+1. Are we evaluating the **user** or the **design**?
+2. Why should a facilitator avoid coaching?
+3. What evidence should an observer record?
+
+Core sentence:
+
+> **A usability test finds problems in the design, not problems in the person.**
 
 ## 5–9 min — Talk Robin 1
 
-Write one goal-based task.
+Write one **goal-based task** for your prototype.
 
 Bad:
 
-> “Click Add, choose Science, and press Save.”
+> Click the + button, choose Science, type the homework, and press Save.
 
 Better:
 
-> “Add tomorrow’s science homework and make sure you can find it again.”
+> Add tomorrow's science homework and make sure it has been saved.
 
-Partner checks that the task does not reveal where to click.
+Partner check:
+
+- Does the task describe the **goal**?
+- Does it avoid revealing where to click?
+- Can success be observed?
 
 ## 9–14 min — Entry Check
 
-Classify each line as **evidence**, **taste**, or **assumption**:
+Classify each statement as:
 
-- “Tester tapped the wrong icon twice.”
-- “The page looks boring.”
-- “Tester asked, ‘Where do I save?’”
-- “Users will obviously understand this.”
+- **E = Evidence**
+- **T = Taste**
+- **A = Assumption**
+
+1. “The tester tapped the wrong icon twice.”
+2. “The page looks boring.”
+3. “The tester said, ‘Where do I save?’”
+4. “Students will obviously understand this.”
+
+Then answer:
+
+> Why is “I like it” weaker evidence than successful task completion?
 
 ## 14–19 min — Core Pattern
 
+Evaluation has **two passes**.
+
 ### Pass 1 — Design inspection
+
+Use the course Core 3:
 
 | Principle | Check |
 |---|---|
-| **Affordance / signifier** | Can the user tell what is actionable? |
-| **Mapping** | Is action → result understandable? |
-| **Constraints** | Are mistakes prevented or recoverable? |
+| **Affordance / signifier** | Is it obvious what can be clicked / changed? |
+| **Mapping** | Is the result of an action predictable? |
+| **Constraints** | Are likely mistakes prevented or recoverable? |
 
-### Pass 2 — Usability task
+Also flag severe readability/accessibility problems.
+
+### Pass 2 — Usability test
 
 ~~~text
-Give goal
+Give one goal
 → do not coach
 → observe
-→ record actions / pauses / words
-→ short follow-up
+→ record actions / pauses / exact words
+→ ask one short follow-up
+→ diagnose the design problem
 ~~~
 
-Measure the interface, not the tester's intelligence.
+### Do not record mind-reading
+
+Good evidence:
+
+> Tester paused for 8 seconds, opened the wrong screen, returned, and asked “Where is the assignment?”
+
+Weak note:
+
+> Tester was confused.
 
 ## 19–30 min — Guided Practice
 
 Roles:
 
-- facilitator;
-- tester from another team;
-- note-taker.
+- **Facilitator**
+- **Tester from another team**
+- **Observer / note-taker**
+
+Run one core task.
 
 Record:
 
-- task success;
+- completed without help? yes / no;
 - wrong turns;
 - pauses;
 - help requested;
-- exact confusion words;
+- exact words;
 - unexpected behavior.
 
-Do not redesign during the test.
+Rules:
+
+- do not explain the interface;
+- do not point;
+- do not rescue the tester immediately;
+- do not redesign during the test.
+
+After the task, ask one short follow-up:
+
+> **“What were you expecting to happen there?”**
 
 ## 30–40 min — Independent Rebuild
 
-Turn evidence into:
+Turn the evidence into a revision plan.
 
 ### MUST
-Blocks the main task.
+
+Blocks the main task or creates serious failure.
 
 ### SHOULD
-Creates confusion or unnecessary effort.
+
+Creates confusion, unnecessary effort, or repeated hesitation.
 
 ### LATER
-Polish / low-impact improvement.
 
-Every MUST/SHOULD must cite:
+Low-impact polish or enhancement.
 
-- a design-principle problem, or
-- an observed test event.
+For every MUST/SHOULD item, complete:
+
+> **Evidence:** ______
+
+> **Design problem:** ______
+
+> **Planned change:** ______
+
+Do not write:
+
+> “Make it prettier.”
+
+unless evaluation evidence actually shows a visual/readability problem.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
 Submit:
 
 - Core-3 inspection;
-- task script;
-- usability notes;
-- Must / Should / Later list.
+- goal-based task;
+- usability evidence;
+- Must / Should / Later revision list.
 
 Exit statement:
 
@@ -119,4 +173,22 @@ Exit statement:
 
 ## Success Evidence
 
-Students can run a no-coaching usability test, record behavioral evidence, and prioritize revisions based on evidence rather than taste.
+Students can:
+
+- distinguish inspection from user testing;
+- write a goal-based usability task;
+- facilitate without coaching;
+- record observable behavior;
+- distinguish evidence from taste/assumption;
+- derive revisions from evidence.
+
+## L10 Mastery Gate
+
+Before iteration:
+
+- [ ] Core-3 inspection is complete.
+- [ ] Goal-based task was used.
+- [ ] Tester was not coached.
+- [ ] Notes contain actions, pauses, errors, or exact words.
+- [ ] Prototype question from L09 is answered or still explicitly unresolved.
+- [ ] Every MUST/SHOULD revision is tied to evidence.

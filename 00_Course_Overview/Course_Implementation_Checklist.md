@@ -15,8 +15,8 @@
 
 - [ ] `00-course-orientation` — CS definition + computational thinking + software lifecycle
 - [ ] `01-github-foundations` — YouTube + GitHub Docs/Skills: repo, README, commits, history
-- [ ] `02-hci-user-research` — needfinding → ask/observe → bias check → survey/sample check → evidence synthesis → micro-requirements → unit test
-- [ ] `03-figma-product-design` — 3 fast alternatives → one low-fi Figma wireframe → Core-3 + usability evaluation → revised high-fi prototype
+- [ ] `02-hci-user-research` — needfinding → ask/observe → bias check → survey/sample check → evidence synthesis → brainstorming/design alternatives
+- [ ] `03-figma-product-design` — prototype in Figma → Core-3 + usability evaluation → evidence-driven iteration + retest
 - [ ] `04-html-css-implementation` — semantic/responsive implementation
 - [ ] `05-javascript-interaction` — JavaScript + computational thinking
 - [ ] `06-ai-literacy` — four concentrated Mitchell lessons
@@ -45,7 +45,8 @@
 ## HCI + Figma
 
 - [ ] OMSCS CS6750 available as teacher/conceptual backbone ([mapping](../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md))
-- [ ] Meta `Principles of UX/UI Design` selected Module 2–4 clips ready as the primary student-facing Figma/evaluation input
+- [ ] OMSCS CS6750 selected **3.3–3.7** excerpts are ready as the HCI/design theory input
+- [ ] Figma tool operations are taught just in time through short teacher demos/practice rather than a separate theory track
 - [ ] participant/research ethics rules appropriate to school context are clear (G7 light consent) and the Bias Check card is ready
 - [ ] Figma access confirmed
 - [ ] students have a place to store anonymized research evidence

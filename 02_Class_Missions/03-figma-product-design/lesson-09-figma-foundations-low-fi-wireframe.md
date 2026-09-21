@@ -1,119 +1,169 @@
 # Lesson 09 — Prototype with Figma: Make the Idea Testable
 
 **Length:** 45 minutes  
-**Figma stage:** Prototype  
-**OMSCS CS6750 theory:** **3.5 Prototyping**  
+**Design stage:** Prototype  
+**OMSCS CS6750 backbone:** **3.5 Prototyping**  
 **Tool:** Figma  
-**Mission:** Turn the selected L08 direction into the cheapest prototype that can answer an important design question.  
+**Mission:** Turn the selected L08 design direction into the lowest-fidelity prototype that can answer one important design question.  
 **Durable Evidence:** [L09 submission template](student-templates/l09-low-fi-figma-core3.md)
 
 ### Skill Warm-up video
 
 | Field | Assign this |
 |---|---|
-| Theory | OMSCS CS6750 **3.5 Prototyping** — selected purpose / fidelity excerpt |
+| Theory | OMSCS CS6750 **3.5 Prototyping** — selected excerpt on purpose, fidelity, and prototyping strategy |
 | Stop | **≤ 5:00** |
 
-Figma operations are learned through teacher demonstration and immediate practice, not a separate theory video.
+Figma is not the theory source. Students learn Figma controls only when the current prototype requires them.
 
 ## 0–5 min — Skill Warm-up
 
 After the OMSCS excerpt, answer:
 
-1. What is a prototype for?
-2. Why not build the final product first?
-3. When is low fidelity useful?
+1. Why do we build a prototype instead of the final product?
+2. What does **fidelity** mean?
+3. Why can a lower-fidelity prototype sometimes be better?
 
-Core idea:
+Core sentence:
 
 > **A prototype exists to answer a question, not to look finished.**
 
 ## 5–9 min — Talk Robin 1
 
-Open the L08 user flow.
+Open the selected direction from L08.
 
 Complete:
 
-> **The main thing we need to learn from this prototype is whether the user can ______.**
+> **We are building this prototype to test whether the user can ____________________.**
 
-Partner checks whether that question is testable.
+Partner check:
+
+- Is the question about the **user completing a task**?
+- Can this prototype realistically answer it?
+- Is it narrow enough to test today?
+
+Examples:
+
+Good:
+
+> Can the user find today's homework and add a new assignment without help?
+
+Too broad:
+
+> Is our app good?
+
+Too visual:
+
+> Do users like our colors?
 
 ## 9–14 min — Entry Check
 
-Choose the lowest fidelity needed for each goal:
+For each goal, choose the lowest useful prototype fidelity:
 
-- compare two navigation structures;
-- test whether a button label is understood;
-- demonstrate a finished visual brand;
-- test a main task flow.
+1. Test whether the order of three steps makes sense.
+2. Test whether a navigation label is understood.
+3. Test whether a visual brand feels professional.
+4. Test whether the main task can be completed.
 
-Then identify:
+Then identify from your project:
 
-- start state;
-- success state;
-- main uncertainty.
+- **Start state:** ______
+- **Success state:** ______
+- **Main uncertainty:** ______
 
 ## 14–19 min — Core Pattern
 
 ~~~text
 selected direction
 → prototype question
-→ lowest useful fidelity
-→ build only the main path
-→ test
+→ choose the lowest useful fidelity
+→ build only enough to test the main task
+→ evaluate
 ~~~
 
-Teacher demonstrates only the Figma controls needed now:
+### Prototype rule
+
+> **Do not build more than the test requires.**
+
+### Minimum Figma skills for today
+
+Teacher demonstrates one short design-along:
 
 ~~~text
 Frame
 → Text
 → Shape
-→ Align / space
+→ Align / Space
 → Duplicate
 → Prototype connection
 → Preview
 ~~~
 
-No design-system or animation lesson.
+That is enough for today's task.
+
+Do **not** teach yet:
+
+- design systems;
+- complex components;
+- animation;
+- advanced Auto Layout;
+- visual branding.
+
+Those are added only if a later design problem creates the need.
 
 ## 19–30 min — Guided Practice
 
-Build a **3–5 screen low-fi Figma prototype**.
+Students convert the L08 user flow into a **3–5 screen/state low-fi prototype**.
 
 Required:
 
-- start state;
-- main task path;
-- success state;
+- one clear start state;
+- one complete main task;
+- one success state;
 - clear primary actions;
-- enough clickability to test the task.
+- simple labels;
+- enough clickability to test the main path.
 
-Before testing, run the Core 3:
+### Core 3 pre-test check
 
-1. **Affordance / signifier**
-2. **Mapping**
-3. **Constraints**
+Before testing, inspect:
+
+| Principle | Student question |
+|---|---|
+| **Affordance / signifier** | Can I tell what I can do? |
+| **Mapping** | Can I predict what will happen after an action? |
+| **Constraints** | Does the design reduce or recover from obvious mistakes? |
+
+Fix obvious problems before asking another person to test.
 
 ## 30–40 min — Independent Rebuild
 
-Without step-by-step teacher help, complete or rebuild one screen/interaction.
+Without teacher step-by-step directions, each student completes or rebuilds one missing screen or interaction.
 
-Then write:
+Then complete:
 
-> **This prototype can test ______.**
+> **This prototype CAN test:** ______________________________
 
-> **This prototype cannot yet tell us ______.**
+> **This prototype CANNOT yet tell us:** _____________________
+
+Then write one prediction:
+
+> **I predict a user may get stuck at ______ because ______.**
+
+Important:
+
+> A prediction is not evidence yet.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
 Submit:
 
-- Figma link;
-- 3–5 screens;
+- Figma prototype URL;
+- 3–5 screens/states;
 - prototype question;
 - Core-3 check;
-- biggest predicted usability risk.
+- prototype boundary;
+- predicted usability risk.
 
 Exit statement:
 
@@ -121,4 +171,21 @@ Exit statement:
 
 ## Success Evidence
 
-Students understand prototype purpose and fidelity, can build the main task in Figma, and can explain what the prototype can and cannot test.
+Students can:
+
+- explain why prototypes exist;
+- choose a reasonable fidelity;
+- build a complete main task in Figma;
+- distinguish prototype purpose from visual polish;
+- state what the prototype can and cannot test.
+
+## L09 Mastery Gate
+
+Before evaluation:
+
+- [ ] Prototype question is explicit.
+- [ ] Main task is complete from start → success.
+- [ ] 3–5 screens/states are sufficient for the task.
+- [ ] Primary actions are understandable.
+- [ ] Core 3 has been checked.
+- [ ] Student can explain what the prototype cannot yet prove.

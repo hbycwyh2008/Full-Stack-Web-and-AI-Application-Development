@@ -4,7 +4,7 @@
 **HCI stage:** Brainstorm / Design Alternatives  
 **OMSCS CS6750 backbone:** **3.4 Design Alternatives**  
 **Mission:** Generate many possible solutions to one evidence-backed need, avoid fixation on the first idea, and select distinct directions worth prototyping.  
-**Durable Evidence:** [L08 submission template](student-templates/l08-three-alternatives-user-flow.md)
+**Durable Evidence:** `l08-three-alternatives-user-flow.md`
 
 ### Skill Warm-up video
 
@@ -20,7 +20,7 @@ Bring one evidence-backed need from L07.
 After the OMSCS excerpt, answer:
 
 1. Why generate alternatives instead of building the first idea?
-2. What is design fixation?
+2. What is **design fixation**?
 3. Why should idea generation and idea evaluation be separated?
 
 ## 5–9 min — Talk Robin 1
@@ -41,10 +41,13 @@ Decide which pairs are **genuinely different alternatives**.
 
 Examples:
 
-- list vs calendar;
-- dashboard vs guided wizard;
-- search-first vs browse-first;
-- blue dashboard vs green dashboard.
+> list vs calendar
+
+> dashboard vs guided wizard
+
+> search-first vs browse-first
+
+> blue dashboard vs green dashboard
 
 Rule:
 
@@ -62,13 +65,13 @@ Rule:
 
 Then converge:
 
-~~~text
+```text
 evidence-backed need
 → many ideas
 → 3 distinct directions
 → compare
 → choose one direction to prototype
-~~~
+```
 
 Selection criteria:
 
@@ -80,6 +83,8 @@ Selection criteria:
 ## 19–30 min — Guided Practice
 
 Individually generate **at least 6 rapid ideas**.
+
+Do not polish them.
 
 Then group related ideas and select **3 structurally different alternatives**.
 
@@ -105,15 +110,18 @@ Choose one direction or deliberate hybrid.
 
 Draw the primary user flow:
 
-~~~text
+```text
 Start
 → Action
 → State
 → Action
 → Success
-~~~
+```
 
-Add one likely wrong turn and recovery.
+Add:
+
+- one likely wrong turn;
+- one recovery.
 
 ## 40–45 min — Talk Robin 2 + Evidence
 
@@ -143,6 +151,15 @@ The test checks transfer across the full HCI block:
 ## HCI → Figma handoff
 
 L08 ends the HCI/ideation block.
+
+Students should now have:
+
+- an evidence-backed need;
+- multiple brainstormed ideas;
+- three structurally different alternatives;
+- one selected direction;
+- one user flow;
+- one important uncertainty worth testing.
 
 The next unit begins with:
 

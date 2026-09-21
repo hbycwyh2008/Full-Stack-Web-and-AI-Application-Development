@@ -1,147 +1,89 @@
-# 03 — UX/UI + Figma Product Design (Design & Evaluate)
+# 03 — Figma: Prototype → Evaluate → Iterate
 
-This unit continues directly from HCI needfinding. Students do **not** learn Figma as an isolated drawing tool. They use it to turn evidence-backed user needs into a testable interface, evaluate that interface, and improve it.
+This unit begins **after** needfinding, evidence synthesis, and brainstorming are complete.
 
-**Teacher knowledge backbone:** Georgia Tech OMSCS CS6750  
-**Primary student-facing course:** Meta — [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)  
-**Optional visual-design practice:** Scrimba — [Intro to UI Design Fundamentals](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
+Students do not use Figma to decide what the user needs. They use Figma to make one selected idea **testable**, evaluate it, and improve it from evidence.
+
+**Theory backbone:** Georgia Tech OMSCS CS6750  
+**Tool:** Figma  
+**Lessons:** **09–11**
 
 Canonical CS6750 map: [../02-hci-user-research/omscs-cs6750-mapping.md](../02-hci-user-research/omscs-cs6750-mapping.md)  
 Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)  
-Exact Meta clip map: [meta-ux-ui-video-map.md](meta-ux-ui-video-map.md)  
 Student submission templates: [student-templates/](student-templates/README.md)  
 Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)
 
-## Design loop
+## Unit flow
 
 ~~~text
-Evidence-backed need
-  → 3 different paper alternatives
-  → choose one direction + user flow
-  → build one low-fi Figma wireframe
-  → Core-3 design review
-  → usability task test
-  → revise
-  → build high-fi interactive prototype
-  → test again
-  → change log
+selected brainstormed direction
+→ Prototype in Figma
+→ Evaluate
+→ Iterate in Figma
+→ Retest
+→ hand off to HTML/CSS
 ~~~
-
-### Important change from the old version
-
-Students no longer build **three full Figma prototypes**.
-
-They still generate **three genuinely different alternatives**, but these stay fast and cheap in Lesson 08. Only the selected direction moves into Figma. This preserves design-alternative thinking without wasting beginner time polishing three interfaces.
-
-## Course Core 3 design principles
-
-CS6750 covers a much larger set of principles and heuristics. For this G7 unit, students repeatedly apply only three core design checks:
-
-| Core principle | Student question |
-|---|---|
-| **Affordance / signifier** | Can I tell **what I can do**? |
-| **Mapping** | Can I predict **what will happen** when I do it? |
-| **Constraints** | Does the interface prevent or reduce **invalid / mistaken actions**? |
-
-These are the **course Core 3**, not a claim that CS6750 contains only three principles.
-
-Other ideas — feedback/status, consistency, accessibility, hierarchy, typography, contrast — are still used where needed, but they are not added as another memorization list.
 
 ## Lessons
 
-| Lesson | Student-facing input | Main work | Durable evidence |
+| Lesson | OMSCS theory | Figma role | Durable evidence |
 |---|---|---|---|
-| [08 — Brainstorm Alternatives](lesson-08-brainstorm-alternatives.md) | CS6750 3.4 selected excerpt / teacher modeling | 3 paper alternatives + one user flow | [L08 template](student-templates/l08-three-alternatives-user-flow.md) |
-| [09 — Figma Foundations + Low-Fi Wireframe](lesson-09-figma-foundations-low-fi-wireframe.md) | Meta Module 3 required clip | Learn Figma by building the chosen flow | [L09 template](student-templates/l09-low-fi-figma-core3.md) |
-| [10 — Evaluate Low-Fi + Revise](lesson-10-evaluate-low-fi-revise.md) | Meta usability-testing clip | Core-3 review + real task test | [L10 template](student-templates/l10-low-fi-evaluation-revision.md) |
-| [11 — High-Fi Interactive Prototype + Test Again](lesson-11-high-fi-interactive-prototype-retest.md) | Meta Module 4 required clip | Interaction + revision + second test | [L11 template](student-templates/l11-high-fi-retest-change-log.md) |
+| [L09 — Prototype with Figma](lesson-09-figma-foundations-low-fi-wireframe.md) | **3.5 Prototyping** | build the lowest useful fidelity for the main task | [L09 template](student-templates/l09-low-fi-figma-core3.md) |
+| [L10 — Evaluate the Prototype](lesson-10-evaluate-low-fi-revise.md) | **3.6 Evaluation** + selected Unit 2 principles | run inspection + no-coaching usability test | [L10 template](student-templates/l10-low-fi-evaluation-revision.md) |
+| [L11 — Iterate + Retest](lesson-11-high-fi-interactive-prototype-retest.md) | **3.7 HCI and Agile Development** | revise from evidence, raise fidelity where useful, retest | [L11 template](student-templates/l11-high-fi-retest-change-log.md) |
 
-## Resource roles
+## Resource rule
 
-### Meta = main student video spine
+### OMSCS CS6750 = theory
 
-Use selected short videos, not the full course.
+Use selected short excerpts for:
 
-- **Module 2 — Evaluating Interactive Design:** optional support for designer review
-- **Module 3 — Applied Design Fundamentals:** required L09 **Frames, layers and basic shapes** + required L10 **Usability testing**
-- **Module 4 — Designing your UI:** required L11 **Moving from design to prototyping**
+- why prototypes exist;
+- fidelity;
+- evaluation;
+- design principles;
+- iterative development.
 
-One required video per class. Extra Meta clips are support, not automatic assignments.
+### Figma = tool practice
 
-### CS6750 = teacher / conceptual backbone
-
-Use it to preserve the deeper design life cycle:
-
-~~~text
-Needfinding → Alternatives → Prototyping → Evaluation → Iterate
-~~~
-
-Students do not need graduate-level depth.
-
-### Scrimba = optional visual craft
-
-After students can already build in Figma, selected Scrimba UI Design Fundamentals clips may reinforce:
-
-- whitespace;
-- alignment;
-- contrast;
-- scale;
-- typography;
-- visual hierarchy.
-
-Scrimba is **not** the Figma or UX-research backbone.
-
-## Classroom pattern
+Teach only the operation needed at the moment:
 
 ~~~text
-Short video input
-→ teacher model
-→ guided design-along
-→ independent rebuild / transfer
-→ evidence
+Frame / text / shape
+→ alignment / spacing
+→ prototype connection
+→ preview
+→ later: Auto Layout / components / states only when needed
 ~~~
 
-The student should always produce something after the video.
+Do not turn the unit into a survey of Figma features.
 
-## Evaluation has two passes
+### No separate Meta theory track
 
-### 1. Designer review
+Meta *Principles of UX/UI Design* is no longer the student theory backbone for this unit.
 
-Use the **Core 3**:
+## Course Core 3
 
-- Affordance / signifier
-- Mapping
-- Constraints
+Use three recurring design checks:
 
-### 2. User task test
+| Principle | Student question |
+|---|---|
+| **Affordance / signifier** | Can I tell what I can do? |
+| **Mapping** | Can I predict what will happen? |
+| **Constraints** | Does the design prevent or reduce mistakes? |
 
-Give a user a task without telling them where to click.
+These are a compact classroom lens, not the full set of CS6750 principles.
 
-Record:
+## Design → Build gate
 
-- task completed? yes / no;
-- pauses / wrong turns;
-- help requested;
-- exact confusion words;
-- what must change.
+Before HTML/CSS implementation:
 
-## Design → Build mastery gate
+- [ ] main task is clickable from start to success;
+- [ ] a peer completes it without facilitator help;
+- [ ] no unresolved MUST blocker remains;
+- [ ] at least two revisions trace to evaluation evidence;
+- [ ] before → evidence → change → result is documented.
 
-Before Lesson 12 implementation, the prototype must satisfy all of these:
+A polished screen is not the goal.
 
-- [ ] one evidence-backed main task is represented from start to success;
-- [ ] a peer completes that task without facilitator help;
-- [ ] no unresolved **MUST** usability blocker remains;
-- [ ] the Core 3 is checked on the revised design;
-- [ ] at least two revisions are traceable to evaluation evidence;
-- [ ] the before/after change log is complete.
-
-If the gate fails, revise the prototype before coding.
-
-## Standard
-
-A pretty screen is not evidence of a usable interface.
-
-By the end of this block, students must be able to answer:
-
-> **What user need does this interface address, what evidence changed the design, and can another person complete the main task?**
+> **Prototype → Evaluate → Iterate until the main task works well enough to build.**

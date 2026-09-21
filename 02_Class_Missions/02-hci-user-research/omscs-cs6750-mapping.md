@@ -1,132 +1,103 @@
-# OMSCS CS6750 → G7 HCI / Figma Mapping
+# OMSCS CS6750 → Course HCI / Figma Mapping
 
-**Authority / teacher backbone:** Georgia Tech OMS CS6750 — https://omscs6750.gatech.edu/  
-**G7 constraint:** 45-minute lessons; preserve the design life cycle without importing graduate-level depth.  
-**Student-facing UI/Figma resource:** Meta *Principles of UX/UI Design* — selected short clips only.
+**Theory authority:** Georgia Tech OMSCS CS6750  
+**Course constraint:** 45-minute lessons; preserve the HCI process without importing graduate-level depth.
 
-## Design-life-cycle spine
+## Course spine
 
 ~~~text
+HCI
 Needfinding
-→ Design Alternatives
-→ Prototyping
-→ Evaluation
+→ Evidence + Bias Check
+→ Synthesize Needs
+→ Brainstorm / Design Alternatives
+
+FIGMA
+Prototype
+→ Evaluate
 → Iterate
 ~~~
 
-The G7 curriculum keeps this spine but adds two explicit quality-control ideas:
+The curricular boundary is:
 
-1. **Research evidence must pass a bias check.**
-2. **Interface designs repeatedly use a small Core-3 principle set.**
+> **L05–L08 = HCI / ideation**
+>
+> **L09–L11 = Figma prototyping / evaluation / iteration**
 
----
+## CS6750 methods retained
 
-## CS6750 concepts retained
-
-### Unit 2 — Principles
-
-The full CS6750 course contains many principles and heuristics. G7 students are **not** expected to memorize the complete set.
-
-Course Core 3:
-
-| G7 core principle | Student question |
+| CS6750 | Course use |
 |---|---|
-| **Affordance / signifier** | Can I tell what I can do? |
-| **Mapping** | Can I predict what will happen? |
-| **Constraints** | Does the design reduce invalid / mistaken actions? |
+| **3.1 Methods** | why HCI uses evidence |
+| **3.2 Ethics and Human Research** | consent + minimal/private-data boundary |
+| **3.3 Needfinding and Requirements Gathering** | L05–L07 |
+| **3.4 Design Alternatives** | L08 Brainstorming |
+| **3.5 Prototyping** | L09 |
+| **3.6 Evaluation** | L10 |
+| **3.7 HCI and Agile Development** | L11 iteration loop |
 
-Other CS6750 lenses still appear when useful: feedback cycles, direct manipulation, human abilities, mental models, task analysis, consistency, perceptibility, accessibility, and evaluation heuristics.
+## Lesson map
 
-### Unit 3 — Methods
+| Lesson | Stage | Theory input | Main output |
+|---|---|---|---|
+| **L05** | Needfinding | CS6750 3.3 | needfinding/evidence plan |
+| **L06** | Collect evidence | CS6750 3.3 interview/observation | quote/action notes + bias check |
+| **L07** | Synthesize need | CS6750 3.3 survey/requirements | survey + sample check + evidence-backed needs |
+| **L08** | Brainstorm | CS6750 3.4 | 6+ ideas → 3 alternatives → selected user flow |
+| **L09** | Prototype | CS6750 3.5 | low-fi Figma prototype |
+| **L10** | Evaluate | CS6750 3.6 + selected Unit 2 principles | usability evidence + revision priorities |
+| **L11** | Iterate | CS6750 3.7 + 3.5–3.6 loop | revised prototype + retest evidence |
 
-| CS6750 | G7 use |
-|---|---|
-| **3.1 Methods** | Why evidence is needed before design |
-| **3.2 Ethics and Human Research** | light consent + no unnecessary private data |
-| **3.3 Needfinding and Requirements Gathering** | Lessons 05–07 |
-| **3.4 Design Alternatives** | Lesson 08 |
-| **3.5 Prototyping** | Lessons 09 + 11 |
-| **3.6 Evaluation** | Lessons 10 + 11 |
-| **3.7 HCI and Agile Development** | short evaluate → revise cycles |
-| **3.8 Conclusion to Methods** | teacher wrap-up only |
+## Research quality checks
 
----
-
-## Redesigned lesson map
-
-| Lesson | Main method | Quality-control lens | Student-facing input | Durable evidence |
-|---|---|---|---|---|
-| **L05** Initial Needfinding | frame known / unknown + evidence plan | **confirmation bias** | CS6750 3.3 or Meta UX-process clip | Needfinding sheet + evidence that could change our mind |
-| **L06** Ask + Observe | interview + observation | leading · social desirability · recall · observer bias | CS6750 3.3 selected excerpt | quote/action notes + bias check |
-| **L07** Survey + Synthesis | survey + evidence → need | sampling / voluntary-response bias · overgeneralization | CS6750 3.3 + printable examples | survey + sample check + evidence synthesis + 2–3 needs |
-| **L08** Design Alternatives | generate + compare alternatives | mental-model / task fit | CS6750 3.4 | 3 paper alternatives + selected user flow |
-| **L09** Figma Low-Fi | prototype one selected direction | **Core 3 introduced** | Meta Module 3 | 3–5 screen low-fi Figma wireframe |
-| **L10** Evaluate Low-Fi | design review + usability test | **Core 3 + observed task evidence** | Meta Module 2 + Module 3 usability testing | eval sheet + Must/Should/Later revisions |
-| **L11** High-Fi + Retest | interactive prototype + iteration | Core 3 + feedback cycle | Meta Module 4 | clickable prototype + second test + change log |
-
----
-
-## Research bias scope
-
-Students do not memorize a taxonomy for its own sake. They repeatedly ask:
+Students repeatedly ask:
 
 1. Am I only looking for evidence that supports my idea?
-2. Did my wording push the user?
+2. Did my wording push the participant?
 3. Am I relying on vague memory?
-4. Did I record behavior or my interpretation?
+4. Did I record behavior or interpretation?
 5. Who did I ask, and who might be missing?
 
-That is sufficient for the early G7 needfinding cycle.
+## Survey question standard
 
----
+Use CS6750:
 
-## Figma / evaluation resource rule
+> **Clear · Concise · Specific · Expressive · Unbiased · Usable**
 
-### Meta — primary student-facing resource for Lessons 09–11
+## Brainstorming standard
 
-Use selected short clips from:
+Students must:
 
-- **Module 2 — Evaluating Interactive Design**
-- **Module 3 — Applied Design Fundamentals**
-- **Module 4 — Designing your UI**
+- diverge before converging;
+- generate multiple ideas before evaluation;
+- avoid fixation on the first idea;
+- produce structurally different alternatives;
+- select based on need/task evidence, not appearance.
 
-Do not assign the full course as a prerequisite.
+## Figma resource rule
 
-### CS6750 — teacher / conceptual backbone
+Figma is the prototyping tool, not the theory source.
 
-Use CS6750 to preserve method logic and deepen teacher understanding. L08 still benefits directly from the CS6750 Design Alternatives material.
+Teacher demonstration is **just in time**:
 
-### Scrimba — optional visual-design reinforcement
-
-Use selected UI Design Fundamentals material only after students can already build a Figma wireframe:
-
-- whitespace;
-- alignment;
-- contrast;
-- scale;
-- typography;
-- visual hierarchy.
-
-It does not replace needfinding, Figma instruction, or evaluation.
-
----
+- frames/text/shapes;
+- alignment/spacing;
+- prototype links;
+- later Auto Layout/components/states only if the current design requires them.
 
 ## Deferred
 
-| Topic | Where it belongs |
-|---|---|
-| Full requirements / backlog | Capstone |
-| Formal experiments / statistics | later testing / advanced work |
-| Complete heuristic taxonomy | enrichment / later HCI |
-| Advanced Figma variables / complex design systems | optional extension |
-| Advanced animation | optional extension |
+- full requirements/backlog → Capstone;
+- formal experiments/statistics → later/advanced work;
+- complete heuristic taxonomy → enrichment;
+- advanced Figma design systems/variables → optional;
+- advanced animation → optional.
 
-## Course principle
+## Compact course principle
 
 ~~~text
 Research quality = evidence + bias check
-Design quality = Core 3 + task fit
-Product quality = user test + revision
+Brainstorm quality = diversity + task fit
+Prototype quality = testability
+Design quality = evaluation + iteration
 ~~~
-
-The objective is not to make G7 students miniature UX professionals. It is to make the full design cycle understandable and repeatable.

@@ -11,7 +11,9 @@ Students do not use Figma to decide what the user needs. They use Figma to make 
 Canonical CS6750 map: [../02-hci-user-research/omscs-cs6750-mapping.md](../02-hci-user-research/omscs-cs6750-mapping.md)  
 Design/evaluation card: [design-evaluation-checklist.md](design-evaluation-checklist.md)  
 Student submission templates: [student-templates/](student-templates/README.md)  
-Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)
+Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L11_Quick_Check.md)  
+End-of-unit test: [Figma Design Cycle Unit Test](../../04_Assessment/Figma_Design_Cycle_Unit_Test.md)  
+Teacher key: [Figma Design Cycle Unit Test Teacher Key](../../04_Assessment/Figma_Design_Cycle_Unit_Test_Teacher_Key.md)
 
 ## Unit flow
 
@@ -73,6 +75,20 @@ Use three recurring design checks:
 | **Constraints** | Does the design prevent or reduce mistakes? |
 
 These are a compact classroom lens, not the full set of CS6750 principles.
+
+## End-of-unit assessment
+
+After L11, students complete the **Figma Design Cycle Unit Test**.
+
+The test checks:
+
+- prototype purpose and fidelity;
+- Core 3 diagnosis;
+- no-coaching usability testing;
+- evidence vs taste/assumption;
+- evidence-driven revision;
+- retesting;
+- one small practical Figma interaction.
 
 ## Design → Build gate
 

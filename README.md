@@ -101,3 +101,7 @@ Official AP CSP course page: https://apcentral.collegeboard.org/courses/ap-compu
 ## License
 
 Educational materials are copyright © 2026 Wang Morgan. All Rights Reserved. Source code remains subject to the repository's MIT licensing terms where specified. See `LICENSE.md` and `LICENSE_SUMMARY.md`.
+
+## Ordinary-Class AI-Assisted Development
+
+[Four-session build/testing bridge](02_Class_Missions/10-ai-assisted-build-testing/README.md): reuse the Figma project, build small features with AI assistance, execute manual tests, fix and retest defects, then demonstrate individual transfer before release.

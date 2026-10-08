@@ -96,3 +96,7 @@ AI implementation is optional. Students do **not** need to force a Mitchell read
 - [Course priorities](shared/course-priorities.md)
 - [Classroom flow](shared/classroom-flow.md)
 - [Lesson template](shared/lesson-template.md)
+
+## Ordinary-Class AI-Assisted Build Bridge
+
+[AI-Assisted Build + Testing](10-ai-assisted-build-testing/README.md) adds four supplementary sessions after the L11 design gate and alongside implementation/testing. It includes selected Replit viewing, a student workbook, manual testing, debugging/regression, and separate process/programming transfer checks. The canonical 00–32 sequence remains unchanged.

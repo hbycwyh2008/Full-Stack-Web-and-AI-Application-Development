@@ -6,23 +6,33 @@
       "enabled": true,
       "assignments": [
         {
-          "id": "github-workflow-quiz",
-          "repo": "github-feature-branch-pr-workflow",
+          "id": "cp2",
+          "catalog_id": "cp2",
+          "repo": "cp2-feature-branch-pr-workflow",
           "base_branch": "main",
-          "feature_branch": "quiz-{github}",
-          "xp_on_ci_success": {
-            "testing": 1
-          }
+          "feature_branch": "cp2-{github}"
         },
         {
-          "id": "javascript-functions",
-          "repo": "javascript-functions",
+          "id": "markdown-practice-a",
+          "type": "practice",
+          "name": "Markdown Foundations Practice",
+          "code": "Practice 0",
+          "section": "github-foundations",
+          "repo": "markdown-foundations-practice",
           "base_branch": "main",
-          "feature_branch": "js-{github}",
-          "xp_on_ci_success": {
-            "javascript": 3,
-            "testing": 1
-          }
+          "blueprint_id": "github-markdown-foundations",
+          "form": "practice",
+          "attempts": 2,
+          "score": 8,
+          "max_score": 10
+        },
+        {
+          "id": "quiz0",
+          "catalog_id": "quiz0",
+          "repo": "markdown-skills-quiz",
+          "base_branch": "main",
+          "score": 9,
+          "max_score": 10
         }
       ],
       "manual_xp": {

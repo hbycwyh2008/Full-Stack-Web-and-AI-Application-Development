@@ -52,7 +52,8 @@ jobs:
           git add \
             04_Assessment/Developer_Achievement_System/data/achievements.json \
             docs/data.json \
-            docs/rules.json
+            docs/rules.json \
+            docs/catalog.json
           if git diff --cached --quiet; then
             echo "No achievement changes to commit."
           else

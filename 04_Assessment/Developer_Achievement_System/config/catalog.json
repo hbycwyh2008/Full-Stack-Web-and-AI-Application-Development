@@ -1,0 +1,89 @@
+{
+  "assessment_types": {
+    "cp": {
+      "label": "Checkpoint",
+      "short_label": "CP",
+      "purpose": "Verified skill evidence",
+      "counts_as_formal_assessment": true
+    },
+    "practice": {
+      "label": "Practice",
+      "short_label": "Practice",
+      "purpose": "Repeatable pre-assessment rehearsal",
+      "counts_as_formal_assessment": false,
+      "repeatable": true,
+      "feedback": "immediate"
+    },
+    "quiz": {
+      "label": "Quiz",
+      "short_label": "Quiz",
+      "purpose": "Formal knowledge or skills check",
+      "counts_as_formal_assessment": true,
+      "repeatable": false,
+      "feedback": "after formal attempt"
+    }
+  },
+  "sections": [
+    {
+      "id": "github-foundations",
+      "name": "Git & GitHub Foundations",
+      "items": [
+        {
+          "id": "cp1",
+          "type": "cp",
+          "code": "CP1",
+          "name": "Repository Setup",
+          "source_repo": "KLIS-CS/GitHub-Repository-Setup"
+        },
+        {
+          "id": "cp2",
+          "type": "cp",
+          "code": "CP2",
+          "name": "Feature Branch, Pull Request, Review & Merge",
+          "source_repo": "KLIS-CS/GitHub-Feature-Branch-Pull-Request-Workflow"
+        },
+        {
+          "id": "cp3",
+          "type": "cp",
+          "code": "CP3",
+          "name": "Issues & Project Management",
+          "source_repo": "KLIS-CS/GitHub-Issues-Projects-Workflow"
+        },
+        {
+          "id": "cp4",
+          "type": "cp",
+          "code": "CP4",
+          "name": "Local ↔ Remote Mental Model",
+          "source_repo": "KLIS-CS/KLIS-CS-Git-Local-Remote-Workflow"
+        },
+        {
+          "id": "cp5",
+          "type": "cp",
+          "code": "CP5",
+          "name": "Final Integrated GitHub Challenge",
+          "source_repo": "KLIS-CS/GitHub-Final-Integrated-Challenge"
+        },
+        {
+          "id": "quiz0",
+          "type": "quiz",
+          "code": "Quiz 0",
+          "name": "Markdown Foundations",
+          "source_repo": "KLIS-CS/GitHub-Markdown-Skills-Quiz",
+          "blueprint_id": "github-markdown-foundations",
+          "form": "quiz"
+        }
+      ]
+    }
+  ],
+  "parallel_form_policy": {
+    "description": "Practice and Quiz may share a blueprint, but must use different question sets.",
+    "pairing_key": "blueprint_id",
+    "rules": [
+      "Same learning objectives and skill weighting",
+      "Comparable difficulty and time expectation",
+      "Different prompts, data, scenarios, and answer keys",
+      "Practice may be repeatable with immediate feedback",
+      "Quiz records the formal result and must not reuse the Practice item set"
+    ]
+  }
+}

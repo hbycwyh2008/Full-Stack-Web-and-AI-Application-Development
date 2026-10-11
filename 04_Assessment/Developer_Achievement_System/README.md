@@ -14,6 +14,47 @@ student repository
 
 The dashboard is intentionally **not a leaderboard**. It shows what each student has demonstrated over time.
 
+
+## Assessment structure
+
+The dashboard separates three assessment types:
+
+| Type | Purpose | Repeats | Formal result |
+|---|---|---:|---:|
+| **CP (Checkpoint)** | verified workflow / skill evidence | normally no | yes |
+| **Practice** | pre-quiz rehearsal and feedback | yes | no |
+| **Quiz** | formal knowledge / skills check | normally no | yes |
+
+The canonical names and counts live in `config/catalog.json`. The profile UI shows each course section with the number and names of its CPs, Practices, and Quizzes.
+
+### Practice and Quiz must be parallel forms
+
+A Practice is **not** a replay of the Quiz. When a Practice and Quiz assess the same material, they share a `blueprint_id` but use different forms and different item sets.
+
+Required rule:
+
+- same learning objectives
+- same skill weighting
+- comparable difficulty and time expectation
+- different prompts, data, scenarios, and answer keys
+- Practice may be repeated and may provide immediate feedback
+- Quiz records the formal result and must not reuse the Practice questions
+
+This gives students useful pre-assessment practice without leaking the formal Quiz.
+
+## Student privacy and access
+
+The public roster has been removed from the dashboard UI. However, **GitHub Pages is a static public host and cannot enforce per-user authorization by itself**.
+
+Therefore:
+
+- do not treat a hidden link or URL hash as privacy;
+- do not publish real class-wide student data to `docs/data.json` once student records are populated;
+- before real student data is enabled, add authenticated GitHub sign-in plus a server-side/API layer that returns only the signed-in student's record;
+- the teacher account may receive the class-wide view after authentication.
+
+The current UI changes are the presentation layer for that model, not a substitute for authentication.
+
 ## V1 skill areas
 
 - Git Workflow
@@ -107,7 +148,7 @@ data/achievements.json
 scripts/generate_site.py
         |
         v
-docs/data.json + docs/rules.json
+docs/data.json + docs/rules.json + docs/catalog.json
         |
         v
 GitHub Actions Pages deployment

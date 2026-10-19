@@ -1,5 +1,7 @@
 # Phase 2: AI Literacy Foundation
 
+> **Current foundation-class requirements:** See the [2026-10-19 teaching plan](../../00_Course_Overview/Current_Teaching_Plan.md). The phase/framework expectations below are legacy or extension references where they conflict with that plan.
+
 **Your goal:** Build a **unified AI literacy foundation** and store evidence in `ai-literacy/` on your GitHub repo.
 
 **Study guides:** [AI_Literacy_Overview](../../05_Resources/AI_Literacy/AI_Literacy_Overview.md) · [AI for Everyone](../../05_Resources/AI_Literacy/AI_for_Everyone_Study_Guide.md) · [Generative AI for Everyone](../../05_Resources/AI_Literacy/Generative_AI_for_Everyone_Study_Guide.md)

@@ -5,6 +5,10 @@
 **One Required Resource / Evidence Source:** teacher-provided interactive page + short DOM/event code example  
 **Durable Evidence:** working interaction + event-flow explanation
 
+## Current Game-First Practice
+
+Connect the Guessing Game input, submit and restart buttons using native DOM methods and event listeners. Update attempts and visible feedback from state; independently repair a broken handler. Then implement one Figma-defined webpage interaction as the transfer task. Canvas controls are a later project step, not a substitute for DOM fundamentals. See the [game pathway](coursera-web-games-path.md).
+
 ## 0–5 min — Skill Warm-up
 
 Inspect the code example and record:

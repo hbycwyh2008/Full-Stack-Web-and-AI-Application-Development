@@ -2,7 +2,7 @@
 
 ## Canonical Curriculum
 
-Use [02_Class_Missions/README.md](02_Class_Missions/README.md). It contains the **33-lesson core pathway**, a four-lesson concentrated AI literacy unit, and optional extensions.
+Use [02_Class_Missions/README.md](02_Class_Missions/README.md). It retains **33 lesson identifiers**, with additional meetings for practice and assessment. Start with the [current teaching plan](00_Course_Overview/Current_Teaching_Plan.md) for the ordinary-class implementation.
 
 ## Priority Order
 
@@ -32,7 +32,7 @@ Use activity structures appropriate to the content. Students should inspect/crea
 
 ## AI Literacy
 
-Teach Mitchell as Lessons 21–24 in one coherent unit. Do not scatter six mini-studios across unrelated lessons and do not require every reading to produce a product-design implication.
+Use the [six-theme foundation path](02_Class_Missions/06-ai-literacy/foundation-path.md) in the L21–L24 block, initially six 45-minute meetings. Read selected passages in class; no regular pre-class reading homework. The existing twelve-meeting reading route is optional. Practice responsible AI use throughout development without forcing every reading into a product-design implication.
 
 ## Assessment Lens
 

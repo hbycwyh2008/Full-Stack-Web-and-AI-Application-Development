@@ -8,6 +8,10 @@ A browser-based, project-driven computer science course.
 
 Students learn computer science by making real software for real users—moving from user needs to published interactive websites and browser games, while building AI literacy alongside the build process.
 
+## Current Teaching Plan
+
+[2026-10-19 teaching plan / 当前教学安排](00_Course_Overview/Current_Teaching_Plan.md): selected Coursera Figma + skill assessment, two evaluation methods + Skill Board, HTML/CSS → JavaScript browser games, and the six-theme foundation AI literacy route. This is the current planning entry point; older phase numbers are retained as lesson identifiers.
+
 ## The Learning Journey
 
 ```text
@@ -21,7 +25,7 @@ CREATE       →  interactive websites & browser games
 
 ## AI Literacy (parallel track)
 
-Students read and discuss Melanie Mitchell's *Artificial Intelligence: A Guide for Thinking Humans*, and practice four core habits:
+Students use short, in-class selections from Melanie Mitchell's *Artificial Intelligence: A Guide for Thinking Humans*. The current [six-theme foundation route](02_Class_Missions/06-ai-literacy/foundation-path.md) covers AI, learning, task input/output, failure, verified use and responsibility. Its coherent lesson block is scheduled alongside the broader course; responsible-use habits continue whenever AI is used:
 
 - understand what AI can and cannot do
 - recognize hallucinations
@@ -68,12 +72,12 @@ React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, and similar to
 | Journey stage | Lessons (current numbering) | Focus |
 |---|---:|---|
 | Discover / Ideate | 00–01, 05–08 | CS orientation + HCI research, bias checks, evidence synthesis, brainstorming |
-| Prototype / Design | 09–11 | Figma prototype → evaluate → iterate → retest |
-| Build | 12–20 | HTML / CSS / Bootstrap / JavaScript |
+| Prototype / Design | 09–11 + skill labs | Selected Coursera Figma → skill Quiz/practical → Skill Board practice → evaluate own prototype → iterate/retest |
+| Build | 12–20 + game practice | HTML/CSS → HKUST JavaScript foundations + Canvas game projects |
 | Collaborate | Foundations unit | GitHub Docs/Skills + commits / history evidence |
 | Test | 25–26 | Usability, QA, evidence & iteration |
 | Create | 27–32 | Capstone: interactive site / browser game |
-| AI Literacy | 21–24 | Mitchell unit (parallel throughout) |
+| AI Literacy | 21–24 | Six-theme Mitchell foundation block; responsible-use habits throughout |
 
 Lesson folders are still named by the previous unit order; content will be reorganized to match this journey in a later pass.
 

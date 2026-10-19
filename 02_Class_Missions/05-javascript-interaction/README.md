@@ -1,5 +1,11 @@
 # 05 — JavaScript + Computational Thinking
 
+## Current Project Route: Browser Games
+
+Use [JavaScript Through Web Games — Coursera Path](coursera-web-games-path.md): **HKUST for foundations + EDUCBA Canvas projects for application**. Start with the Guessing Game; progress to Ping Pong and Collect the Square after the prerequisite skills are secure. Learn, explain, independently modify and test each game, then transfer the skills back to the student's designed product.
+
+Keep the existing lesson anchors below. Add practice meetings as needed; defer jQuery-dependent projects, bitmask optimization and advanced closure/module content on the foundation route. API work is optional after fundamentals; it must not displace DOM/events, state, testing and debugging.
+
 JavaScript is taught as the main programming layer of the course. Students practice state, algorithms, control flow, abstraction, data structures, events, forms, APIs, and debugging while making the designed product interactive.
 
 ## Lessons

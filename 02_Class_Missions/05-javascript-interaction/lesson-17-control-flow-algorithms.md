@@ -5,6 +5,10 @@
 **One Required Resource / Evidence Source:** teacher-provided pseudocode/JavaScript algorithm examples  
 **Durable Evidence:** algorithm trace + JavaScript implementation + test cases
 
+## Current Game-First Practice
+
+Write pseudocode for Guessing Game decisions: invalid input, too high/low, correct answer, remaining attempts and game over. Trace at least four cases and independently change one rule. Teach loops on a finite data-processing example; do not use a blocking loop to wait for browser clicks. The existing validation/filtering examples are transfer tasks. See the [game pathway](coursera-web-games-path.md).
+
 ## 0–5 min — Skill Warm-up
 
 Inspect the algorithm examples. Record evidence for:

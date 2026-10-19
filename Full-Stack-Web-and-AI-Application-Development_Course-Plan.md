@@ -1,5 +1,7 @@
 # Software Design, Development & AI — Course Plan
 
+Current implementation detail: [2026-10-19 Teaching Plan](00_Course_Overview/Current_Teaching_Plan.md).
+
 ## 1. Course Identity
 
 **Course Name:** Software Design, Development & AI  
@@ -48,17 +50,17 @@ React/Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, Cursor-specific
 
 ---
 
-## 4. Canonical 33-Lesson Pathway
+## 4. Canonical Lesson Anchors (Flexible Meeting Count)
 
 | Lessons | Unit | Main Evidence |
 |---|---|---|
 | 00–01 | CS Orientation + Software Lifecycle | CS definition, computational-thinking problem solution, lifecycle map, product teardown |
 | 02–04 | GitHub Foundations | Docs/Skills: repo, README, commits, history |
 | 05–08 | HCI Needfinding + Brainstorming (CS6750 backbone) | needfinding + ask/observe + bias check + survey/sample check + evidence synthesis + design alternatives |
-| 09–11 | Figma Prototyping + Evaluation + Iteration | low-fi prototype → Core-3 + usability evaluation → evidence-driven revision + retest |
+| 09–11 + skill labs | Figma Prototyping + Evaluation + Iteration | Coursera tools; knowledge/practical checks; Skill Board → own prototype evaluation → revision/retest |
 | 12–15 | HTML/CSS Implementation | semantic/responsive implementation from Figma |
-| 16–20 | JavaScript + Computational Thinking | algorithms, functions, data structures, DOM/events, forms/state, debugging |
-| 21–24 | AI Literacy | claim-evidence analysis, failure/generalization analysis, comparison map, understanding position |
+| 16–20 + game practice | JavaScript + Computational Thinking | HKUST foundations + Canvas games; independent modifications, tests and debugging |
+| 21–24 | AI Literacy Foundation | six themes: AI, learning, tasks, failure, verification and responsibility |
 | 25–26 | Testing + Release | usability findings, QA/accessibility fixes, deployed release |
 | 27–32 | Capstone Full Cycle | research → design → build → test → release → retrospective |
 
@@ -70,16 +72,11 @@ Three Python lessons and short AI-application extensions are optional after the 
 
 **Primary text:** Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_.
 
-AI literacy is a **four-lesson concentrated unit after JavaScript and before final testing/capstone work**. It is not scattered through unrelated development lessons and does not need to produce artificial product-design connections.
+The current ordinary-class requirement is the [six-theme foundation path](02_Class_Missions/06-ai-literacy/foundation-path.md), initially six 45-minute meetings in the L21–L24 block. Short in-class book selections are paired with accessible cases. Students learn to recognize AI, explain training/prediction and task input/output, analyze failure, verify outputs and act responsibly.
 
-Students practice distinguishing:
+The deeper twelve-meeting reading route is preserved as an extension. It is not additional compulsory work, and the ASC eight-session plan is not copied into this class. No required pre-class reading or full-chapter homework. Responsible-use habits continue during development; a teacher can explicitly choose a parallel timetable, but there is no automatic new 15-minute lecture routine.
 
-- demonstrated capability from anthropomorphic or marketing claims;
-- pattern learning from human-like understanding;
-- benchmark/demo success from general reliability;
-- fluent output from evidence of meaning or grounding;
-- narrow competence from general intelligence;
-- technical performance from bias, privacy, access, and social consequences.
+Advanced architecture, backpropagation, RL algorithms, mathematical detail and extended analogy theory are deferred. Modern prompting/verification exercises are labeled supplements, not attributed to the original book.
 
 ---
 

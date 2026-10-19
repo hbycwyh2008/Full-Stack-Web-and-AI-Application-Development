@@ -1,5 +1,7 @@
 # Course Overview — Software Design, Development & AI
 
+Current implementation: [Current Teaching Plan](Current_Teaching_Plan.md).
+
 ## Big Goal
 
 Students learn **what computer science studies** and **how software is made responsibly and systematically**.
@@ -23,13 +25,13 @@ Students use issues, branches, meaningful commits, pull requests, review, merge,
 Aligned to the CS6750 design life cycle. Students practice needfinding, ask/observe, survey craft, and evidence synthesis, but now explicitly check confirmation, leading, recall, observer, and sampling bias before turning data into 2–3 micro need/requirement statements. Full requirements documents remain deferred to Capstone.
 
 ### Figma
-Students create three fast paper alternatives, choose one direction, build a 3–5 screen low-fi Figma wireframe, evaluate it with the course Core 3 (affordance/signifier, mapping, constraints) plus a real usability task, revise, then build a clickable high-fidelity prototype and retest. Meta Principles of UX/UI Design is the primary student-facing Figma/evaluation resource; CS6750 remains the teacher/conceptual backbone.
+Students create three fast paper alternatives, choose one direction, build a 3–5 screen low-fi Figma wireframe, evaluate it with the course Core 3 (affordance/signifier, mapping, constraints) plus a real usability task, revise, then build a clickable high-fidelity prototype and retest. Selected Dan Scott Coursera lessons supply Figma tool instruction; CS6750 remains the theory backbone, with NN/g support for the two evaluation methods. Students complete separate tool knowledge/practical checks and evaluate Morgan's Skill Board before applying the methods to their own work.
 
 ### Programming
-Students use HTML, CSS, and JavaScript to implement designed products and practice algorithms, abstraction, data structures, code analysis, and debugging.
+Students use HTML, CSS, and JavaScript to implement designed products. HKUST foundations plus selected Canvas game projects provide practice in algorithms, state, functions, data structures, events and debugging; students independently modify and test games, then transfer the skills to their own product.
 
 ### AI Literacy
-Students complete a concentrated four-lesson unit using Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_. The goal is to evaluate AI capability, learning, generalization, language, understanding, and limitations without forcing the reading to justify a web-project decision.
+Students complete the six-theme foundation route within lesson anchors 21–24, using short in-class selections from Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_. They recognize AI, explain learning/input/output, analyze failure, verify outputs and use AI responsibly. No full-chapter homework, advanced architecture or forced web-project connection is required. The twelve-meeting reading route remains optional depth.
 
 ### Python
 Optional extension only when core outcomes are complete.

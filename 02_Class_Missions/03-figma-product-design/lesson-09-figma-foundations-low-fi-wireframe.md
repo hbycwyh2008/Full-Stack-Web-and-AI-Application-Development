@@ -7,6 +7,8 @@
 **Mission:** Turn the selected L08 design direction into the lowest-fidelity prototype that can answer one important design question.  
 **Durable Evidence:** [L09 submission template](student-templates/l09-low-fi-figma-core3.md)
 
+Tool input: [selected Coursera Figma lessons](coursera-learning-map.md). Check structure and simple connections with the [Figma skills assessment](../../04_Assessment/Figma_Skills_Quiz_and_Practical.md); later skill blocks assess Auto Layout, components and variants. This meeting does not require all tool skills at once.
+
 ### Skill Warm-up video
 
 | Field | Assign this |

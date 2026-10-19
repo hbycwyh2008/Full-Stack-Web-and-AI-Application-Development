@@ -1,8 +1,59 @@
-# Video Resource List
+# Learning Resources — Current Full Stack Path
 
-Curated resources for numbered units **00–15**. Required = core skills; Optional = enrichment.
+Current decisions: [Current Teaching Plan](Current_Teaching_Plan.md). Select short segments and pair them with practice, independent rebuild and evidence. Do not require completion of every linked course. Course outlines for the new Coursera selections were checked on 2026-10-19.
 
-**Scrimba** courses are listed in [Scrimba Resources](#scrimba-resources) below. Use them for short interactive exposure and guided practice in the **Skill Warm-up** block — not as a substitute for classroom rebuild tasks, GitHub evidence, or project work.
+## HCI Theory and Evaluation
+
+OMSCS CS6750 remains the theory backbone: 3.3 Needfinding, 3.4 Design Alternatives, 3.5 Prototyping, 3.6 Evaluation, 3.7 HCI and Agile Development. Use the existing [CS6750 mapping](../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md).
+
+| Resource | Use |
+|---|---|
+| [NN/g: 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) | Named principles for inspection |
+| [Heuristic Evaluation video](https://www.nngroup.com/videos/conduct-heuristic-evaluation/) | How to organize independent inspection and synthesis |
+| [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/) | Participant, task and facilitator |
+| [Task Scenarios](https://www.nngroup.com/articles/task-scenarios-usability-testing/) | Goals without click-path hints |
+| [Thinking Aloud](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) | Neutral observation of users' thinking |
+| [Moderation Checklist](https://www.nngroup.com/articles/usability-checklist/) | Facilitator preparation and conduct |
+
+Practice both methods in the [Skill Board lab](../02_Class_Missions/03-figma-product-design/skill-board-evaluation-lab.md), then evaluate students' own prototypes. Meta UX/UI is not a second required theory spine.
+
+## Figma Tool Instruction — Dan Scott / Coursera
+
+| Course | Required selection |
+|---|---|
+| [Part 1: Tools & Foundations](https://www.coursera.org/learn/figma-ui-ux-design-essentials-pt1-tools--foundations) | Foundation tools, wireframes, prototype links/preview, sharing, selected visual/layout/text/image skills |
+| [Part 2: Layout & Components](https://www.coursera.org/learn/figma-ui-ux-design-essentials-pt2-layout--components) | Basic Auto Layout, components/instances, basic variants, flows and overlays |
+| [Part 3: Prototypes & Handoff](https://www.coursera.org/learn/figma-ui-ux-design-essentials-pt3-prototypes--handoff) | Scrolling as needed, export/share, basic developer handoff |
+
+Detailed [module selection + exercise-file download instructions](../02_Class_Missions/03-figma-product-design/coursera-learning-map.md). Instructor's [exercise-file page](https://bringyourownlaptop.com/courses/figma-ux-essentials-beginners/introduction-to-figma-essentials-training-course): Downloads & Exercise files → Download Exercise Files. Check version/access before class.
+
+Assessment: [Figma Skills Quiz + Practical](../04_Assessment/Figma_Skills_Quiz_and_Practical.md), separate from the design-cycle test.
+
+## HTML/CSS + JavaScript Web Games — Coursera
+
+| Course | Role |
+|---|---|
+| [HKUST: Learning HTML, CSS and JavaScript through Game Development](https://www.coursera.org/learn/learning-html-css-and-javascript-through-game-development) | Foundations: M1, M2 and selected M5; Guessing Game. Contains jQuery; optional later games may depend on it. |
+| [EDUCBA: Apply HTML5 Game Development Concepts with Canvas](https://www.coursera.org/learn/apply-html5-game-development-concepts-with-canvas) | Applied Canvas projects: Ping Pong and Collect the Square; selected input/collision/state/score/timer work. Defer bitmask optimization. |
+| [Creating a Quiz Game using Vanilla JavaScript](https://www.coursera.org/projects/creating-a-quiz-game-using-vanilla-javascript) | Optional short Guided Project after basic JavaScript; roughly 2-hour platform estimate |
+
+Use the [combined module/prerequisite/game pathway](../02_Class_Missions/05-javascript-interaction/coursera-web-games-path.md). Published course hours are not local class periods or video-only durations.
+
+## AI Literacy — Mitchell Foundation
+
+Core text: [Melanie Mitchell, Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook/).
+
+Use the [six-theme foundation path](../02_Class_Missions/06-ai-literacy/foundation-path.md): short classroom selections, practical cases and individual checks. The book remains the conceptual spine; contemporary generative-AI use is a clearly labeled practical supplement. No required pre-class reading or full-chapter homework.
+
+The older twelve-meeting reading map is optional depth. Existing AI for Everyone / Generative AI for Everyone study guides are optional references, not two required additional courses. AI math, model training and a forced AI School Assistant product are not prerequisites.
+
+## Existing Optional Support
+
+- [Scrimba — Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p)
+- [Scrimba — Learn JavaScript](https://scrimba.com/learn-javascript-c0v)
+- [Scrimba — Intro to UI Design Fundamentals](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
+
+These are support options already in the resource collection, not additional required courses. React/Next.js, TypeScript, FastAPI, Python, RAG and ML/math resources remain enrichment after the core pathway. Use the current unit READMEs for requirements rather than older phase-based course catalogs.
 
 ---
 
@@ -58,220 +109,3 @@ Course lesson numbers and playlist positions differ after the excluded #10.
 - **Status:** Optional enrichment later
 
 ---
-
-## Notion Portfolio
-
-### How to Build a Professional Portfolio Website in Notion
-- **Link:** https://www.youtube.com/watch?v=kFxfh8urobU
-- **Status:** Optional / portfolio setup
-
----
-
-## AI Literacy Foundation (`02-ai-literacy`) — Unified
-
-### A1. AI for Everyone — DeepLearning.AI
-- **Link:** https://www.deeplearning.ai/courses/ai-for-everyone
-- **Status:** Required (`02-ai-literacy`)
-
-### A2. Generative AI for Everyone — DeepLearning.AI
-- **Link:** https://www.deeplearning.ai/courses/generative-ai-for-everyone
-- **Status:** Required (`02-ai-literacy`)
-
----
-
-## AI Math Bridge Support (`12-machine-learning-workflow`)
-
-### 3Blue1Brown — Essence of Linear Algebra (Selected Videos)
-- **Link:** https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-- **Purpose:** Visual intuition — vectors, transformations, matrix multiplication, eigen intuition.
-- **How to use:** **Required selected videos** only when supporting data or machine learning workflow — not the full playlist for all students.
-- **Status:** Required (selected parts)
-
-### DeepLearning.AI — Linear Algebra for Machine Learning and Data Science (Selected Parts)
-- **Link:** _Teacher to add verified Coursera link._
-- **Purpose:** Week 3 (vectors, linear transformations) and Week 4 (determinants, eigenvectors) — **selected parts only**.
-- **How to use:** Teacher may review full course; students need AI/ML/CV-relevant weeks only.
-- **Status:** Required (selected parts)
-
-> **Suggested sequence:** 3Blue1Brown selected → teacher lesson → DL.AI Week 3 parts → Week 4 parts → NumPy lab → image matrix project.
-
----
-
-## Scrimba Resources
-
-Scrimba should be used for **short interactive exposure** and **guided practice**. It should **not** replace classroom rebuild tasks, GitHub evidence, or project work.
-
-Use selected lessons only — not full course completion unless a teacher assigns specific modules.
-
-### HTML / CSS
-
-#### 1. Scrimba — Learn HTML and CSS
-- **Link:** https://scrimba.com/learn-html-and-css-c0p
-- **Alternative:** https://scrimba.com/learn/htmlandcss
-- **Use:** Main beginner HTML/CSS resource. Use selected lessons for webpage structure, basic styling, and small project practice.
-- **Units:** Supports optional Figma and early web literacy before Next.js.
-
-#### 2. Scrimba — HTML & CSS Crash Course with Kevin Powell
-- **Link:** https://scrimba.com/html-css-crash-course-c02l
-- **Alternative:** https://scrimba.com/learn/introhtmlcss
-- **Use:** Shorter HTML/CSS crash course for fast classroom warm-up or review.
-- **Units:** Warm-up before frontend web work.
-
-### JavaScript
-
-#### 3. Scrimba — Learn JavaScript
-- **Link:** https://scrimba.com/learn-javascript-c0v
-- **Alternative:** https://scrimba.com/learn/learnjavascript
-- **Use:** Main JavaScript beginner resource. Use selected lessons for variables, functions, conditionals, loops, arrays, objects, and small interactive projects.
-- **Units:** Before or during `04-javascript-basics` and `06-nextjs-frontend`.
-
-#### 4. Scrimba — Introduction to JavaScript
-- **Link:** https://scrimba.com/introduction-to-javascript-c01q
-- **Use:** Shorter JavaScript introduction for classroom warm-up.
-- **Phases:** Skill Warm-up before deeper JS or TypeScript lessons.
-
-#### 5. Scrimba — Learn Modern JavaScript
-- **Link:** https://scrimba.com/learn-modern-javascript-c02j
-- **Use:** Short ES6 supplement for `let`/`const`, scope, and modern JavaScript syntax.
-- **Units:** Supplement after core JS warm-up.
-
-### React
-
-#### 6. Scrimba — Learn React
-- **Link:** https://scrimba.com/learn-react-c0e
-- **Alternative:** https://scrimba.com/learn/learnreact
-- **Use:** Main React beginner resource. Use selected lessons for JSX, components, props, rendering lists, state, and side effects.
-- **Units:** Required support for `06-nextjs-frontend`.
-
-#### 7. Scrimba — Learn React for Free Playlist
-- **Link:** https://scrimba.com/playlist/p7P5Hd
-- **Use:** Shorter React sequence if the full Learn React course is too long.
-- **Units:** Alternative or supplement for `06-nextjs-frontend`.
-
-#### 8. Scrimba — freeCodeCamp React
-- **Link:** https://scrimba.com/freeCodeCamp-React
-- **Use:** Short React supplement using a movie search app.
-- **Units:** Optional enrichment during `06-nextjs-frontend`.
-
-### UI / Visual Design
-
-#### Scrimba — Intro to UI Design Fundamentals
-- **Link:** https://scrimba.com/intro-to-ui-design-fundamentals-c0q
-- **Use:** Optional visual-design reinforcement after students already know basic Figma.
-- **Selected ideas:** whitespace, alignment, contrast, scale, typography, color, visual hierarchy.
-- **Do not use as:** the main Figma, UX research, or evaluation course.
-- **Units:** Optional support for `03-figma-product-design` and later HTML/CSS visual refinement.
-
-### How Scrimba Resources Should Be Used
-
-Do **not** design the course as “students watch Scrimba and finish online exercises.”
-
-Use Scrimba in the **Skill Warm-up** block or as support material. After students use Scrimba, they must complete a **classroom rebuild task**.
-
-**Examples:**
-
-- After HTML/CSS input → students rebuild a personal webpage or project card.
-- After JavaScript input → students write a small function or interactive feature.
-- After React input → students create their own `ProfileCard`, `CourseCard`, `ProjectCard`, or `CertificateCard` component.
-- After any online exercise → students submit evidence through **GitHub**, **Notion**, screenshots, or a learning log.
-
-**Course principle:**
-
-```text
-Resources introduce the pattern.
-Classroom practice builds the skill.
-Independent rebuild checks mastery.
-Project evidence proves progress.
-```
-
----
-
-## HCI + Figma Design Cycle
-
-### HCI theory — OMSCS CS6750
-
-Use selected short excerpts:
-
-- **L05–L07:** CS6750 **3.3 Needfinding and Requirements Gathering**
-- **L08:** CS6750 **3.4 Design Alternatives**
-- **L09:** CS6750 **3.5 Prototyping**
-- **L10:** CS6750 **3.6 Evaluation** + selected Unit 2 design principles
-- **L11:** CS6750 **3.7 HCI and Agile Development**
-
-### Figma tool instruction
-
-Figma is taught **just in time** through short teacher demonstrations and immediate practice.
-
-Required operations are introduced only when needed:
-
-- frame / text / shape;
-- alignment / spacing;
-- prototype connections;
-- preview;
-- later Auto Layout/components/states only if the current design needs them.
-
-Meta *Principles of UX/UI Design* is **not** a required theory/video spine.
-
-### Unit output
-Students finish with:
-- 3 fast paper design alternatives;
-- one 3–5 screen low-fi Figma wireframe;
-- one Core-3 + usability evaluation;
-- one revised clickable high-fidelity prototype;
-- a before/after evidence-based change log.
-
----
-
-## TypeScript Support (Optional)
-
-### TypeScript for JavaScript Programmers (Teacher-selected)
-- **Link:** _Teacher to add verified link._
-- **Status:** Optional support — after JavaScript, before or during Next.js
-
-> **Scrimba support:** Complete selected [JavaScript](#javascript) and [Modern JavaScript](#5-scrimba--learn-modern-javascript) lessons before TypeScript support if students need JS foundations.
-
----
-
-## Next.js Frontend (`06-nextjs-frontend`)
-
-### Next.js & React - The Complete Guide
-- **Link:** https://www.udemy.com/course/nextjs-react-the-complete-guide/
-- **Status:** Required (`06-nextjs-frontend`). FastAPI is backend — not Next.js API Routes.
-
-> **Scrimba support:** Use [Learn React](#6-scrimba--learn-react) (selected lessons) in Skill Warm-up before building Next.js components. Follow with classroom rebuild tasks (e.g. `ProfileCard`, `ProjectCard`) and GitHub evidence in `nextjs-frontend/`.
-
----
-
-## FastAPI Backend (`08-fastapi-backend`)
-
-### FastAPI - The Complete Course 2026
-- **Link:** https://www.udemy.com/course/fastapi-the-complete-course/
-- **How to use:** Beginner/API sections only — **no required database** for all students.
-- **Status:** Required (lightweight modules)
-
----
-
-## Full-Stack Integration (`10-nextjs-fastapi-integration`)
-
-### Full Stack Course | Next.js + FastAPI
-- **Link:** https://www.udemy.com/course/learn-nextjs-and-fastapi-by-building-2-full-stack-apps/
-- **Status:** Optional (`10-nextjs-fastapi-integration`)
-
----
-
-## Cursor Capstone (`13-cursor-capstone`)
-
-### Cursor + Task Master / Complete Cursor AI courses
-- **Links:** See prior catalog entries in repo history.
-- **Status:** Optional (`13-cursor-capstone` only)
-
----
-
-## Optional Enrichment (Not Prerequisites)
-
-**3Blue1Brown — Essence of Calculus** — optional depth
-**Linear Algebra Is Not Hard** — _Teacher to add verified link._
-**Bilibili LA companions** — _Teacher to add verified link._
-**StatQuest — ML Intro** — supports `12-machine-learning-workflow` and ML projects
-
-> Teacher note: Verify book/Bilibili links before sharing. Optional items do **not** replace required numbered unit resources.

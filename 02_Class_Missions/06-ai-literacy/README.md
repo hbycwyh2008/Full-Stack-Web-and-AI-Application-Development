@@ -1,99 +1,49 @@
-# 06 — AI Literacy: Reading *Artificial Intelligence: A Guide for Thinking Humans*
+# 06 — AI Literacy: Foundation and Reading Extension
 
-**Students:** Grade 7  
-**Core text and sole content input:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  
-**Delivery:** four thematic lesson files, taught as **twelve 45-minute class meetings**  
-**Student pre-class work:** none  
-**Regular homework:** none
+**Core text:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*.
+**Current Full Stack default:** [Six-Theme Foundation Path](foundation-path.md).
+**Lesson anchors:** 21–24; these are topic identifiers, not a fixed meeting count.
+**Class length:** 45 minutes. No required pre-class reading or regular reading homework.
 
 Official book page: https://melaniemitchell.me/aibook/
 
-## Unit Purpose
+## Choose the Appropriate Route
 
-Students learn AI literacy by reading short, carefully selected passages from Mitchell's book **during class**. They identify her claim, locate the case or evidence she uses, name what the evidence does and does not show, and revise their own judgement.
+| Route | Audience and emphasis | Planning |
+|---|---|---|
+| **Foundation — current ordinary-class default** | Recognize AI, understand learning/input/output, identify tasks and failure, use/check generative AI, act responsibly | Six themes across approximately six meetings; extend when needed |
+| **Reading extension** | Students ready for deeper book-based claim/evidence work on vision, rewards, language, meaning and analogy | Existing twelve-meeting selected-passages route; optional after/ instead of foundation by teacher assignment |
 
-The book is the intellectual spine and the only required content source. This is not a general AI survey assembled from videos, articles, product demos, chatbot outputs, or a second AI course. The unit also does not force the reading into website, product-design, or machine-learning applications.
+Do not require the ASC eight-session schedule or both routes cumulatively. The foundation route uses short in-class book selections and clearly labeled teacher-created practical cases. Contemporary prompting activities are supplements, not claims about what the original book teaches.
 
-## Grade 7 Reading Decision
+## Foundation Topics and Evidence
 
-This is a **guided selected-passages unit**, not a cover-to-cover speed-reading course.
+1. **What is AI?** Explain different approaches and one rule/learning comparison.
+2. **How does AI learn?** Explain data/examples, training and prediction on a new input.
+3. **What tasks can AI perform?** Identify classification, numerical prediction and generation; name inputs/outputs.
+4. **Why does AI fail?** Analyze a data/bias/new-context failure and a capability boundary.
+5. **How do we use and check generative AI?** Save goal/context/requirements, output, verification and correction.
+6. **How do we use AI responsibly?** Protect personal data, disclose help and own the final work.
 
-- Every required passage is read in class.
-- A meeting normally assigns **300–450 English words**, usually one or two short chunks and about 1–2 pages depending on the edition.
-- Students receive **time in **Guided Practice** for reading.
-- No required chunk should exceed about **225 words** before students pause and paraphrase.
-- The teacher may read the first paragraph aloud from the same book and provide a plain-language gloss for no more than four required words.
-- The default limit is 450 words. Raise it only after students repeatedly demonstrate that they can read, mark evidence, and paraphrase within 14 minutes.
-- Students are never asked to finish a chapter at home.
+Use [foundation-path.md](foundation-path.md) for reading anchors, activities, access support, classroom timing and assessment. Use the [AI Literacy Checklist](../../04_Assessment/AI_Literacy_Checklist.md) for the foundation gate and optional extension outcomes.
 
-The twelve selections trace the book's full conceptual arc, but they do not pretend that students have read every page.
+Keep the unit coherent in the L21–L24 block. Responsible-use habits continue throughout development; teach privacy, disclosure and output checks before AI-assisted coding. A teacher may deliberately schedule parallel sessions, but do not impose required homework or replace the seven classroom blocks with a new 15-minute lecture routine.
 
-## Non-Negotiable Delivery Rules
+## Preserved Reading Extension
 
-1. All required reading begins and ends during class.
-2. The exact required selection for every meeting is specified in the [Required In-Class Reading Map](required-reading-map.md).
-3. Before class, the teacher locates that content in the class edition and records the exact page range. Page numbers differ across editions, so a chapter number alone is not sufficient.
-4. A vocabulary gloss, sentence frame, or blank organizer may support access, but it may not introduce a second content source or replace the assigned reading.
-5. Videos, news articles, product pages, live chatbot demonstrations, online summaries, and unrelated AI courses are not required inputs.
-6. Mission evidence comes from the assigned Mitchell passage. A teacher-created hypothetical may test transfer after reading, but it may not replace the book case.
-7. The Learning Log is submitted in **Talk Robin 2 + Evidence**, not an additional task.
-8. If the Learning Log is unfinished, the only finish-up work is the remaining entry, capped at approximately five minutes. There is no additional homework.
+These files retain the earlier twelve-meeting route. They are not required in addition to the foundation path:
 
-## Why Four Lesson Files but Twelve Meetings?
+- [Required reading map for the extension](required-reading-map.md): 21A–24C, book cases, page-range planning and word limits.
+- [L21 — Definitions, Methods, and Learning](lesson-21-what-is-ai.md)
+- [L22 — Vision, Generalization, and Trust](lesson-22-learning-generalization-failure.md)
+- [L23 — Rewards, Games, and Words](lesson-23-games-language-intelligence.md)
+- [L24 — Language, Understanding, Analogy, and Synthesis](lesson-24-understanding-abstraction-analogy.md)
+- [Book-based learning log](learning-log-template.md)
 
-Lessons 21–24 are each divided into **Meeting A, B, and C**. This gives Grade 7 readers enough time to work with one small idea at a time while preserving the numbering of Lessons 25–32 in later phases.
+Extension outcomes include distinguishing performance from understanding, benchmark success from generalization, and language fluency from grounded meaning. Foundation students need a concrete grasp of these limits without mastering internal architectures or extended analogy theory.
 
-## Meeting Map
+## Classroom and Assessment
 
-| Meeting | Required in-class book focus | Essential question | Small durable artifact |
-|---|---|---|---|
-| **21A** | Prologue + Chapter 1: Hofstadter, the difficulty of defining intelligence, and AI's scientific/practical aims | What counts as evidence of intelligence? | Claim–Interpretation Boundary Card |
-| **21B** | Chapter 1: the field's competing methods; symbolic and subsymbolic approaches | Is AI one method? | Methods Comparison |
-| **21C** | Chapters 2–3: digit recognition/backpropagation; the AI spring; narrow and general AI | What did learning systems demonstrate, and what did people predict? | Evidence–Expectation Chain |
-| **22A** | Chapter 4: the soldier-and-dog photograph and the gap between labels and scene inference | Is recognizing objects the same as seeing a scene? | Visible vs. Inferred Scene Table |
-| **22B** | Chapter 5: ImageNet, AlexNet, benchmark success, and the “human-level” caveat | What does a benchmark result actually show? | Benchmark Boundary Card |
-| **22C** | Chapters 6–7: an adversarial-image failure and a facial-recognition trust/ethics case | Why can an accurate system still be untrustworthy? | Failure-to-Trust Chain |
-| **23A** | Chapter 8: Rosie's robot-soccer task; state, action, reward, and exploration | Does maximizing reward mean understanding the goal? | State–Action–Reward Loop |
-| **23B** | Chapters 9–10: AlphaGo's achievement and the problem of transfer | What does game mastery prove? | Game Success / Transfer Audit |
-| **23C** | Chapter 11: the burned-hamburger story; word patterns, context, and bias | What is missing when words are processed without common sense? | Explicit vs. Inferred Meaning Table |
-| **24A** | Chapters 12–13: translation and SQuAD success with context/comprehension limits | Is a correct language answer evidence of understanding? | Language Capability Boundary Table |
-| **24B** | Chapters 14–15: the barrier of meaning, core knowledge, and a Bongard analogy problem | What may human-like understanding require? | Relation Map + Failure Boundary |
-| **24C** | Chapter 16 + prior book-based logs: evidence, uncertainty, forecasts, and risks | How should a careful thinker judge AI claims? | Thinking Human's AI Brief |
+Use [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md) and the course's exact seven block names. Required reading happens in class. The final four-question foundation check asks: what task/input/output, what possible failure, what verification, and what responsibility?
 
-See [Required In-Class Reading Map](required-reading-map.md) for the exact content anchors, word limits, required vocabulary, and excluded material.
-
-## Lessons
-
-- [Lesson 21 — Definitions, Methods, and Learning](lesson-21-what-is-ai.md)
-- [Lesson 22 — Vision, Generalization, and Trust](lesson-22-learning-generalization-failure.md)
-- [Lesson 23 — Rewards, Games, and Words](lesson-23-games-language-intelligence.md)
-- [Lesson 24 — Language, Understanding, Analogy, and Synthesis](lesson-24-understanding-abstraction-analogy.md)
-
-## Required Classroom Flow
-
-Every meeting follows the same seven blocks, adapted directly from the course's [canonical classroom flow](../shared/classroom-flow.md):
-
-1. Skill Warm-up
-2. Talk Robin 1
-3. Entry Check
-4. Core Pattern
-5. Guided Practice
-6. Independent Rebuild
-7. Talk Robin 2 + Evidence
-
-Use the exact timing and roles in [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md).
-
-## Learning Log
-
-Students complete four short, evidence-based lines during **Talk Robin 2 + Evidence**. The log is graded for the quality of evidence and reasoning, not English grammar. Use the [Grade 7 AI Literacy Learning Log](learning-log-template.md).
-
-## End-of-Unit Standard
-
-By the end of Meeting 24C, students can use specific evidence from Mitchell to:
-
-- distinguish performance from understanding;
-- distinguish a benchmark or task success from broad generalization;
-- distinguish narrow competence from general intelligence;
-- distinguish correct or fluent language from grounded meaning;
-- state what a piece of evidence supports and what it does not prove;
-- revise a judgement when the evidence changes.
+AI literacy is assessed even when the student's final project has no AI feature. No full second AI video course, AI math unit or model training is a prerequisite.

@@ -1,5 +1,7 @@
 # Lesson 11 — Iterate in Figma: Revise and Retest
 
+Selected tool follow-up: [Coursera learning map](coursera-learning-map.md). Add separate skill sessions as needed and complete the [Figma knowledge/practical assessment](../../04_Assessment/Figma_Skills_Quiz_and_Practical.md); keep its score separate from the design-cycle test.
+
 **Length:** 45 minutes  
 **Design stage:** Iterate → Evaluate again  
 **OMSCS CS6750 backbone:** **3.7 HCI and Agile Development** + **3.5–3.6 Prototyping / Evaluation**  

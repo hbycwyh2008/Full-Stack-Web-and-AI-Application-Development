@@ -5,6 +5,10 @@
 **One Required Resource / Evidence Source:** teacher-provided array/object data examples  
 **Durable Evidence:** data model + rendering/processing function + explanation
 
+## Current Game-First Practice
+
+Represent several game targets or rounds as an array of objects (such as position, points and collected state). Process them with a reusable function and show how changing data changes behavior. Canvas drawing can wait until the data is understood. Transfer the same representation to webpage cards/tasks. See the [game pathway](coursera-web-games-path.md).
+
 ## 0–5 min — Skill Warm-up
 
 Inspect the examples and record:

@@ -22,5 +22,5 @@ Skill Warm-up → Talk Robin 1 → Entry Check → Core Pattern
 
 ## Resource rule
 
-Sole content source: Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*.  
-See [required-reading-map.md](required-reading-map.md).
+Core conceptual source: Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*.
+For the current ordinary-class route, use [foundation-path.md](foundation-path.md): short in-class selections plus explicitly labeled practical cases. The book-only [required-reading-map.md](required-reading-map.md) is the optional twelve-meeting extension. No required pre-class reading or routine reading homework.

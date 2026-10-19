@@ -1,5 +1,7 @@
 # Lesson 21 — Definitions, Methods, and Learning
 
+> **Reading extension:** The current ordinary-class default is the [six-theme foundation path](foundation-path.md). This file belongs to the preserved twelve-meeting route and is not an additional compulsory assignment.
+
 **Students:** Grade 7  
 **Delivery:** three 45-minute class meetings: **21A, 21B, and 21C**  
 **Only required content source:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*  

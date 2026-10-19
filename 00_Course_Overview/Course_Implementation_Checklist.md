@@ -2,6 +2,8 @@
 
 **Purpose:** Confirm that the canonical 33-lesson course is ready to teach. Legacy/enrichment folders do not need to be prepared unless deliberately selected.
 
+Current detail: [Current Teaching Plan](Current_Teaching_Plan.md). The 33 identifiers are lesson anchors; skill, assessment and project practice can require extra meetings.
+
 ## Canonical Documents
 
 - [ ] [Course Overview](Course_Overview.md) reviewed
@@ -19,7 +21,7 @@
 - [ ] `03-figma-product-design` — prototype in Figma → Core-3 + usability evaluation → evidence-driven iteration + retest
 - [ ] `04-html-css-implementation` — semantic/responsive implementation
 - [ ] `05-javascript-interaction` — JavaScript + computational thinking
-- [ ] `06-ai-literacy` — four concentrated Mitchell lessons
+- [ ] `06-ai-literacy` — six-theme foundation route in L21–L24, with in-class Mitchell selections; twelve-meeting reading route optional
 - [ ] `07-testing-release-maintenance` — usability/QA/release
 - [ ] `08-capstone-full-cycle` — complete lifecycle
 - [ ] `09-optional-python` — prepared only if core course will finish with time remaining
@@ -46,7 +48,10 @@
 
 - [ ] OMSCS CS6750 available as teacher/conceptual backbone ([mapping](../02_Class_Missions/02-hci-user-research/omscs-cs6750-mapping.md))
 - [ ] OMSCS CS6750 selected **3.3–3.7** excerpts are ready as the HCI/design theory input
-- [ ] Figma tool operations are taught just in time through short teacher demos/practice rather than a separate theory track
+- [ ] selected [Coursera Figma tools and exercise files](../02_Class_Missions/03-figma-product-design/coursera-learning-map.md) are accessible; short demonstrations lead directly to practice
+- [ ] [Figma skills Quiz/practical](../04_Assessment/Figma_Skills_Quiz_and_Practical.md) is prepared and recorded separately from the design-cycle test
+- [ ] [Skill Board evaluation lab](../02_Class_Missions/03-figma-product-design/skill-board-evaluation-lab.md) has its actual URL, safe test data, task goals and success criteria supplied before class
+- [ ] both heuristic evaluation and usability testing are taught; first-use participants have not been coached through the tested interface
 - [ ] participant/research ethics rules appropriate to school context are clear (G7 light consent) and the Bias Check card is ready
 - [ ] Figma access confirmed
 - [ ] students have a place to store anonymized research evidence
@@ -61,6 +66,8 @@
 
 ## Programming Environment
 
+- [ ] [HKUST + Canvas game pathway](../02_Class_Missions/05-javascript-interaction/coursera-web-games-path.md) is selected; prerequisites and project assets checked before class
+- [ ] independent game modification, bug fixing and retesting are planned
 - [ ] browser + developer tools available
 - [ ] code editor available
 - [ ] local/static web workflow tested
@@ -70,8 +77,9 @@
 ## AI Literacy
 
 - [ ] teacher has access to Melanie Mitchell, _Artificial Intelligence: A Guide for Thinking Humans_
-- [ ] selected reading sections assigned rather than copied into the repo
-- [ ] Lessons 21–24 prepared as a coherent unit
+- [ ] short selected reading sections located for in-class use rather than copied into the repo or assigned as full-chapter homework
+- [ ] [six-theme foundation route](../02_Class_Missions/06-ai-literacy/foundation-path.md) prepared as a coherent unit in lesson anchors 21–24
+- [ ] contemporary generative-AI practical cases are labeled supplements and use approved access or teacher-prepared examples
 - [ ] [AI Literacy Checklist](../04_Assessment/AI_Literacy_Checklist.md) reviewed
 - [ ] AI literacy assessment does not depend on using AI in the capstone
 

@@ -3,6 +3,8 @@
 **Test:** [Figma_Design_Cycle_Unit_Test.md](Figma_Design_Cycle_Unit_Test.md)  
 **Total:** 30 points
 
+This measures design-cycle reasoning. Confirm the separate [100-point Figma tool skills record](Figma_Skills_Quiz_and_Practical.md) and its practical gates before full implementation handoff; a high reasoning score alone does not demonstrate all tool skills.
+
 ---
 
 ## Part A — Prototype Purpose + Fidelity (6 pts)

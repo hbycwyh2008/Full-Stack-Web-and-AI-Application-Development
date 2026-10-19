@@ -5,6 +5,8 @@ Design · Build · Test · Publish
 
 A browser-based, project-driven computer science course — the **G8** band in the [CS Curriculum Pathway (G6–12) poster](../08_Public_Documents/posters/cs-curriculum-pathway-g6-12.png).
 
+Current planning entry: [Current Teaching Plan](Current_Teaching_Plan.md). It supplies Figma skill checks, Skill Board evaluation practice, the Coursera game route and six-theme AI foundation path.
+
 ## The Learning Journey
 
 Students move through six stages. Each stage produces artifacts that feed the next.
@@ -48,7 +50,7 @@ Collaborate and Test are not “afterthoughts”—they run through Build and Cr
 
 ## AI Literacy (parallel track)
 
-AI literacy runs **alongside** the journey, not only as a bolt-on unit. Students read and discuss Melanie Mitchell's *Artificial Intelligence: A Guide for Thinking Humans*, and practice:
+AI literacy runs **alongside** the journey, not only as a bolt-on unit. Students use short in-class Mitchell selections in the [six-theme foundation path](../02_Class_Missions/06-ai-literacy/foundation-path.md). The concentrated block supports the whole journey; responsible-use habits continue whenever AI is used:
 
 | Habit | Meaning |
 |---|---|
@@ -57,7 +59,7 @@ AI literacy runs **alongside** the journey, not only as a bolt-on unit. Students
 | **Responsibility** | Use AI without outsourcing judgment |
 | **Disclosure** | Say when and how AI helped |
 
-A concentrated Mitchell reading block remains in the schedule; responsible-use habits appear whenever students use AI tools during Design, Build, or Create.
+The foundation block initially uses six 45-minute meetings within L21–L24. No routine pre-class reading is required. The twelve-meeting reading route is optional depth; neither it nor the ASC eight-session plan is an extra foundation requirement.
 
 ## Course Outcomes
 
@@ -75,10 +77,11 @@ Folders still use the previous unit order. Map them to the journey as follows:
 Discover      00–01  CS orientation + course loop
               05–07  HCI user research
 
-Design        08–11  Figma product design
+Design        08     alternatives
+              09–11  Figma + skill labs + Skill Board and own-project evaluation
 
 Build         12–15  HTML / CSS / Bootstrap
-              16–20  JavaScript + interaction
+              16–20  JavaScript + browser games + interaction (additional practice as needed)
 
 Collaborate   GitHub Foundations unit (Docs/Skills + commits/history)
               (ongoing during Build / Create: issues / branches / PRs as needed)
@@ -88,7 +91,7 @@ Test          25–26  Usability, QA, release + maintenance
 
 Create        27–32  Capstone: interactive site / browser game
 
-AI Literacy   21–24  Mitchell concentrated unit
+AI Literacy   21–24  six-theme Mitchell foundation block
               (habits practiced throughout)
 
 Optional      Python / small AI-application extensions

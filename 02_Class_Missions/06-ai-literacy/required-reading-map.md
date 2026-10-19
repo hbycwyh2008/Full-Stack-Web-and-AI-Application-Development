@@ -1,5 +1,7 @@
 # Required In-Class Reading Map — Grade 7
 
+> **Reading extension:** The current ordinary-class default is the [six-theme foundation path](foundation-path.md). This file belongs to the preserved twelve-meeting route and is not an additional compulsory assignment.
+
 This map states exactly which **content** students read in each meeting. It uses chapter-and-idea anchors because page numbers and line breaks differ across print, ebook, and translated editions.
 
 ## Teacher Must Complete Before Each Meeting

@@ -5,6 +5,10 @@
 **One Required Resource / Evidence Source:** teacher-provided form/debugging example; external API/data is optional  
 **Durable Evidence:** validated interaction + debug log + tests
 
+## Current Game-First Practice
+
+Validate game input, reset all state on restart, and test empty/boundary/repeated actions. In a timed extension, verify restart does not leave duplicate timers running. Keep a bug/fix/retest record and independently diagnose one new failure. Transfer to a validated form in the student's webpage; external APIs remain optional. Canvas games follow once prerequisites are secure. See the [game pathway](coursera-web-games-path.md).
+
 ## 0–5 min — Skill Warm-up
 
 Inspect the example and record:

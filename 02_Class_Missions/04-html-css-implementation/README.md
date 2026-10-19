@@ -12,3 +12,7 @@ Students translate the Figma system into semantic, accessible, responsive web st
 ## Core Output
 
 A responsive static implementation of the tested Figma design with semantic markup and documented design QA.
+
+## Current Foundation Resource
+
+Use HKUST **Learning HTML, CSS and JavaScript through Game Development**, M1, for selected HTML/CSS input alongside these lessons. Keep the student's tested Figma design as the implementation task. Continue with the [JavaScript + Canvas game pathway](../05-javascript-interaction/coursera-web-games-path.md); no separate full-course completion is required.

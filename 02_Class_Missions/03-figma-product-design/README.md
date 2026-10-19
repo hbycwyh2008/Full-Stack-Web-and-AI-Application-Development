@@ -15,6 +15,16 @@ Teacher quick check: [HCI + Figma L05–L11](../../04_Assessment/HCI_Figma_L05-L
 End-of-unit test: [Figma Design Cycle Unit Test](../../04_Assessment/Figma_Design_Cycle_Unit_Test.md)  
 Teacher key: [Figma Design Cycle Unit Test Teacher Key](../../04_Assessment/Figma_Design_Cycle_Unit_Test_Teacher_Key.md)
 
+## Current Tool Learning and Shared Evaluation Practice
+
+- [Coursera Figma selection + exercise-file access](coursera-learning-map.md)
+- [Figma skills: knowledge Quiz 20 + independent practical 80](../../04_Assessment/Figma_Skills_Quiz_and_Practical.md)
+- [Two evaluation methods + Morgan's Skill Board lab](skill-board-evaluation-lab.md)
+
+Teach the necessary tool skills, explain heuristic evaluation and usability testing, practice both on Skill Board, then apply them to students' own prototypes. First-use participants test before inspecting the same interface; trained inspectors may facilitate tests with fresh participants. Skill Board recommendations do not authorize editing the live product.
+
+L09–L11 are thematic anchors. Add skill/practice/assessment meetings as needed; all selected video, Auto Layout, component, prototype and evaluation work does not fit into three 45-minute meetings. Low-fi evaluation begins as soon as the main task is testable.
+
 ## Unit flow
 
 ~~~text
@@ -46,19 +56,19 @@ Use selected short excerpts for:
 - design principles;
 - iterative development.
 
-### Figma = tool practice
+### Coursera Figma = selected tool practice
 
-Teach only the operation needed at the moment:
+Use Dan Scott's selected Coursera lessons from the [learning map](coursera-learning-map.md), a short teacher demonstration, and immediate practice. Teach the operation needed at the moment:
 
 ~~~text
 Frame / text / shape
 → alignment / spacing
 → prototype connection
 → preview
-→ later: Auto Layout / components / states only when needed
+→ later skill blocks: Auto Layout / components / basic states
 ~~~
 
-Do not turn the unit into a survey of Figma features.
+Basic Auto Layout, components and variants have separate skill checkpoints. Advanced animation, Boolean drawing, full design systems and team libraries remain optional.
 
 ### No separate Meta theory track
 
@@ -76,9 +86,11 @@ Use three recurring design checks:
 
 These are a compact classroom lens, not the full set of CS6750 principles.
 
+The Skill Board heuristic lab adds Nielsen's visibility of system status, consistency and standards, and user control and freedom. Keep these names distinct from the existing Core 3.
+
 ## End-of-unit assessment
 
-After L11, students complete the **Figma Design Cycle Unit Test**.
+Use two separate assessment records: the **100-point tool skills assessment** (20 knowledge + 80 practical) and, after L11, the existing **30-point Figma Design Cycle Unit Test**. The latter checks design reasoning; it does not replace skill-by-skill tool assessment.
 
 The test checks:
 

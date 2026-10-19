@@ -1,5 +1,7 @@
 # Grade-Band Expectations
 
+> **Current foundation-class requirements:** See the [2026-10-19 teaching plan](Current_Teaching_Plan.md). The phase/framework expectations below are legacy or extension references where they conflict with that plan.
+
 This course uses **one shared repository and one common learning pathway** for both Middle School and High School students.
 
 Students work with the same major technologies, class missions, project themes, evidence system, and portfolio structure. The difference is the expected level of **independence, technical depth, debugging ability, and mastery**.

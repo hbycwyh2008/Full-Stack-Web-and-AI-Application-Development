@@ -6,6 +6,8 @@
 **Mission:** Evaluate the prototype through a design inspection and a no-coaching usability task, then turn observed evidence into prioritized revisions.  
 **Durable Evidence:** [L10 submission template](student-templates/l10-low-fi-evaluation-revision.md)
 
+Shared practice before independent project evaluation: [Morgan's Skill Board evaluation lab](skill-board-evaluation-lab.md). Explain both methods first. For the same first-use participants, run usability tasks before heuristic inspection; otherwise use fresh participants. The inspection-first sequence below is for preparing students' own prototypes, not a requirement to pre-train first-use testers.
+
 ### Skill Warm-up video
 
 | Field | Assign this |

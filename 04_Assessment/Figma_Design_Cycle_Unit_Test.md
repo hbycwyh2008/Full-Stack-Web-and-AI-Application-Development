@@ -6,6 +6,8 @@
 **Mode:** Individual · No AI · Figma allowed only for Part E  
 **Purpose:** Check whether you understand and can apply **Prototype → Evaluate → Iterate**.
 
+This 30-point design-reasoning test is separate from the [Figma Skills Quiz + Practical](Figma_Skills_Quiz_and_Practical.md), which scores tool knowledge /20 and independent operation /80. Keep the records separate.
+
 ---
 
 ## What this test measures

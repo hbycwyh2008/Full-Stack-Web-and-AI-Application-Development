@@ -1,5 +1,7 @@
 # Phase 4: Figma UI Design
 
+> **Current foundation-class requirements:** See the [2026-10-19 teaching plan](../../00_Course_Overview/Current_Teaching_Plan.md). The phase/framework expectations below are legacy or extension references where they conflict with that plan.
+
 **Your goal:** Design the **AI School Assistant** interface in Figma **before** you code it in TypeScript and Next.js.
 
 ---

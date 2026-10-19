@@ -1,48 +1,54 @@
-# AI Literacy Checklist — Lessons 21–24
+# AI Literacy Checklist — Full Stack Foundation
 
-Use this checklist to assess the concentrated Melanie Mitchell unit. It is independent of whether the student's capstone uses AI.
+**Default route:** [Six-Theme Foundation Path](../02_Class_Missions/06-ai-literacy/foundation-path.md).
+**Core text:** Melanie Mitchell; short in-class selections with clearly labeled practical supplements.
+Assess reasoning and demonstrated checks, not English fluency or terminology recall. Accept drawings and oral explanations.
 
-## 1. AI as a Field and Historical Project
+## Six Foundation Skills
 
-- [ ] Can explain why `AI` has included different approaches across its history.
-- [ ] Can describe an AI system's demonstrated task/capability without automatically attributing human-like intelligence.
-- [ ] Can separate an observable result from an interpretation or marketing claim.
+| Skill | Observable mastery | Evidence | Recheck |
+|---|---|---|---|
+| F1 Recognize AI | Explain one rule/learning comparison and acknowledge AI uses different methods | | |
+| F2 Explain learning | Distinguish training from prediction/use; explain examples → patterns → new prediction | | |
+| F3 Identify tasks | Classify new task examples and state their inputs and outputs | | |
+| F4 Judge failure | Identify an observed failure and plausible data/bias/new-context concern; avoid treating performance as proof of understanding | | |
+| F5 Use and verify | Give goal/context/requirements, inspect output, verify with a suitable source or execution, and correct it | | |
+| F6 Act responsibly | Protect personal information, disclose assistance, consider affected users and take responsibility | | |
 
-## 2. Learning, Generalization, and Failure
+Use a short check after each theme. If a skill is missing, coach and reassess with a different small example rather than averaging away a critical gap.
 
-- [ ] Can describe machine learning conceptually as learning patterns/representations from data or feedback rather than being explicitly programmed for every case.
-- [ ] Can explain why strong training/benchmark performance does not guarantee robust performance in new contexts.
-- [ ] Can identify at least one failure boundary, distribution shift, bias, or reliability concern from evidence.
+## Final Transfer Check
 
-## 3. Comparing AI Systems
+Given a new AI application or response, the student can independently answer:
 
-- [ ] Can compare systems in domains such as games, vision, and language by task, input/representation, objective/feedback, evidence of success, and failure mode.
-- [ ] Can explain why fluent or impressive behavior is evidence of some capability but not automatically evidence of general intelligence.
+- [ ] What does the AI do here? What are its input and output?
+- [ ] Where could it fail, and why?
+- [ ] How would I check this particular result? Demonstrate one suitable check.
+- [ ] What privacy, disclosure or responsibility issue applies?
 
-## 4. Understanding, Abstraction, and Analogy
+A repeated AI answer alone is not independent verification. Fluent wording is not sufficient evidence of factual correctness.
 
-- [ ] Has a defensible working criterion for what would count as evidence of understanding.
-- [ ] Can identify weaknesses/counterexamples in simple tests of `understanding`.
-- [ ] Can explain why abstraction/analogy require attention to relationships beyond surface similarity.
-- [ ] Can state an unresolved question without pretending the book settles every philosophical issue.
+## Required Foundation Evidence
 
-## 5. Evidence Standard
+- [ ] A plain-language AI comparison and training/use diagram.
+- [ ] Input/output examples for classification, numerical prediction and generation.
+- [ ] One failure analysis grounded in an observed/book case.
+- [ ] Prompt → output → check → correction record, using school-approved access or a clearly labeled teacher-prepared response.
+- [ ] An AI-use disclosure and a reasoned responsibility scenario.
+- [ ] Final four-question transfer check; individual explanation without AI assistance.
 
-- [ ] Uses examples/evidence from the reading or analyzed cases to support claims.
-- [ ] Distinguishes `the system did X` from `therefore the system understands/thinks Y`.
-- [ ] Avoids both uncritical AI hype and unsupported blanket dismissal.
+## Optional Reading Extension
 
-## Required Unit Evidence
+Use these only when the teacher assigns the twelve-meeting reading route; they are not additional foundation gates:
 
-- [ ] Lesson 21 claim/evidence analysis + working AI definition
-- [ ] Lesson 22 capability/failure/generalization analysis
-- [ ] Lesson 23 cross-domain comparison map
-- [ ] Lesson 24 understanding position memo
-
-## Sign-Off Reflection
-
-Complete:
-
-> **The most important distinction I now make when evaluating AI is ________ because ________.**
+- [ ] Compare vision, games and language by task, success evidence and failure boundary.
+- [ ] Support an interpretation with a specific Mitchell case/page.
+- [ ] Distinguish narrow competence, generalization and general intelligence.
+- [ ] Explain a book example involving meaning, abstraction or analogy.
+- [ ] State uncertainty and revise a judgment when evidence changes.
 
 Student: ____________________  Date: ____________________
+
+What I can now judge more carefully: ____________________
+
+My next check or improvement: ____________________

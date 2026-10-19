@@ -5,6 +5,10 @@
 **One Required Resource / Evidence Source:** teacher-provided JavaScript trace examples  
 **Durable Evidence:** small state/function program + trace table
 
+## Current Game-First Practice
+
+Use the Guessing Game as the shared example: target, guess and attempts are state; a function takes a guess and returns a comparison/result. Trace normal and boundary inputs. Then independently change the attempt limit or scoring rule. The existing webpage-state examples remain transfer tasks. Input: selected HKUST segments in the [game pathway](coursera-web-games-path.md).
+
 ## 0–5 min — Skill Warm-up
 
 Inspect the trace examples and record:

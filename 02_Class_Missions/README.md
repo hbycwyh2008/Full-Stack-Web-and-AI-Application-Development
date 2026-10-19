@@ -2,6 +2,8 @@
 
 This is the **canonical lesson pathway**.
 
+Current detail: [2026-10-19 teaching plan](../00_Course_Overview/Current_Teaching_Plan.md). Lesson numbers remain stable; add skill, assessment and game-practice meetings as needed. The six-theme foundation route is the default AI literacy requirement for the ordinary class.
+
 ## Before Lesson 00: Required Four-Poster Orientation
 
 The course does **not** begin with a definition of computer science, AP CSP, GitHub, or coding.
@@ -49,15 +51,15 @@ thinking to solve and refine a non-code problem.
 | [00 CS Orientation + Lifecycle](00-course-orientation/README.md) | CS definition; computational thinking; software lifecycle | 00–01 |
 | [01 GitHub Foundations](01-github-foundations/README.md) | YouTube + GitHub Docs/Skills: repo, README, commits, history | 6 beginner lessons |
 | [02 HCI: Needfinding → Brainstorming](02-hci-user-research/README.md) | Needfinding → evidence/bias → survey/synthesis → brainstorming/design alternatives | 05–08 |
-| [03 Figma: Prototype → Evaluate → Iterate](03-figma-product-design/README.md) | low-fi prototype → usability evaluation → evidence-driven revision + retest | 09–11 |
+| [03 Figma: Prototype → Evaluate → Iterate](03-figma-product-design/README.md) | Coursera skills + Quiz/practical; two evaluation methods; Skill Board → own prototype → revise/retest | 09–11 + labs |
 | [04 HTML + CSS Implementation](04-html-css-implementation/README.md) | Semantic HTML, CSS systems, responsive implementation | 12–15 |
-| [05 JavaScript + Computational Thinking](05-javascript-interaction/README.md) | Algorithms, functions, data, DOM/events, forms/state, debugging | 16–20 |
-| [06 AI Literacy](06-ai-literacy/README.md) | Four concentrated Mitchell reading/discussion lessons | 21–24 |
+| [05 JavaScript + Computational Thinking](05-javascript-interaction/README.md) | HKUST foundations + Canvas games; algorithms, data, events/state, testing/debugging | 16–20 + practice |
+| [06 AI Literacy](06-ai-literacy/README.md) | Six foundation themes with in-class Mitchell selections; deeper reading optional | 21–24, six meetings initially |
 | [07 Testing + Release](07-testing-release-maintenance/README.md) | Usability, QA/accessibility, deployment, maintenance | 25–26 |
 | [08 Capstone Full Cycle](08-capstone-full-cycle/README.md) | Repeat the complete process independently | 27–32 |
 | [09 Optional Python](09-optional-python/README.md) | Python transfer and small utility | optional |
 
-**Canonical sequence: one required poster-orientation session + 33 numbered core lessons (00–32).**
+**Canonical identifiers: one required poster orientation + 33 numbered lesson anchors (00–32).** This is not a fixed 33-meeting timetable. Figma skills/testing, the six-theme AI block and game practice may span additional 45-minute meetings.
 
 ## What Students Repeatedly Do
 

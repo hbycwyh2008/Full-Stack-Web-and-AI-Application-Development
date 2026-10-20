@@ -41,6 +41,20 @@ Students complete a short key-point record:
 
 The teacher uses these records for the Entry Check and Core Pattern. Students do not need to replay a video three times or copy a transcript; they need to identify the major ideas, explain one of them to a partner, and apply the relevant pattern independently. A resource is complete only when the student has both an understandable extraction and practice evidence.
 
+### Scoring the Key-Point Record
+
+Include this as a small part of the related unit score, usually **5 points per assigned video group** or about **10% of that unit's evidence**. Students may replay the video and use captions or notes. Score the quality of the extraction and explanation, not memory:
+
+| Criterion | Points |
+|---|---:|
+| Topic and 3–5 major points are accurate and relevant | 2 |
+| Explains what problem or task the ideas help solve | 1 |
+| Provides an artifact or observation from the resource/practice | 1 |
+| States one remaining question and explains one idea to a partner | 1 |
+| **Total** | **5** |
+
+Do not award full credit for copied headings, a transcript, or a list of tool names without meaning. A student can revise the record after feedback before the unit score is finalized.
+
 **Video length note:** If the assigned Skill Warm-up video is about **9 minutes** (common for GitHub for Beginners), keep the same seven block **names**, but use **0–10 min for Skill Warm-up** and shorten Guided Practice so the class still ends at 45. See `01-github-foundations/README.md` for that timing table. Do not require finishing a 9-minute video in 4–5 minutes.
 
 ## Rules

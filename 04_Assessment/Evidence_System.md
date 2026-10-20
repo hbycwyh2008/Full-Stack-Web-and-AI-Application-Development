@@ -26,7 +26,7 @@ mastery = explain + build + debug + test + revise + transfer
 | **Reflection** | retrospective showing how evidence changed a decision |
 | **AI-use disclosure** | short disclosure when generative AI assisted work |
 
-Resource key-point records are graded as a small formative component of the related unit, usually 5 points per assigned video group or about 10% of the unit's evidence. Rewatching is allowed before the timed extraction window; the key-point record itself is completed in five minutes. Accuracy, relevance, application, evidence, and explanation are scored.
+Resource key-point records offer up to 5 bonus points per assigned video group and do not reduce the core unit score. Rewatching is allowed before the timed extraction window; the key-point record itself is completed in five minutes. Accuracy, relevance, application, evidence, and explanation determine the bonus. The record remains required evidence for the Entry Check and practice sequence.
 
 ## Required Evidence for Major Software Projects
 

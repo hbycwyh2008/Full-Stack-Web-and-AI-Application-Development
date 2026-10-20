@@ -29,7 +29,7 @@ Watching the assigned resource is only the **Input**. Before practice begins, st
 
 **Input → Key-point extraction → Talk Robin 1 → Entry Check → Core Pattern → Guided Practice → Independent Rebuild → Evidence**
 
-Students complete a short key-point record:
+Students complete a short key-point record in a **5-minute extraction window** after the assigned resource is paused. They may replay or review the resource before starting the timer. Once the timer starts, the resource is closed so students must organize the ideas rather than copy while watching.
 
 | Prompt | Student evidence |
 |---|---|
@@ -43,7 +43,7 @@ The teacher uses these records for the Entry Check and Core Pattern. Students do
 
 ### Scoring the Key-Point Record
 
-Include this as a small part of the related unit score, usually **5 points per assigned video group** or about **10% of that unit's evidence**. Students may replay the video and use captions or notes. Score the quality of the extraction and explanation, not memory:
+Include this as a small part of the related unit score, usually **5 points per assigned video group** or about **10% of that unit's evidence**. Students may replay the video and use captions or notes before the five-minute window. Score the quality of the extraction and explanation, not memory:
 
 | Criterion | Points |
 |---|---:|

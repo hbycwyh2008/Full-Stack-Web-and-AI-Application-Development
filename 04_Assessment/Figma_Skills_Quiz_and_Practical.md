@@ -5,6 +5,21 @@
 **Delivery:** Stage checkpoints across several meetings; a final transfer task uses new labels/content. Do not attempt the entire assessment in one 45-minute lesson.
 **Conditions:** Individual work; no AI, copied completed file, or step-by-step tutorial during assessment. The teacher supplies only the brief and assets. Follow school accessibility accommodations. Practice before assessment may use the assigned resources.
 
+## Unit Test Map
+
+Use six small unit tests across the sequence. Each test checks one skill block; the 100-point assessment records the same evidence in one consolidated rubric.
+
+| Unit test | Course content | Main evidence |
+|---|---|---|
+| 1. Wireframing | Part 1 M2 and M4 | A clear low-fi task flow using frames, text, shapes, and understandable controls |
+| 2. Visual Foundations | Selected Part 1 M3, M8, M9, M11 | Readable hierarchy, consistent spacing/color/text treatment, and correctly fitted images when needed |
+| 3. Prototype & Sharing | Selected Part 1 M5 and M6 | A working core flow, preview, share link, and peer comment/access check |
+| 4. Auto Layout | Part 2 M1 | Layout survives longer text and a changed width using appropriate sizing behavior |
+| 5. Components | Part 2 M3 | Main component updates genuine instances while instance content can differ |
+| 6. Variants & Overlays | Part 2 M4 and project-dependent M5 | Meaningful component states and a correctly opening/closing overlay when required |
+
+These are instructional checkpoints as well as assessment units. A student may revise a failed skill block before the consolidated score is finalized.
+
 ## A. Knowledge Quiz — 20 Points
 
 Use short written answers, diagrams, or a brief individual oral explanation. Each item is worth 2 points: 1 for the correct concept and 1 for an explanation/example. Administer the relevant items after teaching the skill.

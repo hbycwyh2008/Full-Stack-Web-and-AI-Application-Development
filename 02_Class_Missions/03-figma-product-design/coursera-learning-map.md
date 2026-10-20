@@ -37,6 +37,20 @@ Verified against public course outlines on 2026-10-19. Follow the controls in th
 | M4 Component Variants & Forms | Required: basic states/variants; multidimensional variants and complex forms optional | Default and disabled button states |
 | M5 Final Prototyping Techniques | Required: flows and popup overlays; menus/tooltips as the task needs | A task flow plus a closable overlay |
 
+### Part 2: Required Scope and Skippable Content
+
+Part 2 is a focused tool sequence for this course. Students do not need to complete every video or advanced example.
+
+| Module | Learn for this course | Skip or postpone |
+|---|---|---|
+| M1 Responsive Design with Auto Layout | Padding, gap, Hug, Fill, Fixed; text-sized buttons; cards that respond to a changed width; simple nested frames | Complex nested layouts and advanced responsive patterns |
+| M2 Visual Effects | A simple shadow when the project needs it | Blur, neumorphism, and visual-effect exploration |
+| M3 Working with Components | Main component, instance, shared updates, and content overrides | Advanced naming systems and complex component organization |
+| M4 Component Variants & Forms | Basic states such as default and disabled; selecting and editing a variant | Multidimensional variants and complex form systems |
+| M5 Final Prototyping Techniques | Basic flows; overlays when the project needs a dialog or menu | Unused menus, tooltips, and complex micro-interactions |
+
+The Part 2 core gate has three checks: (1) a longer label and a changed frame width do not break the layout; (2) a main-component change updates genuine instances while their content can differ; and (3) the student creates and uses meaningful component states. Assess only the content that has been taught.
+
 ## Part 3 Selection
 
 Select M1 scrolling/fixed navigation when the project needs it; M5 exporting/sharing; basic developer handoff in M6. Defer team libraries, advanced animation, and complex micro-interactions. Do not require completion of the full specialization.

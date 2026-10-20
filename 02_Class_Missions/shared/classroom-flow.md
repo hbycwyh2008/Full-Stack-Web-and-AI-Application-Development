@@ -43,7 +43,7 @@ The teacher uses these records for the Entry Check and Core Pattern. Students do
 
 ### Scoring the Key-Point Record
 
-Include this as a small part of the related unit score, usually **5 points per assigned video group** or about **10% of that unit's evidence**. Students may replay the video and use captions or notes before the five-minute window. Score the quality of the extraction and explanation, not memory:
+Treat this as a **bonus opportunity**, usually **up to 5 points per assigned video group**. It does not reduce the student's core unit score. Students may replay the video and use captions or notes before the five-minute window. Score the quality of the extraction and explanation, not memory:
 
 | Criterion | Points |
 |---|---:|
@@ -53,7 +53,7 @@ Include this as a small part of the related unit score, usually **5 points per a
 | States one remaining question and explains one idea to a partner | 1 |
 | **Total** | **5** |
 
-Do not award full credit for copied headings, a transcript, or a list of tool names without meaning. A student can revise the record after feedback before the unit score is finalized.
+Do not award the bonus for copied headings, a transcript, or a list of tool names without meaning. A student can revise the record after feedback. The record is still required evidence for the Entry Check and practice sequence; students who do not submit it receive no bonus rather than a penalty to their core skill score.
 
 **Video length note:** If the assigned Skill Warm-up video is about **9 minutes** (common for GitHub for Beginners), keep the same seven block **names**, but use **0–10 min for Skill Warm-up** and shorten Guided Practice so the class still ends at 45. See `01-github-foundations/README.md` for that timing table. Do not require finishing a 9-minute video in 4–5 minutes.
 

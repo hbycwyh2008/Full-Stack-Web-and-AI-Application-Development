@@ -14,6 +14,7 @@ mastery = explain + build + debug + test + revise + transfer
 | Evidence | Examples |
 |---|---|
 | **CS understanding** | Lesson 00 CS definition, computational-thinking canvas, independent problem solution, edge-case test, and evidence-based refinement |
+| **Resource understanding** | A key-point record naming the topic, 3–5 major ideas, a concrete use, an artifact or observation, and one remaining question; partner explanation and Entry Check evidence |
 | **Research evidence** | needfinding sheet, ask/observe notes, Bias Check, survey/sample check, evidence synthesis, anonymized notes, 2–3 micro need/requirement statements (Discover) |
 | **Product definition** | problem statement, full requirements, constraints, success criteria (Capstone; not required in Discover L05–07) |
 | **Design evidence** | 3 fast alternative sketches, selected user flow, one low-fi Figma wireframe, Core-3 + usability-test notes, revised high-fi Figma prototype, change log |
@@ -42,6 +43,7 @@ Not every small lesson artifact requires the complete list. Use the lesson's `Su
 ## What Is Not Enough
 
 - `I watched the video.`
+- copied headings or a transcript with no explanation or application;
 - code that runs but cannot be explained;
 - a single `final` commit;
 - screenshots with no underlying work/evidence;

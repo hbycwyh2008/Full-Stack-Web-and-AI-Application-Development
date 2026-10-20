@@ -23,6 +23,24 @@ Poster: `08_Public_Documents/posters/classroom-flow.png` — **Learning a Skill*
 | **30–40 min** | **Independent Rebuild** | Recreate the pattern alone, or complete a non-code activity that deepens the same understanding |
 | **40–45 min** | **Talk Robin 2 + Evidence** | Record and share learning, remaining questions, next improvement, and proof of learning |
 
+## Required Evidence After a Video or Other Input
+
+Watching the assigned resource is only the **Input**. Before practice begins, students must make the main ideas visible. Use the following sequence inside the seven blocks:
+
+**Input → Key-point extraction → Talk Robin 1 → Entry Check → Core Pattern → Guided Practice → Independent Rebuild → Evidence**
+
+Students complete a short key-point record:
+
+| Prompt | Student evidence |
+|---|---|
+| What is the resource about? | One-sentence topic or purpose |
+| What are the 3–5 major points? | Concepts, tools, or steps in the student's own words |
+| What problem does this solve? | A concrete use or design/programming situation |
+| What did I produce or observe? | Screenshot, file, code trace, or other artifact |
+| What remains unclear? | One question or uncertainty for the Entry Check |
+
+The teacher uses these records for the Entry Check and Core Pattern. Students do not need to replay a video three times or copy a transcript; they need to identify the major ideas, explain one of them to a partner, and apply the relevant pattern independently. A resource is complete only when the student has both an understandable extraction and practice evidence.
+
 **Video length note:** If the assigned Skill Warm-up video is about **9 minutes** (common for GitHub for Beginners), keep the same seven block **names**, but use **0–10 min for Skill Warm-up** and shorten Guided Practice so the class still ends at 45. See `01-github-foundations/README.md` for that timing table. Do not require finishing a 9-minute video in 4–5 minutes.
 
 ## Rules

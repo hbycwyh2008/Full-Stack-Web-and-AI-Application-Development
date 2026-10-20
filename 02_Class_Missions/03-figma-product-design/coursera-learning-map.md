@@ -64,3 +64,7 @@ Select M1 scrolling/fixed navigation when the project needs it; M5 exporting/sha
 5. Complete the separate [design-cycle assessment](../../04_Assessment/Figma_Design_Cycle_Unit_Test.md) and the unit's Design → Build gate.
 
 L09–L11 are thematic anchors, not a promise that all video, practice, user testing and assessments fit into three meetings. Keep the course's 45-minute classroom flow and add sessions as needed.
+
+## Video Learning Evidence
+
+For each assigned Coursera video or video group, students complete the [canonical classroom flow](../shared/classroom-flow.md). They record the topic, 3–5 major points, the problem each point helps solve, what they produced or observed, and one remaining question. Talk Robin 1 and the Entry Check use this record before the Figma operation begins. Watching the video alone is not a completion check.

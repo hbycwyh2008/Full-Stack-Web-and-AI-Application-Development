@@ -19,9 +19,11 @@ Teacher key: [Figma Design Cycle Unit Test Teacher Key](../../04_Assessment/Figm
 
 - [Coursera Figma selection + exercise-file access](coursera-learning-map.md)
 - [Figma skills: knowledge Quiz 20 + independent practical 80](../../04_Assessment/Figma_Skills_Quiz_and_Practical.md)
-- [Two evaluation methods + Morgan's Skill Board lab](skill-board-evaluation-lab.md)
+- [OMSCS CS6750 required evaluation-video selection + teaching order](coursera-learning-map.md#required-cs6750-evaluation-video-excerpts)
+- [Weather App evaluation lab: heuristic evaluation + usability testing](weather-app-evaluation-lab.md)
+- [Morgan's Skill Board evaluation lab](skill-board-evaluation-lab.md)
 
-Teach the necessary tool skills, explain heuristic evaluation and usability testing, practice both on Skill Board, then apply them to students' own prototypes. First-use participants test before inspecting the same interface; trained inspectors may facilitate tests with fresh participants. Skill Board recommendations do not authorize editing the live product.
+Teach the selected CS6750 evaluation videos, then have students apply heuristic evaluation and usability testing to the previously created Weather App prototype. Keep Morgan's Skill Board lab as separate practice on a live product, then apply the methods to students' own prototypes. For any interface, first-use participants test before inspecting that same interface; otherwise use fresh participants. Skill Board recommendations do not authorize editing the live product.
 
 L09–L11 are thematic anchors. Add skill/practice/assessment meetings as needed; all selected video, Auto Layout, component, prototype and evaluation work does not fit into three 45-minute meetings. Low-fi evaluation begins as soon as the main task is testable.
 

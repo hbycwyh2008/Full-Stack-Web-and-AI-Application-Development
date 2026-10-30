@@ -55,13 +55,32 @@ The Part 2 core gate has three checks: (1) a longer label and a changed frame wi
 
 Select M1 scrolling/fixed navigation when the project needs it; M5 exporting/sharing; basic developer handoff in M6. Defer team libraries, advanced animation, and complex micro-interactions. Do not require completion of the full specialization.
 
+## Required CS6750 Evaluation Video Excerpts
+
+These are the minimum theory excerpts for the two methods students will apply to the Weather App. Use CS6750 as the HCI theory source; do not assign the entire evaluation unit.
+
+| CS6750 lesson | Required use |
+|---|---|
+| Unit 2.5 — Design Principles and Heuristics | Required if students have not already learned the principles used in heuristic inspection |
+| 3.6.6 — Evaluation Design | Define the task and what counts as evidence |
+| 3.6.8 — Designing a Qualitative Evaluation | Plan a qualitative test session |
+| 3.6.9 — Capturing Qualitative Evaluation | Record observations and feedback |
+| 3.6.10 — 5 Tips: Qualitative Evaluation | Facilitate without coaching and collect useful feedback |
+| 3.6.19 — Types of Predictive Evaluation | Understand the expert-inspection basis for heuristic evaluation |
+| 3.6.21 — Evaluating Prototypes | Apply evaluation to a prototype |
+
+Skip 3.6.20 Cognitive Walkthroughs unless cognitive walkthrough is taught as a separate method. Statistical and formal empirical-evaluation lessons (3.6.12–3.6.17) are outside this course's required scope.
+
+After these excerpts, students apply both methods to the existing [Weather App evaluation lab](weather-app-evaluation-lab.md). The teacher must check the shared prototype and set a task that only uses screens and interactions that actually exist.
+
 ## Teaching Order and Assessment
 
 1. **L09:** Part 1 M2–M5 basics → low-fi prototype → foundation/connection check.
-2. Teach the two evaluation methods → [Skill Board evaluation lab](skill-board-evaluation-lab.md) → **L10** evaluation of your own task flow.
-3. **L11 and additional skill sessions:** revise/retest; add visual consistency, Auto Layout, components, basic variants and useful overlays.
-4. Complete the [100-point Figma skills assessment](../../04_Assessment/Figma_Skills_Quiz_and_Practical.md). Use short checkpoints after each skill block; reassess gaps.
-5. Complete the separate [design-cycle assessment](../../04_Assessment/Figma_Design_Cycle_Unit_Test.md) and the unit's Design → Build gate.
+2. Teach the selected CS6750 evaluation excerpts above, then apply heuristic evaluation and usability testing to the previously created [Weather App prototype](weather-app-evaluation-lab.md).
+3. Keep [Morgan's Skill Board evaluation lab](skill-board-evaluation-lab.md) as the separate real-product evaluation practice.
+4. **L10:** evaluate students' own task flows; use findings to plan revisions.
+5. **L11 and additional skill sessions:** revise/retest; add visual consistency, Auto Layout, components, basic variants and useful overlays.
+6. Complete the [100-point Figma skills assessment](../../04_Assessment/Figma_Skills_Quiz_and_Practical.md), the separate [design-cycle assessment](../../04_Assessment/Figma_Design_Cycle_Unit_Test.md), and the unit's Design → Build gate. Use short checkpoints after each skill block; reassess gaps.
 
 L09–L11 are thematic anchors, not a promise that all video, practice, user testing and assessments fit into three meetings. Keep the course's 45-minute classroom flow and add sessions as needed.
 

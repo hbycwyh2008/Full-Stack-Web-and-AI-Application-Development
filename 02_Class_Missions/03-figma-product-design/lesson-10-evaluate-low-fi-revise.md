@@ -6,13 +6,15 @@
 **Mission:** Evaluate the prototype through a design inspection and a no-coaching usability task, then turn observed evidence into prioritized revisions.  
 **Durable Evidence:** [L10 submission template](student-templates/l10-low-fi-evaluation-revision.md)
 
+Before this lesson, complete the [required CS6750 evaluation-video excerpts](coursera-learning-map.md#required-cs6750-evaluation-video-excerpts) and apply both methods to the shared [Weather App evaluation lab](weather-app-evaluation-lab.md). L10 then transfers the methods to each team's own low-fi task flow.
+
 Shared practice before independent project evaluation: [Morgan's Skill Board evaluation lab](skill-board-evaluation-lab.md). Explain both methods first. For the same first-use participants, run usability tasks before heuristic inspection; otherwise use fresh participants. The inspection-first sequence below is for preparing students' own prototypes, not a requirement to pre-train first-use testers.
 
 ### Skill Warm-up video
 
 | Field | Assign this |
 |---|---|
-| Theory | OMSCS CS6750 **3.6 Evaluation** — selected usability/evaluation excerpt |
+| Theory | OMSCS CS6750 selected **3.6 Evaluation** excerpts — see the [required video list](coursera-learning-map.md#required-cs6750-evaluation-video-excerpts) |
 | Optional support | OMSCS Unit 2 selected principles/heuristics excerpt |
 | Stop | **≤ 5:00** |
 

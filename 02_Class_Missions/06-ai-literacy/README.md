@@ -1,49 +1,34 @@
-# 06 — AI Literacy: Foundation and Reading Extension
+# 06 — AI Literacy: Book Seminar and Foundation Path
 
 **Core text:** Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans*.
-**Current Full Stack default:** [Six-Theme Foundation Path](foundation-path.md).
+**Current Full Stack planned route:** [Eight-Meeting Book Seminar](book-reading-seminar.md).
 **Lesson anchors:** 21–24; these are topic identifiers, not a fixed meeting count.
-**Class length:** 45 minutes. No required pre-class reading or regular reading homework.
+**Class length:** 45 minutes per meeting; the seminar runs for eight meetings.
 
 Official book page: https://melaniemitchell.me/aibook/
 
-## Choose the Appropriate Route
+## Current Route: Eight-Meeting Book Seminar
 
-| Route | Audience and emphasis | Planning |
-|---|---|---|
-| **Foundation — current ordinary-class default** | Recognize AI, understand learning/input/output, identify tasks and failure, use/check generative AI, act responsibly | Six themes across approximately six meetings; extend when needed |
-| **Reading extension** | Students ready for deeper book-based claim/evidence work on vision, rewards, language, meaning and analogy | Existing twelve-meeting selected-passages route; optional after/ instead of foundation by teacher assignment |
+The planned route uses student-led chapter reading, small-group expert presentations, evidence-based discussion, and a final integrated class synthesis presentation. Students prepare assigned passages and group slides before their presentation day; in-class reading time is reserved for short excerpts, unfamiliar terms, and evidence checks. Groups teach the class; each student is not required to present every chapter.
 
-Do not require the ASC eight-session schedule or both routes cumulatively. The foundation route uses short in-class book selections and clearly labeled teacher-created practical cases. Contemporary prompting activities are supplements, not claims about what the original book teaches.
+The selected material covers Chapters 1, 2, 7, and 11–16. Chapters 11–12 share one meeting. Chapter 7 is divided between two teams. The course culminates in one coherent class deck that answers: **What can AI do, where are its limits, and how should we use it responsibly?**
 
-## Foundation Topics and Evidence
+See [book-reading-seminar.md](book-reading-seminar.md) for the chapter sequence, group presentation requirements, 45-minute classroom structure, final synthesis deck, assessment, and prompting cycle.
 
-1. **What is AI?** Explain different approaches and one rule/learning comparison.
-2. **How does AI learn?** Explain data/examples, training and prediction on a new input.
-3. **What tasks can AI perform?** Identify classification, numerical prediction and generation; name inputs/outputs.
-4. **Why does AI fail?** Analyze a data/bias/new-context failure and a capability boundary.
-5. **How do we use and check generative AI?** Save goal/context/requirements, output, verification and correction.
-6. **How do we use AI responsibly?** Protect personal data, disclose help and own the final work.
+## Alternative: Six-Theme Foundation Path
 
-Use [foundation-path.md](foundation-path.md) for reading anchors, activities, access support, classroom timing and assessment. Use the [AI Literacy Checklist](../../04_Assessment/AI_Literacy_Checklist.md) for the foundation gate and optional extension outcomes.
+Use [foundation-path.md](foundation-path.md) if the schedule, reading access, or student readiness requires a shorter and more scaffolded route. This path is an alternative, not an additional unit to complete after the book seminar. Its six themes remain useful as learning outcomes and review checkpoints.
 
-Keep the unit coherent in the L21–L24 block. Responsible-use habits continue throughout development; teach privacy, disclosure and output checks before AI-assisted coding. A teacher may deliberately schedule parallel sessions, but do not impose required homework or replace the seven classroom blocks with a new 15-minute lecture routine.
+## Student and Teacher Materials
 
-## Preserved Reading Extension
+- [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md): existing seven named course blocks for the foundation lesson format.
+- [AI Literacy Checklist](../../04_Assessment/AI_Literacy_Checklist.md): foundation gate and optional extension outcomes.
+- [Bilingual course poster](../../08_Public_Documents/AI_Literacy_Full_Stack_Bilingual_Poster.pptx).
+- [Required reading map](required-reading-map.md) and lessons 21–24 retain an earlier twelve-meeting selected-passage design. Treat them as archived planning material; they are not cumulative requirements for the current route.
+- [Book-based learning log](learning-log-template.md) may be reused for claim, evidence, reflection, and questions.
 
-These files retain the earlier twelve-meeting route. They are not required in addition to the foundation path:
+## Teaching Principles
 
-- [Required reading map for the extension](required-reading-map.md): 21A–24C, book cases, page-range planning and word limits.
-- [L21 — Definitions, Methods, and Learning](lesson-21-what-is-ai.md)
-- [L22 — Vision, Generalization, and Trust](lesson-22-learning-generalization-failure.md)
-- [L23 — Rewards, Games, and Words](lesson-23-games-language-intelligence.md)
-- [L24 — Language, Understanding, Analogy, and Synthesis](lesson-24-understanding-abstraction-analogy.md)
-- [Book-based learning log](learning-log-template.md)
+Contemporary prompting and generative-AI practice are explicitly labeled supplements; the book was published in 2019 and does not teach ChatGPT prompting. Teach prompting as a problem-solving loop: **Define → Plan → Try → Iterate**. Students remain responsible for testing generated code or claims, checking the output, protecting private information, disclosing AI assistance where required, and explaining their final work.
 
-Extension outcomes include distinguishing performance from understanding, benchmark success from generalization, and language fluency from grounded meaning. Foundation students need a concrete grasp of these limits without mastering internal architectures or extended analogy theory.
-
-## Classroom and Assessment
-
-Use [AI Literacy 45-Minute Classroom Flow](classroom-flow-45-min.md) and the course's exact seven block names. Required reading happens in class. The final four-question foundation check asks: what task/input/output, what possible failure, what verification, and what responsibility?
-
-AI literacy is assessed even when the student's final project has no AI feature. No full second AI video course, AI math unit or model training is a prerequisite.
+AI literacy is assessed even when a student's final project has no AI feature. The reading seminar does not require a second AI video course, AI math unit, model training, or a particular AI feature in the web project.

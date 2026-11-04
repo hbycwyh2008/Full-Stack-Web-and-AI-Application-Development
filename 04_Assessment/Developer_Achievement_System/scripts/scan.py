@@ -100,8 +100,17 @@ def scan_assignment(
     assignment: dict[str, Any],
     totals: dict[str, int],
     rules: dict[str, Any],
+    catalog_items: dict[str, dict[str, Any]],
 ) -> dict[str, Any]:
     repo_name = assignment["repo"]
+    catalog_id = assignment.get("catalog_id") or assignment.get("id", repo_name)
+    catalog_item = catalog_items.get(catalog_id, {})
+    assessment_type = assignment.get("type", catalog_item.get("type", "cp"))
+    display_name = assignment.get(
+        "name", catalog_item.get("name", assignment.get("id", repo_name))
+    )
+    display_code = assignment.get("code", catalog_item.get("code", catalog_id))
+    section_id = assignment.get("section", catalog_item.get("section"))
     repo_full = f"{github}/{repo_name}"
     base = assignment.get("base_branch", "main")
     branch_template = assignment.get("feature_branch", "")
@@ -111,6 +120,11 @@ def scan_assignment(
     if is_error(repo_meta):
         return {
             "id": assignment.get("id", repo_name),
+            "catalog_id": catalog_id,
+            "type": assessment_type,
+            "code": display_code,
+            "name": display_name,
+            "section": section_id,
             "repository": repo_full,
             "status": "unreachable",
             "error": repo_meta.get("_error"),
@@ -185,8 +199,13 @@ def scan_assignment(
         for skill, xp in assignment.get("xp_on_ci_success", {}).items():
             totals[skill] = totals.get(skill, 0) + int(xp)
 
-    return {
+    result = {
         "id": assignment.get("id", repo_name),
+        "catalog_id": catalog_id,
+        "type": assessment_type,
+        "code": display_code,
+        "name": display_name,
+        "section": section_id,
         "repository": repo_full,
         "status": "scanned",
         "base_branch": base,
@@ -203,11 +222,25 @@ def scan_assignment(
             "debug_recovery": debug_recovery,
         },
     }
+    if "score" in assignment:
+        result["score"] = assignment["score"]
+    if "max_score" in assignment:
+        result["max_score"] = assignment["max_score"]
+    if "attempts" in assignment:
+        result["attempts"] = assignment["attempts"]
+    return result
 
 
 def main() -> int:
     students_config = load_json(CONFIG / "students.json")
     rules = load_json(CONFIG / "rules.json")
+    catalog = load_json(CONFIG / "catalog.json")
+    catalog_items: dict[str, dict[str, Any]] = {}
+    for section in catalog.get("sections", []):
+        for item in section.get("items", []):
+            enriched = dict(item)
+            enriched["section"] = section.get("id")
+            catalog_items[item["id"]] = enriched
     skill_keys = list(rules.get("skills", {}).keys())
 
     output: dict[str, Any] = {
@@ -224,7 +257,9 @@ def main() -> int:
 
         for assignment in student.get("assignments", []):
             assignments.append(
-                scan_assignment(student["github"], assignment, totals, rules)
+                scan_assignment(
+                    student["github"], assignment, totals, rules, catalog_items
+                )
             )
 
         for skill, xp in student.get("manual_xp", {}).items():

@@ -37,7 +37,7 @@ Assessment: [Figma Skills Quiz + Practical](../04_Assessment/Figma_Skills_Quiz_a
 | 2 | [Scrimba: Learn JavaScript](https://www.coursera.org/learn/learn-javascript) | Beginner programming: variables, data types, functions, conditions, loops, arrays, DOM, and events. |
 | 3 | [Build Websites with Figma, HTML, and CSS (From Figma to Code)](https://www.coursera.org/learn/from-figma-to-code) | Apply the foundations to translate Figma mockups into responsive web pages; use as the design-to-code project after basic HTML/CSS and JavaScript practice. |
 
-Current required scope: HTML, CSS, JavaScript, and browser interactions. Do not assign the older HKUST game-development course, EDUCBA Canvas course, or advanced React/Next.js/backend stack as part of this route. The detailed sequence and evidence are in the [programming foundations path](../02_Class_Missions/05-javascript-interaction/programming-foundations-path.md).
+Required sequence: HTML/CSS foundations → JavaScript fundamentals → selected Figma-to-code projects. The detailed sequence and evidence are in the [programming foundations path](../02_Class_Missions/05-javascript-interaction/programming-foundations-path.md).
 
 undation
 

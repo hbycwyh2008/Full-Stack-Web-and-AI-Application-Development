@@ -1,6 +1,6 @@
 # Learning Resources — Current Full Stack Path
 
-Current decisions: [Current Teaching Plan](Current_Teaching_Plan.md). Select short segments and pair them with practice, independent rebuild and evidence. Do not require completion of every linked course. Course outlines for the new Coursera selections were checked on 2026-10-19.
+Current decisions: [Current Teaching Plan](Current_Teaching_Plan.md). Select short segments and pair them with practice, independent rebuild and evidence. Do not require completion of every linked course. Programming course pages checked on 2026-11-09.
 
 ## HCI Theory and Evaluation
 
@@ -29,17 +29,17 @@ Detailed [module selection + exercise-file download instructions](../02_Class_Mi
 
 Assessment: [Figma Skills Quiz + Practical](../04_Assessment/Figma_Skills_Quiz_and_Practical.md), separate from the design-cycle test.
 
-## HTML/CSS + JavaScript Web Games — Coursera
+## HTML/CSS + JavaScript Web## Web Programming and Figma-to-Code — Coursera
 
-| Course | Role |
-|---|---|
-| [HKUST: Learning HTML, CSS and JavaScript through Game Development](https://www.coursera.org/learn/learning-html-css-and-javascript-through-game-development) | Foundations: M1, M2 and selected M5; Guessing Game. Contains jQuery; optional later games may depend on it. |
-| [EDUCBA: Apply HTML5 Game Development Concepts with Canvas](https://www.coursera.org/learn/apply-html5-game-development-concepts-with-canvas) | Applied Canvas projects: Ping Pong and Collect the Square; selected input/collision/state/score/timer work. Defer bitmask optimization. |
-| [Creating a Quiz Game using Vanilla JavaScript](https://www.coursera.org/projects/creating-a-quiz-game-using-vanilla-javascript) | Optional short Guided Project after basic JavaScript; roughly 2-hour platform estimate |
+| Order | Course | Use in this course |
+|---|---|---|
+| 1 | [Scrimba: Learn HTML and CSS](https://www.coursera.org/learn/learn-html-and-css) | Beginner foundation: HTML structure, CSS styling, layout, and responsive design. |
+| 2 | [Scrimba: Learn JavaScript](https://www.coursera.org/learn/learn-javascript) | Beginner programming: variables, data types, functions, conditions, loops, arrays, DOM, and events. |
+| 3 | [Build Websites with Figma, HTML, and CSS (From Figma to Code)](https://www.coursera.org/learn/from-figma-to-code) | Apply the foundations to translate Figma mockups into responsive web pages; use as the design-to-code project after basic HTML/CSS and JavaScript practice. |
 
-Use the [combined module/prerequisite/game pathway](../02_Class_Missions/05-javascript-interaction/coursera-web-games-path.md). Published course hours are not local class periods or video-only durations.
+Current required scope: HTML, CSS, JavaScript, and browser interactions. Do not assign the older HKUST game-development course, EDUCBA Canvas course, or advanced React/Next.js/backend stack as part of this route. The detailed sequence and evidence are in the [programming foundations path](../02_Class_Missions/05-javascript-interaction/programming-foundations-path.md).
 
-## AI Literacy — Mitchell Foundation
+undation
 
 Core text: [Melanie Mitchell, Artificial Intelligence: A Guide for Thinking Humans](https://melaniemitchell.me/aibook/).
 
@@ -47,13 +47,9 @@ Use the [six-theme foundation path](../02_Class_Missions/06-ai-literacy/foundati
 
 The older twelve-meeting reading map is optional depth. Existing AI for Everyone / Generative AI for Everyone study guides are optional references, not two required additional courses. AI math, model training and a forced AI School Assistant product are not prerequisites.
 
-## Existing Optional Support
+## Scope Boundary
 
-- [Scrimba — Learn HTML and CSS](https://scrimba.com/learn-html-and-css-c0p)
-- [Scrimba — Learn JavaScript](https://scrimba.com/learn-javascript-c0v)
-- [Scrimba — Intro to UI Design Fundamentals](https://scrimba.com/intro-to-ui-design-fundamentals-c0q)
-
-These are support options already in the resource collection, not additional required courses. React/Next.js, TypeScript, FastAPI, Python, RAG and ML/math resources remain enrichment after the core pathway. Use the current unit READMEs for requirements rather than older phase-based course catalogs.
+The current programming route stops at browser-based HTML, CSS, JavaScript, and Figma-to-code practice. Advanced frameworks and backend technologies are not required.
 
 ---
 

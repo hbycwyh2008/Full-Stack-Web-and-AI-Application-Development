@@ -1,12 +1,13 @@
 # 05 — JavaScript + Computational Thinking
 
-## Current Project Route: Browser Games
+## Current Programming Route
 
-Use [JavaScript Through Web Games — Coursera Path](coursera-web-games-path.md): **HKUST for foundations + EDUCBA Canvas projects for application**. Start with the Guessing Game; progress to Ping Pong and Collect the Square after the prerequisite skills are secure. Learn, explain, independently modify and test each game, then transfer the skills back to the student's designed product.
+Use the Scrimba **Learn JavaScript** course on Coursera after students have basic HTML/CSS experience:
 
-Keep the existing lesson anchors below. Add practice meetings as needed; defer jQuery-dependent projects, bitmask optimization and advanced closure/module content on the foundation route. API work is optional after fundamentals; it must not displace DOM/events, state, testing and debugging.
+- [Scrimba: Learn JavaScript](https://www.coursera.org/learn/learn-javascript)
+- [Complete programming foundations path](programming-foundations-path.md)
 
-JavaScript is taught as the main programming layer of the course. Students practice state, algorithms, control flow, abstraction, data structures, events, forms, APIs, and debugging while making the designed product interactive.
+Students learn core JavaScript and browser interaction, then apply these skills to their own Figma-based web project. The current required scope is HTML, CSS, JavaScript, DOM, events, basic forms, state, testing, and debugging. Do not use the old browser-game/Canvas route or introduce advanced frameworks and backend stacks in this phase.
 
 ## Lessons
 
@@ -18,4 +19,4 @@ JavaScript is taught as the main programming layer of the course. Students pract
 
 ## Core Output
 
-A working interactive feature implemented and reviewed through GitHub, plus trace/debug evidence showing understanding rather than copy/paste execution.
+A responsive web page based on the student's Figma design with at least one working JavaScript interaction. Students explain the code, test expected behavior, and make an independent change.

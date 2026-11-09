@@ -5,7 +5,7 @@ Design · Build · Test · Publish
 
 A browser-based, project-driven computer science course — the **G8** band in the [CS Curriculum Pathway (G6–12) poster](../08_Public_Documents/posters/cs-curriculum-pathway-g6-12.png).
 
-Current planning entry: [Current Teaching Plan](Current_Teaching_Plan.md). It supplies Figma skill checks, Skill Board evaluation practice, the Coursera game route and six-theme AI foundation path.
+Current planning entry: [Current Teaching Plan](Current_Teaching_Plan.md). It supplies Figma skill checks, Skill Board evaluation practice, the Scrimba and Figma-to-Code programming route, and the current AI literacy plan.
 
 ## The Learning Journey
 
@@ -21,7 +21,7 @@ Students move through six stages. Each stage produces artifacts that feed the ne
 └──────┬──────┘
        ↓
 ┌─────────────┐
-│    BUILD    │  HTML · CSS · Bootstrap · JavaScript
+│    BUILD    │  HTML · CSS · JavaScript
 └──────┬──────┘
        ↓
 ┌─────────────┐
@@ -33,7 +33,7 @@ Students move through six stages. Each stage produces artifacts that feed the ne
 └──────┬──────┘
        ↓
 ┌─────────────┐
-│   CREATE    │  Interactive websites & browser games
+│   CREATE    │  Interactive websites
 └─────────────┘
 ```
 
@@ -41,7 +41,7 @@ Students move through six stages. Each stage produces artifacts that feed the ne
 |---|---|---|
 | **Discover** | Practice needfinding; ask/observe; check bias; survey; synthesize evidence | Needfinding sheet, bias check, survey/sample check, evidence table |
 | **Design** | Compare 3 fast alternatives; build one low-fi Figma flow; run Core-3 + user-task evaluation; revise; retest high-fi | 3 sketches, Figma wireframe, eval notes, high-fi prototype, change log |
-| **Build** | Implement the design in the browser | HTML / CSS / Bootstrap / JavaScript pages |
+| **Build** | Implement the design in the browser | HTML / CSS / JavaScript pages |
 | **Collaborate** | Work like a development team on GitHub | Issues, branches, PRs, review comments |
 | **Test** | Gather evidence and improve the product | Usability tests, heatmaps / feedback, iteration log |
 | **Create** | Ship a polished interactive experience | Published website or browser game |
@@ -80,8 +80,8 @@ Discover      00–01  CS orientation + course loop
 Design        08     alternatives
               09–11  Figma + skill labs + Skill Board and own-project evaluation
 
-Build         12–15  HTML / CSS / Bootstrap
-              16–20  JavaScript + browser games + interaction (additional practice as needed)
+Build         12–15  HTML / CSS; Figma-to-code project
+              16–20  JavaScript fundamentals + browser interaction (practice as needed)
 
 Collaborate   GitHub Foundations unit (Docs/Skills + commits/history)
               (ongoing during Build / Create: issues / branches / PRs as needed)

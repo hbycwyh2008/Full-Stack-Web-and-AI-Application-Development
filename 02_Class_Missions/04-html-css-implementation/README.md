@@ -13,6 +13,9 @@ Students translate the Figma system into semantic, accessible, responsive web st
 
 A responsive static implementation of the tested Figma design with semantic markup and documented design QA.
 
-## Current Foundation Resource
+## Coursera Resources
 
-Use HKUST **Learning HTML, CSS and JavaScript through Game Development**, M1, for selected HTML/CSS input alongside these lessons. Keep the student's tested Figma design as the implementation task. Continue with the [JavaScript + Canvas game pathway](../05-javascript-interaction/coursera-web-games-path.md); no separate full-course completion is required.
+1. [Scrimba: Learn HTML and CSS](https://www.coursera.org/learn/learn-html-and-css) provides beginner HTML/CSS instruction.
+2. [Build Websites with Figma, HTML, and CSS (From Figma to Code)](https://www.coursera.org/learn/from-figma-to-code) applies those skills to Figma mockups. Use it after students have the basic HTML/CSS skills needed to work independently.
+
+Keep the student's tested Figma design as the implementation task. See the [programming foundations path](../05-javascript-interaction/programming-foundations-path.md) for the full sequence.

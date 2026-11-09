@@ -8,8 +8,8 @@ All meetings are approximately **45 minutes**. The 00–32 lesson identifiers ar
 | GitHub Foundations | Repository, branches, commits, PR/review, history | Follow the existing foundation unit |
 | 05–08 | HCI needfinding, evidence/bias, alternatives | Continue existing lessons |
 | 09–11 + skill labs | Selected Coursera Figma, skill Quiz/practical, two evaluation methods, Skill Board, own prototype revision/retest | Add focused skill/assessment and participant-testing meetings; do not fit all into three classes |
-| 12–15 | HTML/CSS from the tested design; HKUST M1 support | Guided practice + independent rebuild |
-| 16–20 + game practice | HKUST JS foundations, Guessing Game, Canvas/Ping Pong/Collect the Square | Add prerequisite teaching and project practice before progressing |
+| 12–15 | Scrimba Learn HTML and CSS; Coursera Build Websites with Figma, HTML, and CSS | Guided practice + independent rebuild from the tested Figma design |
+| 16–20 | Scrimba Learn JavaScript; browser interaction, DOM, events, forms, testing and debugging | Add practice meetings as needed; build and independently modify a small interactive web project |
 | 21–24 | Six-theme foundation AI literacy block | Initially six meetings; extra support as needed; twelve-meeting reading route optional |
 | 25–26 | Usability, QA, release and maintenance | Preserve evidence/fix/retest cycle |
 | 27–32 | Independent capstone lifecycle | Schedule design/build/test/release gates |

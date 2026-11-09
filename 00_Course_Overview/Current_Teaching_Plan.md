@@ -1,8 +1,8 @@
-# 当前教学安排：Figma、产品评估、网页游戏与 AI 素养
+# 当前教学安排：Figma、产品评估、网页编程与 AI 素养
 
 更新：2026-11-03。适用：Full Stack 普通班、编程与英文阅读基础较弱的学生。
 
-这是本次课程调整的入口。保留原有课程目标、00–32课号、GitHub 工作流和45分钟课堂结构；课号表示教学主题，不表示只能用一次课完成。Figma 技能训练、测评、Skill Board 测试和游戏制作可以增加练习课。
+这是本次课程调整的入口。保留原有课程目标、00–32课号、GitHub 工作流和45分钟课堂结构；课号表示教学主题，不表示只能用一次课完成。Figma 技能训练、测评、Skill Board 测试和编程练习可以增加练习课。
 
 ## 1. 学习顺序
 
@@ -13,8 +13,8 @@
 | Figma 技能检查 | 分技能短 Quiz＋独立操作测试 | 知识20分＋操作80分的技能记录 |
 | 两种评估方法 | Heuristic Evaluation＋Usability Testing | 原则检查表、无引导任务、观察记录 |
 | 共同案例 | 评估 Morgan 的 Skill Board，再迁移到自己的原型 | 问题位置、观察证据、影响、修改建议 |
-| HTML → CSS | 搭页面结构，再还原自己的 Figma 设计 | 语义化、可访问、响应式页面 |
-| JavaScript 网页游戏 | 港科大课程打基础＋Canvas项目课应用 | 可运行游戏、代码解释、独立改造、测试与 GitHub 历史 |
+| HTML/CSS | 学习网页结构和样式，并把 Figma 设计转成网页 | 语义化、可访问、响应式页面 |
+| JavaScript 交互 | 学习编程基础、DOM 与事件，再实现网页交互 | 可运行的交互页面、代码解释、独立修改与测试 |
 | 回到自己的项目 | 将事件、状态、反馈等知识用于设计项目 | 核心交互、测试记录、修复与复测 |
 
 低保真原型一旦能验证核心任务，就可以测试；不用等所有视觉功能学完。Skill Board 是共同评估练习，不能代替学生自己项目的测试与迭代。
@@ -39,18 +39,19 @@
 
 对于同一批第一次使用 Skill Board 的参与者，先测试再做原则检查；提前检查过界面的同学可以主持或观察，由尚未接触界面的人参加首次使用测试。不要为了顺序要求耽误修复学生自己原型的明显故障。
 
-## 4. 网页游戏：两门 Coursera 课程配合
+## 4. ## 4. 网页编程：Coursera 上的 Scrimba 与 Figma-to-Code
 
-1. [香港科技大学：Learning HTML, CSS and JavaScript through Game Development](https://www.coursera.org/learn/learning-html-css-and-javascript-through-game-development)：基础主线，优先 M1、M2和M5的变量／数组／对象／函数。
-2. [EDUCBA：Apply HTML5 Game Development Concepts with Canvas](https://www.coursera.org/learn/apply-html5-game-development-concepts-with-canvas)：应用项目，选 Canvas 基础、Ping Pong、Collect the Square；位掩码优化后置。
+按以下顺序使用三门课程：
 
-[模块、前置知识、课号和独立改造任务](../02_Class_Missions/05-javascript-interaction/coursera-web-games-path.md)
+1. [Scrimba：Learn HTML and CSS](https://www.coursera.org/learn/learn-html-and-css)——入门学习 HTML 结构、CSS 样式和响应式网页基础。
+2. [Scrimba：Learn JavaScript](https://www.coursera.org/learn/learn-javascript)——学习变量、函数、条件、循环、数组、DOM 和事件，制作交互页面。
+3. [Build Websites with Figma, HTML, and CSS（From Figma to Code）](https://www.coursera.org/learn/from-figma-to-code)——把已有 Figma 设计转成网页，作为设计到代码的综合练习。先完成 HTML/CSS 和 JavaScript 基础，再做本课程的项目。
 
-采用“基础概念 → 跟做一小段 → 解释／追踪 → 关闭教程独立修改 → 测试”。港科大含 jQuery，后续游戏可能依赖它；不把跳过 jQuery 后的相关作业标成可直接完成。基础班优先原生 JavaScript，不要求两门课整套刷完。
+课程不是要求刷完整个前端或全栈职业路径。当前必修范围为 HTML、CSS、JavaScript 和网页交互；不把 React、Next.js、TypeScript、FastAPI、Node.js 或数据库列为本阶段必修技术栈。
 
-课程目录核对日期：2026-10-19。平台学习时长包含练习，不等于视频时长或本校课堂课时。
+具体模块选择、先修顺序和学生交付见[编程基础与 Figma-to-Code 学习路径](../02_Class_Missions/05-javascript-interaction/programming-foundations-path.md)。
 
-## 5. AI 素养：读书研讨、分组教学与综合展示
+AI 素养：读书研讨、分组教学与综合展示
 
 核心读物为 Melanie Mitchell 的 *Artificial Intelligence: A Guide for Thinking Humans*。当前规划改为八次45分钟的读书研讨，放在21–24编号单元中；课号表示主题，不限制只能用一次课完成。学生课前按小组阅读指定章节、制作专家讲解 PPT，课堂通过同伴教学、证据讨论与迁移活动完成学习。教师提供短段落、术语支持和核查问题，不要求每位学生独自读完全书或每章都上台。
 

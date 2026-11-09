@@ -2,12 +2,9 @@
 
 ## Current Programming Route
 
-Use the Scrimba **Learn JavaScript** course on Coursera after students have basic HTML/CSS experience:
+Use Scrimba's [Learn JavaScript](https://www.coursera.org/learn/learn-javascript) on Coursera after students have HTML/CSS foundations. Then apply the skills in the [Figma-to-code programming path](programming-foundations-path.md), using each student's tested Figma design as the project.
 
-- [Scrimba: Learn JavaScript](https://www.coursera.org/learn/learn-javascript)
-- [Complete programming foundations path](programming-foundations-path.md)
-
-Students learn core JavaScript and browser interaction, then apply these skills to their own Figma-based web project. The current required scope is HTML, CSS, JavaScript, DOM, events, basic forms, state, testing, and debugging. Do not use the old browser-game/Canvas route or introduce advanced frameworks and backend stacks in this phase.
+The required scope is core JavaScript, DOM, events, basic forms, state, testing, and debugging. Add practice meetings as needed. Keep work in the browser; advanced frameworks and backend development are outside this stage.
 
 ## Lessons
 

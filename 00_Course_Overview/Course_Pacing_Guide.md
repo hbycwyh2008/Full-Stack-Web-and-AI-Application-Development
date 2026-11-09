@@ -10,7 +10,7 @@ All meetings are approximately **45 minutes**. The 00–32 lesson identifiers ar
 | 09–11 + skill labs | Selected Coursera Figma, skill Quiz/practical, two evaluation methods, Skill Board, own prototype revision/retest | Add focused skill/assessment and participant-testing meetings; do not fit all into three classes |
 | 12–15 | Scrimba Learn HTML and CSS; Coursera Build Websites with Figma, HTML, and CSS | Guided practice + independent rebuild from the tested Figma design |
 | 16–20 | Scrimba Learn JavaScript; browser interaction, DOM, events, forms, testing and debugging | Add practice meetings as needed; build and independently modify a small interactive web project |
-| 21–24 | Six-theme foundation AI literacy block | Initially six meetings; extra support as needed; twelve-meeting reading route optional |
+| 21–24 | Eight-meeting AI book seminar | Group chapter reading, student PPTs, discussion, and final class synthesis deck |
 | 25–26 | Usability, QA, release and maintenance | Preserve evidence/fix/retest cycle |
 | 27–32 | Independent capstone lifecycle | Schedule design/build/test/release gates |
 
@@ -33,9 +33,7 @@ The previously completed AP CSP explanation is not repeated in Lesson 00.
 
 ## AI Literacy Placement
 
-Default: teach the [six-theme foundation path](../02_Class_Missions/06-ai-literacy/foundation-path.md) as a coherent L21–L24 unit. Reading begins and ends in class. No required pre-class reading or full-chapter homework. Responsible-use habits run throughout development; the six themes are not automatically converted into a 15-minute lecture at the start of every coding lesson.
-
-The teacher can deliberately choose a parallel timetable when appropriate. The earlier twelve-meeting book route is optional depth, not additional compulsory work. Do not copy the ASC eight-session plan into the foundation class.
+Current route: use the [eight-meeting book seminar](../02_Class_Missions/06-ai-literacy/book-reading-seminar.md) in the L21–L24 block. Students prepare group reading and presentations before class; class time is for peer teaching, evidence discussion, application, and a final integrated class deck. Contemporary prompting is a clearly labeled supplement.
 
 ## If Time Is Short
 

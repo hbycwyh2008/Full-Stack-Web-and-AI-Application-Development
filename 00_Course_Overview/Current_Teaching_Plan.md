@@ -47,7 +47,7 @@
 2. [Scrimba：Learn JavaScript](https://www.coursera.org/learn/learn-javascript)——学习变量、函数、条件、循环、数组、DOM 和事件，制作交互页面。
 3. [Build Websites with Figma, HTML, and CSS（From Figma to Code）](https://www.coursera.org/learn/from-figma-to-code)——把已有 Figma 设计转成网页，作为设计到代码的综合练习。先完成 HTML/CSS 和 JavaScript 基础，再做本课程的项目。
 
-课程不是要求刷完整个前端或全栈职业路径。当前必修范围为 HTML、CSS、JavaScript 和网页交互；不把 React、Next.js、TypeScript、FastAPI、Node.js 或数据库列为本阶段必修技术栈。
+课程不是要求刷完整个前端或全栈职业路径。当前必修范围为 HTML、CSS、JavaScript 和网页交互；本阶段集中学习浏览器端的网页基础与交互，不延伸到进阶框架或后端开发。
 
 具体模块选择、先修顺序和学生交付见[编程基础与 Figma-to-Code 学习路径](../02_Class_Missions/05-javascript-interaction/programming-foundations-path.md)。
 

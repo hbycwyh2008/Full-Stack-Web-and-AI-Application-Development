@@ -6,26 +6,26 @@ A browser-based, project-driven computer science course.
 
 ## Course Purpose
 
-Students learn computer science by making real software for real users—moving from user needs to published interactive websites and browser games, while building AI literacy alongside the build process.
+Students learn computer science by making real software for real users—moving from user needs to published interactive websites, while building AI literacy alongside the build process.
 
 ## Current Teaching Plan
 
-[2026-10-19 teaching plan / 当前教学安排](00_Course_Overview/Current_Teaching_Plan.md): selected Coursera Figma + skill assessment, two evaluation methods + Skill Board, HTML/CSS → JavaScript browser games, and the six-theme foundation AI literacy route. This is the current planning entry point; older phase numbers are retained as lesson identifiers.
+[2026-11-09 teaching plan / 当前教学安排](00_Course_Overview/Current_Teaching_Plan.md): selected Coursera Figma + skill assessment, two evaluation methods + Skill Board, Scrimba HTML/CSS and JavaScript, Figma-to-code practice, and the eight-meeting AI book seminar. This is the current planning entry point; older phase numbers are retained as lesson identifiers.
 
 ## The Learning Journey
 
 ```text
 DISCOVER     →  user evidence · bias checks · user needs · alternatives
 DESIGN       →  Figma prototype · usability test · iterate · retest
-BUILD        →  HTML · CSS · Bootstrap · JavaScript
+BUILD        →  HTML · CSS · JavaScript
 COLLABORATE  →  GitHub workflow & peer review
 TEST         →  HCI experiments, evidence & iteration
-CREATE       →  interactive websites & browser games
+CREATE       →  interactive websites
 ```
 
 ## AI Literacy (parallel track)
 
-Students use short, in-class selections from Melanie Mitchell's *Artificial Intelligence: A Guide for Thinking Humans*. The current [six-theme foundation route](02_Class_Missions/06-ai-literacy/foundation-path.md) covers AI, learning, task input/output, failure, verified use and responsibility. Its coherent lesson block is scheduled alongside the broader course; responsible-use habits continue whenever AI is used:
+Students study Melanie Mitchell's *Artificial Intelligence: A Guide for Thinking Humans* through group reading, peer teaching, and a final class synthesis deck. The current [eight-meeting book seminar](02_Class_Missions/06-ai-literacy/book-reading-seminar.md) uses group reading, student PPT presentations, evidence-based discussion, a final integrated class deck, and a clearly labeled contemporary prompting supplement. Its coherent lesson block is scheduled alongside the broader course; responsible-use habits continue whenever AI is used:
 
 - understand what AI can and cannot do
 - recognize hallucinations
@@ -39,7 +39,7 @@ By the end of the course, each student has:
 | Outcome | Evidence |
 |---|---|
 | **Figma prototype** | Interactive wireframes / high-fidelity prototype |
-| **Published web project** | Live interactive site or browser game |
+| **Published web project** | Live interactive website |
 | **GitHub portfolio** | Issues, branches, PRs, peer review, releases |
 | **HCI evidence** | Research notes, bias/sample checks, usability tests, iteration log |
 
@@ -49,7 +49,7 @@ By the end of the course, each student has:
 - Discover → Design → Build → Collaborate → Test → Create
 - HCI research and evidence-based iteration
 - Figma product design
-- HTML / CSS / Bootstrap / JavaScript
+- HTML / CSS / JavaScript
 - GitHub workflow and peer review
 - AI literacy (Mitchell + responsible use)
 
@@ -57,7 +57,6 @@ By the end of the course, each student has:
 - Python foundations
 - small AI-application / API extensions
 
-React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, and similar tools are enrichment, not core outcomes.
 
 ## Start Here
 
@@ -73,11 +72,11 @@ React, Next.js, FastAPI, MongoDB, RAG, Kaggle, ML model training, and similar to
 |---|---:|---|
 | Discover / Ideate | 00–01, 05–08 | CS orientation + HCI research, bias checks, evidence synthesis, brainstorming |
 | Prototype / Design | 09–11 + skill labs | Selected Coursera Figma → skill Quiz/practical → Skill Board practice → evaluate own prototype → iterate/retest |
-| Build | 12–20 + game practice | HTML/CSS → HKUST JavaScript foundations + Canvas game projects |
+| Build | 12–20 | Scrimba HTML/CSS → JavaScript; apply through From Figma to Code |
 | Collaborate | Foundations unit | GitHub Docs/Skills + commits / history evidence |
 | Test | 25–26 | Usability, QA, evidence & iteration |
-| Create | 27–32 | Capstone: interactive site / browser game |
-| AI Literacy | 21–24 | Six-theme Mitchell foundation block; responsible-use habits throughout |
+| Create | 27–32 | Capstone: interactive website |
+| AI Literacy | 21–24 | Eight-meeting Mitchell book seminar; responsible-use habits throughout |
 
 Lesson folders are still named by the previous unit order; content will be reorganized to match this journey in a later pass.
 
@@ -94,7 +93,7 @@ See [02_Class_Missions/shared/classroom-flow.md](02_Class_Missions/shared/classr
 
 *We learn. Practice. Rebuild. Share.*
 
-Resource notes for Steps 1–3: [09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md](09_Teacher_Planning/Daily_Lesson_Plans/shared/classroom-flow-steps-1-3-coursera.md).
+Programming sequence: [Scrimba HTML/CSS → JavaScript → Figma-to-Code](02_Class_Missions/05-javascript-interaction/programming-foundations-path.md).
 
 ## AP CSP Relationship
 

@@ -2,7 +2,7 @@
 
 This is the **canonical lesson pathway**.
 
-Current detail: [2026-10-19 teaching plan](../00_Course_Overview/Current_Teaching_Plan.md). Lesson numbers remain stable; add skill, assessment and game-practice meetings as needed. The six-theme foundation route is the default AI literacy requirement for the ordinary class.
+Current detail: [2026-11-09 teaching plan](../00_Course_Overview/Current_Teaching_Plan.md). Lesson numbers remain stable; add skill, assessment and programming-practice meetings as needed. The eight-meeting book seminar is the current AI literacy route.
 
 ## Before Lesson 00: Required Four-Poster Orientation
 
@@ -32,12 +32,12 @@ thinking to solve and refine a non-code problem.
 4. GitHub development and collaboration workflow
 5. HCI user research
 6. Figma product design
-7. AI literacy through Melanie Mitchell
+7. AI literacy through the Melanie Mitchell book seminar
 
 ### Secondary outcomes
-- HTML
-- CSS
-- JavaScript
+- HTML and CSS through Scrimba on Coursera
+- JavaScript through Scrimba on Coursera
+- Translate an existing Figma design into a responsive web page
 
 ### Optional
 - Python
@@ -52,14 +52,14 @@ thinking to solve and refine a non-code problem.
 | [01 GitHub Foundations](01-github-foundations/README.md) | YouTube + GitHub Docs/Skills: repo, README, commits, history | 6 beginner lessons |
 | [02 HCI: Needfinding → Brainstorming](02-hci-user-research/README.md) | Needfinding → evidence/bias → survey/synthesis → brainstorming/design alternatives | 05–08 |
 | [03 Figma: Prototype → Evaluate → Iterate](03-figma-product-design/README.md) | Coursera skills + Quiz/practical; two evaluation methods; Skill Board → own prototype → revise/retest | 09–11 + labs |
-| [04 HTML + CSS Implementation](04-html-css-implementation/README.md) | Semantic HTML, CSS systems, responsive implementation | 12–15 |
-| [05 JavaScript + Computational Thinking](05-javascript-interaction/README.md) | HKUST foundations + Canvas games; algorithms, data, events/state, testing/debugging | 16–20 + practice |
-| [06 AI Literacy](06-ai-literacy/README.md) | Six foundation themes with in-class Mitchell selections; deeper reading optional | 21–24, six meetings initially |
+| [04 HTML + CSS Implementation](04-html-css-implementation/README.md) | Scrimba HTML/CSS foundations; responsive implementation from Figma | 12–15 |
+| [05 JavaScript + Computational Thinking](05-javascript-interaction/README.md) | Scrimba JavaScript foundations; DOM, events, interaction, testing/debugging | 16–20 + practice |
+| [06 AI Literacy](06-ai-literacy/README.md) | Eight-meeting Mitchell book seminar with group PPTs and class synthesis | 21–24, eight meetings |
 | [07 Testing + Release](07-testing-release-maintenance/README.md) | Usability, QA/accessibility, deployment, maintenance | 25–26 |
 | [08 Capstone Full Cycle](08-capstone-full-cycle/README.md) | Repeat the complete process independently | 27–32 |
 | [09 Optional Python](09-optional-python/README.md) | Python transfer and small utility | optional |
 
-**Canonical identifiers: one required poster orientation + 33 numbered lesson anchors (00–32).** This is not a fixed 33-meeting timetable. Figma skills/testing, the six-theme AI block and game practice may span additional 45-minute meetings.
+**Canonical identifiers: one required poster orientation + 33 numbered lesson anchors (00–32).** This is not a fixed 33-meeting timetable. Figma skills/testing, the book seminar, and programming practice may span additional 45-minute meetings.
 
 ## What Students Repeatedly Do
 

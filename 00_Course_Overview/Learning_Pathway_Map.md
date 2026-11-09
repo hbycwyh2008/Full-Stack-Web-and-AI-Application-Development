@@ -59,7 +59,7 @@ AI literacy runs **alongside** the journey, not only as a bolt-on unit. Students
 | **Responsibility** | Use AI without outsourcing judgment |
 | **Disclosure** | Say when and how AI helped |
 
-The foundation block initially uses six 45-minute meetings within L21–L24. No routine pre-class reading is required. The twelve-meeting reading route is optional depth; neither it nor the ASC eight-session plan is an extra foundation requirement.
+The current seminar uses eight 45-minute meetings within L21–L24. Groups prepare chapter reading and presentations before class; class time is used for peer teaching, discussion, application, and a final integrated deck.
 
 ## Course Outcomes
 

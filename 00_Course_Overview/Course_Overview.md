@@ -31,7 +31,7 @@ Students create three fast paper alternatives, choose one direction, build a 3�
 Students learn HTML, CSS, and JavaScript through Scrimba courses on Coursera, then apply those foundations in the Coursera Build Websites with Figma, HTML, and CSS course. They translate an existing Figma design into a responsive web page and add basic interactions. The required programming scope stays with web foundations and browser interaction; advanced frameworks and backend stacks are excluded from this stage.
 
 ### AI Literacy
-Students complete the six-theme foundation route within lesson anchors 21–24, using short in-class selections from Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_. They recognize AI, explain learning/input/output, analyze failure, verify outputs and use AI responsibly. No full-chapter homework, advanced architecture or forced web-project connection is required. The twelve-meeting reading route remains optional depth.
+Students complete the eight-meeting book seminar within lesson anchors 21–24, using group reading, student PPT presentations, evidence-based discussion, and a final integrated class synthesis deck based on Melanie Mitchell's _Artificial Intelligence: A Guide for Thinking Humans_. Contemporary prompting practice is clearly labeled as a supplement. AI implementation is not required in the web project.
 
 ### Python
 Optional extension only when core outcomes are complete.

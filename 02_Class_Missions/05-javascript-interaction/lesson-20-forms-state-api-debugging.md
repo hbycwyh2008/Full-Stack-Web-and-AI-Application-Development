@@ -7,7 +7,7 @@
 
 ## Current Game-First Practice
 
-Validate game input, reset all state on restart, and test empty/boundary/repeated actions. In a timed extension, verify restart does not leave duplicate timers running. Keep a bug/fix/retest record and independently diagnose one new failure. Transfer to a validated form in the student's webpage; external APIs remain optional. Canvas games follow once prerequisites are secure. See the [game pathway](coursera-web-games-path.md).
+Validate a form or interaction in the student's webpage; test empty, boundary, and repeated actions. Keep a bug/fix/retest record and independently diagnose one new failure. External APIs remain optional. See the [programming foundations path](programming-foundations-path.md).
 
 ## 0–5 min — Skill Warm-up
 

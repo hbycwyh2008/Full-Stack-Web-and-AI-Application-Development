@@ -7,7 +7,7 @@
 
 ## Current Game-First Practice
 
-Connect the Guessing Game input, submit and restart buttons using native DOM methods and event listeners. Update attempts and visible feedback from state; independently repair a broken handler. Then implement one Figma-defined webpage interaction as the transfer task. Canvas controls are a later project step, not a substitute for DOM fundamentals. See the [game pathway](coursera-web-games-path.md).
+Use native DOM methods and event listeners to implement one interaction from the student's Figma design. Update visible feedback from state, then independently repair a broken handler. See the [programming foundations path](programming-foundations-path.md).
 
 ## 0–5 min — Skill Warm-up
 

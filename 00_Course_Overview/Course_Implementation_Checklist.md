@@ -66,7 +66,7 @@ Current detail: [Current Teaching Plan](Current_Teaching_Plan.md). The 33 identi
 
 ## Programming Environment
 
-- [ ] [HKUST + Canvas game pathway](../02_Class_Missions/05-javascript-interaction/coursera-web-games-path.md) is selected; prerequisites and project assets checked before class
+- [ ] [Scrimba HTML/CSS → JavaScript → Figma-to-Code pathway](../02_Class_Missions/05-javascript-interaction/programming-foundations-path.md) selected; prerequisites and project scope checked before class
 - [ ] independent game modification, bug fixing and retesting are planned
 - [ ] browser + developer tools available
 - [ ] code editor available

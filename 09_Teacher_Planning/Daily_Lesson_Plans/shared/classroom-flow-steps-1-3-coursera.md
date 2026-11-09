@@ -145,36 +145,29 @@ Write:
 
 ---
 
-### C. Build — HTML · CSS · Bootstrap · JavaScript
+### C. Build — HTML · CSS · JavaScript
 
-**Primary Coursera program:** *HTML, CSS, and Javascript for Web Developers* Specialization (Johns Hopkins University)
-https://www.coursera.org/specializations/html-css-javascript-for-web-developers
+**Required Coursera resources:**
 
-| Build topic | Coursera course inside the specialization | Warm-up resource | Why it fits |
-|---|---|---|---|
-| Semantic HTML | *HTML, CSS, and Javascript for Web Developers* (Course 1 / HTML5 module) | **Introduction to HTML5** — valid document structure + semantic tags videos | Same HTML5 semantics we require in Build. |
-| CSS layout / visuals | *Introduction to CSS3* | Early videos on selectors/box model; later **Bootstrap** lessons when teaching Bootstrap | Direct match to CSS + Bootstrap in our stack. |
-| Page build pattern | *Coding the Static Restaurant Site* | First “project structure / implement the page” video | Models “turn design into a real page”—prep for Create. |
-| Interactivity | *Introduction to Javascript and Ajax: Building Web Apps* | First JS values/functions or DOM intro video (one idea only) | Feeds JavaScript interaction lessons without frameworks. |
+1. [Scrimba: Learn HTML and CSS](https://www.coursera.org/learn/learn-html-and-css) — beginner HTML structure, CSS styling, layout, and responsive design.
+2. [Scrimba: Learn JavaScript](https://www.coursera.org/learn/learn-javascript) — beginner JavaScript, coding challenges, DOM, and browser interaction.
+3. [Build Websites with Figma, HTML, and CSS (From Figma to Code)](https://www.coursera.org/learn/from-figma-to-code) — apply the foundations to translate a Figma mockup into a responsive web page.
 
-**Skill Warm-up task**
-Watch the assigned JHU clip. In notes, copy **one** tiny pattern (e.g. one semantic tag pair, one CSS rule idea, one `function` shape)—not a full page.
+Use the Scrimba courses for the foundations and selected From Figma to Code projects for application.
+
+**Skill Warm-up task:** one short course segment and one idea to explain.
 
 **Talk Robin 1 prompts**
 
-- You: “The pattern I saw was…”
-- Partner: “The part that confused me was…”
-- Together: “In our project, we would use this when…”
+- “The pattern I saw was…”
+- “The part that confused me was…”
+- “In our Figma design, I would use this when…”
 
 **Entry Check**
 
-1. What does today’s warm-up pattern do in one sentence?
-2. Predict: if we change X, what should happen on the page?
-3. Mark True/False: “Watching the Coursera video alone means I mastered the skill.” (Answer: False — rebuild comes later.)
-
-**Why JHU fits Build:** Browser-only stack, progressive HTML→CSS(+Bootstrap)→JS, and project labs—aligned with “interactive websites & browser games,” not Node/React-first curricula.
-
----
+1. What does today's HTML/CSS/JavaScript pattern do?
+2. What should happen if the user changes the input or screen size?
+3. What evidence will show that you can rebuild the pattern independently?
 
 ### D. Collaborate — GitHub workflow & peer review
 
@@ -255,33 +248,25 @@ From the clip, list **2** things an evaluator looks for (e.g. confusing label, s
 
 ---
 
-### F. Create — Interactive websites & browser games
+### F. Create — Interactive web project
 
-**Primary Coursera resources (still JHU specialization):**
+**Primary resource:** selected projects from [Build Websites with Figma, HTML, and CSS (From Figma to Code)](https://www.coursera.org/learn/from-figma-to-code), after the HTML/CSS and JavaScript foundations.
 
-| Warm-up focus | Resource | Why this clip |
-|---|---|---|
-| Ship a multi-page experience | *Coding the Static Restaurant Site* — structure / navigation implementation video | Pattern: plan sections → implement → check on devices. |
-| Add interaction | *Introduction to Javascript and Ajax: Building Web Apps* — one DOM/events or small app intro video | Pattern students rebuild as game loop / UI state. |
+Students rebuild a selected screen from their own tested Figma design, add a small JavaScript interaction, test it at different viewport sizes, and document one evidence-based revision.
 
-**Skill Warm-up task**
-Identify the **core pattern** in the clip in one line: e.g. “listen for event → update page state → show feedback.”
+**Skill Warm-up task:** identify one pattern to rebuild: “listen for an event → update page state → show feedback.”
 
 **Talk Robin 1 prompts**
 
-- You: “The pattern to rebuild is…”
-- Partner: “Where I would get stuck rebuilding it is…”
-- Together: “Our published project will prove this pattern by…”
+- “The pattern to rebuild is…”
+- “Where I might get stuck is…”
+- “Our published page will show this pattern by…”
 
 **Entry Check**
 
-1. Restate today’s pattern without looking at notes.
-2. What evidence will prove you can rebuild it (commit, URL, screenshot)?
-3. What is *not* allowed as “done”? (Answer examples: only watching Coursera; copying without explaining.)
-
-**Why this fits Create:** Coursera shows a worked example; **Create** requires students to rebuild and publish **their** site/game—matching the poster goal: *rebuild and explain independently*.
-
----
+1. Restate today's pattern without looking at notes.
+2. What evidence will prove you rebuilt it (commit, URL, screenshot)?
+3. Why is watching a course segment alone not proof of mastery?
 
 ### G. AI Literacy (parallel track)
 
@@ -353,7 +338,7 @@ During class:
 | Outcome | Fed by Steps 1–3 when… |
 |---|---|
 | **Figma prototype** | CS6750 supplies prototyping/evaluation/iteration theory; Figma operations are taught just in time through guided practice |
-| **Published web project** | Build/Create warm-ups use JHU HTML/CSS/JS patterns students later rebuild |
+| **Published web project** | Build/Create warm-ups use Scrimba HTML/CSS/JavaScript and Figma-to-code patterns students later rebuild |
 | **GitHub portfolio** | Collaborate warm-ups use Google Git/GitHub PR + review |
 | **HCI evidence** | Discover uses CS6750 needfinding + Bias Check; Design/Test use structured usability evidence and revision |
 

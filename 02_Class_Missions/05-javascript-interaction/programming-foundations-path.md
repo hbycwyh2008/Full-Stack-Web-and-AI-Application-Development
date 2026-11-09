@@ -25,4 +25,4 @@ Use the existing lessons as classroom support:
 - Lessons 12–15: semantic HTML, CSS, responsive layout, and implementation from Figma.
 - Lessons 16–20: values, state, functions, control flow, arrays/objects, DOM, events, forms, and debugging.
 
-Keep the course scope on browser-based HTML, CSS, JavaScript, and interaction. **React, Next.js, TypeScript, FastAPI, Node.js, databases, and AI API integration are not required in this programming stage.** The old HKUST game-development and EDUCBA Canvas game routes are retired and should not be assigned or used as the current recommendation.
+Keep the course scope on browser-based HTML, CSS, JavaScript, and interaction. Advanced frameworks and backend development are outside this programming stage. 

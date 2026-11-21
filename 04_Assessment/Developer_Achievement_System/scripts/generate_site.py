@@ -15,6 +15,7 @@ def main() -> None:
     DOCS.mkdir(parents=True, exist_ok=True)
     shutil.copy2(ROOT / "data" / "achievements.json", DOCS / "data.json")
     shutil.copy2(ROOT / "config" / "rules.json", DOCS / "rules.json")
+    shutil.copy2(ROOT / "config" / "catalog.json", DOCS / "catalog.json")
     print(f"Published dashboard data to {DOCS}")
 
 
